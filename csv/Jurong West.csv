@@ -1,0 +1,529 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date
+492,Jurong West St 41,04 to 06,64,Simplified,1986,63.83,300000,Nov 2021
+185,Boon Lay Ave,16 to 18,59,Improved,1975,53.08,233000,Oct 2021
+186,Boon Lay Ave,10 to 12,59,Improved,1975,53.08,256000,Oct 2021
+186,Boon Lay Ave,10 to 12,59,Improved,1975,53.17,264000,Oct 2021
+187,Boon Lay Ave,04 to 06,59,Improved,1978,55.75,260000,Oct 2021
+187,Boon Lay Ave,07 to 09,59,Improved,1978,55.75,277000,Oct 2021
+176,Boon Lay Dr,04 to 06,59,Improved,1978,55.83,288888,Oct 2021
+180A,Boon Lay Dr,13 to 15,68,Model A,2014,91.58,380000,Oct 2021
+180B,Boon Lay Dr,16 to 18,68,Model A,2014,91.58,380000,Oct 2021
+181A,Boon Lay Dr,07 to 09,68,Model A,2014,91.67,370000,Oct 2021
+181B,Boon Lay Dr,01 to 03,68,Model A,2014,91.58,350000,Oct 2021
+197A,Boon Lay Dr,07 to 09,68,Model A,2015,92.58,395000,Oct 2021
+207,Boon Lay Pl,01 to 03,65,Improved,1976,53.67,270000,Oct 2021
+210,Boon Lay Pl,10 to 12,65,Improved,1977,55,270000,Oct 2021
+210,Boon Lay Pl,10 to 12,65,Improved,1977,55,280000,Oct 2021
+211,Boon Lay Pl,01 to 03,65,Improved,1976,54.08,274000,Oct 2021
+111,Ho Ching Rd,01 to 03,67,Improved,1970,47.58,266000,Oct 2021
+120,Ho Ching Rd,01 to 03,67,Improved,1972,49.33,261000,Oct 2021
+698A,Jurong West Ctrl 3,01 to 03,68,Model A,2017,95,405000,Oct 2021
+698A,Jurong West Ctrl 3,10 to 12,68,Model A,2017,95.08,458000,Oct 2021
+698C,Jurong West Ctrl 3,07 to 09,68,Model A,2017,95.08,440000,Oct 2021
+457,Jurong West St 41,07 to 09,73,Model A,1984,61.67,370000,Oct 2021
+515,Jurong West St 52,04 to 06,75,Model A,1984,61.75,345000,Oct 2021
+928,Jurong West St 92,07 to 09,73,Model A,1988,66,320000,Oct 2021
+339A,Kang Ching Rd,13 to 15,67,Model A,2012,89.5,405000,Oct 2021
+121,Yuan Ching Rd,07 to 09,61,Improved,1974,51.75,265000,Oct 2021
+138A,Yuan Ching Rd,07 to 09,67,Dbss,2014,92,465000,Oct 2021
+138B,Yuan Ching Rd,19 to 21,67,Dbss,2014,92,490000,Oct 2021
+185,Boon Lay Ave,22 to 24,59,Improved,1975,53.17,253000,Sep 2021
+185,Boon Lay Ave,19 to 21,59,Improved,1975,53.17,258000,Sep 2021
+185,Boon Lay Ave,19 to 21,59,Improved,1975,53.17,260000,Sep 2021
+186,Boon Lay Ave,16 to 18,59,Improved,1975,53.17,275000,Sep 2021
+187,Boon Lay Ave,01 to 03,59,Improved,1978,55.92,230000,Sep 2021
+174,Boon Lay Dr,01 to 03,59,Improved,1978,55.92,260000,Sep 2021
+181B,Boon Lay Dr,04 to 06,68,Model A,2014,91.75,360000,Sep 2021
+208,Boon Lay Pl,10 to 12,65,Improved,1976,54.25,283000,Sep 2021
+208,Boon Lay Pl,16 to 18,65,Improved,1976,54.25,292000,Sep 2021
+120,Ho Ching Rd,07 to 09,76,Improved,1972,49.42,285000,Sep 2021
+428,Jurong West Ave 1,01 to 03,75,Model A,1985,62.67,296000,Sep 2021
+484,Jurong West Ave 1,07 to 09,82,New Generation,1985,62.92,370000,Sep 2021
+474,Jurong West St 41,07 to 09,73,Model A,1984,62.17,355000,Sep 2021
+492,Jurong West St 41,01 to 03,64,Simplified,1986,63.92,280000,Sep 2021
+516,Jurong West St 52,07 to 09,74,Model A,1984,62.08,380000,Sep 2021
+518,Jurong West St 52,10 to 12,79,Model A,1984,62.25,368000,Sep 2021
+535,Jurong West St 52,04 to 06,67,New Generation,1983,60.75,320000,Sep 2021
+904,Jurong West St 91,07 to 09,73,Model A,1988,66.25,330000,Sep 2021
+339C,Kang Ching Rd,16 to 18,69,Model A,2012,89.58,403888,Sep 2021
+138B,Yuan Ching Rd,10 to 12,67,Dbss,2014,92.08,465000,Sep 2021
+185,Boon Lay Ave,19 to 21,59,Improved,1975,53.17,250000,Aug 2021
+186,Boon Lay Ave,07 to 09,59,Improved,1975,53.25,260000,Aug 2021
+186,Boon Lay Ave,16 to 18,68,Improved,1975,53.25,280000,Aug 2021
+187,Boon Lay Ave,19 to 21,59,Improved,1978,56,260000,Aug 2021
+187,Boon Lay Ave,13 to 15,59,Improved,1978,55.92,260000,Aug 2021
+207,Boon Lay Pl,04 to 06,65,Improved,1976,53.83,265000,Aug 2021
+208,Boon Lay Pl,01 to 03,65,Improved,1976,54.33,263000,Aug 2021
+209,Boon Lay Pl,04 to 06,65,Improved,1976,53.83,280000,Aug 2021
+209,Boon Lay Pl,04 to 06,65,Improved,1976,53.83,280000,Aug 2021
+210,Boon Lay Pl,16 to 18,65,Improved,1977,55.17,285000,Aug 2021
+213,Boon Lay Pl,07 to 09,75,Improved,1974,52.17,291888,Aug 2021
+214,Boon Lay Pl,10 to 12,66,Improved,1974,52.25,260000,Aug 2021
+487,Jurong West Ave 1,01 to 03,73,Model A,1984,62.08,318000,Aug 2021
+487,Jurong West Ave 1,10 to 12,73,Model A,1984,62.08,330000,Aug 2021
+698A,Jurong West Ctrl 3,01 to 03,68,Model A,2017,95.17,408000,Aug 2021
+698B,Jurong West Ctrl 3,01 to 03,68,Model A,2017,95.25,391000,Aug 2021
+474,Jurong West St 41,10 to 12,73,Model A,1984,62.17,342000,Aug 2021
+476,Jurong West St 41,04 to 06,73,Model A,1984,62.08,336000,Aug 2021
+480,Jurong West St 41,01 to 03,67,New Generation,1985,63.25,314000,Aug 2021
+492,Jurong West St 41,01 to 03,64,Simplified,1986,63.92,300000,Aug 2021
+494,Jurong West St 41,04 to 06,64,Simplified,1986,64,300000,Aug 2021
+515,Jurong West St 52,07 to 09,74,Model A,1984,61.92,334000,Aug 2021
+526,Jurong West St 52,01 to 03,68,New Generation,1982,60.33,300000,Aug 2021
+528,Jurong West St 52,10 to 12,67,New Generation,1983,60.83,330000,Aug 2021
+534,Jurong West St 52,10 to 12,82,New Generation,1982,59.75,369000,Aug 2021
+536,Jurong West St 52,13 to 15,67,New Generation,1983,61.17,340000,Aug 2021
+113,Tao Ching Rd,04 to 06,67,Improved,1971,48.92,260000,Aug 2021
+121,Yuan Ching Rd,10 to 12,61,Improved,1974,51.83,255000,Aug 2021
+138B,Yuan Ching Rd,01 to 03,67,Dbss,2014,92.17,440000,Aug 2021
+138C,Yuan Ching Rd,16 to 18,67,Dbss,2014,92.08,476000,Aug 2021
+185,Boon Lay Ave,04 to 06,59,Improved,1975,53.33,255000,Jul 2021
+185,Boon Lay Ave,04 to 06,68,Improved,1975,53.33,258000,Jul 2021
+185,Boon Lay Ave,07 to 09,59,Improved,1975,53.33,260000,Jul 2021
+185,Boon Lay Ave,04 to 06,59,Improved,1975,53.25,265000,Jul 2021
+186,Boon Lay Ave,01 to 03,59,Improved,1975,53.33,240000,Jul 2021
+186,Boon Lay Ave,04 to 06,68,Improved,1975,53.33,269999,Jul 2021
+187,Boon Lay Ave,16 to 18,59,Improved,1978,56.08,245000,Jul 2021
+187,Boon Lay Ave,13 to 15,59,Improved,1978,56.08,248000,Jul 2021
+180A,Boon Lay Dr,07 to 09,68,Model A,2014,91.92,370000,Jul 2021
+197B,Boon Lay Dr,16 to 18,68,Model A,2015,92.92,386000,Jul 2021
+207,Boon Lay Pl,01 to 03,65,Improved,1976,53.92,253000,Jul 2021
+208,Boon Lay Pl,07 to 09,65,Improved,1976,54.42,265000,Jul 2021
+209,Boon Lay Pl,01 to 03,65,Improved,1976,53.92,250000,Jul 2021
+209,Boon Lay Pl,01 to 03,65,Improved,1976,53.92,250000,Jul 2021
+210,Boon Lay Pl,16 to 18,65,Improved,1977,55.25,270000,Jul 2021
+212,Boon Lay Pl,04 to 06,66,Improved,1974,52.25,248000,Jul 2021
+215,Boon Lay Pl,04 to 06,66,Improved,1974,52.25,280000,Jul 2021
+119,Ho Ching Rd,10 to 12,67,Improved,1972,49.58,262000,Jul 2021
+438,Jurong West Ave 1,04 to 06,74,Model A,1984,62,320000,Jul 2021
+485,Jurong West Ave 1,07 to 09,73,Model A,1984,62.17,338000,Jul 2021
+491,Jurong West Ave 1,07 to 09,67,New Generation,1985,63.17,330000,Jul 2021
+698B,Jurong West Ctrl 3,13 to 15,68,Model A,2017,95.25,450000,Jul 2021
+457,Jurong West St 41,01 to 03,73,Model A,1984,61.92,275000,Jul 2021
+477,Jurong West St 41,10 to 12,73,Model A,1984,62.08,345000,Jul 2021
+492,Jurong West St 41,04 to 06,64,Simplified,1986,64.08,285000,Jul 2021
+498,Jurong West St 41,04 to 06,64,Simplified,1986,64.08,288000,Jul 2021
+446,Jurong West St 42,01 to 03,77,Model A,1985,62.75,300000,Jul 2021
+506,Jurong West St 52,01 to 03,74,Model A,1986,63.67,340000,Jul 2021
+508,Jurong West St 52,01 to 03,91,Model A,1986,63.83,375000,Jul 2021
+511,Jurong West St 52,01 to 03,74,Model A,1984,61.67,335000,Jul 2021
+511,Jurong West St 52,07 to 09,74,Model A,1984,61.75,360000,Jul 2021
+530,Jurong West St 52,10 to 12,82,New Generation,1983,61.17,360000,Jul 2021
+925,Jurong West St 92,01 to 03,73,Model A,1988,66.25,290000,Jul 2021
+138D,Yuan Ching Rd,16 to 18,67,Dbss,2014,92.33,470000,Jul 2021
+185,Boon Lay Ave,19 to 21,68,Improved,1975,53.42,270000,Jun 2021
+187,Boon Lay Ave,13 to 15,59,Improved,1978,56.25,240000,Jun 2021
+208,Boon Lay Pl,04 to 06,65,Improved,1976,54.5,273000,Jun 2021
+211,Boon Lay Pl,10 to 12,65,Improved,1976,54.5,288000,Jun 2021
+213,Boon Lay Pl,07 to 09,66,Improved,1974,52.42,280000,Jun 2021
+119,Ho Ching Rd,04 to 06,67,Improved,1972,49.67,260000,Jun 2021
+490,Jurong West Ave 1,01 to 03,73,Model A,1984,62.17,310000,Jun 2021
+480,Jurong West St 41,01 to 03,67,New Generation,1985,63.42,298000,Jun 2021
+417,Jurong West St 42,10 to 12,64,Simplified,1985,63.58,329800,Jun 2021
+513,Jurong West St 52,07 to 09,74,Model A,1984,61.92,337000,Jun 2021
+521,Jurong West St 52,07 to 09,67,New Generation,1982,60.58,350000,Jun 2021
+524,Jurong West St 52,13 to 15,67,New Generation,1982,59.92,315000,Jun 2021
+527,Jurong West St 52,04 to 06,67,New Generation,1983,61.25,305000,Jun 2021
+528,Jurong West St 52,04 to 06,67,New Generation,1983,61.08,310000,Jun 2021
+915,Jurong West St 91,04 to 06,73,Model A,1988,66.17,310000,Jun 2021
+926,Jurong West St 92,10 to 12,73,Model A,1989,66.67,333000,Jun 2021
+929,Jurong West St 92,01 to 03,73,Model A,1989,66.67,295000,Jun 2021
+122,Yuan Ching Rd,04 to 06,61,Improved,1974,52.08,245888,Jun 2021
+176,Boon Lay Dr,07 to 09,59,Improved,1978,56.25,265000,May 2021
+197A,Boon Lay Dr,04 to 06,68,Model A,2015,93,360100,May 2021
+208,Boon Lay Pl,13 to 15,65,Improved,1976,54.58,275000,May 2021
+209,Boon Lay Pl,10 to 12,65,Improved,1976,54.08,278000,May 2021
+111,Ho Ching Rd,07 to 09,68,Improved,1970,48,260000,May 2021
+114,Ho Ching Rd,07 to 09,67,Improved,1971,49.08,238000,May 2021
+120,Ho Ching Rd,07 to 09,67,Improved,1972,49.75,260000,May 2021
+484,Jurong West Ave 1,04 to 06,67,New Generation,1985,63.25,290000,May 2021
+503,Jurong West Ave 1,04 to 06,74,Model A,1986,64,330000,May 2021
+698A,Jurong West Ctrl 3,13 to 15,68,Model A,2017,95.5,430000,May 2021
+492,Jurong West St 41,04 to 06,64,Simplified,1986,64.25,273000,May 2021
+417,Jurong West St 42,07 to 09,64,Simplified,1985,63.67,287880,May 2021
+421,Jurong West St 42,07 to 09,64,Simplified,1985,63.17,308000,May 2021
+511,Jurong West St 52,01 to 03,74,Model A,1984,61.92,335000,May 2021
+536,Jurong West St 52,10 to 12,67,New Generation,1983,61.42,310000,May 2021
+915,Jurong West St 91,10 to 12,73,Model A,1988,66.25,260000,May 2021
+915,Jurong West St 91,01 to 03,73,Model A,1988,66.25,320000,May 2021
+113,Tao Ching Rd,01 to 03,67,Improved,1971,49.08,250000,May 2021
+138A,Yuan Ching Rd,16 to 18,67,Dbss,2014,92.42,460000,May 2021
+185,Boon Lay Ave,01 to 03,59,Improved,1975,53.58,223000,Apr 2021
+187,Boon Lay Ave,16 to 18,59,Improved,1978,56.33,243000,Apr 2021
+210,Boon Lay Pl,04 to 06,65,Improved,1977,55.42,243000,Apr 2021
+119,Ho Ching Rd,04 to 06,67,Improved,1972,49.83,240000,Apr 2021
+463,Jurong West St 41,04 to 06,67,New Generation,1985,63.25,290000,Apr 2021
+475,Jurong West St 41,10 to 12,73,Model A,1984,62.33,333000,Apr 2021
+476,Jurong West St 41,04 to 06,73,Model A,1984,62.5,318000,Apr 2021
+530,Jurong West St 52,10 to 12,67,New Generation,1983,61.33,340000,Apr 2021
+339D,Kang Ching Rd,10 to 12,67,Model A,2012,90.08,360000,Apr 2021
+138D,Yuan Ching Rd,13 to 15,67,Dbss,2014,92.42,458000,Apr 2021
+186,Boon Lay Ave,07 to 09,59,Improved,1975,53.67,230000,Mar 2021
+187,Boon Lay Ave,01 to 03,59,Improved,1978,56.42,210000,Mar 2021
+187,Boon Lay Ave,13 to 15,59,Improved,1978,56.5,240000,Mar 2021
+175,Boon Lay Dr,04 to 06,59,Improved,1978,56.42,242000,Mar 2021
+207,Boon Lay Pl,01 to 03,65,Improved,1976,54.17,240000,Mar 2021
+209,Boon Lay Pl,04 to 06,65,Improved,1976,54.67,220000,Mar 2021
+209,Boon Lay Pl,01 to 03,65,Improved,1976,54.25,245000,Mar 2021
+209,Boon Lay Pl,01 to 03,65,Improved,1976,54.17,248000,Mar 2021
+210,Boon Lay Pl,16 to 18,65,Improved,1977,55.58,270000,Mar 2021
+211,Boon Lay Pl,10 to 12,65,Improved,1976,54.75,232000,Mar 2021
+214,Boon Lay Pl,07 to 09,66,Improved,1974,52.58,253000,Mar 2021
+215,Boon Lay Pl,07 to 09,66,Improved,1974,52.75,280000,Mar 2021
+120,Ho Ching Rd,01 to 03,67,Improved,1972,49.92,245000,Mar 2021
+489,Jurong West Ave 1,04 to 06,73,Model A,1984,62.42,305000,Mar 2021
+516,Jurong West St 52,01 to 03,74,Model A,1984,62.5,330000,Mar 2021
+535,Jurong West St 52,07 to 09,67,New Generation,1983,61.33,320000,Mar 2021
+916,Jurong West St 91,04 to 06,73,Model A,1988,66.33,285000,Mar 2021
+929,Jurong West St 92,07 to 09,73,Model A,1989,66.83,320000,Mar 2021
+339A,Kang Ching Rd,10 to 12,67,Model A,2012,90.08,375000,Mar 2021
+113,Tao Ching Rd,04 to 06,67,Improved,1971,49.25,210000,Mar 2021
+121,Yuan Ching Rd,07 to 09,61,Improved,1974,52.25,235000,Mar 2021
+122,Yuan Ching Rd,04 to 06,61,Improved,1974,52.33,242000,Mar 2021
+138C,Yuan Ching Rd,10 to 12,67,Dbss,2014,92.58,455000,Mar 2021
+138C,Yuan Ching Rd,22 to 24,67,Dbss,2014,92.58,485000,Mar 2021
+185,Boon Lay Ave,01 to 03,59,Improved,1975,53.75,210000,Feb 2021
+186,Boon Lay Ave,13 to 15,59,Improved,1975,53.75,228000,Feb 2021
+186,Boon Lay Ave,13 to 15,59,Improved,1975,53.67,270000,Feb 2021
+175,Boon Lay Dr,07 to 09,59,Improved,1978,56.5,245000,Feb 2021
+175,Boon Lay Dr,01 to 03,59,Improved,1978,56.42,245000,Feb 2021
+180A,Boon Lay Dr,07 to 09,68,Model A,2014,92.33,350000,Feb 2021
+180C,Boon Lay Dr,16 to 18,68,Model A,2014,92.25,360000,Feb 2021
+210,Boon Lay Pl,04 to 06,65,Improved,1977,55.58,260000,Feb 2021
+210,Boon Lay Pl,13 to 15,74,Improved,1977,55.67,275000,Feb 2021
+114,Ho Ching Rd,04 to 06,67,Improved,1971,49.25,260000,Feb 2021
+120,Ho Ching Rd,10 to 12,67,Improved,1972,49.92,255000,Feb 2021
+456,Jurong West St 41,04 to 06,67,New Generation,1985,63.17,295000,Feb 2021
+464,Jurong West St 41,07 to 09,73,Model A,1984,62.25,315000,Feb 2021
+525,Jurong West St 52,04 to 06,67,New Generation,1982,60.92,285000,Feb 2021
+525,Jurong West St 52,04 to 06,67,New Generation,1982,60.92,305000,Feb 2021
+917,Jurong West St 91,07 to 09,73,Model A,1988,66.5,285000,Feb 2021
+338B,Kang Ching Rd,16 to 18,67,Model A,2012,90.08,350000,Feb 2021
+339A,Kang Ching Rd,07 to 09,67,Model A,2012,90.17,325000,Feb 2021
+339D,Kang Ching Rd,19 to 21,67,Model A,2012,90.08,388000,Feb 2021
+138B,Yuan Ching Rd,13 to 15,67,Dbss,2014,92.58,466888,Feb 2021
+138D,Yuan Ching Rd,19 to 21,67,Dbss,2014,92.67,435000,Feb 2021
+186,Boon Lay Ave,19 to 21,68,Improved,1975,53.75,260000,Jan 2021
+187,Boon Lay Ave,04 to 06,59,Improved,1978,56.58,235000,Jan 2021
+187,Boon Lay Ave,13 to 15,59,Improved,1978,56.58,240000,Jan 2021
+197B,Boon Lay Dr,13 to 15,68,Model A,2015,93.33,375000,Jan 2021
+208,Boon Lay Pl,07 to 09,65,Improved,1976,54.83,220000,Jan 2021
+208,Boon Lay Pl,07 to 09,65,Improved,1976,54.92,258000,Jan 2021
+489,Jurong West Ave 1,04 to 06,73,Model A,1984,62.58,322888,Jan 2021
+491,Jurong West Ave 1,07 to 09,67,New Generation,1985,63.75,290000,Jan 2021
+464,Jurong West St 41,04 to 06,73,Model A,1984,62.5,285000,Jan 2021
+511,Jurong West St 52,01 to 03,74,Model A,1984,62.17,328000,Jan 2021
+511,Jurong West St 52,04 to 06,74,Model A,1984,62.25,333000,Jan 2021
+516,Jurong West St 52,07 to 09,74,Model A,1984,62.67,325000,Jan 2021
+521,Jurong West St 52,04 to 06,67,New Generation,1982,61,290500,Jan 2021
+535,Jurong West St 52,07 to 09,74,New Generation,1983,61.42,320000,Jan 2021
+536,Jurong West St 52,07 to 09,67,New Generation,1983,61.75,312000,Jan 2021
+928,Jurong West St 92,04 to 06,73,Model A,1988,66.75,280000,Jan 2021
+929,Jurong West St 92,04 to 06,73,Model A,1989,67.08,280000,Jan 2021
+122,Yuan Ching Rd,01 to 03,61,Improved,1974,52.5,230000,Jan 2021
+138A,Yuan Ching Rd,10 to 12,67,Dbss,2014,92.75,442500,Jan 2021
+138D,Yuan Ching Rd,07 to 09,67,Dbss,2014,92.75,445000,Jan 2021
+185,Boon Lay Ave,19 to 21,59,Improved,1975,53.83,215000,Dec 2020
+186,Boon Lay Ave,13 to 15,59,Improved,1975,53.92,225000,Dec 2020
+214,Boon Lay Pl,01 to 03,66,Improved,1974,52.92,220000,Dec 2020
+215,Boon Lay Pl,10 to 12,66,Improved,1974,52.92,265000,Dec 2020
+112,Ho Ching Rd,10 to 12,68,Improved,1970,48.75,252000,Dec 2020
+489,Jurong West Ave 1,10 to 12,73,Model A,1984,62.75,290000,Dec 2020
+490,Jurong West Ave 1,10 to 12,73,Model A,1984,62.67,285000,Dec 2020
+464,Jurong West St 41,10 to 12,73,Model A,1984,62.42,305000,Dec 2020
+507,Jurong West St 52,01 to 03,74,Model A,1986,64.33,305000,Dec 2020
+513,Jurong West St 52,04 to 06,74,Model A,1984,62.42,335000,Dec 2020
+516,Jurong West St 52,04 to 06,78,Model A,1984,62.75,325500,Dec 2020
+518,Jurong West St 52,04 to 06,74,Model A,1984,63,340000,Dec 2020
+521,Jurong West St 52,07 to 09,67,New Generation,1982,61.08,325000,Dec 2020
+531,Jurong West St 52,04 to 06,71,New Generation,1983,61.67,277000,Dec 2020
+939,Jurong West St 91,04 to 06,73,Model A,1989,67.25,262000,Dec 2020
+138B,Yuan Ching Rd,04 to 06,67,Dbss,2014,92.83,427500,Dec 2020
+186,Boon Lay Ave,07 to 09,59,Improved,1975,54,220000,Nov 2020
+186,Boon Lay Ave,10 to 12,59,Improved,1975,54,255000,Nov 2020
+174,Boon Lay Dr,04 to 06,59,Improved,1978,56.75,225000,Nov 2020
+174,Boon Lay Dr,04 to 06,59,Improved,1978,56.67,250000,Nov 2020
+176,Boon Lay Dr,01 to 03,59,Improved,1978,56.75,225000,Nov 2020
+207,Boon Lay Pl,07 to 09,65,Improved,1976,54.58,250000,Nov 2020
+209,Boon Lay Pl,07 to 09,65,Improved,1976,54.5,238000,Nov 2020
+209,Boon Lay Pl,07 to 09,65,Improved,1976,54.58,250000,Nov 2020
+423,Jurong West Ave 1,07 to 09,74,Model A,1984,62.83,285000,Nov 2020
+491,Jurong West Ave 1,04 to 06,67,New Generation,1985,63.92,260000,Nov 2020
+698B,Jurong West Ctrl 3,07 to 09,68,Model A,2017,96,385000,Nov 2020
+698C,Jurong West Ctrl 3,01 to 03,68,Model A,2017,96,365000,Nov 2020
+492,Jurong West St 41,04 to 06,64,Simplified,1986,64.75,235000,Nov 2020
+498,Jurong West St 41,01 to 03,64,Simplified,1986,64.67,275000,Nov 2020
+417,Jurong West St 42,07 to 09,64,Simplified,1985,64.08,280000,Nov 2020
+518,Jurong West St 52,07 to 09,74,Model A,1984,63,335000,Nov 2020
+524,Jurong West St 52,10 to 12,67,New Generation,1982,60.5,290888,Nov 2020
+527,Jurong West St 52,04 to 06,67,New Generation,1983,61.83,288000,Nov 2020
+527,Jurong West St 52,07 to 09,67,New Generation,1983,61.83,295000,Nov 2020
+926,Jurong West St 92,10 to 12,73,Model A,1989,67.25,281000,Nov 2020
+929,Jurong West St 92,04 to 06,73,Model A,1989,67.25,280000,Nov 2020
+339C,Kang Ching Rd,04 to 06,67,Model A,2012,90.33,320000,Nov 2020
+113,Tao Ching Rd,07 to 09,67,Improved,1971,49.58,242000,Nov 2020
+138A,Yuan Ching Rd,19 to 21,67,Dbss,2014,92.92,460000,Nov 2020
+492,Jurong West St 41,04 to 06,64,Simplified,1986,63.83,300000,Nov 2021
+185,Boon Lay Ave,16 to 18,59,Improved,1975,53.08,233000,Oct 2021
+186,Boon Lay Ave,10 to 12,59,Improved,1975,53.08,256000,Oct 2021
+186,Boon Lay Ave,10 to 12,59,Improved,1975,53.17,264000,Oct 2021
+187,Boon Lay Ave,04 to 06,59,Improved,1978,55.75,260000,Oct 2021
+187,Boon Lay Ave,07 to 09,59,Improved,1978,55.75,277000,Oct 2021
+176,Boon Lay Dr,04 to 06,59,Improved,1978,55.83,288888,Oct 2021
+180A,Boon Lay Dr,13 to 15,68,Model A,2014,91.58,380000,Oct 2021
+180B,Boon Lay Dr,16 to 18,68,Model A,2014,91.58,380000,Oct 2021
+181A,Boon Lay Dr,07 to 09,68,Model A,2014,91.67,370000,Oct 2021
+181B,Boon Lay Dr,01 to 03,68,Model A,2014,91.58,350000,Oct 2021
+197A,Boon Lay Dr,07 to 09,68,Model A,2015,92.58,395000,Oct 2021
+207,Boon Lay Pl,01 to 03,65,Improved,1976,53.67,270000,Oct 2021
+210,Boon Lay Pl,10 to 12,65,Improved,1977,55,270000,Oct 2021
+210,Boon Lay Pl,10 to 12,65,Improved,1977,55,280000,Oct 2021
+211,Boon Lay Pl,01 to 03,65,Improved,1976,54.08,274000,Oct 2021
+111,Ho Ching Rd,01 to 03,67,Improved,1970,47.58,266000,Oct 2021
+120,Ho Ching Rd,01 to 03,67,Improved,1972,49.33,261000,Oct 2021
+698A,Jurong West Ctrl 3,01 to 03,68,Model A,2017,95,405000,Oct 2021
+698A,Jurong West Ctrl 3,10 to 12,68,Model A,2017,95.08,458000,Oct 2021
+698C,Jurong West Ctrl 3,07 to 09,68,Model A,2017,95.08,440000,Oct 2021
+457,Jurong West St 41,07 to 09,73,Model A,1984,61.67,370000,Oct 2021
+515,Jurong West St 52,04 to 06,75,Model A,1984,61.75,345000,Oct 2021
+928,Jurong West St 92,07 to 09,73,Model A,1988,66,320000,Oct 2021
+339A,Kang Ching Rd,13 to 15,67,Model A,2012,89.5,405000,Oct 2021
+121,Yuan Ching Rd,07 to 09,61,Improved,1974,51.75,265000,Oct 2021
+138A,Yuan Ching Rd,07 to 09,67,Dbss,2014,92,465000,Oct 2021
+138B,Yuan Ching Rd,19 to 21,67,Dbss,2014,92,490000,Oct 2021
+185,Boon Lay Ave,22 to 24,59,Improved,1975,53.17,253000,Sep 2021
+185,Boon Lay Ave,19 to 21,59,Improved,1975,53.17,258000,Sep 2021
+185,Boon Lay Ave,19 to 21,59,Improved,1975,53.17,260000,Sep 2021
+186,Boon Lay Ave,16 to 18,59,Improved,1975,53.17,275000,Sep 2021
+187,Boon Lay Ave,01 to 03,59,Improved,1978,55.92,230000,Sep 2021
+174,Boon Lay Dr,01 to 03,59,Improved,1978,55.92,260000,Sep 2021
+181B,Boon Lay Dr,04 to 06,68,Model A,2014,91.75,360000,Sep 2021
+208,Boon Lay Pl,10 to 12,65,Improved,1976,54.25,283000,Sep 2021
+208,Boon Lay Pl,16 to 18,65,Improved,1976,54.25,292000,Sep 2021
+120,Ho Ching Rd,07 to 09,76,Improved,1972,49.42,285000,Sep 2021
+428,Jurong West Ave 1,01 to 03,75,Model A,1985,62.67,296000,Sep 2021
+484,Jurong West Ave 1,07 to 09,82,New Generation,1985,62.92,370000,Sep 2021
+474,Jurong West St 41,07 to 09,73,Model A,1984,62.17,355000,Sep 2021
+492,Jurong West St 41,01 to 03,64,Simplified,1986,63.92,280000,Sep 2021
+516,Jurong West St 52,07 to 09,74,Model A,1984,62.08,380000,Sep 2021
+518,Jurong West St 52,10 to 12,79,Model A,1984,62.25,368000,Sep 2021
+535,Jurong West St 52,04 to 06,67,New Generation,1983,60.75,320000,Sep 2021
+904,Jurong West St 91,07 to 09,73,Model A,1988,66.25,330000,Sep 2021
+339C,Kang Ching Rd,16 to 18,69,Model A,2012,89.58,403888,Sep 2021
+138B,Yuan Ching Rd,10 to 12,67,Dbss,2014,92.08,465000,Sep 2021
+185,Boon Lay Ave,19 to 21,59,Improved,1975,53.17,250000,Aug 2021
+186,Boon Lay Ave,07 to 09,59,Improved,1975,53.25,260000,Aug 2021
+186,Boon Lay Ave,16 to 18,68,Improved,1975,53.25,280000,Aug 2021
+187,Boon Lay Ave,19 to 21,59,Improved,1978,56,260000,Aug 2021
+187,Boon Lay Ave,13 to 15,59,Improved,1978,55.92,260000,Aug 2021
+207,Boon Lay Pl,04 to 06,65,Improved,1976,53.83,265000,Aug 2021
+208,Boon Lay Pl,01 to 03,65,Improved,1976,54.33,263000,Aug 2021
+209,Boon Lay Pl,04 to 06,65,Improved,1976,53.83,280000,Aug 2021
+209,Boon Lay Pl,04 to 06,65,Improved,1976,53.83,280000,Aug 2021
+210,Boon Lay Pl,16 to 18,65,Improved,1977,55.17,285000,Aug 2021
+213,Boon Lay Pl,07 to 09,75,Improved,1974,52.17,291888,Aug 2021
+214,Boon Lay Pl,10 to 12,66,Improved,1974,52.25,260000,Aug 2021
+487,Jurong West Ave 1,01 to 03,73,Model A,1984,62.08,318000,Aug 2021
+487,Jurong West Ave 1,10 to 12,73,Model A,1984,62.08,330000,Aug 2021
+698A,Jurong West Ctrl 3,01 to 03,68,Model A,2017,95.17,408000,Aug 2021
+698B,Jurong West Ctrl 3,01 to 03,68,Model A,2017,95.25,391000,Aug 2021
+474,Jurong West St 41,10 to 12,73,Model A,1984,62.17,342000,Aug 2021
+476,Jurong West St 41,04 to 06,73,Model A,1984,62.08,336000,Aug 2021
+480,Jurong West St 41,01 to 03,67,New Generation,1985,63.25,314000,Aug 2021
+492,Jurong West St 41,01 to 03,64,Simplified,1986,63.92,300000,Aug 2021
+494,Jurong West St 41,04 to 06,64,Simplified,1986,64,300000,Aug 2021
+515,Jurong West St 52,07 to 09,74,Model A,1984,61.92,334000,Aug 2021
+526,Jurong West St 52,01 to 03,68,New Generation,1982,60.33,300000,Aug 2021
+528,Jurong West St 52,10 to 12,67,New Generation,1983,60.83,330000,Aug 2021
+534,Jurong West St 52,10 to 12,82,New Generation,1982,59.75,369000,Aug 2021
+536,Jurong West St 52,13 to 15,67,New Generation,1983,61.17,340000,Aug 2021
+113,Tao Ching Rd,04 to 06,67,Improved,1971,48.92,260000,Aug 2021
+121,Yuan Ching Rd,10 to 12,61,Improved,1974,51.83,255000,Aug 2021
+138B,Yuan Ching Rd,01 to 03,67,Dbss,2014,92.17,440000,Aug 2021
+138C,Yuan Ching Rd,16 to 18,67,Dbss,2014,92.08,476000,Aug 2021
+185,Boon Lay Ave,04 to 06,59,Improved,1975,53.33,255000,Jul 2021
+185,Boon Lay Ave,04 to 06,68,Improved,1975,53.33,258000,Jul 2021
+185,Boon Lay Ave,07 to 09,59,Improved,1975,53.33,260000,Jul 2021
+185,Boon Lay Ave,04 to 06,59,Improved,1975,53.25,265000,Jul 2021
+186,Boon Lay Ave,01 to 03,59,Improved,1975,53.33,240000,Jul 2021
+186,Boon Lay Ave,04 to 06,68,Improved,1975,53.33,269999,Jul 2021
+187,Boon Lay Ave,16 to 18,59,Improved,1978,56.08,245000,Jul 2021
+187,Boon Lay Ave,13 to 15,59,Improved,1978,56.08,248000,Jul 2021
+180A,Boon Lay Dr,07 to 09,68,Model A,2014,91.92,370000,Jul 2021
+197B,Boon Lay Dr,16 to 18,68,Model A,2015,92.92,386000,Jul 2021
+207,Boon Lay Pl,01 to 03,65,Improved,1976,53.92,253000,Jul 2021
+208,Boon Lay Pl,07 to 09,65,Improved,1976,54.42,265000,Jul 2021
+209,Boon Lay Pl,01 to 03,65,Improved,1976,53.92,250000,Jul 2021
+209,Boon Lay Pl,01 to 03,65,Improved,1976,53.92,250000,Jul 2021
+210,Boon Lay Pl,16 to 18,65,Improved,1977,55.25,270000,Jul 2021
+212,Boon Lay Pl,04 to 06,66,Improved,1974,52.25,248000,Jul 2021
+215,Boon Lay Pl,04 to 06,66,Improved,1974,52.25,280000,Jul 2021
+119,Ho Ching Rd,10 to 12,67,Improved,1972,49.58,262000,Jul 2021
+438,Jurong West Ave 1,04 to 06,74,Model A,1984,62,320000,Jul 2021
+485,Jurong West Ave 1,07 to 09,73,Model A,1984,62.17,338000,Jul 2021
+491,Jurong West Ave 1,07 to 09,67,New Generation,1985,63.17,330000,Jul 2021
+698B,Jurong West Ctrl 3,13 to 15,68,Model A,2017,95.25,450000,Jul 2021
+457,Jurong West St 41,01 to 03,73,Model A,1984,61.92,275000,Jul 2021
+477,Jurong West St 41,10 to 12,73,Model A,1984,62.08,345000,Jul 2021
+492,Jurong West St 41,04 to 06,64,Simplified,1986,64.08,285000,Jul 2021
+498,Jurong West St 41,04 to 06,64,Simplified,1986,64.08,288000,Jul 2021
+446,Jurong West St 42,01 to 03,77,Model A,1985,62.75,300000,Jul 2021
+506,Jurong West St 52,01 to 03,74,Model A,1986,63.67,340000,Jul 2021
+508,Jurong West St 52,01 to 03,91,Model A,1986,63.83,375000,Jul 2021
+511,Jurong West St 52,01 to 03,74,Model A,1984,61.67,335000,Jul 2021
+511,Jurong West St 52,07 to 09,74,Model A,1984,61.75,360000,Jul 2021
+530,Jurong West St 52,10 to 12,82,New Generation,1983,61.17,360000,Jul 2021
+925,Jurong West St 92,01 to 03,73,Model A,1988,66.25,290000,Jul 2021
+138D,Yuan Ching Rd,16 to 18,67,Dbss,2014,92.33,470000,Jul 2021
+185,Boon Lay Ave,19 to 21,68,Improved,1975,53.42,270000,Jun 2021
+187,Boon Lay Ave,13 to 15,59,Improved,1978,56.25,240000,Jun 2021
+208,Boon Lay Pl,04 to 06,65,Improved,1976,54.5,273000,Jun 2021
+211,Boon Lay Pl,10 to 12,65,Improved,1976,54.5,288000,Jun 2021
+213,Boon Lay Pl,07 to 09,66,Improved,1974,52.42,280000,Jun 2021
+119,Ho Ching Rd,04 to 06,67,Improved,1972,49.67,260000,Jun 2021
+490,Jurong West Ave 1,01 to 03,73,Model A,1984,62.17,310000,Jun 2021
+480,Jurong West St 41,01 to 03,67,New Generation,1985,63.42,298000,Jun 2021
+417,Jurong West St 42,10 to 12,64,Simplified,1985,63.58,329800,Jun 2021
+513,Jurong West St 52,07 to 09,74,Model A,1984,61.92,337000,Jun 2021
+521,Jurong West St 52,07 to 09,67,New Generation,1982,60.58,350000,Jun 2021
+524,Jurong West St 52,13 to 15,67,New Generation,1982,59.92,315000,Jun 2021
+527,Jurong West St 52,04 to 06,67,New Generation,1983,61.25,305000,Jun 2021
+528,Jurong West St 52,04 to 06,67,New Generation,1983,61.08,310000,Jun 2021
+915,Jurong West St 91,04 to 06,73,Model A,1988,66.17,310000,Jun 2021
+926,Jurong West St 92,10 to 12,73,Model A,1989,66.67,333000,Jun 2021
+929,Jurong West St 92,01 to 03,73,Model A,1989,66.67,295000,Jun 2021
+122,Yuan Ching Rd,04 to 06,61,Improved,1974,52.08,245888,Jun 2021
+176,Boon Lay Dr,07 to 09,59,Improved,1978,56.25,265000,May 2021
+197A,Boon Lay Dr,04 to 06,68,Model A,2015,93,360100,May 2021
+208,Boon Lay Pl,13 to 15,65,Improved,1976,54.58,275000,May 2021
+209,Boon Lay Pl,10 to 12,65,Improved,1976,54.08,278000,May 2021
+111,Ho Ching Rd,07 to 09,68,Improved,1970,48,260000,May 2021
+114,Ho Ching Rd,07 to 09,67,Improved,1971,49.08,238000,May 2021
+120,Ho Ching Rd,07 to 09,67,Improved,1972,49.75,260000,May 2021
+484,Jurong West Ave 1,04 to 06,67,New Generation,1985,63.25,290000,May 2021
+503,Jurong West Ave 1,04 to 06,74,Model A,1986,64,330000,May 2021
+698A,Jurong West Ctrl 3,13 to 15,68,Model A,2017,95.5,430000,May 2021
+492,Jurong West St 41,04 to 06,64,Simplified,1986,64.25,273000,May 2021
+417,Jurong West St 42,07 to 09,64,Simplified,1985,63.67,287880,May 2021
+421,Jurong West St 42,07 to 09,64,Simplified,1985,63.17,308000,May 2021
+511,Jurong West St 52,01 to 03,74,Model A,1984,61.92,335000,May 2021
+536,Jurong West St 52,10 to 12,67,New Generation,1983,61.42,310000,May 2021
+915,Jurong West St 91,10 to 12,73,Model A,1988,66.25,260000,May 2021
+915,Jurong West St 91,01 to 03,73,Model A,1988,66.25,320000,May 2021
+113,Tao Ching Rd,01 to 03,67,Improved,1971,49.08,250000,May 2021
+138A,Yuan Ching Rd,16 to 18,67,Dbss,2014,92.42,460000,May 2021
+185,Boon Lay Ave,01 to 03,59,Improved,1975,53.58,223000,Apr 2021
+187,Boon Lay Ave,16 to 18,59,Improved,1978,56.33,243000,Apr 2021
+210,Boon Lay Pl,04 to 06,65,Improved,1977,55.42,243000,Apr 2021
+119,Ho Ching Rd,04 to 06,67,Improved,1972,49.83,240000,Apr 2021
+463,Jurong West St 41,04 to 06,67,New Generation,1985,63.25,290000,Apr 2021
+475,Jurong West St 41,10 to 12,73,Model A,1984,62.33,333000,Apr 2021
+476,Jurong West St 41,04 to 06,73,Model A,1984,62.5,318000,Apr 2021
+530,Jurong West St 52,10 to 12,67,New Generation,1983,61.33,340000,Apr 2021
+339D,Kang Ching Rd,10 to 12,67,Model A,2012,90.08,360000,Apr 2021
+138D,Yuan Ching Rd,13 to 15,67,Dbss,2014,92.42,458000,Apr 2021
+186,Boon Lay Ave,07 to 09,59,Improved,1975,53.67,230000,Mar 2021
+187,Boon Lay Ave,01 to 03,59,Improved,1978,56.42,210000,Mar 2021
+187,Boon Lay Ave,13 to 15,59,Improved,1978,56.5,240000,Mar 2021
+175,Boon Lay Dr,04 to 06,59,Improved,1978,56.42,242000,Mar 2021
+207,Boon Lay Pl,01 to 03,65,Improved,1976,54.17,240000,Mar 2021
+209,Boon Lay Pl,04 to 06,65,Improved,1976,54.67,220000,Mar 2021
+209,Boon Lay Pl,01 to 03,65,Improved,1976,54.25,245000,Mar 2021
+209,Boon Lay Pl,01 to 03,65,Improved,1976,54.17,248000,Mar 2021
+210,Boon Lay Pl,16 to 18,65,Improved,1977,55.58,270000,Mar 2021
+211,Boon Lay Pl,10 to 12,65,Improved,1976,54.75,232000,Mar 2021
+214,Boon Lay Pl,07 to 09,66,Improved,1974,52.58,253000,Mar 2021
+215,Boon Lay Pl,07 to 09,66,Improved,1974,52.75,280000,Mar 2021
+120,Ho Ching Rd,01 to 03,67,Improved,1972,49.92,245000,Mar 2021
+489,Jurong West Ave 1,04 to 06,73,Model A,1984,62.42,305000,Mar 2021
+516,Jurong West St 52,01 to 03,74,Model A,1984,62.5,330000,Mar 2021
+535,Jurong West St 52,07 to 09,67,New Generation,1983,61.33,320000,Mar 2021
+916,Jurong West St 91,04 to 06,73,Model A,1988,66.33,285000,Mar 2021
+929,Jurong West St 92,07 to 09,73,Model A,1989,66.83,320000,Mar 2021
+339A,Kang Ching Rd,10 to 12,67,Model A,2012,90.08,375000,Mar 2021
+113,Tao Ching Rd,04 to 06,67,Improved,1971,49.25,210000,Mar 2021
+121,Yuan Ching Rd,07 to 09,61,Improved,1974,52.25,235000,Mar 2021
+122,Yuan Ching Rd,04 to 06,61,Improved,1974,52.33,242000,Mar 2021
+138C,Yuan Ching Rd,10 to 12,67,Dbss,2014,92.58,455000,Mar 2021
+138C,Yuan Ching Rd,22 to 24,67,Dbss,2014,92.58,485000,Mar 2021
+185,Boon Lay Ave,01 to 03,59,Improved,1975,53.75,210000,Feb 2021
+186,Boon Lay Ave,13 to 15,59,Improved,1975,53.75,228000,Feb 2021
+186,Boon Lay Ave,13 to 15,59,Improved,1975,53.67,270000,Feb 2021
+175,Boon Lay Dr,07 to 09,59,Improved,1978,56.5,245000,Feb 2021
+175,Boon Lay Dr,01 to 03,59,Improved,1978,56.42,245000,Feb 2021
+180A,Boon Lay Dr,07 to 09,68,Model A,2014,92.33,350000,Feb 2021
+180C,Boon Lay Dr,16 to 18,68,Model A,2014,92.25,360000,Feb 2021
+210,Boon Lay Pl,04 to 06,65,Improved,1977,55.58,260000,Feb 2021
+210,Boon Lay Pl,13 to 15,74,Improved,1977,55.67,275000,Feb 2021
+114,Ho Ching Rd,04 to 06,67,Improved,1971,49.25,260000,Feb 2021
+120,Ho Ching Rd,10 to 12,67,Improved,1972,49.92,255000,Feb 2021
+456,Jurong West St 41,04 to 06,67,New Generation,1985,63.17,295000,Feb 2021
+464,Jurong West St 41,07 to 09,73,Model A,1984,62.25,315000,Feb 2021
+525,Jurong West St 52,04 to 06,67,New Generation,1982,60.92,285000,Feb 2021
+525,Jurong West St 52,04 to 06,67,New Generation,1982,60.92,305000,Feb 2021
+917,Jurong West St 91,07 to 09,73,Model A,1988,66.5,285000,Feb 2021
+338B,Kang Ching Rd,16 to 18,67,Model A,2012,90.08,350000,Feb 2021
+339A,Kang Ching Rd,07 to 09,67,Model A,2012,90.17,325000,Feb 2021
+339D,Kang Ching Rd,19 to 21,67,Model A,2012,90.08,388000,Feb 2021
+138B,Yuan Ching Rd,13 to 15,67,Dbss,2014,92.58,466888,Feb 2021
+138D,Yuan Ching Rd,19 to 21,67,Dbss,2014,92.67,435000,Feb 2021
+186,Boon Lay Ave,19 to 21,68,Improved,1975,53.75,260000,Jan 2021
+187,Boon Lay Ave,04 to 06,59,Improved,1978,56.58,235000,Jan 2021
+187,Boon Lay Ave,13 to 15,59,Improved,1978,56.58,240000,Jan 2021
+197B,Boon Lay Dr,13 to 15,68,Model A,2015,93.33,375000,Jan 2021
+208,Boon Lay Pl,07 to 09,65,Improved,1976,54.83,220000,Jan 2021
+208,Boon Lay Pl,07 to 09,65,Improved,1976,54.92,258000,Jan 2021
+489,Jurong West Ave 1,04 to 06,73,Model A,1984,62.58,322888,Jan 2021
+491,Jurong West Ave 1,07 to 09,67,New Generation,1985,63.75,290000,Jan 2021
+464,Jurong West St 41,04 to 06,73,Model A,1984,62.5,285000,Jan 2021
+511,Jurong West St 52,01 to 03,74,Model A,1984,62.17,328000,Jan 2021
+511,Jurong West St 52,04 to 06,74,Model A,1984,62.25,333000,Jan 2021
+516,Jurong West St 52,07 to 09,74,Model A,1984,62.67,325000,Jan 2021
+521,Jurong West St 52,04 to 06,67,New Generation,1982,61,290500,Jan 2021
+535,Jurong West St 52,07 to 09,74,New Generation,1983,61.42,320000,Jan 2021
+536,Jurong West St 52,07 to 09,67,New Generation,1983,61.75,312000,Jan 2021
+928,Jurong West St 92,04 to 06,73,Model A,1988,66.75,280000,Jan 2021
+929,Jurong West St 92,04 to 06,73,Model A,1989,67.08,280000,Jan 2021
+122,Yuan Ching Rd,01 to 03,61,Improved,1974,52.5,230000,Jan 2021
+138A,Yuan Ching Rd,10 to 12,67,Dbss,2014,92.75,442500,Jan 2021
+138D,Yuan Ching Rd,07 to 09,67,Dbss,2014,92.75,445000,Jan 2021
+185,Boon Lay Ave,19 to 21,59,Improved,1975,53.83,215000,Dec 2020
+186,Boon Lay Ave,13 to 15,59,Improved,1975,53.92,225000,Dec 2020
+214,Boon Lay Pl,01 to 03,66,Improved,1974,52.92,220000,Dec 2020
+215,Boon Lay Pl,10 to 12,66,Improved,1974,52.92,265000,Dec 2020
+112,Ho Ching Rd,10 to 12,68,Improved,1970,48.75,252000,Dec 2020
+489,Jurong West Ave 1,10 to 12,73,Model A,1984,62.75,290000,Dec 2020
+490,Jurong West Ave 1,10 to 12,73,Model A,1984,62.67,285000,Dec 2020
+464,Jurong West St 41,10 to 12,73,Model A,1984,62.42,305000,Dec 2020
+507,Jurong West St 52,01 to 03,74,Model A,1986,64.33,305000,Dec 2020
+513,Jurong West St 52,04 to 06,74,Model A,1984,62.42,335000,Dec 2020
+516,Jurong West St 52,04 to 06,78,Model A,1984,62.75,325500,Dec 2020
+518,Jurong West St 52,04 to 06,74,Model A,1984,63,340000,Dec 2020
+521,Jurong West St 52,07 to 09,67,New Generation,1982,61.08,325000,Dec 2020
+531,Jurong West St 52,04 to 06,71,New Generation,1983,61.67,277000,Dec 2020
+939,Jurong West St 91,04 to 06,73,Model A,1989,67.25,262000,Dec 2020
+138B,Yuan Ching Rd,04 to 06,67,Dbss,2014,92.83,427500,Dec 2020
+186,Boon Lay Ave,07 to 09,59,Improved,1975,54,220000,Nov 2020
+186,Boon Lay Ave,10 to 12,59,Improved,1975,54,255000,Nov 2020
+174,Boon Lay Dr,04 to 06,59,Improved,1978,56.75,225000,Nov 2020
+174,Boon Lay Dr,04 to 06,59,Improved,1978,56.67,250000,Nov 2020
+176,Boon Lay Dr,01 to 03,59,Improved,1978,56.75,225000,Nov 2020
+207,Boon Lay Pl,07 to 09,65,Improved,1976,54.58,250000,Nov 2020
+209,Boon Lay Pl,07 to 09,65,Improved,1976,54.5,238000,Nov 2020
+209,Boon Lay Pl,07 to 09,65,Improved,1976,54.58,250000,Nov 2020
+423,Jurong West Ave 1,07 to 09,74,Model A,1984,62.83,285000,Nov 2020
+491,Jurong West Ave 1,04 to 06,67,New Generation,1985,63.92,260000,Nov 2020
+698B,Jurong West Ctrl 3,07 to 09,68,Model A,2017,96,385000,Nov 2020
+698C,Jurong West Ctrl 3,01 to 03,68,Model A,2017,96,365000,Nov 2020
+492,Jurong West St 41,04 to 06,64,Simplified,1986,64.75,235000,Nov 2020
+498,Jurong West St 41,01 to 03,64,Simplified,1986,64.67,275000,Nov 2020
+417,Jurong West St 42,07 to 09,64,Simplified,1985,64.08,280000,Nov 2020
+518,Jurong West St 52,07 to 09,74,Model A,1984,63,335000,Nov 2020
+524,Jurong West St 52,10 to 12,67,New Generation,1982,60.5,290888,Nov 2020
+527,Jurong West St 52,04 to 06,67,New Generation,1983,61.83,288000,Nov 2020
+527,Jurong West St 52,07 to 09,67,New Generation,1983,61.83,295000,Nov 2020
+926,Jurong West St 92,10 to 12,73,Model A,1989,67.25,281000,Nov 2020
+929,Jurong West St 92,04 to 06,73,Model A,1989,67.25,280000,Nov 2020
+339C,Kang Ching Rd,04 to 06,67,Model A,2012,90.33,320000,Nov 2020
+113,Tao Ching Rd,07 to 09,67,Improved,1971,49.58,242000,Nov 2020
+138A,Yuan Ching Rd,19 to 21,67,Dbss,2014,92.92,460000,Nov 2020

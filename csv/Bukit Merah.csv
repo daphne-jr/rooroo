@@ -1,0 +1,817 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date
+28,Jln Bt Merah,07 to 09,60,Standard,1967,44.67,288000,Nov 2021
+137,Jln Bt Merah,07 to 09,59,Improved,1975,52.58,270000,Nov 2021
+42,Telok Blangah Rise,04 to 06,70,Improved,1976,53.58,320000,Nov 2021
+38,Beo Cres,07 to 09,59,Standard,1971,48.33,295000,Oct 2021
+128,Bt Merah View,16 to 18,65,Improved,1973,50.83,356000,Oct 2021
+103,Bt Purmei Rd,01 to 03,67,New Generation,1982,60.25,378000,Oct 2021
+12,Cantonment Cl,25 to 27,60,Model A,2003,80.33,570000,Oct 2021
+18,Cantonment Cl,13 to 15,60,Model A,2002,80.17,580000,Oct 2021
+7,Everton Pk,01 to 03,84,New Generation,1980,58.08,456000,Oct 2021
+105,Henderson Cres,16 to 18,65,Improved,1975,52.42,330000,Oct 2021
+28,Hoy Fatt Rd,16 to 18,60,Standard,1967,44.75,262888,Oct 2021
+77,Indus Rd,07 to 09,63,Improved,1973,50.33,350000,Oct 2021
+8,Jln Bt Ho Swee,01 to 03,55,Standard,1971,48.83,253888,Oct 2021
+8,Jln Bt Ho Swee,07 to 09,56,Standard,1971,48.83,300080,Oct 2021
+46,Jln Bt Ho Swee,01 to 03,62,Standard,1970,47.33,310000,Oct 2021
+1,Jln Bt Merah,04 to 06,64,Improved,1983,60.5,298000,Oct 2021
+107,Jln Bt Merah,04 to 06,63,Standard,1970,47.33,268000,Oct 2021
+108,Jln Bt Merah,07 to 09,74,Model A,1984,61.83,418000,Oct 2021
+113,Jln Bt Merah,01 to 03,60,Standard,1969,46.33,265000,Oct 2021
+113,Jln Bt Merah,07 to 09,71,Standard,1969,46.42,323000,Oct 2021
+132,Jln Bt Merah,07 to 09,59,Improved,1975,52.67,290000,Oct 2021
+132,Jln Bt Merah,07 to 09,70,Improved,1975,52.67,338888,Oct 2021
+141,Jln Bt Merah,01 to 03,67,New Generation,1979,56.33,308000,Oct 2021
+28,Jln Klinik,07 to 09,58,Standard,1969,46.83,328000,Oct 2021
+37,Jln Rumah Tinggi,10 to 12,53,Standard,1969,46.75,262000,Oct 2021
+45,Kim Cheng St,01 to 03,75,Standard,1973,50.25,600000,Oct 2021
+49,Kim Pong Rd,01 to 03,88,Standard,1973,50.42,638000,Oct 2021
+126C,Kim Tian Rd,31 to 33,62,Model A,2013,90.42,630000,Oct 2021
+127A,Kim Tian Rd,31 to 33,62,Model A,2013,90.42,625000,Oct 2021
+127C,Kim Tian Rd,25 to 27,62,Model A,2013,90.42,610000,Oct 2021
+36,Moh Guan Ter,01 to 03,88,Standard,1973,50.33,690000,Oct 2021
+47,Moh Guan Ter,01 to 03,77,Standard,1973,50.25,595000,Oct 2021
+86,Redhill Cl,04 to 06,59,Improved,1973,50.33,341499,Oct 2021
+86,Redhill Cl,07 to 09,59,Improved,1973,50.33,360000,Oct 2021
+148,Silat Ave,04 to 06,67,New Generation,1982,60.08,340000,Oct 2021
+18,Taman Ho Swee,07 to 09,54,Standard,1970,47.25,299998,Oct 2021
+1,Telok Blangah Cres,13 to 15,74,Improved,1983,60.58,360800,Oct 2021
+6,Telok Blangah Cres,07 to 09,65,Improved,1975,52.33,310000,Oct 2021
+8,Telok Blangah Cres,04 to 06,59,Improved,1975,52.58,290000,Oct 2021
+8,Telok Blangah Cres,04 to 06,72,Improved,1975,52.58,385000,Oct 2021
+12,Telok Blangah Cres,13 to 15,70,Improved,1975,52.58,368000,Oct 2021
+54,Telok Blangah Dr,01 to 03,73,New Generation,1978,55.33,382500,Oct 2021
+64,Telok Blangah Dr,10 to 12,67,New Generation,1978,55.83,386000,Oct 2021
+62,Telok Blangah Hts,04 to 06,88,New Generation,1976,54,408000,Oct 2021
+70B,Telok Blangah Hts,07 to 09,68,Model A,2017,94.58,615000,Oct 2021
+32,Telok Blangah Rise,13 to 15,59,Improved,1976,53.67,318000,Oct 2021
+80B,Telok Blangah St 31,10 to 12,67,Premium Apartment,2013,90.92,646000,Oct 2021
+80C,Telok Blangah St 31,34 to 36,68,Premium Apartment,2013,90.92,658000,Oct 2021
+24,Tiong Bahru Rd,01 to 03,75,Standard,1973,50.25,595000,Oct 2021
+128,Bt Merah View,16 to 18,65,Improved,1973,50.92,350000,Sep 2021
+129,Bt Merah View,07 to 09,65,Improved,1973,50.92,380000,Sep 2021
+129,Bt Merah View,16 to 18,76,Improved,1973,50.92,410000,Sep 2021
+16,Cantonment Cl,04 to 06,60,Model A,2003,80.42,541000,Sep 2021
+5,Everton Pk,07 to 09,72,New Generation,1980,58.25,475000,Sep 2021
+22,Havelock Rd,04 to 06,64,Standard,1969,46.92,318000,Sep 2021
+96B,Henderson Rd,19 to 21,68,Model A,2019,96.75,668000,Sep 2021
+1,Jln Bt Merah,07 to 09,64,Improved,1983,60.58,348000,Sep 2021
+2,Jln Bt Merah,13 to 15,63,Improved,1975,52.83,290000,Sep 2021
+107,Jln Bt Merah,04 to 06,63,Standard,1970,47.42,280000,Sep 2021
+141,Jln Bt Merah,07 to 09,67,New Generation,1979,56.42,325000,Sep 2021
+145,Jln Bt Merah,01 to 03,81,New Generation,1981,59.17,423000,Sep 2021
+26,Jln Klinik,04 to 06,60,Standard,1969,46.92,340000,Sep 2021
+30,Jln Klinik,01 to 03,58,Standard,1969,46.92,305000,Sep 2021
+26A,Jln Membina,04 to 06,60,Model A,2008,86.33,520000,Sep 2021
+26C,Jln Membina,13 to 15,60,Model A,2009,86.42,590000,Sep 2021
+26D,Jln Membina,19 to 21,60,Model A,2009,86.42,550000,Sep 2021
+38,Kim Pong Rd,01 to 03,75,Standard,1974,51.33,608000,Sep 2021
+33,Lim Liak St,01 to 03,75,Standard,1973,50.42,605000,Sep 2021
+86,Redhill Cl,04 to 06,68,Improved,1973,50.42,350000,Sep 2021
+6,Telok Blangah Cres,13 to 15,65,Improved,1975,52.42,315000,Sep 2021
+18,Telok Blangah Cres,07 to 09,65,Improved,1975,52.67,312500,Sep 2021
+20,Telok Blangah Cres,04 to 06,76,Improved,1975,52.5,350000,Sep 2021
+22,Telok Blangah Cres,01 to 03,70,Improved,1975,52.75,320000,Sep 2021
+54,Telok Blangah Dr,10 to 12,73,New Generation,1978,55.42,425000,Sep 2021
+60,Telok Blangah Hts,04 to 06,67,New Generation,1976,54,350000,Sep 2021
+60,Telok Blangah Hts,10 to 12,67,New Generation,1976,54.17,376000,Sep 2021
+70A,Telok Blangah Hts,19 to 21,68,Model A,2017,94.75,625000,Sep 2021
+70A,Telok Blangah Hts,19 to 21,68,Model A,2017,94.67,640000,Sep 2021
+70B,Telok Blangah Hts,22 to 24,68,Model A,2017,94.75,635000,Sep 2021
+42,Telok Blangah Rise,01 to 03,59,Improved,1976,53.67,260000,Sep 2021
+43,Telok Blangah Rise,10 to 12,59,Improved,1976,53.75,305000,Sep 2021
+80C,Telok Blangah St 31,04 to 06,68,Premium Apartment,2013,90.92,565000,Sep 2021
+24,Beo Cres,04 to 06,59,Standard,1971,49,350000,Aug 2021
+10A,Boon Tiong Rd,13 to 15,62,Model A,2016,93.5,635000,Aug 2021
+119,Bt Merah View,16 to 18,65,Improved,1983,60.5,363000,Aug 2021
+129,Bt Merah View,16 to 18,65,Improved,1973,51,380000,Aug 2021
+105,Bt Purmei Rd,07 to 09,69,New Generation,1983,60.5,390000,Aug 2021
+107,Bt Purmei Rd,07 to 09,67,New Generation,1983,60.5,360000,Aug 2021
+2,Everton Pk,10 to 12,72,New Generation,1980,58.33,500000,Aug 2021
+22,Havelock Rd,13 to 15,64,Standard,1969,47,323000,Aug 2021
+58,Havelock Rd,19 to 21,69,Model A,2013,90.83,660000,Aug 2021
+95C,Henderson Rd,19 to 21,68,Model A,2019,96.83,670000,Aug 2021
+77,Indus Rd,10 to 12,63,Improved,1973,50.5,345888,Aug 2021
+77,Indus Rd,10 to 12,75,Improved,1973,50.42,478000,Aug 2021
+107,Jln Bt Merah,01 to 03,63,Standard,1970,47.42,270000,Aug 2021
+107,Jln Bt Merah,01 to 03,63,Standard,1970,47.5,278000,Aug 2021
+108,Jln Bt Merah,07 to 09,74,Model A,1984,62,418000,Aug 2021
+138,Jln Bt Merah,04 to 06,68,Improved,1983,61.17,310000,Aug 2021
+141,Jln Bt Merah,04 to 06,67,New Generation,1979,56.5,322000,Aug 2021
+146,Jln Bt Merah,07 to 09,81,New Generation,1981,59.25,393000,Aug 2021
+26,Jln Klinik,01 to 03,60,Standard,1969,47,290000,Aug 2021
+26A,Jln Membina,16 to 18,60,Model A,2008,86.42,580000,Aug 2021
+26C,Jln Membina,13 to 15,60,Model A,2009,86.5,582000,Aug 2021
+37,Jln Rumah Tinggi,01 to 03,53,Standard,1969,47,240000,Aug 2021
+37,Jln Rumah Tinggi,07 to 09,53,Standard,1969,47,248000,Aug 2021
+37,Jln Rumah Tinggi,04 to 06,53,Standard,1969,46.92,258000,Aug 2021
+38,Kim Pong Rd,01 to 03,88,Standard,1974,51.5,668000,Aug 2021
+37,Lim Liak St,04 to 06,88,Standard,1974,51.42,655000,Aug 2021
+48,Moh Guan Ter,01 to 03,77,Standard,1973,50.5,628000,Aug 2021
+86,Redhill Cl,07 to 09,59,Improved,1973,50.5,333000,Aug 2021
+86,Redhill Cl,13 to 15,68,Improved,1973,50.42,388000,Aug 2021
+12,Taman Ho Swee,04 to 06,54,Standard,1970,47.5,258000,Aug 2021
+16,Telok Blangah Cres,04 to 06,65,Improved,1975,52.67,280000,Aug 2021
+44,Telok Blangah Dr,07 to 09,65,Improved,1976,53.42,318000,Aug 2021
+44,Telok Blangah Dr,04 to 06,65,Improved,1976,53.5,330000,Aug 2021
+44,Telok Blangah Dr,07 to 09,65,Improved,1976,53.58,333000,Aug 2021
+62,Telok Blangah Hts,07 to 09,73,New Generation,1976,54.17,410000,Aug 2021
+62,Telok Blangah Hts,04 to 06,88,New Generation,1976,54.17,410888,Aug 2021
+63,Telok Blangah Hts,10 to 12,73,New Generation,1976,54.25,405000,Aug 2021
+70A,Telok Blangah Hts,13 to 15,68,Model A,2017,94.83,618000,Aug 2021
+70B,Telok Blangah Hts,04 to 06,68,Model A,2017,94.75,565000,Aug 2021
+28,Telok Blangah Rise,07 to 09,59,Improved,1976,53.83,318000,Aug 2021
+30,Telok Blangah Rise,04 to 06,70,Improved,1976,53.83,316888,Aug 2021
+42,Telok Blangah Rise,07 to 09,59,Improved,1976,53.75,326000,Aug 2021
+80C,Telok Blangah St 31,34 to 36,68,Premium Apartment,2013,91.08,680000,Aug 2021
+38,Beo Cres,04 to 06,59,Standard,1971,48.58,330000,Jul 2021
+10B,Boon Tiong Rd,22 to 24,62,Model A,2016,93.5,688000,Jul 2021
+129,Bt Merah View,16 to 18,65,Improved,1973,51.08,310000,Jul 2021
+130,Bt Merah View,10 to 12,65,Improved,1973,51.08,340000,Jul 2021
+108,Bt Purmei Rd,01 to 03,74,Model A,1984,62.08,345000,Jul 2021
+4,Everton Pk,04 to 06,72,New Generation,1980,58.33,423800,Jul 2021
+7,Everton Pk,07 to 09,84,New Generation,1980,58.42,465000,Jul 2021
+58,Havelock Rd,01 to 03,69,Model A,2013,90.83,540000,Jul 2021
+46,Jln Bt Ho Swee,04 to 06,62,Standard,1970,47.58,295000,Jul 2021
+46,Jln Bt Ho Swee,07 to 09,62,Standard,1970,47.58,320000,Jul 2021
+28,Jln Bt Merah,13 to 15,60,Standard,1967,45,270000,Jul 2021
+107,Jln Bt Merah,04 to 06,63,Standard,1970,47.58,270000,Jul 2021
+113,Jln Bt Merah,01 to 03,58,Standard,1969,46.58,265000,Jul 2021
+138,Jln Bt Merah,07 to 09,59,Improved,1983,61.17,295000,Jul 2021
+26,Jln Klinik,07 to 09,60,Standard,1969,47.08,250000,Jul 2021
+26D,Jln Membina,19 to 21,60,Model A,2009,86.58,580000,Jul 2021
+37,Jln Rumah Tinggi,04 to 06,53,Standard,1969,47.08,240000,Jul 2021
+37,Jln Rumah Tinggi,04 to 06,53,Standard,1969,47.08,249000,Jul 2021
+34,Kim Cheng St,01 to 03,75,Standard,1973,50.5,500000,Jul 2021
+44,Moh Guan Ter,01 to 03,77,Standard,1973,50.58,590000,Jul 2021
+12,Telok Blangah Cres,01 to 03,59,Improved,1975,52.83,278000,Jul 2021
+21,Telok Blangah Cres,10 to 12,65,Improved,1975,52.92,340000,Jul 2021
+44,Telok Blangah Dr,01 to 03,65,Improved,1976,53.58,300000,Jul 2021
+44,Telok Blangah Dr,01 to 03,65,Improved,1976,53.67,310000,Jul 2021
+55,Telok Blangah Dr,07 to 09,73,New Generation,1978,55.5,335000,Jul 2021
+64,Telok Blangah Dr,10 to 12,67,New Generation,1978,56,378000,Jul 2021
+75,Telok Blangah Dr,07 to 09,67,New Generation,1978,55.58,420000,Jul 2021
+60,Telok Blangah Hts,04 to 06,67,New Generation,1976,54.25,338000,Jul 2021
+70B,Telok Blangah Hts,13 to 15,68,Model A,2017,94.92,615000,Jul 2021
+28,Telok Blangah Rise,01 to 03,59,Improved,1976,53.92,270000,Jul 2021
+43,Telok Blangah Rise,07 to 09,59,Improved,1976,53.83,288000,Jul 2021
+33,Telok Blangah Way,07 to 09,59,Improved,1976,53.83,278000,Jul 2021
+33,Telok Blangah Way,07 to 09,59,Improved,1976,53.75,310000,Jul 2021
+119,Bt Merah View,04 to 06,65,Improved,1983,60.58,320000,Jun 2021
+128,Bt Merah View,16 to 18,65,Improved,1973,51.17,380088,Jun 2021
+129,Bt Merah View,10 to 12,65,Improved,1973,51.17,365000,Jun 2021
+101,Bt Purmei Rd,01 to 03,72,New Generation,1983,61.25,375000,Jun 2021
+105,Bt Purmei Rd,04 to 06,69,New Generation,1983,60.75,350000,Jun 2021
+108,Bt Purmei Rd,07 to 09,75,Model A,1984,62.17,395000,Jun 2021
+22,Havelock Rd,10 to 12,64,Standard,1969,47.17,310088,Jun 2021
+95A,Henderson Rd,25 to 27,68,Model A,2019,97,680000,Jun 2021
+8,Jln Bt Ho Swee,04 to 06,56,Standard,1971,49.17,283000,Jun 2021
+131,Jln Bt Merah,10 to 12,65,Improved,1976,53.67,315000,Jun 2021
+137,Jln Bt Merah,10 to 12,59,Improved,1975,53,260000,Jun 2021
+141,Jln Bt Merah,01 to 03,67,New Generation,1979,56.67,305888,Jun 2021
+141,Jln Bt Merah,04 to 06,67,New Generation,1979,56.75,315000,Jun 2021
+142,Jln Bt Merah,04 to 06,67,New Generation,1979,56.67,350000,Jun 2021
+144,Jln Bt Merah,07 to 09,81,New Generation,1981,59.33,390000,Jun 2021
+146,Jln Bt Merah,10 to 12,67,New Generation,1981,59.42,330000,Jun 2021
+146,Jln Bt Merah,07 to 09,67,New Generation,1981,59.42,350000,Jun 2021
+37,Jln Rumah Tinggi,04 to 06,53,Standard,1969,47.17,230000,Jun 2021
+127C,Kim Tian Rd,31 to 33,62,Model A,2013,90.75,616500,Jun 2021
+13,Telok Blangah Cres,04 to 06,65,Improved,1975,53.58,298000,Jun 2021
+13,Telok Blangah Cres,10 to 12,65,Improved,1975,53.58,300000,Jun 2021
+47,Telok Blangah Dr,07 to 09,65,Improved,1976,53.67,368000,Jun 2021
+47,Telok Blangah Dr,04 to 06,76,Improved,1976,53.67,400000,Jun 2021
+64,Telok Blangah Dr,01 to 03,82,New Generation,1978,56.17,385000,Jun 2021
+65,Telok Blangah Dr,07 to 09,67,New Generation,1978,56.17,365000,Jun 2021
+75,Telok Blangah Dr,04 to 06,82,New Generation,1978,55.67,510000,Jun 2021
+77,Telok Blangah Dr,13 to 15,67,New Generation,1978,55.67,370000,Jun 2021
+61,Telok Blangah Hts,04 to 06,67,New Generation,1976,54.42,335000,Jun 2021
+62,Telok Blangah Hts,10 to 12,73,New Generation,1976,54.33,368000,Jun 2021
+32,Telok Blangah Rise,07 to 09,59,Improved,1976,54,278000,Jun 2021
+42,Telok Blangah Rise,01 to 03,70,Improved,1976,53.83,322888,Jun 2021
+80C,Telok Blangah St 31,04 to 06,68,Premium Apartment,2013,91.25,572000,Jun 2021
+17,Tiong Bahru Rd,01 to 03,88,Standard,1973,50.58,680888,Jun 2021
+40,Beo Cres,04 to 06,59,Standard,1971,48.75,320000,May 2021
+10B,Boon Tiong Rd,13 to 15,62,Model A,2016,93.75,699000,May 2021
+119,Bt Merah View,07 to 09,65,Improved,1983,60.75,350000,May 2021
+129,Bt Merah View,16 to 18,65,Improved,1973,51.25,355000,May 2021
+105,Bt Purmei Rd,04 to 06,67,New Generation,1983,60.75,382000,May 2021
+9,Cantonment Cl,04 to 06,60,Model A,2002,80.67,540000,May 2021
+7,Everton Pk,07 to 09,86,New Generation,1980,58.58,515000,May 2021
+55,Havelock Rd,01 to 03,69,Model A,2013,91.08,520000,May 2021
+57,Havelock Rd,10 to 12,69,Model A,2013,91,645000,May 2021
+107,Jln Bt Merah,10 to 12,63,Standard,1970,47.75,270000,May 2021
+131,Jln Bt Merah,07 to 09,65,Improved,1976,53.75,300000,May 2021
+146,Jln Bt Merah,04 to 06,67,New Generation,1981,59.42,340000,May 2021
+28,Jln Klinik,07 to 09,58,Standard,1969,47.17,310000,May 2021
+46,Seng Poh Rd,04 to 06,88,Standard,1973,50.75,633000,May 2021
+20,Telok Blangah Cres,07 to 09,76,Improved,1975,52.92,348000,May 2021
+21,Telok Blangah Cres,01 to 03,65,Improved,1975,53.08,292000,May 2021
+44,Telok Blangah Dr,01 to 03,65,Improved,1976,53.67,310000,May 2021
+47,Telok Blangah Dr,04 to 06,65,Improved,1976,53.75,295000,May 2021
+63,Telok Blangah Hts,07 to 09,73,New Generation,1976,54.42,408000,May 2021
+70A,Telok Blangah Hts,01 to 03,68,Model A,2017,95.08,585000,May 2021
+70B,Telok Blangah Hts,16 to 18,68,Model A,2017,95,608888,May 2021
+43,Telok Blangah Rise,01 to 03,59,Improved,1976,53.92,270000,May 2021
+43,Telok Blangah Rise,13 to 15,59,Improved,1976,54,350000,May 2021
+80C,Telok Blangah St 31,16 to 18,68,Premium Apartment,2013,91.33,615000,May 2021
+22,Tiong Bahru Rd,01 to 03,88,Standard,1973,50.67,605888,May 2021
+10A,Boon Tiong Rd,22 to 24,62,Model A,2016,93.83,675000,Apr 2021
+119,Bt Merah View,07 to 09,65,Improved,1983,60.75,318000,Apr 2021
+101,Bt Purmei Rd,10 to 12,69,New Generation,1983,61.42,400888,Apr 2021
+3,Everton Pk,10 to 12,72,New Generation,1980,58.58,440000,Apr 2021
+22,Havelock Rd,04 to 06,64,Standard,1969,47.42,311000,Apr 2021
+54,Havelock Rd,22 to 24,69,Model A,2013,91.08,649998,Apr 2021
+58,Havelock Rd,19 to 21,69,Model A,2013,91.08,650000,Apr 2021
+4,Jln Bt Ho Swee,01 to 03,59,Standard,1971,49.33,305000,Apr 2021
+6,Jln Bt Ho Swee,01 to 03,55,Standard,1971,49.33,226000,Apr 2021
+8,Jln Bt Ho Swee,07 to 09,56,Standard,1971,49.33,280888,Apr 2021
+8,Jln Bt Ho Swee,04 to 06,56,Standard,1971,49.25,288000,Apr 2021
+2,Jln Bt Merah,13 to 15,63,Improved,1975,53.25,286000,Apr 2021
+2,Jln Bt Merah,13 to 15,63,Improved,1975,53.25,290000,Apr 2021
+2,Jln Bt Merah,10 to 12,63,Improved,1975,53.17,303000,Apr 2021
+28,Jln Bt Merah,07 to 09,60,Standard,1967,45.17,255000,Apr 2021
+108,Jln Bt Merah,07 to 09,74,Model A,1984,62.25,414000,Apr 2021
+144,Jln Bt Merah,04 to 06,67,New Generation,1981,59.5,345000,Apr 2021
+144,Jln Bt Merah,04 to 06,67,New Generation,1981,59.42,360000,Apr 2021
+26C,Jln Membina,16 to 18,60,Model A,2009,86.75,580000,Apr 2021
+37,Jln Rumah Tinggi,04 to 06,53,Standard,1969,47.33,250000,Apr 2021
+35,Lim Liak St,01 to 03,88,Standard,1973,50.83,680000,Apr 2021
+12,Telok Blangah Cres,01 to 03,59,Improved,1975,53.08,257000,Apr 2021
+12,Telok Blangah Cres,01 to 03,70,Improved,1975,53.08,275000,Apr 2021
+16,Telok Blangah Cres,10 to 12,76,Improved,1975,53.08,330000,Apr 2021
+22,Telok Blangah Cres,01 to 03,59,Improved,1975,53.08,295000,Apr 2021
+44,Telok Blangah Dr,07 to 09,65,Improved,1976,53.83,308000,Apr 2021
+44,Telok Blangah Dr,01 to 03,65,Improved,1976,53.75,315000,Apr 2021
+44,Telok Blangah Dr,07 to 09,65,Improved,1976,53.75,357000,Apr 2021
+44,Telok Blangah Dr,04 to 06,76,Improved,1976,53.92,362000,Apr 2021
+64,Telok Blangah Dr,01 to 03,67,New Generation,1978,56.33,312000,Apr 2021
+64,Telok Blangah Dr,04 to 06,67,New Generation,1978,56.25,378000,Apr 2021
+61,Telok Blangah Hts,01 to 03,67,New Generation,1976,54.5,305000,Apr 2021
+62,Telok Blangah Hts,07 to 09,73,New Generation,1976,54.5,385000,Apr 2021
+63,Telok Blangah Hts,10 to 12,73,New Generation,1976,54.58,368000,Apr 2021
+70A,Telok Blangah Hts,16 to 18,68,Model A,2017,95.17,602888,Apr 2021
+70A,Telok Blangah Hts,16 to 18,68,Model A,2017,95.08,615000,Apr 2021
+70A,Telok Blangah Hts,22 to 24,68,Model A,2017,95.08,620000,Apr 2021
+30,Telok Blangah Rise,10 to 12,70,Improved,1976,54.08,307000,Apr 2021
+35,Telok Blangah Rise,01 to 03,60,Improved,1976,54.5,270000,Apr 2021
+22,Tiong Bahru Rd,04 to 06,88,Standard,1973,50.75,590000,Apr 2021
+128,Bt Merah View,04 to 06,65,Improved,1973,51.33,300000,Mar 2021
+128,Bt Merah View,13 to 15,65,Improved,1973,51.33,330000,Mar 2021
+107,Bt Purmei Rd,10 to 12,67,New Generation,1983,60.83,385000,Mar 2021
+13,Cantonment Cl,16 to 18,60,Model A,2003,80.92,535000,Mar 2021
+95A,Henderson Rd,40 to 42,68,Model A,2019,97.17,680000,Mar 2021
+96B,Henderson Rd,04 to 06,68,Model A,2019,97.25,620000,Mar 2021
+78,Indus Rd,13 to 15,76,Improved,1982,60.58,480000,Mar 2021
+8,Jln Bt Ho Swee,07 to 09,56,Standard,1971,49.42,268000,Mar 2021
+46,Jln Bt Ho Swee,07 to 09,62,Standard,1970,47.83,295000,Mar 2021
+107,Jln Bt Merah,10 to 12,63,Standard,1970,47.92,265000,Mar 2021
+131,Jln Bt Merah,07 to 09,65,Improved,1976,53.83,308000,Mar 2021
+137,Jln Bt Merah,04 to 06,59,Improved,1975,53.25,256000,Mar 2021
+137,Jln Bt Merah,07 to 09,70,Improved,1975,53.17,310000,Mar 2021
+20,Jln Klinik,04 to 06,59,Standard,1971,48.92,290000,Mar 2021
+26,Jln Klinik,07 to 09,60,Standard,1969,47.33,320000,Mar 2021
+26C,Jln Membina,10 to 12,60,Model A,2009,86.92,525000,Mar 2021
+127C,Kim Tian Rd,28 to 30,62,Model A,2013,90.92,570000,Mar 2021
+130,Kim Tian Rd,07 to 09,65,Improved,1976,53.83,290000,Mar 2021
+21,Lim Liak St,04 to 06,88,Standard,1973,50.83,570000,Mar 2021
+86,Redhill Cl,16 to 18,59,Improved,1973,50.92,318000,Mar 2021
+16,Telok Blangah Cres,10 to 12,65,Improved,1975,53.17,280000,Mar 2021
+75,Telok Blangah Dr,04 to 06,67,New Generation,1978,55.92,380000,Mar 2021
+70A,Telok Blangah Hts,25 to 27,68,Model A,2017,95.17,625000,Mar 2021
+70B,Telok Blangah Hts,25 to 27,68,Model A,2017,95.17,620000,Mar 2021
+30,Telok Blangah Rise,07 to 09,70,Improved,1976,54.25,320000,Mar 2021
+20,Tiong Bahru Rd,01 to 03,88,Standard,1973,50.83,567000,Mar 2021
+36,Beo Cres,04 to 06,59,Standard,1971,49.5,312000,Feb 2021
+40,Beo Cres,07 to 09,59,Standard,1971,48.92,338888,Feb 2021
+10A,Boon Tiong Rd,34 to 36,62,Model A,2016,93.92,683000,Feb 2021
+119,Bt Merah View,10 to 12,65,Improved,1983,61,390000,Feb 2021
+129,Bt Merah View,13 to 15,65,Improved,1973,51.5,320000,Feb 2021
+130,Bt Merah View,04 to 06,76,Improved,1973,51.42,345000,Feb 2021
+130,Bt Merah View,19 to 21,76,Improved,1973,51.42,403000,Feb 2021
+130,Bt Merah View,16 to 18,76,Improved,1973,51.42,418000,Feb 2021
+101,Bt Purmei Rd,01 to 03,67,New Generation,1983,61.5,355000,Feb 2021
+102,Bt Purmei Rd,01 to 03,77,Model A,1984,62.25,410000,Feb 2021
+104,Bt Purmei Rd,04 to 06,73,Model A,1984,62.33,380000,Feb 2021
+110,Bt Purmei Rd,07 to 09,75,Model A,1984,62.58,389088,Feb 2021
+58,Havelock Rd,10 to 12,69,Model A,2013,91.25,635000,Feb 2021
+95B,Henderson Rd,22 to 24,68,Model A,2019,97.33,660000,Feb 2021
+77,Indus Rd,04 to 06,63,Improved,1973,51,385000,Feb 2021
+8,Jln Bt Ho Swee,01 to 03,56,Standard,1971,49.58,255000,Feb 2021
+107,Jln Bt Merah,01 to 03,63,Standard,1970,48,255000,Feb 2021
+37,Jln Rumah Tinggi,07 to 09,53,Standard,1969,47.5,230000,Feb 2021
+37,Jln Rumah Tinggi,04 to 06,53,Standard,1969,47.42,235000,Feb 2021
+21,Lim Liak St,01 to 03,75,Standard,1973,51,618000,Feb 2021
+25,Lim Liak St,04 to 06,88,Standard,1973,51.08,636000,Feb 2021
+47,Telok Blangah Dr,01 to 03,65,Improved,1976,53.92,295000,Feb 2021
+54,Telok Blangah Dr,07 to 09,73,New Generation,1978,56,370000,Feb 2021
+63,Telok Blangah Hts,04 to 06,73,New Generation,1976,54.67,352000,Feb 2021
+63,Telok Blangah Hts,10 to 12,73,New Generation,1976,54.58,390000,Feb 2021
+70A,Telok Blangah Hts,07 to 09,68,Model A,2017,95.33,585000,Feb 2021
+32,Telok Blangah Rise,10 to 12,59,Improved,1976,54.33,303000,Feb 2021
+35,Telok Blangah Rise,04 to 06,60,Improved,1976,54.75,260000,Feb 2021
+42,Telok Blangah Rise,04 to 06,59,Improved,1976,54.17,275000,Feb 2021
+80C,Telok Blangah St 31,07 to 09,68,Premium Apartment,2013,91.5,558000,Feb 2021
+33,Telok Blangah Way,10 to 12,59,Improved,1976,54.25,280000,Feb 2021
+36,Beo Cres,10 to 12,59,Standard,1971,49.5,340000,Jan 2021
+40,Beo Cres,04 to 06,59,Standard,1971,49,310000,Jan 2021
+119,Bt Merah View,01 to 03,65,Improved,1983,61.08,270000,Jan 2021
+105,Bt Purmei Rd,01 to 03,69,New Generation,1983,61.17,356000,Jan 2021
+112,Bt Purmei Rd,01 to 03,74,Model A,1985,63.25,345000,Jan 2021
+9,Cantonment Cl,01 to 03,60,Model A,2002,80.92,480000,Jan 2021
+11,Cantonment Cl,19 to 21,60,Model A,2002,80.92,532000,Jan 2021
+4,Everton Pk,01 to 03,72,New Generation,1980,58.92,398000,Jan 2021
+5,Everton Pk,07 to 09,72,New Generation,1980,58.83,439500,Jan 2021
+6,Everton Pk,10 to 12,72,New Generation,1980,58.92,470000,Jan 2021
+22,Havelock Rd,16 to 18,73,Standard,1969,47.5,320000,Jan 2021
+96B,Henderson Rd,19 to 21,68,Model A,2019,97.42,668000,Jan 2021
+2,Jln Bt Merah,01 to 03,63,Improved,1975,53.5,270000,Jan 2021
+28,Jln Bt Merah,10 to 12,60,Standard,1967,45.42,235000,Jan 2021
+131,Jln Bt Merah,07 to 09,65,Improved,1976,54.08,300000,Jan 2021
+136,Jln Bt Merah,07 to 09,59,Improved,1975,53.33,268000,Jan 2021
+136,Jln Bt Merah,04 to 06,70,Improved,1975,53.42,290000,Jan 2021
+10,Jln Rumah Tinggi,01 to 03,73,New Generation,1988,66.5,350000,Jan 2021
+127C,Kim Tian Rd,19 to 21,62,Model A,2013,91.08,560000,Jan 2021
+37,Lim Liak St,01 to 03,75,Standard,1974,52,620000,Jan 2021
+149,Silat Ave,04 to 06,82,New Generation,1982,60.92,388000,Jan 2021
+16,Taman Ho Swee,04 to 06,54,Standard,1970,48.08,263000,Jan 2021
+16,Taman Ho Swee,01 to 03,66,Standard,1970,48.17,345000,Jan 2021
+5,Telok Blangah Cres,01 to 03,66,Improved,1983,61.33,275000,Jan 2021
+15,Telok Blangah Cres,10 to 12,76,Improved,1975,53.25,338000,Jan 2021
+21,Telok Blangah Cres,07 to 09,76,Improved,1975,53.42,328888,Jan 2021
+44,Telok Blangah Dr,01 to 03,65,Improved,1976,54,312000,Jan 2021
+47,Telok Blangah Dr,04 to 06,65,Improved,1976,54,325000,Jan 2021
+65,Telok Blangah Dr,07 to 09,67,New Generation,1978,56.58,335000,Jan 2021
+28,Telok Blangah Rise,01 to 03,70,Improved,1976,54.33,238000,Jan 2021
+42,Telok Blangah Rise,07 to 09,70,Improved,1976,54.33,395000,Jan 2021
+80C,Telok Blangah St 31,25 to 27,68,Premium Apartment,2013,91.67,625000,Jan 2021
+24,Beo Cres,01 to 03,59,Standard,1971,49.67,298000,Dec 2020
+36,Beo Cres,04 to 06,59,Standard,1971,49.67,295888,Dec 2020
+10B,Boon Tiong Rd,16 to 18,62,Model A,2016,94.17,665000,Dec 2020
+129,Bt Merah View,19 to 21,65,Improved,1973,51.67,275000,Dec 2020
+129,Bt Merah View,01 to 03,76,Improved,1973,51.67,380000,Dec 2020
+130,Bt Merah View,19 to 21,65,Improved,1973,51.67,300000,Dec 2020
+130,Bt Merah View,13 to 15,65,Improved,1973,51.67,328000,Dec 2020
+101,Bt Purmei Rd,04 to 06,69,New Generation,1983,61.75,395000,Dec 2020
+109,Bt Purmei Rd,07 to 09,79,Model A,1984,62.67,410000,Dec 2020
+13,Cantonment Cl,04 to 06,60,Model A,2003,81.08,525000,Dec 2020
+54,Havelock Rd,22 to 24,69,Model A,2013,91.5,625000,Dec 2020
+58,Havelock Rd,01 to 03,69,Model A,2013,91.5,565000,Dec 2020
+105,Henderson Cres,07 to 09,65,Improved,1975,53.08,270000,Dec 2020
+105,Henderson Cres,16 to 18,65,Improved,1975,53.08,295000,Dec 2020
+46,Jln Bt Ho Swee,04 to 06,62,Standard,1970,48.17,298000,Dec 2020
+2,Jln Bt Merah,04 to 06,63,Improved,1975,53.58,258000,Dec 2020
+133,Jln Bt Merah,04 to 06,59,Improved,1983,61.75,286000,Dec 2020
+142,Jln Bt Merah,10 to 12,67,New Generation,1979,57.17,320000,Dec 2020
+144,Jln Bt Merah,07 to 09,67,New Generation,1981,59.83,300000,Dec 2020
+145,Jln Bt Merah,07 to 09,67,New Generation,1981,60,335000,Dec 2020
+37,Jln Rumah Tinggi,04 to 06,53,Standard,1969,47.67,238000,Dec 2020
+34,Kim Cheng St,01 to 03,88,Standard,1973,51.08,620000,Dec 2020
+49,Kim Pong Rd,04 to 06,88,Standard,1973,51.08,623000,Dec 2020
+19,Lim Liak St,04 to 06,88,Standard,1973,51.17,550000,Dec 2020
+43,Moh Guan Ter,04 to 06,77,Standard,1973,51.08,530888,Dec 2020
+149,Silat Ave,10 to 12,67,New Generation,1982,61,328000,Dec 2020
+10,Telok Blangah Cres,04 to 06,72,Improved,1975,53.42,300000,Dec 2020
+22,Telok Blangah Cres,10 to 12,59,Improved,1975,53.5,290000,Dec 2020
+44,Telok Blangah Dr,01 to 03,65,Improved,1976,54.08,295000,Dec 2020
+44,Telok Blangah Dr,01 to 03,76,Improved,1976,54.17,335000,Dec 2020
+60,Telok Blangah Hts,07 to 09,81,New Generation,1976,54.75,395000,Dec 2020
+30,Telok Blangah Rise,04 to 06,70,Improved,1976,54.5,308000,Dec 2020
+80B,Telok Blangah St 31,10 to 12,67,Premium Apartment,2013,91.75,610000,Dec 2020
+24,Beo Cres,10 to 12,59,Standard,1971,49.75,312000,Nov 2020
+36,Beo Cres,10 to 12,59,Standard,1971,49.75,310000,Nov 2020
+38,Beo Cres,07 to 09,59,Standard,1971,49.25,330000,Nov 2020
+101,Bt Purmei Rd,04 to 06,69,New Generation,1983,61.75,360000,Nov 2020
+104,Bt Purmei Rd,01 to 03,75,Model A,1984,62.42,348000,Nov 2020
+104,Bt Purmei Rd,10 to 12,73,Model A,1984,62.5,383000,Nov 2020
+110,Bt Purmei Rd,07 to 09,75,Model A,1984,62.83,310000,Nov 2020
+2,Everton Pk,04 to 06,72,New Generation,1980,59.08,420000,Nov 2020
+4,Everton Pk,04 to 06,72,New Generation,1980,59,418000,Nov 2020
+7,Everton Pk,10 to 12,84,New Generation,1980,59.08,455000,Nov 2020
+55,Havelock Rd,10 to 12,69,Model A,2013,91.5,630000,Nov 2020
+77,Indus Rd,04 to 06,63,Improved,1973,51.25,330000,Nov 2020
+78,Indus Rd,16 to 18,65,Improved,1982,60.92,389000,Nov 2020
+78,Indus Rd,13 to 15,76,Improved,1982,60.92,518000,Nov 2020
+8,Jln Bt Ho Swee,04 to 06,56,Standard,1971,49.67,280000,Nov 2020
+46,Jln Bt Ho Swee,10 to 12,62,Standard,1970,48.17,295000,Nov 2020
+2,Jln Bt Merah,01 to 03,63,Improved,1975,53.67,268000,Nov 2020
+133,Jln Bt Merah,10 to 12,59,Improved,1983,61.83,276000,Nov 2020
+137,Jln Bt Merah,04 to 06,59,Improved,1975,53.58,240888,Nov 2020
+142,Jln Bt Merah,07 to 09,67,New Generation,1979,57.17,290000,Nov 2020
+142,Jln Bt Merah,01 to 03,67,New Generation,1979,57.17,300000,Nov 2020
+25,Lim Liak St,04 to 06,88,Standard,1973,51.25,583188,Nov 2020
+17,Seng Poh Rd,01 to 03,88,Standard,1973,51.25,540000,Nov 2020
+148,Silat Ave,01 to 03,82,New Generation,1982,61,378000,Nov 2020
+6,Telok Blangah Cres,16 to 18,65,Improved,1975,53.25,300000,Nov 2020
+21,Telok Blangah Cres,04 to 06,76,Improved,1975,53.58,330000,Nov 2020
+28,Telok Blangah Rise,04 to 06,59,Improved,1976,54.5,290000,Nov 2020
+43,Telok Blangah Rise,07 to 09,70,Improved,1976,54.42,333000,Nov 2020
+33,Telok Blangah Way,10 to 12,59,Improved,1976,54.42,276000,Nov 2020
+33,Telok Blangah Way,04 to 06,70,Improved,1976,54.5,300000,Nov 2020
+28,Jln Bt Merah,07 to 09,60,Standard,1967,44.67,288000,Nov 2021
+137,Jln Bt Merah,07 to 09,59,Improved,1975,52.58,270000,Nov 2021
+42,Telok Blangah Rise,04 to 06,70,Improved,1976,53.58,320000,Nov 2021
+38,Beo Cres,07 to 09,59,Standard,1971,48.33,295000,Oct 2021
+128,Bt Merah View,16 to 18,65,Improved,1973,50.83,356000,Oct 2021
+103,Bt Purmei Rd,01 to 03,67,New Generation,1982,60.25,378000,Oct 2021
+12,Cantonment Cl,25 to 27,60,Model A,2003,80.33,570000,Oct 2021
+18,Cantonment Cl,13 to 15,60,Model A,2002,80.17,580000,Oct 2021
+7,Everton Pk,01 to 03,84,New Generation,1980,58.08,456000,Oct 2021
+105,Henderson Cres,16 to 18,65,Improved,1975,52.42,330000,Oct 2021
+28,Hoy Fatt Rd,16 to 18,60,Standard,1967,44.75,262888,Oct 2021
+77,Indus Rd,07 to 09,63,Improved,1973,50.33,350000,Oct 2021
+8,Jln Bt Ho Swee,01 to 03,55,Standard,1971,48.83,253888,Oct 2021
+8,Jln Bt Ho Swee,07 to 09,56,Standard,1971,48.83,300080,Oct 2021
+46,Jln Bt Ho Swee,01 to 03,62,Standard,1970,47.33,310000,Oct 2021
+1,Jln Bt Merah,04 to 06,64,Improved,1983,60.5,298000,Oct 2021
+107,Jln Bt Merah,04 to 06,63,Standard,1970,47.33,268000,Oct 2021
+108,Jln Bt Merah,07 to 09,74,Model A,1984,61.83,418000,Oct 2021
+113,Jln Bt Merah,01 to 03,60,Standard,1969,46.33,265000,Oct 2021
+113,Jln Bt Merah,07 to 09,71,Standard,1969,46.42,323000,Oct 2021
+132,Jln Bt Merah,07 to 09,59,Improved,1975,52.67,290000,Oct 2021
+132,Jln Bt Merah,07 to 09,70,Improved,1975,52.67,338888,Oct 2021
+141,Jln Bt Merah,01 to 03,67,New Generation,1979,56.33,308000,Oct 2021
+28,Jln Klinik,07 to 09,58,Standard,1969,46.83,328000,Oct 2021
+37,Jln Rumah Tinggi,10 to 12,53,Standard,1969,46.75,262000,Oct 2021
+45,Kim Cheng St,01 to 03,75,Standard,1973,50.25,600000,Oct 2021
+49,Kim Pong Rd,01 to 03,88,Standard,1973,50.42,638000,Oct 2021
+126C,Kim Tian Rd,31 to 33,62,Model A,2013,90.42,630000,Oct 2021
+127A,Kim Tian Rd,31 to 33,62,Model A,2013,90.42,625000,Oct 2021
+127C,Kim Tian Rd,25 to 27,62,Model A,2013,90.42,610000,Oct 2021
+36,Moh Guan Ter,01 to 03,88,Standard,1973,50.33,690000,Oct 2021
+47,Moh Guan Ter,01 to 03,77,Standard,1973,50.25,595000,Oct 2021
+86,Redhill Cl,04 to 06,59,Improved,1973,50.33,341499,Oct 2021
+86,Redhill Cl,07 to 09,59,Improved,1973,50.33,360000,Oct 2021
+148,Silat Ave,04 to 06,67,New Generation,1982,60.08,340000,Oct 2021
+18,Taman Ho Swee,07 to 09,54,Standard,1970,47.25,299998,Oct 2021
+1,Telok Blangah Cres,13 to 15,74,Improved,1983,60.58,360800,Oct 2021
+6,Telok Blangah Cres,07 to 09,65,Improved,1975,52.33,310000,Oct 2021
+8,Telok Blangah Cres,04 to 06,59,Improved,1975,52.58,290000,Oct 2021
+8,Telok Blangah Cres,04 to 06,72,Improved,1975,52.58,385000,Oct 2021
+12,Telok Blangah Cres,13 to 15,70,Improved,1975,52.58,368000,Oct 2021
+54,Telok Blangah Dr,01 to 03,73,New Generation,1978,55.33,382500,Oct 2021
+64,Telok Blangah Dr,10 to 12,67,New Generation,1978,55.83,386000,Oct 2021
+62,Telok Blangah Hts,04 to 06,88,New Generation,1976,54,408000,Oct 2021
+70B,Telok Blangah Hts,07 to 09,68,Model A,2017,94.58,615000,Oct 2021
+32,Telok Blangah Rise,13 to 15,59,Improved,1976,53.67,318000,Oct 2021
+80B,Telok Blangah St 31,10 to 12,67,Premium Apartment,2013,90.92,646000,Oct 2021
+80C,Telok Blangah St 31,34 to 36,68,Premium Apartment,2013,90.92,658000,Oct 2021
+24,Tiong Bahru Rd,01 to 03,75,Standard,1973,50.25,595000,Oct 2021
+128,Bt Merah View,16 to 18,65,Improved,1973,50.92,350000,Sep 2021
+129,Bt Merah View,07 to 09,65,Improved,1973,50.92,380000,Sep 2021
+129,Bt Merah View,16 to 18,76,Improved,1973,50.92,410000,Sep 2021
+16,Cantonment Cl,04 to 06,60,Model A,2003,80.42,541000,Sep 2021
+5,Everton Pk,07 to 09,72,New Generation,1980,58.25,475000,Sep 2021
+22,Havelock Rd,04 to 06,64,Standard,1969,46.92,318000,Sep 2021
+96B,Henderson Rd,19 to 21,68,Model A,2019,96.75,668000,Sep 2021
+1,Jln Bt Merah,07 to 09,64,Improved,1983,60.58,348000,Sep 2021
+2,Jln Bt Merah,13 to 15,63,Improved,1975,52.83,290000,Sep 2021
+107,Jln Bt Merah,04 to 06,63,Standard,1970,47.42,280000,Sep 2021
+141,Jln Bt Merah,07 to 09,67,New Generation,1979,56.42,325000,Sep 2021
+145,Jln Bt Merah,01 to 03,81,New Generation,1981,59.17,423000,Sep 2021
+26,Jln Klinik,04 to 06,60,Standard,1969,46.92,340000,Sep 2021
+30,Jln Klinik,01 to 03,58,Standard,1969,46.92,305000,Sep 2021
+26A,Jln Membina,04 to 06,60,Model A,2008,86.33,520000,Sep 2021
+26C,Jln Membina,13 to 15,60,Model A,2009,86.42,590000,Sep 2021
+26D,Jln Membina,19 to 21,60,Model A,2009,86.42,550000,Sep 2021
+38,Kim Pong Rd,01 to 03,75,Standard,1974,51.33,608000,Sep 2021
+33,Lim Liak St,01 to 03,75,Standard,1973,50.42,605000,Sep 2021
+86,Redhill Cl,04 to 06,68,Improved,1973,50.42,350000,Sep 2021
+6,Telok Blangah Cres,13 to 15,65,Improved,1975,52.42,315000,Sep 2021
+18,Telok Blangah Cres,07 to 09,65,Improved,1975,52.67,312500,Sep 2021
+20,Telok Blangah Cres,04 to 06,76,Improved,1975,52.5,350000,Sep 2021
+22,Telok Blangah Cres,01 to 03,70,Improved,1975,52.75,320000,Sep 2021
+54,Telok Blangah Dr,10 to 12,73,New Generation,1978,55.42,425000,Sep 2021
+60,Telok Blangah Hts,04 to 06,67,New Generation,1976,54,350000,Sep 2021
+60,Telok Blangah Hts,10 to 12,67,New Generation,1976,54.17,376000,Sep 2021
+70A,Telok Blangah Hts,19 to 21,68,Model A,2017,94.75,625000,Sep 2021
+70A,Telok Blangah Hts,19 to 21,68,Model A,2017,94.67,640000,Sep 2021
+70B,Telok Blangah Hts,22 to 24,68,Model A,2017,94.75,635000,Sep 2021
+42,Telok Blangah Rise,01 to 03,59,Improved,1976,53.67,260000,Sep 2021
+43,Telok Blangah Rise,10 to 12,59,Improved,1976,53.75,305000,Sep 2021
+80C,Telok Blangah St 31,04 to 06,68,Premium Apartment,2013,90.92,565000,Sep 2021
+24,Beo Cres,04 to 06,59,Standard,1971,49,350000,Aug 2021
+10A,Boon Tiong Rd,13 to 15,62,Model A,2016,93.5,635000,Aug 2021
+119,Bt Merah View,16 to 18,65,Improved,1983,60.5,363000,Aug 2021
+129,Bt Merah View,16 to 18,65,Improved,1973,51,380000,Aug 2021
+105,Bt Purmei Rd,07 to 09,69,New Generation,1983,60.5,390000,Aug 2021
+107,Bt Purmei Rd,07 to 09,67,New Generation,1983,60.5,360000,Aug 2021
+2,Everton Pk,10 to 12,72,New Generation,1980,58.33,500000,Aug 2021
+22,Havelock Rd,13 to 15,64,Standard,1969,47,323000,Aug 2021
+58,Havelock Rd,19 to 21,69,Model A,2013,90.83,660000,Aug 2021
+95C,Henderson Rd,19 to 21,68,Model A,2019,96.83,670000,Aug 2021
+77,Indus Rd,10 to 12,63,Improved,1973,50.5,345888,Aug 2021
+77,Indus Rd,10 to 12,75,Improved,1973,50.42,478000,Aug 2021
+107,Jln Bt Merah,01 to 03,63,Standard,1970,47.42,270000,Aug 2021
+107,Jln Bt Merah,01 to 03,63,Standard,1970,47.5,278000,Aug 2021
+108,Jln Bt Merah,07 to 09,74,Model A,1984,62,418000,Aug 2021
+138,Jln Bt Merah,04 to 06,68,Improved,1983,61.17,310000,Aug 2021
+141,Jln Bt Merah,04 to 06,67,New Generation,1979,56.5,322000,Aug 2021
+146,Jln Bt Merah,07 to 09,81,New Generation,1981,59.25,393000,Aug 2021
+26,Jln Klinik,01 to 03,60,Standard,1969,47,290000,Aug 2021
+26A,Jln Membina,16 to 18,60,Model A,2008,86.42,580000,Aug 2021
+26C,Jln Membina,13 to 15,60,Model A,2009,86.5,582000,Aug 2021
+37,Jln Rumah Tinggi,01 to 03,53,Standard,1969,47,240000,Aug 2021
+37,Jln Rumah Tinggi,07 to 09,53,Standard,1969,47,248000,Aug 2021
+37,Jln Rumah Tinggi,04 to 06,53,Standard,1969,46.92,258000,Aug 2021
+38,Kim Pong Rd,01 to 03,88,Standard,1974,51.5,668000,Aug 2021
+37,Lim Liak St,04 to 06,88,Standard,1974,51.42,655000,Aug 2021
+48,Moh Guan Ter,01 to 03,77,Standard,1973,50.5,628000,Aug 2021
+86,Redhill Cl,07 to 09,59,Improved,1973,50.5,333000,Aug 2021
+86,Redhill Cl,13 to 15,68,Improved,1973,50.42,388000,Aug 2021
+12,Taman Ho Swee,04 to 06,54,Standard,1970,47.5,258000,Aug 2021
+16,Telok Blangah Cres,04 to 06,65,Improved,1975,52.67,280000,Aug 2021
+44,Telok Blangah Dr,07 to 09,65,Improved,1976,53.42,318000,Aug 2021
+44,Telok Blangah Dr,04 to 06,65,Improved,1976,53.5,330000,Aug 2021
+44,Telok Blangah Dr,07 to 09,65,Improved,1976,53.58,333000,Aug 2021
+62,Telok Blangah Hts,07 to 09,73,New Generation,1976,54.17,410000,Aug 2021
+62,Telok Blangah Hts,04 to 06,88,New Generation,1976,54.17,410888,Aug 2021
+63,Telok Blangah Hts,10 to 12,73,New Generation,1976,54.25,405000,Aug 2021
+70A,Telok Blangah Hts,13 to 15,68,Model A,2017,94.83,618000,Aug 2021
+70B,Telok Blangah Hts,04 to 06,68,Model A,2017,94.75,565000,Aug 2021
+28,Telok Blangah Rise,07 to 09,59,Improved,1976,53.83,318000,Aug 2021
+30,Telok Blangah Rise,04 to 06,70,Improved,1976,53.83,316888,Aug 2021
+42,Telok Blangah Rise,07 to 09,59,Improved,1976,53.75,326000,Aug 2021
+80C,Telok Blangah St 31,34 to 36,68,Premium Apartment,2013,91.08,680000,Aug 2021
+38,Beo Cres,04 to 06,59,Standard,1971,48.58,330000,Jul 2021
+10B,Boon Tiong Rd,22 to 24,62,Model A,2016,93.5,688000,Jul 2021
+129,Bt Merah View,16 to 18,65,Improved,1973,51.08,310000,Jul 2021
+130,Bt Merah View,10 to 12,65,Improved,1973,51.08,340000,Jul 2021
+108,Bt Purmei Rd,01 to 03,74,Model A,1984,62.08,345000,Jul 2021
+4,Everton Pk,04 to 06,72,New Generation,1980,58.33,423800,Jul 2021
+7,Everton Pk,07 to 09,84,New Generation,1980,58.42,465000,Jul 2021
+58,Havelock Rd,01 to 03,69,Model A,2013,90.83,540000,Jul 2021
+46,Jln Bt Ho Swee,04 to 06,62,Standard,1970,47.58,295000,Jul 2021
+46,Jln Bt Ho Swee,07 to 09,62,Standard,1970,47.58,320000,Jul 2021
+28,Jln Bt Merah,13 to 15,60,Standard,1967,45,270000,Jul 2021
+107,Jln Bt Merah,04 to 06,63,Standard,1970,47.58,270000,Jul 2021
+113,Jln Bt Merah,01 to 03,58,Standard,1969,46.58,265000,Jul 2021
+138,Jln Bt Merah,07 to 09,59,Improved,1983,61.17,295000,Jul 2021
+26,Jln Klinik,07 to 09,60,Standard,1969,47.08,250000,Jul 2021
+26D,Jln Membina,19 to 21,60,Model A,2009,86.58,580000,Jul 2021
+37,Jln Rumah Tinggi,04 to 06,53,Standard,1969,47.08,240000,Jul 2021
+37,Jln Rumah Tinggi,04 to 06,53,Standard,1969,47.08,249000,Jul 2021
+34,Kim Cheng St,01 to 03,75,Standard,1973,50.5,500000,Jul 2021
+44,Moh Guan Ter,01 to 03,77,Standard,1973,50.58,590000,Jul 2021
+12,Telok Blangah Cres,01 to 03,59,Improved,1975,52.83,278000,Jul 2021
+21,Telok Blangah Cres,10 to 12,65,Improved,1975,52.92,340000,Jul 2021
+44,Telok Blangah Dr,01 to 03,65,Improved,1976,53.58,300000,Jul 2021
+44,Telok Blangah Dr,01 to 03,65,Improved,1976,53.67,310000,Jul 2021
+55,Telok Blangah Dr,07 to 09,73,New Generation,1978,55.5,335000,Jul 2021
+64,Telok Blangah Dr,10 to 12,67,New Generation,1978,56,378000,Jul 2021
+75,Telok Blangah Dr,07 to 09,67,New Generation,1978,55.58,420000,Jul 2021
+60,Telok Blangah Hts,04 to 06,67,New Generation,1976,54.25,338000,Jul 2021
+70B,Telok Blangah Hts,13 to 15,68,Model A,2017,94.92,615000,Jul 2021
+28,Telok Blangah Rise,01 to 03,59,Improved,1976,53.92,270000,Jul 2021
+43,Telok Blangah Rise,07 to 09,59,Improved,1976,53.83,288000,Jul 2021
+33,Telok Blangah Way,07 to 09,59,Improved,1976,53.83,278000,Jul 2021
+33,Telok Blangah Way,07 to 09,59,Improved,1976,53.75,310000,Jul 2021
+119,Bt Merah View,04 to 06,65,Improved,1983,60.58,320000,Jun 2021
+128,Bt Merah View,16 to 18,65,Improved,1973,51.17,380088,Jun 2021
+129,Bt Merah View,10 to 12,65,Improved,1973,51.17,365000,Jun 2021
+101,Bt Purmei Rd,01 to 03,72,New Generation,1983,61.25,375000,Jun 2021
+105,Bt Purmei Rd,04 to 06,69,New Generation,1983,60.75,350000,Jun 2021
+108,Bt Purmei Rd,07 to 09,75,Model A,1984,62.17,395000,Jun 2021
+22,Havelock Rd,10 to 12,64,Standard,1969,47.17,310088,Jun 2021
+95A,Henderson Rd,25 to 27,68,Model A,2019,97,680000,Jun 2021
+8,Jln Bt Ho Swee,04 to 06,56,Standard,1971,49.17,283000,Jun 2021
+131,Jln Bt Merah,10 to 12,65,Improved,1976,53.67,315000,Jun 2021
+137,Jln Bt Merah,10 to 12,59,Improved,1975,53,260000,Jun 2021
+141,Jln Bt Merah,01 to 03,67,New Generation,1979,56.67,305888,Jun 2021
+141,Jln Bt Merah,04 to 06,67,New Generation,1979,56.75,315000,Jun 2021
+142,Jln Bt Merah,04 to 06,67,New Generation,1979,56.67,350000,Jun 2021
+144,Jln Bt Merah,07 to 09,81,New Generation,1981,59.33,390000,Jun 2021
+146,Jln Bt Merah,10 to 12,67,New Generation,1981,59.42,330000,Jun 2021
+146,Jln Bt Merah,07 to 09,67,New Generation,1981,59.42,350000,Jun 2021
+37,Jln Rumah Tinggi,04 to 06,53,Standard,1969,47.17,230000,Jun 2021
+127C,Kim Tian Rd,31 to 33,62,Model A,2013,90.75,616500,Jun 2021
+13,Telok Blangah Cres,04 to 06,65,Improved,1975,53.58,298000,Jun 2021
+13,Telok Blangah Cres,10 to 12,65,Improved,1975,53.58,300000,Jun 2021
+47,Telok Blangah Dr,07 to 09,65,Improved,1976,53.67,368000,Jun 2021
+47,Telok Blangah Dr,04 to 06,76,Improved,1976,53.67,400000,Jun 2021
+64,Telok Blangah Dr,01 to 03,82,New Generation,1978,56.17,385000,Jun 2021
+65,Telok Blangah Dr,07 to 09,67,New Generation,1978,56.17,365000,Jun 2021
+75,Telok Blangah Dr,04 to 06,82,New Generation,1978,55.67,510000,Jun 2021
+77,Telok Blangah Dr,13 to 15,67,New Generation,1978,55.67,370000,Jun 2021
+61,Telok Blangah Hts,04 to 06,67,New Generation,1976,54.42,335000,Jun 2021
+62,Telok Blangah Hts,10 to 12,73,New Generation,1976,54.33,368000,Jun 2021
+32,Telok Blangah Rise,07 to 09,59,Improved,1976,54,278000,Jun 2021
+42,Telok Blangah Rise,01 to 03,70,Improved,1976,53.83,322888,Jun 2021
+80C,Telok Blangah St 31,04 to 06,68,Premium Apartment,2013,91.25,572000,Jun 2021
+17,Tiong Bahru Rd,01 to 03,88,Standard,1973,50.58,680888,Jun 2021
+40,Beo Cres,04 to 06,59,Standard,1971,48.75,320000,May 2021
+10B,Boon Tiong Rd,13 to 15,62,Model A,2016,93.75,699000,May 2021
+119,Bt Merah View,07 to 09,65,Improved,1983,60.75,350000,May 2021
+129,Bt Merah View,16 to 18,65,Improved,1973,51.25,355000,May 2021
+105,Bt Purmei Rd,04 to 06,67,New Generation,1983,60.75,382000,May 2021
+9,Cantonment Cl,04 to 06,60,Model A,2002,80.67,540000,May 2021
+7,Everton Pk,07 to 09,86,New Generation,1980,58.58,515000,May 2021
+55,Havelock Rd,01 to 03,69,Model A,2013,91.08,520000,May 2021
+57,Havelock Rd,10 to 12,69,Model A,2013,91,645000,May 2021
+107,Jln Bt Merah,10 to 12,63,Standard,1970,47.75,270000,May 2021
+131,Jln Bt Merah,07 to 09,65,Improved,1976,53.75,300000,May 2021
+146,Jln Bt Merah,04 to 06,67,New Generation,1981,59.42,340000,May 2021
+28,Jln Klinik,07 to 09,58,Standard,1969,47.17,310000,May 2021
+46,Seng Poh Rd,04 to 06,88,Standard,1973,50.75,633000,May 2021
+20,Telok Blangah Cres,07 to 09,76,Improved,1975,52.92,348000,May 2021
+21,Telok Blangah Cres,01 to 03,65,Improved,1975,53.08,292000,May 2021
+44,Telok Blangah Dr,01 to 03,65,Improved,1976,53.67,310000,May 2021
+47,Telok Blangah Dr,04 to 06,65,Improved,1976,53.75,295000,May 2021
+63,Telok Blangah Hts,07 to 09,73,New Generation,1976,54.42,408000,May 2021
+70A,Telok Blangah Hts,01 to 03,68,Model A,2017,95.08,585000,May 2021
+70B,Telok Blangah Hts,16 to 18,68,Model A,2017,95,608888,May 2021
+43,Telok Blangah Rise,01 to 03,59,Improved,1976,53.92,270000,May 2021
+43,Telok Blangah Rise,13 to 15,59,Improved,1976,54,350000,May 2021
+80C,Telok Blangah St 31,16 to 18,68,Premium Apartment,2013,91.33,615000,May 2021
+22,Tiong Bahru Rd,01 to 03,88,Standard,1973,50.67,605888,May 2021
+10A,Boon Tiong Rd,22 to 24,62,Model A,2016,93.83,675000,Apr 2021
+119,Bt Merah View,07 to 09,65,Improved,1983,60.75,318000,Apr 2021
+101,Bt Purmei Rd,10 to 12,69,New Generation,1983,61.42,400888,Apr 2021
+3,Everton Pk,10 to 12,72,New Generation,1980,58.58,440000,Apr 2021
+22,Havelock Rd,04 to 06,64,Standard,1969,47.42,311000,Apr 2021
+54,Havelock Rd,22 to 24,69,Model A,2013,91.08,649998,Apr 2021
+58,Havelock Rd,19 to 21,69,Model A,2013,91.08,650000,Apr 2021
+4,Jln Bt Ho Swee,01 to 03,59,Standard,1971,49.33,305000,Apr 2021
+6,Jln Bt Ho Swee,01 to 03,55,Standard,1971,49.33,226000,Apr 2021
+8,Jln Bt Ho Swee,07 to 09,56,Standard,1971,49.33,280888,Apr 2021
+8,Jln Bt Ho Swee,04 to 06,56,Standard,1971,49.25,288000,Apr 2021
+2,Jln Bt Merah,13 to 15,63,Improved,1975,53.25,286000,Apr 2021
+2,Jln Bt Merah,13 to 15,63,Improved,1975,53.25,290000,Apr 2021
+2,Jln Bt Merah,10 to 12,63,Improved,1975,53.17,303000,Apr 2021
+28,Jln Bt Merah,07 to 09,60,Standard,1967,45.17,255000,Apr 2021
+108,Jln Bt Merah,07 to 09,74,Model A,1984,62.25,414000,Apr 2021
+144,Jln Bt Merah,04 to 06,67,New Generation,1981,59.5,345000,Apr 2021
+144,Jln Bt Merah,04 to 06,67,New Generation,1981,59.42,360000,Apr 2021
+26C,Jln Membina,16 to 18,60,Model A,2009,86.75,580000,Apr 2021
+37,Jln Rumah Tinggi,04 to 06,53,Standard,1969,47.33,250000,Apr 2021
+35,Lim Liak St,01 to 03,88,Standard,1973,50.83,680000,Apr 2021
+12,Telok Blangah Cres,01 to 03,59,Improved,1975,53.08,257000,Apr 2021
+12,Telok Blangah Cres,01 to 03,70,Improved,1975,53.08,275000,Apr 2021
+16,Telok Blangah Cres,10 to 12,76,Improved,1975,53.08,330000,Apr 2021
+22,Telok Blangah Cres,01 to 03,59,Improved,1975,53.08,295000,Apr 2021
+44,Telok Blangah Dr,07 to 09,65,Improved,1976,53.83,308000,Apr 2021
+44,Telok Blangah Dr,01 to 03,65,Improved,1976,53.75,315000,Apr 2021
+44,Telok Blangah Dr,07 to 09,65,Improved,1976,53.75,357000,Apr 2021
+44,Telok Blangah Dr,04 to 06,76,Improved,1976,53.92,362000,Apr 2021
+64,Telok Blangah Dr,01 to 03,67,New Generation,1978,56.33,312000,Apr 2021
+64,Telok Blangah Dr,04 to 06,67,New Generation,1978,56.25,378000,Apr 2021
+61,Telok Blangah Hts,01 to 03,67,New Generation,1976,54.5,305000,Apr 2021
+62,Telok Blangah Hts,07 to 09,73,New Generation,1976,54.5,385000,Apr 2021
+63,Telok Blangah Hts,10 to 12,73,New Generation,1976,54.58,368000,Apr 2021
+70A,Telok Blangah Hts,16 to 18,68,Model A,2017,95.17,602888,Apr 2021
+70A,Telok Blangah Hts,16 to 18,68,Model A,2017,95.08,615000,Apr 2021
+70A,Telok Blangah Hts,22 to 24,68,Model A,2017,95.08,620000,Apr 2021
+30,Telok Blangah Rise,10 to 12,70,Improved,1976,54.08,307000,Apr 2021
+35,Telok Blangah Rise,01 to 03,60,Improved,1976,54.5,270000,Apr 2021
+22,Tiong Bahru Rd,04 to 06,88,Standard,1973,50.75,590000,Apr 2021
+128,Bt Merah View,04 to 06,65,Improved,1973,51.33,300000,Mar 2021
+128,Bt Merah View,13 to 15,65,Improved,1973,51.33,330000,Mar 2021
+107,Bt Purmei Rd,10 to 12,67,New Generation,1983,60.83,385000,Mar 2021
+13,Cantonment Cl,16 to 18,60,Model A,2003,80.92,535000,Mar 2021
+95A,Henderson Rd,40 to 42,68,Model A,2019,97.17,680000,Mar 2021
+96B,Henderson Rd,04 to 06,68,Model A,2019,97.25,620000,Mar 2021
+78,Indus Rd,13 to 15,76,Improved,1982,60.58,480000,Mar 2021
+8,Jln Bt Ho Swee,07 to 09,56,Standard,1971,49.42,268000,Mar 2021
+46,Jln Bt Ho Swee,07 to 09,62,Standard,1970,47.83,295000,Mar 2021
+107,Jln Bt Merah,10 to 12,63,Standard,1970,47.92,265000,Mar 2021
+131,Jln Bt Merah,07 to 09,65,Improved,1976,53.83,308000,Mar 2021
+137,Jln Bt Merah,04 to 06,59,Improved,1975,53.25,256000,Mar 2021
+137,Jln Bt Merah,07 to 09,70,Improved,1975,53.17,310000,Mar 2021
+20,Jln Klinik,04 to 06,59,Standard,1971,48.92,290000,Mar 2021
+26,Jln Klinik,07 to 09,60,Standard,1969,47.33,320000,Mar 2021
+26C,Jln Membina,10 to 12,60,Model A,2009,86.92,525000,Mar 2021
+127C,Kim Tian Rd,28 to 30,62,Model A,2013,90.92,570000,Mar 2021
+130,Kim Tian Rd,07 to 09,65,Improved,1976,53.83,290000,Mar 2021
+21,Lim Liak St,04 to 06,88,Standard,1973,50.83,570000,Mar 2021
+86,Redhill Cl,16 to 18,59,Improved,1973,50.92,318000,Mar 2021
+16,Telok Blangah Cres,10 to 12,65,Improved,1975,53.17,280000,Mar 2021
+75,Telok Blangah Dr,04 to 06,67,New Generation,1978,55.92,380000,Mar 2021
+70A,Telok Blangah Hts,25 to 27,68,Model A,2017,95.17,625000,Mar 2021
+70B,Telok Blangah Hts,25 to 27,68,Model A,2017,95.17,620000,Mar 2021
+30,Telok Blangah Rise,07 to 09,70,Improved,1976,54.25,320000,Mar 2021
+20,Tiong Bahru Rd,01 to 03,88,Standard,1973,50.83,567000,Mar 2021
+36,Beo Cres,04 to 06,59,Standard,1971,49.5,312000,Feb 2021
+40,Beo Cres,07 to 09,59,Standard,1971,48.92,338888,Feb 2021
+10A,Boon Tiong Rd,34 to 36,62,Model A,2016,93.92,683000,Feb 2021
+119,Bt Merah View,10 to 12,65,Improved,1983,61,390000,Feb 2021
+129,Bt Merah View,13 to 15,65,Improved,1973,51.5,320000,Feb 2021
+130,Bt Merah View,04 to 06,76,Improved,1973,51.42,345000,Feb 2021
+130,Bt Merah View,19 to 21,76,Improved,1973,51.42,403000,Feb 2021
+130,Bt Merah View,16 to 18,76,Improved,1973,51.42,418000,Feb 2021
+101,Bt Purmei Rd,01 to 03,67,New Generation,1983,61.5,355000,Feb 2021
+102,Bt Purmei Rd,01 to 03,77,Model A,1984,62.25,410000,Feb 2021
+104,Bt Purmei Rd,04 to 06,73,Model A,1984,62.33,380000,Feb 2021
+110,Bt Purmei Rd,07 to 09,75,Model A,1984,62.58,389088,Feb 2021
+58,Havelock Rd,10 to 12,69,Model A,2013,91.25,635000,Feb 2021
+95B,Henderson Rd,22 to 24,68,Model A,2019,97.33,660000,Feb 2021
+77,Indus Rd,04 to 06,63,Improved,1973,51,385000,Feb 2021
+8,Jln Bt Ho Swee,01 to 03,56,Standard,1971,49.58,255000,Feb 2021
+107,Jln Bt Merah,01 to 03,63,Standard,1970,48,255000,Feb 2021
+37,Jln Rumah Tinggi,07 to 09,53,Standard,1969,47.5,230000,Feb 2021
+37,Jln Rumah Tinggi,04 to 06,53,Standard,1969,47.42,235000,Feb 2021
+21,Lim Liak St,01 to 03,75,Standard,1973,51,618000,Feb 2021
+25,Lim Liak St,04 to 06,88,Standard,1973,51.08,636000,Feb 2021
+47,Telok Blangah Dr,01 to 03,65,Improved,1976,53.92,295000,Feb 2021
+54,Telok Blangah Dr,07 to 09,73,New Generation,1978,56,370000,Feb 2021
+63,Telok Blangah Hts,04 to 06,73,New Generation,1976,54.67,352000,Feb 2021
+63,Telok Blangah Hts,10 to 12,73,New Generation,1976,54.58,390000,Feb 2021
+70A,Telok Blangah Hts,07 to 09,68,Model A,2017,95.33,585000,Feb 2021
+32,Telok Blangah Rise,10 to 12,59,Improved,1976,54.33,303000,Feb 2021
+35,Telok Blangah Rise,04 to 06,60,Improved,1976,54.75,260000,Feb 2021
+42,Telok Blangah Rise,04 to 06,59,Improved,1976,54.17,275000,Feb 2021
+80C,Telok Blangah St 31,07 to 09,68,Premium Apartment,2013,91.5,558000,Feb 2021
+33,Telok Blangah Way,10 to 12,59,Improved,1976,54.25,280000,Feb 2021
+36,Beo Cres,10 to 12,59,Standard,1971,49.5,340000,Jan 2021
+40,Beo Cres,04 to 06,59,Standard,1971,49,310000,Jan 2021
+119,Bt Merah View,01 to 03,65,Improved,1983,61.08,270000,Jan 2021
+105,Bt Purmei Rd,01 to 03,69,New Generation,1983,61.17,356000,Jan 2021
+112,Bt Purmei Rd,01 to 03,74,Model A,1985,63.25,345000,Jan 2021
+9,Cantonment Cl,01 to 03,60,Model A,2002,80.92,480000,Jan 2021
+11,Cantonment Cl,19 to 21,60,Model A,2002,80.92,532000,Jan 2021
+4,Everton Pk,01 to 03,72,New Generation,1980,58.92,398000,Jan 2021
+5,Everton Pk,07 to 09,72,New Generation,1980,58.83,439500,Jan 2021
+6,Everton Pk,10 to 12,72,New Generation,1980,58.92,470000,Jan 2021
+22,Havelock Rd,16 to 18,73,Standard,1969,47.5,320000,Jan 2021
+96B,Henderson Rd,19 to 21,68,Model A,2019,97.42,668000,Jan 2021
+2,Jln Bt Merah,01 to 03,63,Improved,1975,53.5,270000,Jan 2021
+28,Jln Bt Merah,10 to 12,60,Standard,1967,45.42,235000,Jan 2021
+131,Jln Bt Merah,07 to 09,65,Improved,1976,54.08,300000,Jan 2021
+136,Jln Bt Merah,07 to 09,59,Improved,1975,53.33,268000,Jan 2021
+136,Jln Bt Merah,04 to 06,70,Improved,1975,53.42,290000,Jan 2021
+10,Jln Rumah Tinggi,01 to 03,73,New Generation,1988,66.5,350000,Jan 2021
+127C,Kim Tian Rd,19 to 21,62,Model A,2013,91.08,560000,Jan 2021
+37,Lim Liak St,01 to 03,75,Standard,1974,52,620000,Jan 2021
+149,Silat Ave,04 to 06,82,New Generation,1982,60.92,388000,Jan 2021
+16,Taman Ho Swee,04 to 06,54,Standard,1970,48.08,263000,Jan 2021
+16,Taman Ho Swee,01 to 03,66,Standard,1970,48.17,345000,Jan 2021
+5,Telok Blangah Cres,01 to 03,66,Improved,1983,61.33,275000,Jan 2021
+15,Telok Blangah Cres,10 to 12,76,Improved,1975,53.25,338000,Jan 2021
+21,Telok Blangah Cres,07 to 09,76,Improved,1975,53.42,328888,Jan 2021
+44,Telok Blangah Dr,01 to 03,65,Improved,1976,54,312000,Jan 2021
+47,Telok Blangah Dr,04 to 06,65,Improved,1976,54,325000,Jan 2021
+65,Telok Blangah Dr,07 to 09,67,New Generation,1978,56.58,335000,Jan 2021
+28,Telok Blangah Rise,01 to 03,70,Improved,1976,54.33,238000,Jan 2021
+42,Telok Blangah Rise,07 to 09,70,Improved,1976,54.33,395000,Jan 2021
+80C,Telok Blangah St 31,25 to 27,68,Premium Apartment,2013,91.67,625000,Jan 2021
+24,Beo Cres,01 to 03,59,Standard,1971,49.67,298000,Dec 2020
+36,Beo Cres,04 to 06,59,Standard,1971,49.67,295888,Dec 2020
+10B,Boon Tiong Rd,16 to 18,62,Model A,2016,94.17,665000,Dec 2020
+129,Bt Merah View,19 to 21,65,Improved,1973,51.67,275000,Dec 2020
+129,Bt Merah View,01 to 03,76,Improved,1973,51.67,380000,Dec 2020
+130,Bt Merah View,19 to 21,65,Improved,1973,51.67,300000,Dec 2020
+130,Bt Merah View,13 to 15,65,Improved,1973,51.67,328000,Dec 2020
+101,Bt Purmei Rd,04 to 06,69,New Generation,1983,61.75,395000,Dec 2020
+109,Bt Purmei Rd,07 to 09,79,Model A,1984,62.67,410000,Dec 2020
+13,Cantonment Cl,04 to 06,60,Model A,2003,81.08,525000,Dec 2020
+54,Havelock Rd,22 to 24,69,Model A,2013,91.5,625000,Dec 2020
+58,Havelock Rd,01 to 03,69,Model A,2013,91.5,565000,Dec 2020
+105,Henderson Cres,07 to 09,65,Improved,1975,53.08,270000,Dec 2020
+105,Henderson Cres,16 to 18,65,Improved,1975,53.08,295000,Dec 2020
+46,Jln Bt Ho Swee,04 to 06,62,Standard,1970,48.17,298000,Dec 2020
+2,Jln Bt Merah,04 to 06,63,Improved,1975,53.58,258000,Dec 2020
+133,Jln Bt Merah,04 to 06,59,Improved,1983,61.75,286000,Dec 2020
+142,Jln Bt Merah,10 to 12,67,New Generation,1979,57.17,320000,Dec 2020
+144,Jln Bt Merah,07 to 09,67,New Generation,1981,59.83,300000,Dec 2020
+145,Jln Bt Merah,07 to 09,67,New Generation,1981,60,335000,Dec 2020
+37,Jln Rumah Tinggi,04 to 06,53,Standard,1969,47.67,238000,Dec 2020
+34,Kim Cheng St,01 to 03,88,Standard,1973,51.08,620000,Dec 2020
+49,Kim Pong Rd,04 to 06,88,Standard,1973,51.08,623000,Dec 2020
+19,Lim Liak St,04 to 06,88,Standard,1973,51.17,550000,Dec 2020
+43,Moh Guan Ter,04 to 06,77,Standard,1973,51.08,530888,Dec 2020
+149,Silat Ave,10 to 12,67,New Generation,1982,61,328000,Dec 2020
+10,Telok Blangah Cres,04 to 06,72,Improved,1975,53.42,300000,Dec 2020
+22,Telok Blangah Cres,10 to 12,59,Improved,1975,53.5,290000,Dec 2020
+44,Telok Blangah Dr,01 to 03,65,Improved,1976,54.08,295000,Dec 2020
+44,Telok Blangah Dr,01 to 03,76,Improved,1976,54.17,335000,Dec 2020
+60,Telok Blangah Hts,07 to 09,81,New Generation,1976,54.75,395000,Dec 2020
+30,Telok Blangah Rise,04 to 06,70,Improved,1976,54.5,308000,Dec 2020
+80B,Telok Blangah St 31,10 to 12,67,Premium Apartment,2013,91.75,610000,Dec 2020
+24,Beo Cres,10 to 12,59,Standard,1971,49.75,312000,Nov 2020
+36,Beo Cres,10 to 12,59,Standard,1971,49.75,310000,Nov 2020
+38,Beo Cres,07 to 09,59,Standard,1971,49.25,330000,Nov 2020
+101,Bt Purmei Rd,04 to 06,69,New Generation,1983,61.75,360000,Nov 2020
+104,Bt Purmei Rd,01 to 03,75,Model A,1984,62.42,348000,Nov 2020
+104,Bt Purmei Rd,10 to 12,73,Model A,1984,62.5,383000,Nov 2020
+110,Bt Purmei Rd,07 to 09,75,Model A,1984,62.83,310000,Nov 2020
+2,Everton Pk,04 to 06,72,New Generation,1980,59.08,420000,Nov 2020
+4,Everton Pk,04 to 06,72,New Generation,1980,59,418000,Nov 2020
+7,Everton Pk,10 to 12,84,New Generation,1980,59.08,455000,Nov 2020
+55,Havelock Rd,10 to 12,69,Model A,2013,91.5,630000,Nov 2020
+77,Indus Rd,04 to 06,63,Improved,1973,51.25,330000,Nov 2020
+78,Indus Rd,16 to 18,65,Improved,1982,60.92,389000,Nov 2020
+78,Indus Rd,13 to 15,76,Improved,1982,60.92,518000,Nov 2020
+8,Jln Bt Ho Swee,04 to 06,56,Standard,1971,49.67,280000,Nov 2020
+46,Jln Bt Ho Swee,10 to 12,62,Standard,1970,48.17,295000,Nov 2020
+2,Jln Bt Merah,01 to 03,63,Improved,1975,53.67,268000,Nov 2020
+133,Jln Bt Merah,10 to 12,59,Improved,1983,61.83,276000,Nov 2020
+137,Jln Bt Merah,04 to 06,59,Improved,1975,53.58,240888,Nov 2020
+142,Jln Bt Merah,07 to 09,67,New Generation,1979,57.17,290000,Nov 2020
+142,Jln Bt Merah,01 to 03,67,New Generation,1979,57.17,300000,Nov 2020
+25,Lim Liak St,04 to 06,88,Standard,1973,51.25,583188,Nov 2020
+17,Seng Poh Rd,01 to 03,88,Standard,1973,51.25,540000,Nov 2020
+148,Silat Ave,01 to 03,82,New Generation,1982,61,378000,Nov 2020
+6,Telok Blangah Cres,16 to 18,65,Improved,1975,53.25,300000,Nov 2020
+21,Telok Blangah Cres,04 to 06,76,Improved,1975,53.58,330000,Nov 2020
+28,Telok Blangah Rise,04 to 06,59,Improved,1976,54.5,290000,Nov 2020
+43,Telok Blangah Rise,07 to 09,70,Improved,1976,54.42,333000,Nov 2020
+33,Telok Blangah Way,10 to 12,59,Improved,1976,54.42,276000,Nov 2020
+33,Telok Blangah Way,04 to 06,70,Improved,1976,54.5,300000,Nov 2020

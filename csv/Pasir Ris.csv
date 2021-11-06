@@ -1,0 +1,61 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date
+530B,Pasir Ris Dr 1,07 to 09,65,Dbss,2015,92.67,500000,Nov 2021
+530A,Pasir Ris Dr 1,10 to 12,65,Dbss,2015,92.67,540000,Oct 2021
+527C,Pasir Ris St 51,13 to 15,68,Model A,2015,92.83,453000,Oct 2021
+530A,Pasir Ris Dr 1,07 to 09,65,Dbss,2015,92.75,520000,Sep 2021
+4,Changi Village Rd,01 to 03,66,Improved,1980,57.92,295000,Aug 2021
+530C,Pasir Ris Dr 1,01 to 03,65,Dbss,2015,92.83,480000,Aug 2021
+1,Changi Village Rd,04 to 06,66,Improved,1980,58,315000,Jul 2021
+527C,Pasir Ris St 51,10 to 12,68,Model A,2015,93.08,422000,Jul 2021
+5,Changi Village Rd,04 to 06,66,Improved,1981,59.17,298000,Jun 2021
+527B,Pasir Ris St 51,07 to 09,68,Model A,2015,93.17,445000,Jun 2021
+527D,Pasir Ris St 51,04 to 06,68,Model A,2015,93.17,395000,Jun 2021
+527D,Pasir Ris St 51,07 to 09,68,Model A,2015,93.17,410000,Jun 2021
+527D,Pasir Ris St 51,04 to 06,68,Model A,2015,93.25,410000,May 2021
+5,Changi Village Rd,01 to 03,66,Improved,1981,59.33,305000,Apr 2021
+530B,Pasir Ris Dr 1,13 to 15,65,Dbss,2015,93.17,537000,Apr 2021
+530C,Pasir Ris Dr 1,07 to 09,65,Dbss,2015,93.17,490000,Apr 2021
+5,Changi Village Rd,01 to 03,66,Improved,1981,59.5,285000,Mar 2021
+5,Changi Village Rd,01 to 03,66,Improved,1981,59.42,290000,Mar 2021
+530B,Pasir Ris Dr 1,10 to 12,65,Dbss,2015,93.25,532500,Mar 2021
+530C,Pasir Ris Dr 1,10 to 12,65,Dbss,2015,93.25,560000,Mar 2021
+530D,Pasir Ris Dr 1,10 to 12,65,Dbss,2015,93.33,535000,Mar 2021
+530B,Pasir Ris Dr 1,13 to 15,65,Dbss,2015,93.42,538000,Jan 2021
+527B,Pasir Ris St 51,10 to 12,68,Model A,2015,93.5,408000,Jan 2021
+527C,Pasir Ris St 51,10 to 12,68,Model A,2015,93.58,410000,Jan 2021
+527D,Pasir Ris St 51,04 to 06,68,Model A,2015,93.67,385000,Dec 2020
+1,Changi Village Rd,01 to 03,66,Improved,1980,58.75,300000,Nov 2020
+4,Changi Village Rd,04 to 06,66,Improved,1980,58.75,280000,Nov 2020
+530D,Pasir Ris Dr 1,13 to 15,65,Dbss,2015,93.58,520000,Nov 2020
+527B,Pasir Ris St 51,07 to 09,68,Model A,2015,93.75,395000,Nov 2020
+527B,Pasir Ris St 51,13 to 15,68,Model A,2015,93.75,398000,Nov 2020
+530B,Pasir Ris Dr 1,07 to 09,65,Dbss,2015,92.67,500000,Nov 2021
+530A,Pasir Ris Dr 1,10 to 12,65,Dbss,2015,92.67,540000,Oct 2021
+527C,Pasir Ris St 51,13 to 15,68,Model A,2015,92.83,453000,Oct 2021
+530A,Pasir Ris Dr 1,07 to 09,65,Dbss,2015,92.75,520000,Sep 2021
+4,Changi Village Rd,01 to 03,66,Improved,1980,57.92,295000,Aug 2021
+530C,Pasir Ris Dr 1,01 to 03,65,Dbss,2015,92.83,480000,Aug 2021
+1,Changi Village Rd,04 to 06,66,Improved,1980,58,315000,Jul 2021
+527C,Pasir Ris St 51,10 to 12,68,Model A,2015,93.08,422000,Jul 2021
+5,Changi Village Rd,04 to 06,66,Improved,1981,59.17,298000,Jun 2021
+527B,Pasir Ris St 51,07 to 09,68,Model A,2015,93.17,445000,Jun 2021
+527D,Pasir Ris St 51,04 to 06,68,Model A,2015,93.17,395000,Jun 2021
+527D,Pasir Ris St 51,07 to 09,68,Model A,2015,93.17,410000,Jun 2021
+527D,Pasir Ris St 51,04 to 06,68,Model A,2015,93.25,410000,May 2021
+5,Changi Village Rd,01 to 03,66,Improved,1981,59.33,305000,Apr 2021
+530B,Pasir Ris Dr 1,13 to 15,65,Dbss,2015,93.17,537000,Apr 2021
+530C,Pasir Ris Dr 1,07 to 09,65,Dbss,2015,93.17,490000,Apr 2021
+5,Changi Village Rd,01 to 03,66,Improved,1981,59.5,285000,Mar 2021
+5,Changi Village Rd,01 to 03,66,Improved,1981,59.42,290000,Mar 2021
+530B,Pasir Ris Dr 1,10 to 12,65,Dbss,2015,93.25,532500,Mar 2021
+530C,Pasir Ris Dr 1,10 to 12,65,Dbss,2015,93.25,560000,Mar 2021
+530D,Pasir Ris Dr 1,10 to 12,65,Dbss,2015,93.33,535000,Mar 2021
+530B,Pasir Ris Dr 1,13 to 15,65,Dbss,2015,93.42,538000,Jan 2021
+527B,Pasir Ris St 51,10 to 12,68,Model A,2015,93.5,408000,Jan 2021
+527C,Pasir Ris St 51,10 to 12,68,Model A,2015,93.58,410000,Jan 2021
+527D,Pasir Ris St 51,04 to 06,68,Model A,2015,93.67,385000,Dec 2020
+1,Changi Village Rd,01 to 03,66,Improved,1980,58.75,300000,Nov 2020
+4,Changi Village Rd,04 to 06,66,Improved,1980,58.75,280000,Nov 2020
+530D,Pasir Ris Dr 1,13 to 15,65,Dbss,2015,93.58,520000,Nov 2020
+527B,Pasir Ris St 51,07 to 09,68,Model A,2015,93.75,395000,Nov 2020
+527B,Pasir Ris St 51,13 to 15,68,Model A,2015,93.75,398000,Nov 2020

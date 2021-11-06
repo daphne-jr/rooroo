@@ -1,0 +1,775 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date
+38C,Bendemeer Rd,04 to 06,69,Model A,2012,89.58,486000,Nov 2021
+9,Boon Keng Rd,04 to 06,69,Dbss,2011,88.33,620000,Nov 2021
+49,Dorset Rd,04 to 06,68,New Generation,1979,56.67,400888,Nov 2021
+33,Jln Bahagia,01 to 03,56,Standard,1970,47.67,240000,Nov 2021
+76,Lor Limau,01 to 03,65,Improved,1973,50.75,280000,Nov 2021
+467,Nth Bridge Rd,07 to 09,60,Improved,1978,56.08,400000,Nov 2021
+11,Upp Boon Keng Rd,10 to 12,65,Improved,1974,51.25,360000,Nov 2021
+16,Upp Boon Keng Rd,01 to 03,65,Improved,1975,52.42,300000,Nov 2021
+97,Whampoa Dr,10 to 12,65,Improved,1980,57.75,296000,Nov 2021
+2,Beach Rd,13 to 15,68,Improved,1979,57,362000,Oct 2021
+10A,Bendemeer Rd,07 to 09,68,Model A,2017,95.25,620000,Oct 2021
+10A,Bendemeer Rd,31 to 33,68,Model A,2017,95.17,685000,Oct 2021
+44,Bendemeer Rd,04 to 06,63,Standard,1981,58.25,305000,Oct 2021
+45,Bendemeer Rd,10 to 12,66,Improved,1972,49.33,295000,Oct 2021
+47,Bendemeer Rd,07 to 09,65,Improved,1974,52.08,295500,Oct 2021
+9,Boon Keng Rd,04 to 06,70,Dbss,2011,88.33,640000,Oct 2021
+49,Dorset Rd,10 to 12,81,New Generation,1979,56.67,480000,Oct 2021
+15,Farrer Pk Rd,28 to 30,62,Model A,2004,81.75,515000,Oct 2021
+28,Jln Bahagia,01 to 03,53,Standard,1971,48.33,237000,Oct 2021
+5,Jln Batu,01 to 03,60,Standard,1969,46.25,284000,Oct 2021
+5,Jln Batu,01 to 03,60,Standard,1969,46.25,300000,Oct 2021
+5,Jln Batu,04 to 06,60,Standard,1969,46.33,310000,Oct 2021
+116B,Jln Tenteram,07 to 09,67,Model A,2017,95.17,531000,Oct 2021
+117A,Jln Tenteram,28 to 30,67,Model A,2017,95.17,548888,Oct 2021
+76,Lor Limau,10 to 12,65,Improved,1973,50.83,288000,Oct 2021
+77,Lor Limau,16 to 18,59,Improved,1973,50.83,310000,Oct 2021
+113D,Mcnair Rd,16 to 18,68,Premium Apartment,2017,95.25,647000,Oct 2021
+3,St. George's Rd,07 to 09,59,Improved,1976,53.67,302000,Oct 2021
+20,St. George's Rd,07 to 09,67,New Generation,1984,62.08,343888,Oct 2021
+74,Whampoa Dr,10 to 12,66,Improved,1981,58.75,305000,Oct 2021
+34,Whampoa West,04 to 06,68,Improved,1972,49.25,342000,Oct 2021
+2,Beach Rd,13 to 15,68,Improved,1979,57.08,358000,Sep 2021
+10A,Bendemeer Rd,13 to 15,68,Model A,2017,95.33,656500,Sep 2021
+10A,Bendemeer Rd,34 to 36,68,Model A,2017,95.33,688000,Sep 2021
+23,Bendemeer Rd,01 to 03,68,Improved,1972,49.42,300000,Sep 2021
+44,Bendemeer Rd,01 to 03,63,Standard,1981,58.33,275000,Sep 2021
+44,Bendemeer Rd,10 to 12,63,Standard,1981,58.42,310000,Sep 2021
+45,Bendemeer Rd,10 to 12,66,Improved,1972,49.42,300000,Sep 2021
+50,Dorset Rd,04 to 06,68,New Generation,1979,56.75,360000,Sep 2021
+15,Farrer Pk Rd,28 to 30,62,Model A,2004,81.83,555000,Sep 2021
+801,French Rd,10 to 12,59,Improved,1979,56.5,368000,Sep 2021
+57,Geylang Bahru,16 to 18,65,Improved,1974,51.92,320000,Sep 2021
+68,Geylang Bahru,13 to 15,65,Improved,1974,51.92,322800,Sep 2021
+32,Jln Bahagia,01 to 03,53,Standard,1971,48.42,240000,Sep 2021
+46,Jln Bahagia,01 to 03,241,Terrace,1972,49.83,1235000,Sep 2021
+3,Jln Batu,04 to 06,60,Standard,1969,46.42,276000,Sep 2021
+4,Jln Batu,04 to 06,60,Standard,1969,46.42,278000,Sep 2021
+6,Jln Batu,01 to 03,62,Standard,1969,46.42,298000,Sep 2021
+6,Jln Batu,04 to 06,60,Standard,1969,46.33,313000,Sep 2021
+116A,Jln Tenteram,28 to 30,67,Model A,2017,95.25,540000,Sep 2021
+65,Kallang Bahru,01 to 03,65,Improved,1981,58.5,300000,Sep 2021
+66,Kallang Bahru,04 to 06,65,Improved,1974,51.92,310000,Sep 2021
+12,Kg Arang Rd,10 to 12,103,New Generation,1982,59.67,570000,Sep 2021
+806,King George's Ave,07 to 09,68,Improved,1981,59,410000,Sep 2021
+44,Owen Rd,01 to 03,82,New Generation,1979,56.83,485000,Sep 2021
+684,Race Course Rd,07 to 09,63,Simplified,1986,63.42,400000,Sep 2021
+685,Race Course Rd,10 to 12,63,Simplified,1986,63.42,390000,Sep 2021
+7,St. George's Lane,07 to 09,60,Improved,1986,63.67,323800,Sep 2021
+3,St. George's Rd,13 to 15,59,Improved,1976,53.75,295000,Sep 2021
+3,St. George's Rd,04 to 06,59,Improved,1976,53.75,297000,Sep 2021
+3,St. George's Rd,13 to 15,59,Improved,1976,53.75,306000,Sep 2021
+14,St. George's Rd,01 to 03,67,New Generation,1984,62.17,350000,Sep 2021
+74,Whampoa Dr,01 to 03,66,Improved,1981,58.83,285000,Sep 2021
+74,Whampoa Dr,10 to 12,66,Improved,1981,58.75,310000,Sep 2021
+97,Whampoa Dr,07 to 09,75,Improved,1980,57.92,360000,Sep 2021
+98,Whampoa Dr,13 to 15,65,Improved,1974,51.58,310000,Sep 2021
+34,Whampoa West,10 to 12,68,Improved,1972,49.42,341000,Sep 2021
+34,Whampoa West,04 to 06,68,Improved,1972,49.33,348000,Sep 2021
+45,Bendemeer Rd,10 to 12,66,Improved,1972,49.42,306000,Aug 2021
+12,Farrer Pk Rd,28 to 30,62,Model A,2004,81.92,550000,Aug 2021
+15,Farrer Pk Rd,16 to 18,62,Model A,2004,81.83,516000,Aug 2021
+15,Farrer Pk Rd,22 to 24,62,Model A,2004,81.92,520000,Aug 2021
+57,Geylang Bahru,13 to 15,65,Improved,1974,52,288000,Aug 2021
+73,Geylang Bahru,07 to 09,59,Improved,1974,51.58,305000,Aug 2021
+95,Geylang Bahru,01 to 03,68,New Generation,1979,56.58,318000,Aug 2021
+10,Gloucester Rd,07 to 09,67,New Generation,1976,54.25,388000,Aug 2021
+48,Jln Bahagia,01 to 03,78,Terrace,1972,49.92,783000,Aug 2021
+2,Jln Batu,01 to 03,57,Standard,1969,46.42,310000,Aug 2021
+4,Jln Batu,04 to 06,60,Standard,1969,46.5,282000,Aug 2021
+116A,Jln Tenteram,28 to 30,67,Model A,2017,95.33,549888,Aug 2021
+116B,Jln Tenteram,07 to 09,67,Model A,2017,95.25,535000,Aug 2021
+63,Kallang Bahru,10 to 12,65,Improved,1974,51.5,333888,Aug 2021
+64,Kallang Bahru,07 to 09,76,Improved,1974,51.42,353888,Aug 2021
+7,St. George's Lane,04 to 06,60,Improved,1986,63.75,333000,Aug 2021
+8,St. George's Lane,10 to 12,68,New Generation,1982,59.75,380000,Aug 2021
+2,St. George's Rd,07 to 09,70,Improved,1976,53.92,335000,Aug 2021
+3,St. George's Rd,13 to 15,59,Improved,1976,53.92,310888,Aug 2021
+3,St. George's Rd,10 to 12,70,Improved,1976,53.83,360000,Aug 2021
+11,Upp Boon Keng Rd,13 to 15,65,Improved,1974,51.5,343000,Aug 2021
+11,Upp Boon Keng Rd,07 to 09,75,Improved,1974,51.5,408000,Aug 2021
+16,Upp Boon Keng Rd,04 to 06,65,Improved,1975,52.58,315000,Aug 2021
+16,Upp Boon Keng Rd,04 to 06,76,Improved,1975,52.58,368000,Aug 2021
+82,Whampoa Dr,13 to 15,66,Improved,1974,52,325000,Aug 2021
+93,Whampoa Dr,04 to 06,65,Improved,1974,51.67,283000,Aug 2021
+34,Whampoa West,10 to 12,68,Improved,1972,49.5,340000,Aug 2021
+34,Whampoa West,10 to 12,68,Improved,1972,49.5,353000,Aug 2021
+1,Beach Rd,16 to 18,68,Improved,1979,57.25,355000,Jul 2021
+43,Bendemeer Rd,04 to 06,75,Standard,1981,58.58,360000,Jul 2021
+44,Bendemeer Rd,10 to 12,63,Standard,1981,58.58,300000,Jul 2021
+462,Crawford Lane,07 to 09,60,Improved,1981,59.33,440000,Jul 2021
+801,French Rd,07 to 09,59,Improved,1979,56.67,340000,Jul 2021
+57,Geylang Bahru,01 to 03,65,Improved,1974,52.08,277000,Jul 2021
+57,Geylang Bahru,07 to 09,65,Improved,1974,52.08,305000,Jul 2021
+57,Geylang Bahru,10 to 12,65,Improved,1974,52.08,318000,Jul 2021
+68,Geylang Bahru,01 to 03,65,Improved,1974,52,270000,Jul 2021
+73,Geylang Bahru,01 to 03,59,Improved,1974,51.75,258000,Jul 2021
+94,Geylang Bahru,07 to 09,68,New Generation,1979,56.5,343000,Jul 2021
+96,Geylang Bahru,01 to 03,68,New Generation,1979,56.58,324000,Jul 2021
+96,Geylang Bahru,10 to 12,68,New Generation,1979,56.58,340000,Jul 2021
+10,Gloucester Rd,13 to 15,67,New Generation,1976,54.42,413888,Jul 2021
+32,Jln Bahagia,04 to 06,56,Standard,1971,48.58,238888,Jul 2021
+35,Jln Bahagia,07 to 09,56,Standard,1971,48.67,260000,Jul 2021
+46,Jln Bahagia,01 to 03,93,Terrace,1972,50.08,845000,Jul 2021
+50,Jln Bahagia,01 to 03,89,Terrace,1972,50,886000,Jul 2021
+50,Jln Bahagia,01 to 03,174,Terrace,1972,50.08,1140000,Jul 2021
+116A,Jln Tenteram,16 to 18,67,Model A,2017,95.42,510000,Jul 2021
+116A,Jln Tenteram,13 to 15,67,Model A,2017,95.42,520000,Jul 2021
+116B,Jln Tenteram,16 to 18,67,Model A,2017,95.42,515000,Jul 2021
+117B,Jln Tenteram,10 to 12,67,Model A,2017,95.42,518000,Jul 2021
+64,Kallang Bahru,01 to 03,65,Improved,1974,51.5,280000,Jul 2021
+65,Kallang Bahru,01 to 03,65,Improved,1981,58.58,275000,Jul 2021
+804,King George's Ave,13 to 15,59,Improved,1981,59.08,375000,Jul 2021
+77,Lor Limau,01 to 03,59,Improved,1973,51.08,255000,Jul 2021
+6,St. George's Lane,10 to 12,68,New Generation,1981,59,388000,Jul 2021
+3,St. George's Rd,13 to 15,59,Improved,1976,53.92,295000,Jul 2021
+3,St. George's Rd,04 to 06,59,Improved,1976,53.92,295000,Jul 2021
+3,St. George's Rd,04 to 06,59,Improved,1976,53.92,300000,Jul 2021
+3,St. George's Rd,10 to 12,59,Improved,1976,53.83,310000,Jul 2021
+107,Towner Rd,10 to 12,74,Model A,1983,60.92,460000,Jul 2021
+8A,Upp Boon Keng Rd,22 to 24,70,Premium Apartment,2017,95.08,615000,Jul 2021
+8B,Upp Boon Keng Rd,28 to 30,70,Premium Apartment,2017,95,610000,Jul 2021
+75,Whampoa Dr,07 to 09,65,Improved,1974,51.58,260000,Jul 2021
+82,Whampoa Dr,04 to 06,66,Improved,1974,52.08,288000,Jul 2021
+34,Whampoa West,04 to 06,68,Improved,1972,49.58,310000,Jul 2021
+34,Whampoa West,04 to 06,68,Improved,1972,49.58,315000,Jul 2021
+34,Whampoa West,07 to 09,68,Improved,1972,49.58,335000,Jul 2021
+34,Whampoa West,10 to 12,68,Improved,1972,49.58,335000,Jul 2021
+24,Bendemeer Rd,10 to 12,68,Improved,1972,49.67,360000,Jun 2021
+28,Bendemeer Rd,10 to 12,71,Improved,1972,49.67,388000,Jun 2021
+30,Bendemeer Rd,01 to 03,68,Improved,1972,49.67,293000,Jun 2021
+44,Bendemeer Rd,04 to 06,63,Standard,1981,58.67,280000,Jun 2021
+7,Boon Keng Rd,04 to 06,70,Dbss,2011,88.67,570000,Jun 2021
+463,Crawford Lane,13 to 15,60,Improved,1982,60.42,380000,Jun 2021
+12,Farrer Pk Rd,25 to 27,62,Model A,2004,82.08,528000,Jun 2021
+15,Farrer Pk Rd,22 to 24,62,Model A,2004,82.08,490000,Jun 2021
+57,Geylang Bahru,04 to 06,65,Improved,1974,52.17,278000,Jun 2021
+57,Geylang Bahru,04 to 06,65,Improved,1974,52.17,285000,Jun 2021
+68,Geylang Bahru,10 to 12,65,Improved,1974,52.17,298000,Jun 2021
+96,Geylang Bahru,01 to 03,68,New Generation,1979,56.67,320000,Jun 2021
+27,Jln Bahagia,04 to 06,56,Standard,1970,48.08,236000,Jun 2021
+32,Jln Bahagia,10 to 12,56,Standard,1971,48.67,255000,Jun 2021
+39,Jln Bahagia,01 to 03,210,Terrace,1972,50.08,1268000,Jun 2021
+48,Jln Bahagia,01 to 03,78,Terrace,1972,50.17,731200,Jun 2021
+2,Jln Batu,07 to 09,60,Standard,1969,46.67,290000,Jun 2021
+2,Jln Batu,10 to 12,60,Standard,1969,46.67,318000,Jun 2021
+3,Jln Batu,01 to 03,60,Standard,1969,46.67,288000,Jun 2021
+65,Jln Ma'mor,01 to 03,126,Terrace,1972,50.08,920000,Jun 2021
+116A,Jln Tenteram,25 to 27,67,Model A,2017,95.5,520000,Jun 2021
+116A,Jln Tenteram,25 to 27,67,Model A,2017,95.5,540000,Jun 2021
+63,Kallang Bahru,10 to 12,65,Improved,1974,51.67,290100,Jun 2021
+65,Kallang Bahru,07 to 09,75,Improved,1981,58.67,330000,Jun 2021
+66,Kallang Bahru,01 to 03,65,Improved,1974,52.17,272800,Jun 2021
+12,Kg Arang Rd,10 to 12,103,New Generation,1982,59.92,549000,Jun 2021
+806,King George's Ave,13 to 15,59,Improved,1981,59.25,398000,Jun 2021
+76,Lor Limau,10 to 12,65,Improved,1973,51.17,275000,Jun 2021
+77,Lor Limau,13 to 15,59,Improved,1973,51.17,310000,Jun 2021
+112,Mcnair Rd,07 to 09,64,Simplified,1987,64.92,410000,Jun 2021
+468,Nth Bridge Rd,04 to 06,60,Improved,1979,57.17,345000,Jun 2021
+46,Owen Rd,04 to 06,68,New Generation,1982,60.5,370000,Jun 2021
+7,St. George's Lane,07 to 09,60,Improved,1986,64,320000,Jun 2021
+107,Towner Rd,10 to 12,74,Model A,1983,61,440000,Jun 2021
+107,Towner Rd,04 to 06,74,Model A,1983,61,442000,Jun 2021
+5A,Upp Boon Keng Rd,01 to 03,67,Model A,2012,90,480000,Jun 2021
+5A,Upp Boon Keng Rd,10 to 12,67,Model A,2012,90,510000,Jun 2021
+8B,Upp Boon Keng Rd,04 to 06,70,Premium Apartment,2017,95.17,585000,Jun 2021
+11,Upp Boon Keng Rd,13 to 15,65,Improved,1974,51.67,325000,Jun 2021
+11,Upp Boon Keng Rd,10 to 12,65,Improved,1974,51.67,331000,Jun 2021
+74,Whampoa Dr,07 to 09,66,Improved,1981,59.08,275000,Jun 2021
+75,Whampoa Dr,10 to 12,65,Improved,1974,51.67,245000,Jun 2021
+82,Whampoa Dr,04 to 06,66,Improved,1974,52.17,285000,Jun 2021
+86,Whampoa Dr,10 to 12,66,Improved,1974,52.17,301888,Jun 2021
+34,Whampoa West,04 to 06,68,Improved,1972,49.67,330000,Jun 2021
+2,Beach Rd,01 to 03,68,Improved,1979,57.33,320000,May 2021
+2,Beach Rd,07 to 09,68,Improved,1979,57.42,350000,May 2021
+43,Bendemeer Rd,04 to 06,63,Standard,1981,58.75,278000,May 2021
+57,Geylang Bahru,01 to 03,65,Improved,1974,52.25,310000,May 2021
+57,Geylang Bahru,13 to 15,76,Improved,1974,52.17,350000,May 2021
+68,Geylang Bahru,04 to 06,65,Improved,1974,52.25,255000,May 2021
+68,Geylang Bahru,04 to 06,65,Improved,1974,52.17,270000,May 2021
+94,Geylang Bahru,07 to 09,68,New Generation,1979,56.75,341000,May 2021
+95,Geylang Bahru,07 to 09,68,New Generation,1979,56.75,343000,May 2021
+10,Gloucester Rd,07 to 09,67,New Generation,1976,54.58,384000,May 2021
+55,Jln Bahagia,01 to 03,103,Terrace,1972,50.25,845000,May 2021
+3,Jln Batu,10 to 12,60,Standard,1969,46.75,290000,May 2021
+4,Jln Batu,04 to 06,60,Standard,1969,46.67,260000,May 2021
+4,Jln Batu,07 to 09,60,Standard,1969,46.75,290000,May 2021
+65,Kallang Bahru,10 to 12,65,Improved,1981,58.75,290000,May 2021
+76,Lor Limau,13 to 15,65,Improved,1973,51.25,298000,May 2021
+77,Lor Limau,07 to 09,59,Improved,1973,51.25,280000,May 2021
+5,St. George's Lane,04 to 06,82,New Generation,1981,59.17,387000,May 2021
+8,St. George's Lane,04 to 06,68,New Generation,1982,59.92,370000,May 2021
+23,St. George's Rd,01 to 03,82,New Generation,1984,62.25,393000,May 2021
+8B,Upp Boon Keng Rd,16 to 18,70,Premium Apartment,2017,95.17,600000,May 2021
+16,Upp Boon Keng Rd,07 to 09,65,Improved,1975,52.92,315000,May 2021
+16,Upp Boon Keng Rd,04 to 06,65,Improved,1975,52.83,320000,May 2021
+74,Whampoa Dr,16 to 18,66,Improved,1981,59.17,310000,May 2021
+75,Whampoa Dr,13 to 15,65,Improved,1974,51.83,267000,May 2021
+93,Whampoa Dr,01 to 03,65,Improved,1974,51.92,267500,May 2021
+98,Whampoa Dr,04 to 06,65,Improved,1974,51.92,268000,May 2021
+34,Whampoa West,07 to 09,68,Improved,1972,49.75,320000,May 2021
+1,Beach Rd,07 to 09,68,Improved,1979,57.42,328000,Apr 2021
+2,Beach Rd,01 to 03,68,Improved,1979,57.5,315000,Apr 2021
+3,Beach Rd,07 to 09,68,Improved,1979,57.42,320000,Apr 2021
+3,Beach Rd,04 to 06,68,Improved,1979,57.5,330000,Apr 2021
+23,Bendemeer Rd,10 to 12,68,Improved,1972,49.83,280000,Apr 2021
+30,Bendemeer Rd,10 to 12,68,Improved,1972,49.83,310000,Apr 2021
+38B,Bendemeer Rd,10 to 12,69,Model A,2012,90.17,430000,Apr 2021
+45,Bendemeer Rd,04 to 06,66,Improved,1972,49.75,315000,Apr 2021
+12,Farrer Pk Rd,19 to 21,62,Model A,2004,82.17,548888,Apr 2021
+33,Jln Bahagia,01 to 03,53,Standard,1970,48.25,237000,Apr 2021
+51,Jln Bahagia,01 to 03,178,Terrace,1972,50.33,1140000,Apr 2021
+3,Jln Batu,07 to 09,60,Standard,1969,46.83,282000,Apr 2021
+61,Jln Tenteram,01 to 03,222,Terrace,1972,50.25,1100000,Apr 2021
+64,Kallang Bahru,07 to 09,65,Improved,1974,51.75,281000,Apr 2021
+64,Kallang Bahru,10 to 12,65,Improved,1974,51.75,290000,Apr 2021
+64,Kallang Bahru,07 to 09,65,Improved,1974,51.83,310000,Apr 2021
+12,Kg Arang Rd,10 to 12,103,New Generation,1982,60.08,576888,Apr 2021
+806,King George's Ave,10 to 12,68,Improved,1981,59.58,400000,Apr 2021
+76,Lor Limau,16 to 18,65,Improved,1973,51.25,270000,Apr 2021
+123,Mcnair Rd,13 to 15,64,Simplified,1987,65,380000,Apr 2021
+8,St. George's Lane,04 to 06,68,New Generation,1982,60,320000,Apr 2021
+20,St. George's Rd,10 to 12,67,New Generation,1984,62.5,363000,Apr 2021
+16,Upp Boon Keng Rd,04 to 06,65,Improved,1975,52.92,300000,Apr 2021
+82,Whampoa Dr,10 to 12,66,Improved,1974,52.33,250000,Apr 2021
+82,Whampoa Dr,13 to 15,66,Improved,1974,52.33,293800,Apr 2021
+86,Whampoa Dr,07 to 09,66,Improved,1974,52.25,283000,Apr 2021
+97,Whampoa Dr,04 to 06,66,Improved,1980,58.33,290000,Apr 2021
+97,Whampoa Dr,10 to 12,66,Improved,1980,58.33,295000,Apr 2021
+98,Whampoa Dr,01 to 03,76,Improved,1974,52,292000,Apr 2021
+34,Whampoa West,01 to 03,68,Improved,1972,49.83,313000,Apr 2021
+34,Whampoa West,04 to 06,68,Improved,1972,49.83,324000,Apr 2021
+1,Beach Rd,07 to 09,68,Improved,1979,57.58,350888,Mar 2021
+2,Beach Rd,07 to 09,68,Improved,1979,57.5,333000,Mar 2021
+43,Bendemeer Rd,01 to 03,63,Standard,1981,58.83,270000,Mar 2021
+45,Bendemeer Rd,10 to 12,66,Improved,1972,49.92,290000,Mar 2021
+12,Farrer Pk Rd,16 to 18,62,Model A,2004,82.33,497000,Mar 2021
+15,Farrer Pk Rd,04 to 06,62,Model A,2004,82.25,465000,Mar 2021
+15,Farrer Pk Rd,28 to 30,62,Model A,2004,82.25,496000,Mar 2021
+57,Geylang Bahru,07 to 09,65,Improved,1974,52.42,300000,Mar 2021
+68,Geylang Bahru,13 to 15,65,Improved,1974,52.33,308000,Mar 2021
+68,Geylang Bahru,16 to 18,76,Improved,1974,52.42,336800,Mar 2021
+72,Geylang Bahru,04 to 06,70,Improved,1974,52,326000,Mar 2021
+73,Geylang Bahru,04 to 06,59,Improved,1974,52,273888,Mar 2021
+73,Geylang Bahru,04 to 06,70,Improved,1974,52,335000,Mar 2021
+94,Geylang Bahru,07 to 09,68,New Generation,1979,56.83,325000,Mar 2021
+94,Geylang Bahru,04 to 06,68,New Generation,1979,56.83,333000,Mar 2021
+10,Gloucester Rd,10 to 12,67,New Generation,1976,54.67,375000,Mar 2021
+10,Gloucester Rd,07 to 09,67,New Generation,1976,54.75,405000,Mar 2021
+35,Jln Bahagia,04 to 06,56,Standard,1971,48.83,220000,Mar 2021
+2,Jln Batu,04 to 06,60,Standard,1969,46.83,280000,Mar 2021
+3,Jln Batu,04 to 06,60,Standard,1969,46.92,256000,Mar 2021
+5,Jln Batu,01 to 03,63,Standard,1969,47,245000,Mar 2021
+61,Jln Tenteram,01 to 03,94,Terrace,1972,50.33,830000,Mar 2021
+116A,Jln Tenteram,22 to 24,67,Model A,2017,95.75,528000,Mar 2021
+65,Kallang Bahru,01 to 03,65,Improved,1981,58.83,275000,Mar 2021
+65,Kallang Bahru,07 to 09,65,Improved,1981,58.92,297000,Mar 2021
+77,Lor Limau,13 to 15,59,Improved,1973,51.33,288000,Mar 2021
+8,St. George's Lane,04 to 06,68,New Generation,1982,60.08,341000,Mar 2021
+102,Towner Rd,01 to 03,74,Model A,1984,61.83,460000,Mar 2021
+75,Whampoa Dr,16 to 18,65,Improved,1974,51.92,250000,Mar 2021
+98,Whampoa Dr,07 to 09,65,Improved,1974,52.08,285000,Mar 2021
+34,Whampoa West,07 to 09,68,Improved,1972,49.92,340000,Mar 2021
+1,Beach Rd,07 to 09,68,Improved,1979,57.67,328000,Feb 2021
+24,Bendemeer Rd,01 to 03,68,Improved,1972,50,295000,Feb 2021
+26,Bendemeer Rd,07 to 09,71,Improved,1972,50,370000,Feb 2021
+43,Bendemeer Rd,10 to 12,63,Standard,1981,58.92,280000,Feb 2021
+44,Bendemeer Rd,07 to 09,63,Standard,1981,59.08,280000,Feb 2021
+45,Bendemeer Rd,07 to 09,77,Improved,1972,50,330000,Feb 2021
+49,Dorset Rd,01 to 03,68,New Generation,1979,57.42,335000,Feb 2021
+15,Farrer Pk Rd,25 to 27,62,Model A,2004,82.42,505000,Feb 2021
+57,Geylang Bahru,07 to 09,65,Improved,1974,52.5,286000,Feb 2021
+94,Geylang Bahru,07 to 09,68,New Generation,1979,57,338000,Feb 2021
+94,Geylang Bahru,07 to 09,82,New Generation,1979,56.92,385000,Feb 2021
+27,Jln Bahagia,01 to 03,56,Standard,1970,48.42,225000,Feb 2021
+33,Jln Bahagia,01 to 03,56,Standard,1970,48.42,218000,Feb 2021
+33,Jln Bahagia,01 to 03,56,Standard,1970,48.42,230000,Feb 2021
+35,Jln Bahagia,07 to 09,56,Standard,1971,48.92,220000,Feb 2021
+3,Jln Batu,01 to 03,60,Standard,1969,46.92,248000,Feb 2021
+5,Jln Batu,01 to 03,62,Standard,1969,47,308000,Feb 2021
+14,Kg Arang Rd,01 to 03,103,New Generation,1984,62.5,468000,Feb 2021
+1,Kg Kayu Rd,04 to 06,62,Standard,1984,62.75,330000,Feb 2021
+76,Lor Limau,01 to 03,65,Improved,1973,51.42,250000,Feb 2021
+5,St. George's Lane,10 to 12,68,New Generation,1981,59.33,355000,Feb 2021
+2,St. George's Rd,13 to 15,59,Improved,1976,54.33,310000,Feb 2021
+11,Upp Boon Keng Rd,07 to 09,65,Improved,1974,52,320000,Feb 2021
+74,Whampoa Dr,13 to 15,75,Improved,1981,59.33,355000,Feb 2021
+86,Whampoa Dr,07 to 09,66,Improved,1974,52.5,283000,Feb 2021
+98,Whampoa Dr,13 to 15,65,Improved,1974,52.08,300000,Feb 2021
+2,Beach Rd,04 to 06,74,Improved,1979,57.67,353000,Jan 2021
+28,Bendemeer Rd,22 to 24,71,Improved,1972,50,400000,Jan 2021
+38B,Bendemeer Rd,07 to 09,69,Model A,2012,90.33,485000,Jan 2021
+43,Bendemeer Rd,10 to 12,63,Standard,1981,59,275000,Jan 2021
+44,Bendemeer Rd,04 to 06,63,Standard,1981,59.08,248000,Jan 2021
+12,Farrer Pk Rd,07 to 09,62,Model A,2004,82.5,477000,Jan 2021
+15,Farrer Pk Rd,22 to 24,62,Model A,2004,82.5,480000,Jan 2021
+57,Geylang Bahru,13 to 15,65,Improved,1974,52.58,300000,Jan 2021
+72,Geylang Bahru,07 to 09,59,Improved,1974,52.25,253000,Jan 2021
+72,Geylang Bahru,07 to 09,59,Improved,1974,52.17,276000,Jan 2021
+28,Jln Bahagia,07 to 09,56,Standard,1971,49.08,238000,Jan 2021
+34,Jln Bahagia,01 to 03,53,Standard,1970,48.5,220000,Jan 2021
+6,Jln Batu,04 to 06,60,Standard,1969,47,262000,Jan 2021
+64,Jln Ma'mor,01 to 03,126,Terrace,1972,50.58,895000,Jan 2021
+1,Kg Kayu Rd,07 to 09,62,Standard,1984,62.83,305000,Jan 2021
+468,Nth Bridge Rd,10 to 12,60,Improved,1979,57.58,335000,Jan 2021
+3,St. George's Rd,01 to 03,59,Improved,1976,54.42,290000,Jan 2021
+3,St. George's Rd,10 to 12,59,Improved,1976,54.42,290000,Jan 2021
+11,Upp Boon Keng Rd,04 to 06,65,Improved,1974,52,285000,Jan 2021
+16,Upp Boon Keng Rd,04 to 06,65,Improved,1975,53.17,298888,Jan 2021
+16,Upp Boon Keng Rd,04 to 06,65,Improved,1975,53.17,315000,Jan 2021
+75,Whampoa Dr,10 to 12,65,Improved,1974,52,237000,Jan 2021
+75,Whampoa Dr,07 to 09,65,Improved,1974,52,255000,Jan 2021
+93,Whampoa Dr,04 to 06,65,Improved,1974,52.17,300000,Jan 2021
+93,Whampoa Dr,04 to 06,76,Improved,1974,52.25,325000,Jan 2021
+98,Whampoa Dr,13 to 15,65,Improved,1974,52.17,285000,Jan 2021
+3,Beach Rd,16 to 18,68,Improved,1979,57.83,330000,Dec 2020
+24,Bendemeer Rd,01 to 03,68,Improved,1972,50.08,303000,Dec 2020
+43,Bendemeer Rd,07 to 09,63,Standard,1981,59.17,260000,Dec 2020
+44,Bendemeer Rd,07 to 09,63,Standard,1981,59.08,240000,Dec 2020
+463,Crawford Lane,10 to 12,60,Improved,1982,60.92,340000,Dec 2020
+49,Dorset Rd,10 to 12,68,New Generation,1979,57.58,365000,Dec 2020
+50,Dorset Rd,07 to 09,68,New Generation,1979,57.58,370000,Dec 2020
+12,Farrer Pk Rd,04 to 06,62,Model A,2004,82.58,455000,Dec 2020
+73,Geylang Bahru,07 to 09,59,Improved,1974,52.42,267000,Dec 2020
+73,Geylang Bahru,10 to 12,70,Improved,1974,52.33,325000,Dec 2020
+33,Jln Bahagia,04 to 06,56,Standard,1970,48.58,225000,Dec 2020
+33,Jln Bahagia,07 to 09,56,Standard,1970,48.58,233000,Dec 2020
+40,Jln Bahagia,01 to 03,91,Terrace,1972,50.58,775000,Dec 2020
+55,Jln Bahagia,01 to 03,97,Terrace,1972,50.67,820000,Dec 2020
+3,Jln Batu,07 to 09,60,Standard,1969,47.17,280000,Dec 2020
+3,Jln Batu,07 to 09,60,Standard,1969,47.17,280000,Dec 2020
+6,Jln Batu,01 to 03,60,Standard,1969,47.17,260000,Dec 2020
+6,Jln Batu,07 to 09,60,Standard,1969,47.08,276000,Dec 2020
+6,Jln Batu,07 to 09,60,Standard,1969,47.17,295000,Dec 2020
+53,Jln Ma'mor,01 to 03,115,Terrace,1972,50.67,850000,Dec 2020
+61,Jln Tenteram,01 to 03,94,Terrace,1972,50.67,678000,Dec 2020
+63,Kallang Bahru,04 to 06,65,Improved,1974,52.17,275000,Dec 2020
+64,Kallang Bahru,01 to 03,65,Improved,1974,52.17,255000,Dec 2020
+64,Kallang Bahru,10 to 12,65,Improved,1974,52.08,280000,Dec 2020
+1,Kg Kayu Rd,07 to 09,62,Standard,1984,63,325000,Dec 2020
+76,Lor Limau,01 to 03,65,Improved,1973,51.67,253000,Dec 2020
+77,Lor Limau,07 to 09,59,Improved,1973,51.67,225000,Dec 2020
+467,Nth Bridge Rd,16 to 18,60,Improved,1978,56.92,325000,Dec 2020
+6,St. George's Lane,07 to 09,82,New Generation,1981,59.58,390000,Dec 2020
+6,St. George's Lane,07 to 09,82,New Generation,1981,59.5,390000,Dec 2020
+2,St. George's Rd,07 to 09,59,Improved,1976,54.58,270000,Dec 2020
+3,St. George's Rd,13 to 15,59,Improved,1976,54.5,300000,Dec 2020
+107,Towner Rd,04 to 06,74,Model A,1983,61.42,450000,Dec 2020
+5A,Upp Boon Keng Rd,07 to 09,67,Model A,2012,90.5,521800,Dec 2020
+11,Upp Boon Keng Rd,01 to 03,65,Improved,1974,52.17,313000,Dec 2020
+11,Upp Boon Keng Rd,04 to 06,65,Improved,1974,52.17,318000,Dec 2020
+16,Upp Boon Keng Rd,13 to 15,76,Improved,1975,53.17,385000,Dec 2020
+82,Whampoa Dr,13 to 15,66,Improved,1974,52.67,258000,Dec 2020
+86,Whampoa Dr,04 to 06,66,Improved,1974,52.58,275000,Dec 2020
+93,Whampoa Dr,07 to 09,65,Improved,1974,52.25,283000,Dec 2020
+1,Beach Rd,01 to 03,61,Improved,1979,57.92,320000,Nov 2020
+44,Bendemeer Rd,04 to 06,63,Standard,1981,59.25,245000,Nov 2020
+44,Bendemeer Rd,10 to 12,63,Standard,1981,59.25,269000,Nov 2020
+462,Crawford Lane,04 to 06,60,Improved,1981,60,355000,Nov 2020
+50,Dorset Rd,07 to 09,68,New Generation,1979,57.58,352000,Nov 2020
+15,Farrer Pk Rd,16 to 18,62,Model A,2004,82.67,470000,Nov 2020
+57,Geylang Bahru,01 to 03,65,Improved,1974,52.75,260000,Nov 2020
+68,Geylang Bahru,13 to 15,65,Improved,1974,52.67,281000,Nov 2020
+33,Jln Bahagia,07 to 09,56,Standard,1970,48.67,230000,Nov 2020
+41,Jln Bahagia,01 to 03,93,Terrace,1972,50.67,780000,Nov 2020
+63,Kallang Bahru,04 to 06,65,Improved,1974,52.25,270000,Nov 2020
+64,Kallang Bahru,07 to 09,65,Improved,1974,52.25,278000,Nov 2020
+804,King George's Ave,07 to 09,68,Improved,1981,59.83,388000,Nov 2020
+806,King George's Ave,13 to 15,59,Improved,1981,59.83,368000,Nov 2020
+806,King George's Ave,04 to 06,68,Improved,1981,59.83,400000,Nov 2020
+467,Nth Bridge Rd,13 to 15,60,Improved,1978,56.92,320000,Nov 2020
+2,St. George's Rd,07 to 09,59,Improved,1976,54.58,275000,Nov 2020
+3,St. George's Rd,07 to 09,59,Improved,1976,54.58,265000,Nov 2020
+3,St. George's Rd,10 to 12,59,Improved,1976,54.5,320000,Nov 2020
+5A,Upp Boon Keng Rd,22 to 24,67,Model A,2012,90.58,530000,Nov 2020
+85,Whampoa Dr,07 to 09,65,Improved,1974,52.25,308000,Nov 2020
+98,Whampoa Dr,04 to 06,65,Improved,1974,52.42,275000,Nov 2020
+34,Whampoa West,01 to 03,68,Improved,1972,50.25,275888,Nov 2020
+38C,Bendemeer Rd,04 to 06,69,Model A,2012,89.58,486000,Nov 2021
+9,Boon Keng Rd,04 to 06,69,Dbss,2011,88.33,620000,Nov 2021
+49,Dorset Rd,04 to 06,68,New Generation,1979,56.67,400888,Nov 2021
+33,Jln Bahagia,01 to 03,56,Standard,1970,47.67,240000,Nov 2021
+76,Lor Limau,01 to 03,65,Improved,1973,50.75,280000,Nov 2021
+467,Nth Bridge Rd,07 to 09,60,Improved,1978,56.08,400000,Nov 2021
+11,Upp Boon Keng Rd,10 to 12,65,Improved,1974,51.25,360000,Nov 2021
+16,Upp Boon Keng Rd,01 to 03,65,Improved,1975,52.42,300000,Nov 2021
+97,Whampoa Dr,10 to 12,65,Improved,1980,57.75,296000,Nov 2021
+2,Beach Rd,13 to 15,68,Improved,1979,57,362000,Oct 2021
+10A,Bendemeer Rd,07 to 09,68,Model A,2017,95.25,620000,Oct 2021
+10A,Bendemeer Rd,31 to 33,68,Model A,2017,95.17,685000,Oct 2021
+44,Bendemeer Rd,04 to 06,63,Standard,1981,58.25,305000,Oct 2021
+45,Bendemeer Rd,10 to 12,66,Improved,1972,49.33,295000,Oct 2021
+47,Bendemeer Rd,07 to 09,65,Improved,1974,52.08,295500,Oct 2021
+9,Boon Keng Rd,04 to 06,70,Dbss,2011,88.33,640000,Oct 2021
+49,Dorset Rd,10 to 12,81,New Generation,1979,56.67,480000,Oct 2021
+15,Farrer Pk Rd,28 to 30,62,Model A,2004,81.75,515000,Oct 2021
+28,Jln Bahagia,01 to 03,53,Standard,1971,48.33,237000,Oct 2021
+5,Jln Batu,01 to 03,60,Standard,1969,46.25,284000,Oct 2021
+5,Jln Batu,01 to 03,60,Standard,1969,46.25,300000,Oct 2021
+5,Jln Batu,04 to 06,60,Standard,1969,46.33,310000,Oct 2021
+116B,Jln Tenteram,07 to 09,67,Model A,2017,95.17,531000,Oct 2021
+117A,Jln Tenteram,28 to 30,67,Model A,2017,95.17,548888,Oct 2021
+76,Lor Limau,10 to 12,65,Improved,1973,50.83,288000,Oct 2021
+77,Lor Limau,16 to 18,59,Improved,1973,50.83,310000,Oct 2021
+113D,Mcnair Rd,16 to 18,68,Premium Apartment,2017,95.25,647000,Oct 2021
+3,St. George's Rd,07 to 09,59,Improved,1976,53.67,302000,Oct 2021
+20,St. George's Rd,07 to 09,67,New Generation,1984,62.08,343888,Oct 2021
+74,Whampoa Dr,10 to 12,66,Improved,1981,58.75,305000,Oct 2021
+34,Whampoa West,04 to 06,68,Improved,1972,49.25,342000,Oct 2021
+2,Beach Rd,13 to 15,68,Improved,1979,57.08,358000,Sep 2021
+10A,Bendemeer Rd,13 to 15,68,Model A,2017,95.33,656500,Sep 2021
+10A,Bendemeer Rd,34 to 36,68,Model A,2017,95.33,688000,Sep 2021
+23,Bendemeer Rd,01 to 03,68,Improved,1972,49.42,300000,Sep 2021
+44,Bendemeer Rd,01 to 03,63,Standard,1981,58.33,275000,Sep 2021
+44,Bendemeer Rd,10 to 12,63,Standard,1981,58.42,310000,Sep 2021
+45,Bendemeer Rd,10 to 12,66,Improved,1972,49.42,300000,Sep 2021
+50,Dorset Rd,04 to 06,68,New Generation,1979,56.75,360000,Sep 2021
+15,Farrer Pk Rd,28 to 30,62,Model A,2004,81.83,555000,Sep 2021
+801,French Rd,10 to 12,59,Improved,1979,56.5,368000,Sep 2021
+57,Geylang Bahru,16 to 18,65,Improved,1974,51.92,320000,Sep 2021
+68,Geylang Bahru,13 to 15,65,Improved,1974,51.92,322800,Sep 2021
+32,Jln Bahagia,01 to 03,53,Standard,1971,48.42,240000,Sep 2021
+46,Jln Bahagia,01 to 03,241,Terrace,1972,49.83,1235000,Sep 2021
+3,Jln Batu,04 to 06,60,Standard,1969,46.42,276000,Sep 2021
+4,Jln Batu,04 to 06,60,Standard,1969,46.42,278000,Sep 2021
+6,Jln Batu,01 to 03,62,Standard,1969,46.42,298000,Sep 2021
+6,Jln Batu,04 to 06,60,Standard,1969,46.33,313000,Sep 2021
+116A,Jln Tenteram,28 to 30,67,Model A,2017,95.25,540000,Sep 2021
+65,Kallang Bahru,01 to 03,65,Improved,1981,58.5,300000,Sep 2021
+66,Kallang Bahru,04 to 06,65,Improved,1974,51.92,310000,Sep 2021
+12,Kg Arang Rd,10 to 12,103,New Generation,1982,59.67,570000,Sep 2021
+806,King George's Ave,07 to 09,68,Improved,1981,59,410000,Sep 2021
+44,Owen Rd,01 to 03,82,New Generation,1979,56.83,485000,Sep 2021
+684,Race Course Rd,07 to 09,63,Simplified,1986,63.42,400000,Sep 2021
+685,Race Course Rd,10 to 12,63,Simplified,1986,63.42,390000,Sep 2021
+7,St. George's Lane,07 to 09,60,Improved,1986,63.67,323800,Sep 2021
+3,St. George's Rd,13 to 15,59,Improved,1976,53.75,295000,Sep 2021
+3,St. George's Rd,04 to 06,59,Improved,1976,53.75,297000,Sep 2021
+3,St. George's Rd,13 to 15,59,Improved,1976,53.75,306000,Sep 2021
+14,St. George's Rd,01 to 03,67,New Generation,1984,62.17,350000,Sep 2021
+74,Whampoa Dr,01 to 03,66,Improved,1981,58.83,285000,Sep 2021
+74,Whampoa Dr,10 to 12,66,Improved,1981,58.75,310000,Sep 2021
+97,Whampoa Dr,07 to 09,75,Improved,1980,57.92,360000,Sep 2021
+98,Whampoa Dr,13 to 15,65,Improved,1974,51.58,310000,Sep 2021
+34,Whampoa West,10 to 12,68,Improved,1972,49.42,341000,Sep 2021
+34,Whampoa West,04 to 06,68,Improved,1972,49.33,348000,Sep 2021
+45,Bendemeer Rd,10 to 12,66,Improved,1972,49.42,306000,Aug 2021
+12,Farrer Pk Rd,28 to 30,62,Model A,2004,81.92,550000,Aug 2021
+15,Farrer Pk Rd,16 to 18,62,Model A,2004,81.83,516000,Aug 2021
+15,Farrer Pk Rd,22 to 24,62,Model A,2004,81.92,520000,Aug 2021
+57,Geylang Bahru,13 to 15,65,Improved,1974,52,288000,Aug 2021
+73,Geylang Bahru,07 to 09,59,Improved,1974,51.58,305000,Aug 2021
+95,Geylang Bahru,01 to 03,68,New Generation,1979,56.58,318000,Aug 2021
+10,Gloucester Rd,07 to 09,67,New Generation,1976,54.25,388000,Aug 2021
+48,Jln Bahagia,01 to 03,78,Terrace,1972,49.92,783000,Aug 2021
+2,Jln Batu,01 to 03,57,Standard,1969,46.42,310000,Aug 2021
+4,Jln Batu,04 to 06,60,Standard,1969,46.5,282000,Aug 2021
+116A,Jln Tenteram,28 to 30,67,Model A,2017,95.33,549888,Aug 2021
+116B,Jln Tenteram,07 to 09,67,Model A,2017,95.25,535000,Aug 2021
+63,Kallang Bahru,10 to 12,65,Improved,1974,51.5,333888,Aug 2021
+64,Kallang Bahru,07 to 09,76,Improved,1974,51.42,353888,Aug 2021
+7,St. George's Lane,04 to 06,60,Improved,1986,63.75,333000,Aug 2021
+8,St. George's Lane,10 to 12,68,New Generation,1982,59.75,380000,Aug 2021
+2,St. George's Rd,07 to 09,70,Improved,1976,53.92,335000,Aug 2021
+3,St. George's Rd,13 to 15,59,Improved,1976,53.92,310888,Aug 2021
+3,St. George's Rd,10 to 12,70,Improved,1976,53.83,360000,Aug 2021
+11,Upp Boon Keng Rd,13 to 15,65,Improved,1974,51.5,343000,Aug 2021
+11,Upp Boon Keng Rd,07 to 09,75,Improved,1974,51.5,408000,Aug 2021
+16,Upp Boon Keng Rd,04 to 06,65,Improved,1975,52.58,315000,Aug 2021
+16,Upp Boon Keng Rd,04 to 06,76,Improved,1975,52.58,368000,Aug 2021
+82,Whampoa Dr,13 to 15,66,Improved,1974,52,325000,Aug 2021
+93,Whampoa Dr,04 to 06,65,Improved,1974,51.67,283000,Aug 2021
+34,Whampoa West,10 to 12,68,Improved,1972,49.5,340000,Aug 2021
+34,Whampoa West,10 to 12,68,Improved,1972,49.5,353000,Aug 2021
+1,Beach Rd,16 to 18,68,Improved,1979,57.25,355000,Jul 2021
+43,Bendemeer Rd,04 to 06,75,Standard,1981,58.58,360000,Jul 2021
+44,Bendemeer Rd,10 to 12,63,Standard,1981,58.58,300000,Jul 2021
+462,Crawford Lane,07 to 09,60,Improved,1981,59.33,440000,Jul 2021
+801,French Rd,07 to 09,59,Improved,1979,56.67,340000,Jul 2021
+57,Geylang Bahru,01 to 03,65,Improved,1974,52.08,277000,Jul 2021
+57,Geylang Bahru,07 to 09,65,Improved,1974,52.08,305000,Jul 2021
+57,Geylang Bahru,10 to 12,65,Improved,1974,52.08,318000,Jul 2021
+68,Geylang Bahru,01 to 03,65,Improved,1974,52,270000,Jul 2021
+73,Geylang Bahru,01 to 03,59,Improved,1974,51.75,258000,Jul 2021
+94,Geylang Bahru,07 to 09,68,New Generation,1979,56.5,343000,Jul 2021
+96,Geylang Bahru,01 to 03,68,New Generation,1979,56.58,324000,Jul 2021
+96,Geylang Bahru,10 to 12,68,New Generation,1979,56.58,340000,Jul 2021
+10,Gloucester Rd,13 to 15,67,New Generation,1976,54.42,413888,Jul 2021
+32,Jln Bahagia,04 to 06,56,Standard,1971,48.58,238888,Jul 2021
+35,Jln Bahagia,07 to 09,56,Standard,1971,48.67,260000,Jul 2021
+46,Jln Bahagia,01 to 03,93,Terrace,1972,50.08,845000,Jul 2021
+50,Jln Bahagia,01 to 03,89,Terrace,1972,50,886000,Jul 2021
+50,Jln Bahagia,01 to 03,174,Terrace,1972,50.08,1140000,Jul 2021
+116A,Jln Tenteram,16 to 18,67,Model A,2017,95.42,510000,Jul 2021
+116A,Jln Tenteram,13 to 15,67,Model A,2017,95.42,520000,Jul 2021
+116B,Jln Tenteram,16 to 18,67,Model A,2017,95.42,515000,Jul 2021
+117B,Jln Tenteram,10 to 12,67,Model A,2017,95.42,518000,Jul 2021
+64,Kallang Bahru,01 to 03,65,Improved,1974,51.5,280000,Jul 2021
+65,Kallang Bahru,01 to 03,65,Improved,1981,58.58,275000,Jul 2021
+804,King George's Ave,13 to 15,59,Improved,1981,59.08,375000,Jul 2021
+77,Lor Limau,01 to 03,59,Improved,1973,51.08,255000,Jul 2021
+6,St. George's Lane,10 to 12,68,New Generation,1981,59,388000,Jul 2021
+3,St. George's Rd,13 to 15,59,Improved,1976,53.92,295000,Jul 2021
+3,St. George's Rd,04 to 06,59,Improved,1976,53.92,295000,Jul 2021
+3,St. George's Rd,04 to 06,59,Improved,1976,53.92,300000,Jul 2021
+3,St. George's Rd,10 to 12,59,Improved,1976,53.83,310000,Jul 2021
+107,Towner Rd,10 to 12,74,Model A,1983,60.92,460000,Jul 2021
+8A,Upp Boon Keng Rd,22 to 24,70,Premium Apartment,2017,95.08,615000,Jul 2021
+8B,Upp Boon Keng Rd,28 to 30,70,Premium Apartment,2017,95,610000,Jul 2021
+75,Whampoa Dr,07 to 09,65,Improved,1974,51.58,260000,Jul 2021
+82,Whampoa Dr,04 to 06,66,Improved,1974,52.08,288000,Jul 2021
+34,Whampoa West,04 to 06,68,Improved,1972,49.58,310000,Jul 2021
+34,Whampoa West,04 to 06,68,Improved,1972,49.58,315000,Jul 2021
+34,Whampoa West,07 to 09,68,Improved,1972,49.58,335000,Jul 2021
+34,Whampoa West,10 to 12,68,Improved,1972,49.58,335000,Jul 2021
+24,Bendemeer Rd,10 to 12,68,Improved,1972,49.67,360000,Jun 2021
+28,Bendemeer Rd,10 to 12,71,Improved,1972,49.67,388000,Jun 2021
+30,Bendemeer Rd,01 to 03,68,Improved,1972,49.67,293000,Jun 2021
+44,Bendemeer Rd,04 to 06,63,Standard,1981,58.67,280000,Jun 2021
+7,Boon Keng Rd,04 to 06,70,Dbss,2011,88.67,570000,Jun 2021
+463,Crawford Lane,13 to 15,60,Improved,1982,60.42,380000,Jun 2021
+12,Farrer Pk Rd,25 to 27,62,Model A,2004,82.08,528000,Jun 2021
+15,Farrer Pk Rd,22 to 24,62,Model A,2004,82.08,490000,Jun 2021
+57,Geylang Bahru,04 to 06,65,Improved,1974,52.17,278000,Jun 2021
+57,Geylang Bahru,04 to 06,65,Improved,1974,52.17,285000,Jun 2021
+68,Geylang Bahru,10 to 12,65,Improved,1974,52.17,298000,Jun 2021
+96,Geylang Bahru,01 to 03,68,New Generation,1979,56.67,320000,Jun 2021
+27,Jln Bahagia,04 to 06,56,Standard,1970,48.08,236000,Jun 2021
+32,Jln Bahagia,10 to 12,56,Standard,1971,48.67,255000,Jun 2021
+39,Jln Bahagia,01 to 03,210,Terrace,1972,50.08,1268000,Jun 2021
+48,Jln Bahagia,01 to 03,78,Terrace,1972,50.17,731200,Jun 2021
+2,Jln Batu,07 to 09,60,Standard,1969,46.67,290000,Jun 2021
+2,Jln Batu,10 to 12,60,Standard,1969,46.67,318000,Jun 2021
+3,Jln Batu,01 to 03,60,Standard,1969,46.67,288000,Jun 2021
+65,Jln Ma'mor,01 to 03,126,Terrace,1972,50.08,920000,Jun 2021
+116A,Jln Tenteram,25 to 27,67,Model A,2017,95.5,520000,Jun 2021
+116A,Jln Tenteram,25 to 27,67,Model A,2017,95.5,540000,Jun 2021
+63,Kallang Bahru,10 to 12,65,Improved,1974,51.67,290100,Jun 2021
+65,Kallang Bahru,07 to 09,75,Improved,1981,58.67,330000,Jun 2021
+66,Kallang Bahru,01 to 03,65,Improved,1974,52.17,272800,Jun 2021
+12,Kg Arang Rd,10 to 12,103,New Generation,1982,59.92,549000,Jun 2021
+806,King George's Ave,13 to 15,59,Improved,1981,59.25,398000,Jun 2021
+76,Lor Limau,10 to 12,65,Improved,1973,51.17,275000,Jun 2021
+77,Lor Limau,13 to 15,59,Improved,1973,51.17,310000,Jun 2021
+112,Mcnair Rd,07 to 09,64,Simplified,1987,64.92,410000,Jun 2021
+468,Nth Bridge Rd,04 to 06,60,Improved,1979,57.17,345000,Jun 2021
+46,Owen Rd,04 to 06,68,New Generation,1982,60.5,370000,Jun 2021
+7,St. George's Lane,07 to 09,60,Improved,1986,64,320000,Jun 2021
+107,Towner Rd,10 to 12,74,Model A,1983,61,440000,Jun 2021
+107,Towner Rd,04 to 06,74,Model A,1983,61,442000,Jun 2021
+5A,Upp Boon Keng Rd,01 to 03,67,Model A,2012,90,480000,Jun 2021
+5A,Upp Boon Keng Rd,10 to 12,67,Model A,2012,90,510000,Jun 2021
+8B,Upp Boon Keng Rd,04 to 06,70,Premium Apartment,2017,95.17,585000,Jun 2021
+11,Upp Boon Keng Rd,13 to 15,65,Improved,1974,51.67,325000,Jun 2021
+11,Upp Boon Keng Rd,10 to 12,65,Improved,1974,51.67,331000,Jun 2021
+74,Whampoa Dr,07 to 09,66,Improved,1981,59.08,275000,Jun 2021
+75,Whampoa Dr,10 to 12,65,Improved,1974,51.67,245000,Jun 2021
+82,Whampoa Dr,04 to 06,66,Improved,1974,52.17,285000,Jun 2021
+86,Whampoa Dr,10 to 12,66,Improved,1974,52.17,301888,Jun 2021
+34,Whampoa West,04 to 06,68,Improved,1972,49.67,330000,Jun 2021
+2,Beach Rd,01 to 03,68,Improved,1979,57.33,320000,May 2021
+2,Beach Rd,07 to 09,68,Improved,1979,57.42,350000,May 2021
+43,Bendemeer Rd,04 to 06,63,Standard,1981,58.75,278000,May 2021
+57,Geylang Bahru,01 to 03,65,Improved,1974,52.25,310000,May 2021
+57,Geylang Bahru,13 to 15,76,Improved,1974,52.17,350000,May 2021
+68,Geylang Bahru,04 to 06,65,Improved,1974,52.25,255000,May 2021
+68,Geylang Bahru,04 to 06,65,Improved,1974,52.17,270000,May 2021
+94,Geylang Bahru,07 to 09,68,New Generation,1979,56.75,341000,May 2021
+95,Geylang Bahru,07 to 09,68,New Generation,1979,56.75,343000,May 2021
+10,Gloucester Rd,07 to 09,67,New Generation,1976,54.58,384000,May 2021
+55,Jln Bahagia,01 to 03,103,Terrace,1972,50.25,845000,May 2021
+3,Jln Batu,10 to 12,60,Standard,1969,46.75,290000,May 2021
+4,Jln Batu,04 to 06,60,Standard,1969,46.67,260000,May 2021
+4,Jln Batu,07 to 09,60,Standard,1969,46.75,290000,May 2021
+65,Kallang Bahru,10 to 12,65,Improved,1981,58.75,290000,May 2021
+76,Lor Limau,13 to 15,65,Improved,1973,51.25,298000,May 2021
+77,Lor Limau,07 to 09,59,Improved,1973,51.25,280000,May 2021
+5,St. George's Lane,04 to 06,82,New Generation,1981,59.17,387000,May 2021
+8,St. George's Lane,04 to 06,68,New Generation,1982,59.92,370000,May 2021
+23,St. George's Rd,01 to 03,82,New Generation,1984,62.25,393000,May 2021
+8B,Upp Boon Keng Rd,16 to 18,70,Premium Apartment,2017,95.17,600000,May 2021
+16,Upp Boon Keng Rd,07 to 09,65,Improved,1975,52.92,315000,May 2021
+16,Upp Boon Keng Rd,04 to 06,65,Improved,1975,52.83,320000,May 2021
+74,Whampoa Dr,16 to 18,66,Improved,1981,59.17,310000,May 2021
+75,Whampoa Dr,13 to 15,65,Improved,1974,51.83,267000,May 2021
+93,Whampoa Dr,01 to 03,65,Improved,1974,51.92,267500,May 2021
+98,Whampoa Dr,04 to 06,65,Improved,1974,51.92,268000,May 2021
+34,Whampoa West,07 to 09,68,Improved,1972,49.75,320000,May 2021
+1,Beach Rd,07 to 09,68,Improved,1979,57.42,328000,Apr 2021
+2,Beach Rd,01 to 03,68,Improved,1979,57.5,315000,Apr 2021
+3,Beach Rd,07 to 09,68,Improved,1979,57.42,320000,Apr 2021
+3,Beach Rd,04 to 06,68,Improved,1979,57.5,330000,Apr 2021
+23,Bendemeer Rd,10 to 12,68,Improved,1972,49.83,280000,Apr 2021
+30,Bendemeer Rd,10 to 12,68,Improved,1972,49.83,310000,Apr 2021
+38B,Bendemeer Rd,10 to 12,69,Model A,2012,90.17,430000,Apr 2021
+45,Bendemeer Rd,04 to 06,66,Improved,1972,49.75,315000,Apr 2021
+12,Farrer Pk Rd,19 to 21,62,Model A,2004,82.17,548888,Apr 2021
+33,Jln Bahagia,01 to 03,53,Standard,1970,48.25,237000,Apr 2021
+51,Jln Bahagia,01 to 03,178,Terrace,1972,50.33,1140000,Apr 2021
+3,Jln Batu,07 to 09,60,Standard,1969,46.83,282000,Apr 2021
+61,Jln Tenteram,01 to 03,222,Terrace,1972,50.25,1100000,Apr 2021
+64,Kallang Bahru,07 to 09,65,Improved,1974,51.75,281000,Apr 2021
+64,Kallang Bahru,10 to 12,65,Improved,1974,51.75,290000,Apr 2021
+64,Kallang Bahru,07 to 09,65,Improved,1974,51.83,310000,Apr 2021
+12,Kg Arang Rd,10 to 12,103,New Generation,1982,60.08,576888,Apr 2021
+806,King George's Ave,10 to 12,68,Improved,1981,59.58,400000,Apr 2021
+76,Lor Limau,16 to 18,65,Improved,1973,51.25,270000,Apr 2021
+123,Mcnair Rd,13 to 15,64,Simplified,1987,65,380000,Apr 2021
+8,St. George's Lane,04 to 06,68,New Generation,1982,60,320000,Apr 2021
+20,St. George's Rd,10 to 12,67,New Generation,1984,62.5,363000,Apr 2021
+16,Upp Boon Keng Rd,04 to 06,65,Improved,1975,52.92,300000,Apr 2021
+82,Whampoa Dr,10 to 12,66,Improved,1974,52.33,250000,Apr 2021
+82,Whampoa Dr,13 to 15,66,Improved,1974,52.33,293800,Apr 2021
+86,Whampoa Dr,07 to 09,66,Improved,1974,52.25,283000,Apr 2021
+97,Whampoa Dr,04 to 06,66,Improved,1980,58.33,290000,Apr 2021
+97,Whampoa Dr,10 to 12,66,Improved,1980,58.33,295000,Apr 2021
+98,Whampoa Dr,01 to 03,76,Improved,1974,52,292000,Apr 2021
+34,Whampoa West,01 to 03,68,Improved,1972,49.83,313000,Apr 2021
+34,Whampoa West,04 to 06,68,Improved,1972,49.83,324000,Apr 2021
+1,Beach Rd,07 to 09,68,Improved,1979,57.58,350888,Mar 2021
+2,Beach Rd,07 to 09,68,Improved,1979,57.5,333000,Mar 2021
+43,Bendemeer Rd,01 to 03,63,Standard,1981,58.83,270000,Mar 2021
+45,Bendemeer Rd,10 to 12,66,Improved,1972,49.92,290000,Mar 2021
+12,Farrer Pk Rd,16 to 18,62,Model A,2004,82.33,497000,Mar 2021
+15,Farrer Pk Rd,04 to 06,62,Model A,2004,82.25,465000,Mar 2021
+15,Farrer Pk Rd,28 to 30,62,Model A,2004,82.25,496000,Mar 2021
+57,Geylang Bahru,07 to 09,65,Improved,1974,52.42,300000,Mar 2021
+68,Geylang Bahru,13 to 15,65,Improved,1974,52.33,308000,Mar 2021
+68,Geylang Bahru,16 to 18,76,Improved,1974,52.42,336800,Mar 2021
+72,Geylang Bahru,04 to 06,70,Improved,1974,52,326000,Mar 2021
+73,Geylang Bahru,04 to 06,59,Improved,1974,52,273888,Mar 2021
+73,Geylang Bahru,04 to 06,70,Improved,1974,52,335000,Mar 2021
+94,Geylang Bahru,07 to 09,68,New Generation,1979,56.83,325000,Mar 2021
+94,Geylang Bahru,04 to 06,68,New Generation,1979,56.83,333000,Mar 2021
+10,Gloucester Rd,10 to 12,67,New Generation,1976,54.67,375000,Mar 2021
+10,Gloucester Rd,07 to 09,67,New Generation,1976,54.75,405000,Mar 2021
+35,Jln Bahagia,04 to 06,56,Standard,1971,48.83,220000,Mar 2021
+2,Jln Batu,04 to 06,60,Standard,1969,46.83,280000,Mar 2021
+3,Jln Batu,04 to 06,60,Standard,1969,46.92,256000,Mar 2021
+5,Jln Batu,01 to 03,63,Standard,1969,47,245000,Mar 2021
+61,Jln Tenteram,01 to 03,94,Terrace,1972,50.33,830000,Mar 2021
+116A,Jln Tenteram,22 to 24,67,Model A,2017,95.75,528000,Mar 2021
+65,Kallang Bahru,01 to 03,65,Improved,1981,58.83,275000,Mar 2021
+65,Kallang Bahru,07 to 09,65,Improved,1981,58.92,297000,Mar 2021
+77,Lor Limau,13 to 15,59,Improved,1973,51.33,288000,Mar 2021
+8,St. George's Lane,04 to 06,68,New Generation,1982,60.08,341000,Mar 2021
+102,Towner Rd,01 to 03,74,Model A,1984,61.83,460000,Mar 2021
+75,Whampoa Dr,16 to 18,65,Improved,1974,51.92,250000,Mar 2021
+98,Whampoa Dr,07 to 09,65,Improved,1974,52.08,285000,Mar 2021
+34,Whampoa West,07 to 09,68,Improved,1972,49.92,340000,Mar 2021
+1,Beach Rd,07 to 09,68,Improved,1979,57.67,328000,Feb 2021
+24,Bendemeer Rd,01 to 03,68,Improved,1972,50,295000,Feb 2021
+26,Bendemeer Rd,07 to 09,71,Improved,1972,50,370000,Feb 2021
+43,Bendemeer Rd,10 to 12,63,Standard,1981,58.92,280000,Feb 2021
+44,Bendemeer Rd,07 to 09,63,Standard,1981,59.08,280000,Feb 2021
+45,Bendemeer Rd,07 to 09,77,Improved,1972,50,330000,Feb 2021
+49,Dorset Rd,01 to 03,68,New Generation,1979,57.42,335000,Feb 2021
+15,Farrer Pk Rd,25 to 27,62,Model A,2004,82.42,505000,Feb 2021
+57,Geylang Bahru,07 to 09,65,Improved,1974,52.5,286000,Feb 2021
+94,Geylang Bahru,07 to 09,68,New Generation,1979,57,338000,Feb 2021
+94,Geylang Bahru,07 to 09,82,New Generation,1979,56.92,385000,Feb 2021
+27,Jln Bahagia,01 to 03,56,Standard,1970,48.42,225000,Feb 2021
+33,Jln Bahagia,01 to 03,56,Standard,1970,48.42,218000,Feb 2021
+33,Jln Bahagia,01 to 03,56,Standard,1970,48.42,230000,Feb 2021
+35,Jln Bahagia,07 to 09,56,Standard,1971,48.92,220000,Feb 2021
+3,Jln Batu,01 to 03,60,Standard,1969,46.92,248000,Feb 2021
+5,Jln Batu,01 to 03,62,Standard,1969,47,308000,Feb 2021
+14,Kg Arang Rd,01 to 03,103,New Generation,1984,62.5,468000,Feb 2021
+1,Kg Kayu Rd,04 to 06,62,Standard,1984,62.75,330000,Feb 2021
+76,Lor Limau,01 to 03,65,Improved,1973,51.42,250000,Feb 2021
+5,St. George's Lane,10 to 12,68,New Generation,1981,59.33,355000,Feb 2021
+2,St. George's Rd,13 to 15,59,Improved,1976,54.33,310000,Feb 2021
+11,Upp Boon Keng Rd,07 to 09,65,Improved,1974,52,320000,Feb 2021
+74,Whampoa Dr,13 to 15,75,Improved,1981,59.33,355000,Feb 2021
+86,Whampoa Dr,07 to 09,66,Improved,1974,52.5,283000,Feb 2021
+98,Whampoa Dr,13 to 15,65,Improved,1974,52.08,300000,Feb 2021
+2,Beach Rd,04 to 06,74,Improved,1979,57.67,353000,Jan 2021
+28,Bendemeer Rd,22 to 24,71,Improved,1972,50,400000,Jan 2021
+38B,Bendemeer Rd,07 to 09,69,Model A,2012,90.33,485000,Jan 2021
+43,Bendemeer Rd,10 to 12,63,Standard,1981,59,275000,Jan 2021
+44,Bendemeer Rd,04 to 06,63,Standard,1981,59.08,248000,Jan 2021
+12,Farrer Pk Rd,07 to 09,62,Model A,2004,82.5,477000,Jan 2021
+15,Farrer Pk Rd,22 to 24,62,Model A,2004,82.5,480000,Jan 2021
+57,Geylang Bahru,13 to 15,65,Improved,1974,52.58,300000,Jan 2021
+72,Geylang Bahru,07 to 09,59,Improved,1974,52.25,253000,Jan 2021
+72,Geylang Bahru,07 to 09,59,Improved,1974,52.17,276000,Jan 2021
+28,Jln Bahagia,07 to 09,56,Standard,1971,49.08,238000,Jan 2021
+34,Jln Bahagia,01 to 03,53,Standard,1970,48.5,220000,Jan 2021
+6,Jln Batu,04 to 06,60,Standard,1969,47,262000,Jan 2021
+64,Jln Ma'mor,01 to 03,126,Terrace,1972,50.58,895000,Jan 2021
+1,Kg Kayu Rd,07 to 09,62,Standard,1984,62.83,305000,Jan 2021
+468,Nth Bridge Rd,10 to 12,60,Improved,1979,57.58,335000,Jan 2021
+3,St. George's Rd,01 to 03,59,Improved,1976,54.42,290000,Jan 2021
+3,St. George's Rd,10 to 12,59,Improved,1976,54.42,290000,Jan 2021
+11,Upp Boon Keng Rd,04 to 06,65,Improved,1974,52,285000,Jan 2021
+16,Upp Boon Keng Rd,04 to 06,65,Improved,1975,53.17,298888,Jan 2021
+16,Upp Boon Keng Rd,04 to 06,65,Improved,1975,53.17,315000,Jan 2021
+75,Whampoa Dr,10 to 12,65,Improved,1974,52,237000,Jan 2021
+75,Whampoa Dr,07 to 09,65,Improved,1974,52,255000,Jan 2021
+93,Whampoa Dr,04 to 06,65,Improved,1974,52.17,300000,Jan 2021
+93,Whampoa Dr,04 to 06,76,Improved,1974,52.25,325000,Jan 2021
+98,Whampoa Dr,13 to 15,65,Improved,1974,52.17,285000,Jan 2021
+3,Beach Rd,16 to 18,68,Improved,1979,57.83,330000,Dec 2020
+24,Bendemeer Rd,01 to 03,68,Improved,1972,50.08,303000,Dec 2020
+43,Bendemeer Rd,07 to 09,63,Standard,1981,59.17,260000,Dec 2020
+44,Bendemeer Rd,07 to 09,63,Standard,1981,59.08,240000,Dec 2020
+463,Crawford Lane,10 to 12,60,Improved,1982,60.92,340000,Dec 2020
+49,Dorset Rd,10 to 12,68,New Generation,1979,57.58,365000,Dec 2020
+50,Dorset Rd,07 to 09,68,New Generation,1979,57.58,370000,Dec 2020
+12,Farrer Pk Rd,04 to 06,62,Model A,2004,82.58,455000,Dec 2020
+73,Geylang Bahru,07 to 09,59,Improved,1974,52.42,267000,Dec 2020
+73,Geylang Bahru,10 to 12,70,Improved,1974,52.33,325000,Dec 2020
+33,Jln Bahagia,04 to 06,56,Standard,1970,48.58,225000,Dec 2020
+33,Jln Bahagia,07 to 09,56,Standard,1970,48.58,233000,Dec 2020
+40,Jln Bahagia,01 to 03,91,Terrace,1972,50.58,775000,Dec 2020
+55,Jln Bahagia,01 to 03,97,Terrace,1972,50.67,820000,Dec 2020
+3,Jln Batu,07 to 09,60,Standard,1969,47.17,280000,Dec 2020
+3,Jln Batu,07 to 09,60,Standard,1969,47.17,280000,Dec 2020
+6,Jln Batu,01 to 03,60,Standard,1969,47.17,260000,Dec 2020
+6,Jln Batu,07 to 09,60,Standard,1969,47.08,276000,Dec 2020
+6,Jln Batu,07 to 09,60,Standard,1969,47.17,295000,Dec 2020
+53,Jln Ma'mor,01 to 03,115,Terrace,1972,50.67,850000,Dec 2020
+61,Jln Tenteram,01 to 03,94,Terrace,1972,50.67,678000,Dec 2020
+63,Kallang Bahru,04 to 06,65,Improved,1974,52.17,275000,Dec 2020
+64,Kallang Bahru,01 to 03,65,Improved,1974,52.17,255000,Dec 2020
+64,Kallang Bahru,10 to 12,65,Improved,1974,52.08,280000,Dec 2020
+1,Kg Kayu Rd,07 to 09,62,Standard,1984,63,325000,Dec 2020
+76,Lor Limau,01 to 03,65,Improved,1973,51.67,253000,Dec 2020
+77,Lor Limau,07 to 09,59,Improved,1973,51.67,225000,Dec 2020
+467,Nth Bridge Rd,16 to 18,60,Improved,1978,56.92,325000,Dec 2020
+6,St. George's Lane,07 to 09,82,New Generation,1981,59.58,390000,Dec 2020
+6,St. George's Lane,07 to 09,82,New Generation,1981,59.5,390000,Dec 2020
+2,St. George's Rd,07 to 09,59,Improved,1976,54.58,270000,Dec 2020
+3,St. George's Rd,13 to 15,59,Improved,1976,54.5,300000,Dec 2020
+107,Towner Rd,04 to 06,74,Model A,1983,61.42,450000,Dec 2020
+5A,Upp Boon Keng Rd,07 to 09,67,Model A,2012,90.5,521800,Dec 2020
+11,Upp Boon Keng Rd,01 to 03,65,Improved,1974,52.17,313000,Dec 2020
+11,Upp Boon Keng Rd,04 to 06,65,Improved,1974,52.17,318000,Dec 2020
+16,Upp Boon Keng Rd,13 to 15,76,Improved,1975,53.17,385000,Dec 2020
+82,Whampoa Dr,13 to 15,66,Improved,1974,52.67,258000,Dec 2020
+86,Whampoa Dr,04 to 06,66,Improved,1974,52.58,275000,Dec 2020
+93,Whampoa Dr,07 to 09,65,Improved,1974,52.25,283000,Dec 2020
+1,Beach Rd,01 to 03,61,Improved,1979,57.92,320000,Nov 2020
+44,Bendemeer Rd,04 to 06,63,Standard,1981,59.25,245000,Nov 2020
+44,Bendemeer Rd,10 to 12,63,Standard,1981,59.25,269000,Nov 2020
+462,Crawford Lane,04 to 06,60,Improved,1981,60,355000,Nov 2020
+50,Dorset Rd,07 to 09,68,New Generation,1979,57.58,352000,Nov 2020
+15,Farrer Pk Rd,16 to 18,62,Model A,2004,82.67,470000,Nov 2020
+57,Geylang Bahru,01 to 03,65,Improved,1974,52.75,260000,Nov 2020
+68,Geylang Bahru,13 to 15,65,Improved,1974,52.67,281000,Nov 2020
+33,Jln Bahagia,07 to 09,56,Standard,1970,48.67,230000,Nov 2020
+41,Jln Bahagia,01 to 03,93,Terrace,1972,50.67,780000,Nov 2020
+63,Kallang Bahru,04 to 06,65,Improved,1974,52.25,270000,Nov 2020
+64,Kallang Bahru,07 to 09,65,Improved,1974,52.25,278000,Nov 2020
+804,King George's Ave,07 to 09,68,Improved,1981,59.83,388000,Nov 2020
+806,King George's Ave,13 to 15,59,Improved,1981,59.83,368000,Nov 2020
+806,King George's Ave,04 to 06,68,Improved,1981,59.83,400000,Nov 2020
+467,Nth Bridge Rd,13 to 15,60,Improved,1978,56.92,320000,Nov 2020
+2,St. George's Rd,07 to 09,59,Improved,1976,54.58,275000,Nov 2020
+3,St. George's Rd,07 to 09,59,Improved,1976,54.58,265000,Nov 2020
+3,St. George's Rd,10 to 12,59,Improved,1976,54.5,320000,Nov 2020
+5A,Upp Boon Keng Rd,22 to 24,67,Model A,2012,90.58,530000,Nov 2020
+85,Whampoa Dr,07 to 09,65,Improved,1974,52.25,308000,Nov 2020
+98,Whampoa Dr,04 to 06,65,Improved,1974,52.42,275000,Nov 2020
+34,Whampoa West,01 to 03,68,Improved,1972,50.25,275888,Nov 2020

@@ -1,0 +1,393 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date
+17,Marsiling Lane,10 to 12,65,Improved,1984,62.08,280000,Nov 2021
+125,Marsiling Rise,10 to 12,60,Improved,1985,62.25,295000,Nov 2021
+570A,Woodlands Ave 1,07 to 09,67,Model A,2013,91.08,360000,Nov 2021
+310,Woodlands St 31,04 to 06,73,Model A,1993,70.92,340000,Nov 2021
+212,Marsiling Cres,04 to 06,74,Model A,1983,60.42,280000,Oct 2021
+217,Marsiling Cres,10 to 12,74,Model A,1982,60.08,320000,Oct 2021
+1,Marsiling Dr,07 to 09,65,Improved,1974,51.75,280000,Oct 2021
+6,Marsiling Dr,01 to 03,65,Improved,1976,53.42,265000,Oct 2021
+23,Marsiling Dr,04 to 06,67,New Generation,1977,55.17,281000,Oct 2021
+32,Marsiling Dr,13 to 15,88,New Generation,1980,57.25,325000,Oct 2021
+180B,Marsiling Rd,07 to 09,67,Model A,2015,92.83,375000,Oct 2021
+886A,Woodlands Dr 50,10 to 12,67,Premium Apartment,2015,92.33,388000,Oct 2021
+717B,Woodlands Dr 70,13 to 15,71,Model A,2017,95.25,430000,Oct 2021
+151,Woodlands St 13,01 to 03,73,Model A,1985,62.5,310000,Oct 2021
+161,Woodlands St 13,10 to 12,73,Model A,1990,67.5,340000,Oct 2021
+302A,Woodlands St 31,19 to 21,67,Model A,2016,94.08,395000,Oct 2021
+311,Woodlands St 31,07 to 09,73,Model A,1993,71,330000,Oct 2021
+807,Woodlands St 81,01 to 03,73,Model A,1994,71.33,335000,Oct 2021
+821,Woodlands St 82,01 to 03,69,New Generation,1995,72.5,305000,Oct 2021
+24,Marsiling Dr,01 to 03,67,New Generation,1977,54.83,288000,Sep 2021
+30,Marsiling Dr,13 to 15,73,New Generation,1977,54.67,270000,Sep 2021
+30,Marsiling Dr,13 to 15,87,New Generation,1977,54.58,343000,Sep 2021
+202,Marsiling Dr,07 to 09,68,New Generation,1981,58.83,300000,Sep 2021
+12,Marsiling Lane,07 to 09,76,Improved,1976,53.58,295000,Sep 2021
+17,Marsiling Lane,13 to 15,65,Improved,1984,62.25,276000,Sep 2021
+17,Marsiling Lane,04 to 06,65,Improved,1984,62.17,285000,Sep 2021
+180A,Marsiling Rd,22 to 24,66,Model A,2015,92.92,375000,Sep 2021
+125,Marsiling Rise,04 to 06,60,Improved,1985,62.42,290000,Sep 2021
+129,Marsiling Rise,10 to 12,60,Improved,1985,62.42,310000,Sep 2021
+130,Marsiling Rise,07 to 09,69,Improved,1985,62.42,290000,Sep 2021
+780F,Woodlands Cres,16 to 18,67,Model A,2015,93,375000,Sep 2021
+161,Woodlands St 13,07 to 09,73,Model A,1990,67.58,340000,Sep 2021
+166,Woodlands St 13,01 to 03,67,New Generation,1986,64.08,313000,Sep 2021
+302A,Woodlands St 31,28 to 30,67,Model A,2016,94.17,412000,Sep 2021
+302A,Woodlands St 31,16 to 18,67,Model A,2016,94.17,428000,Sep 2021
+311,Woodlands St 31,10 to 12,73,Model A,1993,71.17,338888,Sep 2021
+314,Woodlands St 31,01 to 03,73,Model A,1993,71.08,330000,Sep 2021
+317,Woodlands St 31,04 to 06,73,Model A,1993,70.75,319000,Sep 2021
+832,Woodlands St 83,01 to 03,73,Model A,1994,72.17,340000,Sep 2021
+1,Marsiling Dr,01 to 03,65,Improved,1974,52,245000,Aug 2021
+23,Marsiling Dr,01 to 03,82,New Generation,1977,55.33,340000,Aug 2021
+24,Marsiling Dr,07 to 09,67,New Generation,1977,54.92,320000,Aug 2021
+202,Marsiling Dr,13 to 15,68,New Generation,1981,59,282000,Aug 2021
+203,Marsiling Dr,10 to 12,68,New Generation,1981,59.25,290000,Aug 2021
+13,Marsiling Lane,07 to 09,65,Improved,1976,53.58,257000,Aug 2021
+15,Marsiling Lane,04 to 06,65,Improved,1976,53.5,280000,Aug 2021
+15,Marsiling Lane,13 to 15,76,Improved,1976,53.5,290000,Aug 2021
+180B,Marsiling Rd,19 to 21,66,Model A,2015,93,365000,Aug 2021
+131,Marsiling Rise,07 to 09,69,Improved,1985,62.5,290000,Aug 2021
+570B,Woodlands Ave 1,04 to 06,67,Model A,2013,91.33,360800,Aug 2021
+780B,Woodlands Cres,13 to 15,67,Model A,2015,92.92,365000,Aug 2021
+886B,Woodlands Dr 50,10 to 12,67,Premium Apartment,2015,92.67,371000,Aug 2021
+887C,Woodlands Dr 50,01 to 03,67,Premium Apartment,2015,92.58,365000,Aug 2021
+717A,Woodlands Dr 70,13 to 15,71,Model A,2017,95.42,428000,Aug 2021
+149,Woodlands St 13,10 to 12,68,New Generation,1985,62.67,290000,Aug 2021
+151,Woodlands St 13,10 to 12,73,Model A,1985,62.67,320000,Aug 2021
+166,Woodlands St 13,04 to 06,67,New Generation,1986,64.08,305000,Aug 2021
+302A,Woodlands St 31,01 to 03,67,Model A,2016,94.25,385000,Aug 2021
+319,Woodlands St 31,10 to 12,73,Model A,1993,70.67,340000,Aug 2021
+402,Woodlands St 41,01 to 03,68,New Generation,1995,72.92,315500,Aug 2021
+212,Marsiling Cres,04 to 06,74,Model A,1983,60.67,270000,Jul 2021
+212,Marsiling Cres,10 to 12,74,Model A,1983,60.67,305000,Jul 2021
+217,Marsiling Cres,04 to 06,74,Model A,1982,60.33,290000,Jul 2021
+2,Marsiling Dr,01 to 03,65,Improved,1974,52.17,269000,Jul 2021
+32,Marsiling Dr,07 to 09,73,New Generation,1980,57.58,280000,Jul 2021
+204,Marsiling Dr,01 to 03,68,New Generation,1981,58.83,260000,Jul 2021
+13,Marsiling Lane,04 to 06,65,Improved,1976,53.75,280000,Jul 2021
+17,Marsiling Lane,10 to 12,75,Improved,1984,62.42,272000,Jul 2021
+125,Marsiling Rise,01 to 03,69,Improved,1985,62.58,300000,Jul 2021
+130,Marsiling Rise,04 to 06,69,Improved,1985,62.58,300000,Jul 2021
+131,Marsiling Rise,10 to 12,60,Improved,1985,62.58,295000,Jul 2021
+131,Marsiling Rise,07 to 09,69,Improved,1985,62.58,302000,Jul 2021
+782C,Woodlands Cres,10 to 12,67,Model A,2015,93,370000,Jul 2021
+886A,Woodlands Dr 50,10 to 12,67,Premium Apartment,2015,92.67,378000,Jul 2021
+886D,Woodlands Dr 50,01 to 03,67,Premium Apartment,2015,92.67,345000,Jul 2021
+102,Woodlands St 13,10 to 12,67,New Generation,1985,62.83,315000,Jul 2021
+145,Woodlands St 13,07 to 09,68,New Generation,1985,62.67,300888,Jul 2021
+146,Woodlands St 13,10 to 12,68,New Generation,1985,62.75,310000,Jul 2021
+160,Woodlands St 13,04 to 06,73,Model A,1990,67.92,339888,Jul 2021
+1,Marsiling Dr,04 to 06,65,Improved,1974,52.17,235000,Jun 2021
+2,Marsiling Dr,10 to 12,76,Improved,1974,52.17,260000,Jun 2021
+2,Marsiling Dr,10 to 12,76,Improved,1974,52.17,268000,Jun 2021
+24,Marsiling Dr,13 to 15,67,New Generation,1977,55,265000,Jun 2021
+30,Marsiling Dr,04 to 06,73,New Generation,1977,54.92,268000,Jun 2021
+17,Marsiling Lane,01 to 03,75,Improved,1984,62.5,279999,Jun 2021
+19,Marsiling Lane,04 to 06,60,Improved,1987,65,238000,Jun 2021
+780A,Woodlands Cres,13 to 15,67,Model A,2015,93.17,350000,Jun 2021
+782D,Woodlands Cres,07 to 09,67,Model A,2015,93.08,345000,Jun 2021
+302A,Woodlands St 31,13 to 15,67,Model A,2016,94.42,387000,Jun 2021
+302A,Woodlands St 31,07 to 09,67,Model A,2016,94.42,400000,Jun 2021
+314,Woodlands St 31,10 to 12,73,Model A,1993,71.33,303000,Jun 2021
+317,Woodlands St 31,10 to 12,73,Model A,1993,70.83,336000,Jun 2021
+318,Woodlands St 31,07 to 09,83,Model A,1993,71.58,343000,Jun 2021
+213,Marsiling Cres,10 to 12,74,Model A,1982,60.5,288000,May 2021
+2,Marsiling Dr,07 to 09,65,Improved,1974,52.25,265000,May 2021
+24,Marsiling Dr,13 to 15,67,New Generation,1977,55.17,275000,May 2021
+204,Marsiling Dr,10 to 12,68,New Generation,1981,59,295000,May 2021
+15,Marsiling Lane,13 to 15,65,Improved,1976,53.75,275000,May 2021
+180B,Marsiling Rd,07 to 09,67,Model A,2015,93.25,340000,May 2021
+129,Marsiling Rise,07 to 09,69,Improved,1985,62.75,286800,May 2021
+131,Marsiling Rise,07 to 09,60,Improved,1985,62.75,280000,May 2021
+570B,Woodlands Ave 1,07 to 09,67,Model A,2013,91.58,361000,May 2021
+571C,Woodlands Ave 1,07 to 09,67,Model A,2013,91.58,358000,May 2021
+886C,Woodlands Dr 50,04 to 06,67,Premium Apartment,2015,92.83,365000,May 2021
+302A,Woodlands St 31,07 to 09,67,Model A,2016,94.5,370000,May 2021
+302A,Woodlands St 31,31 to 33,67,Model A,2016,94.5,405000,May 2021
+311,Woodlands St 31,07 to 09,73,Model A,1993,71.42,320000,May 2021
+848,Woodlands St 82,01 to 03,69,New Generation,1995,72.83,300000,May 2021
+6,Marsiling Dr,01 to 03,65,Improved,1976,53.75,268000,Apr 2021
+23,Marsiling Dr,13 to 15,67,New Generation,1977,55.58,248000,Apr 2021
+24,Marsiling Dr,07 to 09,67,New Generation,1977,55.25,270000,Apr 2021
+13,Marsiling Lane,07 to 09,76,Improved,1976,54,240000,Apr 2021
+570A,Woodlands Ave 1,04 to 06,67,Model A,2013,91.58,340000,Apr 2021
+570A,Woodlands Ave 1,07 to 09,67,Model A,2013,91.58,348000,Apr 2021
+302A,Woodlands St 31,04 to 06,67,Model A,2016,94.58,352000,Apr 2021
+311,Woodlands St 31,04 to 06,73,Model A,1993,71.5,280000,Apr 2021
+213,Marsiling Cres,04 to 06,74,Model A,1982,60.58,258000,Mar 2021
+2,Marsiling Dr,07 to 09,65,Improved,1974,52.42,240000,Mar 2021
+2,Marsiling Dr,07 to 09,65,Improved,1974,52.33,250000,Mar 2021
+6,Marsiling Dr,04 to 06,65,Improved,1976,53.92,228888,Mar 2021
+204,Marsiling Dr,01 to 03,68,New Generation,1981,59.08,250000,Mar 2021
+12,Marsiling Lane,01 to 03,78,Improved,1976,54,255000,Mar 2021
+19,Marsiling Lane,01 to 03,60,Improved,1987,65.25,250000,Mar 2021
+180B,Marsiling Rd,28 to 30,67,Model A,2015,93.42,365000,Mar 2021
+130,Marsiling Rise,04 to 06,69,Improved,1985,62.92,267000,Mar 2021
+130,Marsiling Rise,10 to 12,60,Improved,1985,62.92,295000,Mar 2021
+780A,Woodlands Cres,13 to 15,67,Model A,2015,93.42,343888,Mar 2021
+780F,Woodlands Cres,07 to 09,67,Model A,2015,93.33,328000,Mar 2021
+782C,Woodlands Cres,07 to 09,67,Model A,2015,93.25,330000,Mar 2021
+887B,Woodlands Dr 50,04 to 06,67,Premium Apartment,2015,92.92,352000,Mar 2021
+887B,Woodlands Dr 50,10 to 12,67,Premium Apartment,2015,93,365000,Mar 2021
+148,Woodlands St 13,07 to 09,68,New Generation,1985,63.08,270000,Mar 2021
+152,Woodlands St 13,10 to 12,73,Model A,1985,63,323000,Mar 2021
+302A,Woodlands St 31,07 to 09,67,Model A,2016,94.75,350000,Mar 2021
+319,Woodlands St 31,01 to 03,73,Model A,1993,71.08,300000,Mar 2021
+847,Woodlands St 82,01 to 03,69,New Generation,1995,73.08,295000,Mar 2021
+218,Marsiling Cres,04 to 06,81,New Generation,1986,64.42,285000,Feb 2021
+6,Marsiling Dr,10 to 12,65,Improved,1976,54,240888,Feb 2021
+32,Marsiling Dr,13 to 15,73,New Generation,1980,57.92,263000,Feb 2021
+12,Marsiling Lane,07 to 09,65,Improved,1976,54.17,255000,Feb 2021
+17,Marsiling Lane,04 to 06,65,Improved,1984,62.83,250000,Feb 2021
+17,Marsiling Lane,13 to 15,65,Improved,1984,62.83,273000,Feb 2021
+570A,Woodlands Ave 1,10 to 12,67,Model A,2013,91.75,338000,Feb 2021
+780A,Woodlands Cres,13 to 15,67,Model A,2015,93.5,340000,Feb 2021
+886A,Woodlands Dr 50,13 to 15,67,Premium Apartment,2015,93,355000,Feb 2021
+102,Woodlands St 13,04 to 06,67,New Generation,1985,63.25,290000,Feb 2021
+149,Woodlands St 13,10 to 12,68,New Generation,1985,63.17,271000,Feb 2021
+820,Woodlands St 82,01 to 03,69,New Generation,1995,73.17,308000,Feb 2021
+213,Marsiling Cres,07 to 09,74,Model A,1982,60.75,260000,Jan 2021
+6,Marsiling Dr,10 to 12,65,Improved,1976,54.08,205000,Jan 2021
+6,Marsiling Dr,01 to 03,65,Improved,1976,54,228000,Jan 2021
+204,Marsiling Dr,01 to 03,68,New Generation,1981,59.33,210000,Jan 2021
+204,Marsiling Dr,04 to 06,68,New Generation,1981,59.25,263000,Jan 2021
+206,Marsiling Dr,04 to 06,68,New Generation,1981,59.33,265000,Jan 2021
+12A,Marsiling Lane,07 to 09,67,Model A,2013,91.5,330000,Jan 2021
+17,Marsiling Lane,04 to 06,65,Improved,1984,62.83,230000,Jan 2021
+130,Marsiling Rise,07 to 09,60,Improved,1985,63.08,265000,Jan 2021
+339,Woodlands Ave 1,01 to 03,69,New Generation,1995,73.58,310000,Jan 2021
+570B,Woodlands Ave 1,13 to 15,67,Model A,2013,91.92,330000,Jan 2021
+571C,Woodlands Ave 1,04 to 06,67,Model A,2013,91.92,345000,Jan 2021
+780B,Woodlands Cres,07 to 09,67,Model A,2015,93.67,328000,Jan 2021
+158,Woodlands St 13,07 to 09,73,Model A,1990,68.33,290000,Jan 2021
+166,Woodlands St 13,04 to 06,67,New Generation,1986,64.75,297000,Jan 2021
+302A,Woodlands St 31,07 to 09,67,Model A,2016,94.83,366500,Jan 2021
+302A,Woodlands St 31,25 to 27,67,Model A,2016,94.75,388000,Jan 2021
+850,Woodlands St 82,01 to 03,69,New Generation,1995,73.42,290000,Jan 2021
+2,Marsiling Dr,10 to 12,76,Improved,1974,52.67,240000,Dec 2020
+203,Marsiling Dr,04 to 06,68,New Generation,1981,60,255000,Dec 2020
+204,Marsiling Dr,04 to 06,68,New Generation,1981,59.33,245000,Dec 2020
+204,Marsiling Dr,07 to 09,82,New Generation,1981,59.42,270000,Dec 2020
+206,Marsiling Dr,01 to 03,68,New Generation,1981,59.42,230000,Dec 2020
+17,Marsiling Lane,10 to 12,75,Improved,1984,63,260000,Dec 2020
+130,Marsiling Rise,04 to 06,69,Improved,1985,63.17,240000,Dec 2020
+131,Marsiling Rise,07 to 09,69,Improved,1985,63.08,265000,Dec 2020
+780B,Woodlands Cres,01 to 03,67,Model A,2015,93.67,290000,Dec 2020
+886D,Woodlands Dr 50,13 to 15,67,Premium Apartment,2015,93.25,342000,Dec 2020
+151,Woodlands St 13,04 to 06,73,Model A,1985,63.33,270000,Dec 2020
+157,Woodlands St 13,01 to 03,73,Model A,1985,63.33,297000,Dec 2020
+159,Woodlands St 13,07 to 09,73,Model A,1990,68.42,315000,Dec 2020
+302A,Woodlands St 31,13 to 15,67,Model A,2016,94.92,350000,Dec 2020
+302A,Woodlands St 31,22 to 24,67,Model A,2016,94.83,378888,Dec 2020
+24,Marsiling Dr,07 to 09,67,New Generation,1977,55.67,250000,Nov 2020
+204,Marsiling Dr,04 to 06,68,New Generation,1981,59.5,230000,Nov 2020
+15,Marsiling Lane,10 to 12,65,Improved,1976,54.17,223000,Nov 2020
+17,Marsiling Lane,01 to 03,65,Improved,1984,63.08,252000,Nov 2020
+125,Marsiling Rise,04 to 06,69,Improved,1985,63.25,263000,Nov 2020
+129,Marsiling Rise,10 to 12,69,Improved,1985,63.25,260000,Nov 2020
+131,Marsiling Rise,01 to 03,69,Improved,1985,63.25,235000,Nov 2020
+780A,Woodlands Cres,10 to 12,67,Model A,2015,93.75,295000,Nov 2020
+780F,Woodlands Cres,10 to 12,67,Model A,2015,93.75,308000,Nov 2020
+886C,Woodlands Dr 50,13 to 15,67,Premium Apartment,2015,93.33,328000,Nov 2020
+887B,Woodlands Dr 50,07 to 09,67,Premium Apartment,2015,93.25,355000,Nov 2020
+102,Woodlands St 13,01 to 03,67,New Generation,1985,63.5,290000,Nov 2020
+146,Woodlands St 13,07 to 09,68,New Generation,1985,63.42,268000,Nov 2020
+149,Woodlands St 13,04 to 06,68,New Generation,1985,63.33,260000,Nov 2020
+302,Woodlands St 31,01 to 03,72,Simplified,1993,71.33,308000,Nov 2020
+17,Marsiling Lane,10 to 12,65,Improved,1984,62.08,280000,Nov 2021
+125,Marsiling Rise,10 to 12,60,Improved,1985,62.25,295000,Nov 2021
+570A,Woodlands Ave 1,07 to 09,67,Model A,2013,91.08,360000,Nov 2021
+310,Woodlands St 31,04 to 06,73,Model A,1993,70.92,340000,Nov 2021
+212,Marsiling Cres,04 to 06,74,Model A,1983,60.42,280000,Oct 2021
+217,Marsiling Cres,10 to 12,74,Model A,1982,60.08,320000,Oct 2021
+1,Marsiling Dr,07 to 09,65,Improved,1974,51.75,280000,Oct 2021
+6,Marsiling Dr,01 to 03,65,Improved,1976,53.42,265000,Oct 2021
+23,Marsiling Dr,04 to 06,67,New Generation,1977,55.17,281000,Oct 2021
+32,Marsiling Dr,13 to 15,88,New Generation,1980,57.25,325000,Oct 2021
+180B,Marsiling Rd,07 to 09,67,Model A,2015,92.83,375000,Oct 2021
+886A,Woodlands Dr 50,10 to 12,67,Premium Apartment,2015,92.33,388000,Oct 2021
+717B,Woodlands Dr 70,13 to 15,71,Model A,2017,95.25,430000,Oct 2021
+151,Woodlands St 13,01 to 03,73,Model A,1985,62.5,310000,Oct 2021
+161,Woodlands St 13,10 to 12,73,Model A,1990,67.5,340000,Oct 2021
+302A,Woodlands St 31,19 to 21,67,Model A,2016,94.08,395000,Oct 2021
+311,Woodlands St 31,07 to 09,73,Model A,1993,71,330000,Oct 2021
+807,Woodlands St 81,01 to 03,73,Model A,1994,71.33,335000,Oct 2021
+821,Woodlands St 82,01 to 03,69,New Generation,1995,72.5,305000,Oct 2021
+24,Marsiling Dr,01 to 03,67,New Generation,1977,54.83,288000,Sep 2021
+30,Marsiling Dr,13 to 15,73,New Generation,1977,54.67,270000,Sep 2021
+30,Marsiling Dr,13 to 15,87,New Generation,1977,54.58,343000,Sep 2021
+202,Marsiling Dr,07 to 09,68,New Generation,1981,58.83,300000,Sep 2021
+12,Marsiling Lane,07 to 09,76,Improved,1976,53.58,295000,Sep 2021
+17,Marsiling Lane,13 to 15,65,Improved,1984,62.25,276000,Sep 2021
+17,Marsiling Lane,04 to 06,65,Improved,1984,62.17,285000,Sep 2021
+180A,Marsiling Rd,22 to 24,66,Model A,2015,92.92,375000,Sep 2021
+125,Marsiling Rise,04 to 06,60,Improved,1985,62.42,290000,Sep 2021
+129,Marsiling Rise,10 to 12,60,Improved,1985,62.42,310000,Sep 2021
+130,Marsiling Rise,07 to 09,69,Improved,1985,62.42,290000,Sep 2021
+780F,Woodlands Cres,16 to 18,67,Model A,2015,93,375000,Sep 2021
+161,Woodlands St 13,07 to 09,73,Model A,1990,67.58,340000,Sep 2021
+166,Woodlands St 13,01 to 03,67,New Generation,1986,64.08,313000,Sep 2021
+302A,Woodlands St 31,28 to 30,67,Model A,2016,94.17,412000,Sep 2021
+302A,Woodlands St 31,16 to 18,67,Model A,2016,94.17,428000,Sep 2021
+311,Woodlands St 31,10 to 12,73,Model A,1993,71.17,338888,Sep 2021
+314,Woodlands St 31,01 to 03,73,Model A,1993,71.08,330000,Sep 2021
+317,Woodlands St 31,04 to 06,73,Model A,1993,70.75,319000,Sep 2021
+832,Woodlands St 83,01 to 03,73,Model A,1994,72.17,340000,Sep 2021
+1,Marsiling Dr,01 to 03,65,Improved,1974,52,245000,Aug 2021
+23,Marsiling Dr,01 to 03,82,New Generation,1977,55.33,340000,Aug 2021
+24,Marsiling Dr,07 to 09,67,New Generation,1977,54.92,320000,Aug 2021
+202,Marsiling Dr,13 to 15,68,New Generation,1981,59,282000,Aug 2021
+203,Marsiling Dr,10 to 12,68,New Generation,1981,59.25,290000,Aug 2021
+13,Marsiling Lane,07 to 09,65,Improved,1976,53.58,257000,Aug 2021
+15,Marsiling Lane,04 to 06,65,Improved,1976,53.5,280000,Aug 2021
+15,Marsiling Lane,13 to 15,76,Improved,1976,53.5,290000,Aug 2021
+180B,Marsiling Rd,19 to 21,66,Model A,2015,93,365000,Aug 2021
+131,Marsiling Rise,07 to 09,69,Improved,1985,62.5,290000,Aug 2021
+570B,Woodlands Ave 1,04 to 06,67,Model A,2013,91.33,360800,Aug 2021
+780B,Woodlands Cres,13 to 15,67,Model A,2015,92.92,365000,Aug 2021
+886B,Woodlands Dr 50,10 to 12,67,Premium Apartment,2015,92.67,371000,Aug 2021
+887C,Woodlands Dr 50,01 to 03,67,Premium Apartment,2015,92.58,365000,Aug 2021
+717A,Woodlands Dr 70,13 to 15,71,Model A,2017,95.42,428000,Aug 2021
+149,Woodlands St 13,10 to 12,68,New Generation,1985,62.67,290000,Aug 2021
+151,Woodlands St 13,10 to 12,73,Model A,1985,62.67,320000,Aug 2021
+166,Woodlands St 13,04 to 06,67,New Generation,1986,64.08,305000,Aug 2021
+302A,Woodlands St 31,01 to 03,67,Model A,2016,94.25,385000,Aug 2021
+319,Woodlands St 31,10 to 12,73,Model A,1993,70.67,340000,Aug 2021
+402,Woodlands St 41,01 to 03,68,New Generation,1995,72.92,315500,Aug 2021
+212,Marsiling Cres,04 to 06,74,Model A,1983,60.67,270000,Jul 2021
+212,Marsiling Cres,10 to 12,74,Model A,1983,60.67,305000,Jul 2021
+217,Marsiling Cres,04 to 06,74,Model A,1982,60.33,290000,Jul 2021
+2,Marsiling Dr,01 to 03,65,Improved,1974,52.17,269000,Jul 2021
+32,Marsiling Dr,07 to 09,73,New Generation,1980,57.58,280000,Jul 2021
+204,Marsiling Dr,01 to 03,68,New Generation,1981,58.83,260000,Jul 2021
+13,Marsiling Lane,04 to 06,65,Improved,1976,53.75,280000,Jul 2021
+17,Marsiling Lane,10 to 12,75,Improved,1984,62.42,272000,Jul 2021
+125,Marsiling Rise,01 to 03,69,Improved,1985,62.58,300000,Jul 2021
+130,Marsiling Rise,04 to 06,69,Improved,1985,62.58,300000,Jul 2021
+131,Marsiling Rise,10 to 12,60,Improved,1985,62.58,295000,Jul 2021
+131,Marsiling Rise,07 to 09,69,Improved,1985,62.58,302000,Jul 2021
+782C,Woodlands Cres,10 to 12,67,Model A,2015,93,370000,Jul 2021
+886A,Woodlands Dr 50,10 to 12,67,Premium Apartment,2015,92.67,378000,Jul 2021
+886D,Woodlands Dr 50,01 to 03,67,Premium Apartment,2015,92.67,345000,Jul 2021
+102,Woodlands St 13,10 to 12,67,New Generation,1985,62.83,315000,Jul 2021
+145,Woodlands St 13,07 to 09,68,New Generation,1985,62.67,300888,Jul 2021
+146,Woodlands St 13,10 to 12,68,New Generation,1985,62.75,310000,Jul 2021
+160,Woodlands St 13,04 to 06,73,Model A,1990,67.92,339888,Jul 2021
+1,Marsiling Dr,04 to 06,65,Improved,1974,52.17,235000,Jun 2021
+2,Marsiling Dr,10 to 12,76,Improved,1974,52.17,260000,Jun 2021
+2,Marsiling Dr,10 to 12,76,Improved,1974,52.17,268000,Jun 2021
+24,Marsiling Dr,13 to 15,67,New Generation,1977,55,265000,Jun 2021
+30,Marsiling Dr,04 to 06,73,New Generation,1977,54.92,268000,Jun 2021
+17,Marsiling Lane,01 to 03,75,Improved,1984,62.5,279999,Jun 2021
+19,Marsiling Lane,04 to 06,60,Improved,1987,65,238000,Jun 2021
+780A,Woodlands Cres,13 to 15,67,Model A,2015,93.17,350000,Jun 2021
+782D,Woodlands Cres,07 to 09,67,Model A,2015,93.08,345000,Jun 2021
+302A,Woodlands St 31,13 to 15,67,Model A,2016,94.42,387000,Jun 2021
+302A,Woodlands St 31,07 to 09,67,Model A,2016,94.42,400000,Jun 2021
+314,Woodlands St 31,10 to 12,73,Model A,1993,71.33,303000,Jun 2021
+317,Woodlands St 31,10 to 12,73,Model A,1993,70.83,336000,Jun 2021
+318,Woodlands St 31,07 to 09,83,Model A,1993,71.58,343000,Jun 2021
+213,Marsiling Cres,10 to 12,74,Model A,1982,60.5,288000,May 2021
+2,Marsiling Dr,07 to 09,65,Improved,1974,52.25,265000,May 2021
+24,Marsiling Dr,13 to 15,67,New Generation,1977,55.17,275000,May 2021
+204,Marsiling Dr,10 to 12,68,New Generation,1981,59,295000,May 2021
+15,Marsiling Lane,13 to 15,65,Improved,1976,53.75,275000,May 2021
+180B,Marsiling Rd,07 to 09,67,Model A,2015,93.25,340000,May 2021
+129,Marsiling Rise,07 to 09,69,Improved,1985,62.75,286800,May 2021
+131,Marsiling Rise,07 to 09,60,Improved,1985,62.75,280000,May 2021
+570B,Woodlands Ave 1,07 to 09,67,Model A,2013,91.58,361000,May 2021
+571C,Woodlands Ave 1,07 to 09,67,Model A,2013,91.58,358000,May 2021
+886C,Woodlands Dr 50,04 to 06,67,Premium Apartment,2015,92.83,365000,May 2021
+302A,Woodlands St 31,07 to 09,67,Model A,2016,94.5,370000,May 2021
+302A,Woodlands St 31,31 to 33,67,Model A,2016,94.5,405000,May 2021
+311,Woodlands St 31,07 to 09,73,Model A,1993,71.42,320000,May 2021
+848,Woodlands St 82,01 to 03,69,New Generation,1995,72.83,300000,May 2021
+6,Marsiling Dr,01 to 03,65,Improved,1976,53.75,268000,Apr 2021
+23,Marsiling Dr,13 to 15,67,New Generation,1977,55.58,248000,Apr 2021
+24,Marsiling Dr,07 to 09,67,New Generation,1977,55.25,270000,Apr 2021
+13,Marsiling Lane,07 to 09,76,Improved,1976,54,240000,Apr 2021
+570A,Woodlands Ave 1,04 to 06,67,Model A,2013,91.58,340000,Apr 2021
+570A,Woodlands Ave 1,07 to 09,67,Model A,2013,91.58,348000,Apr 2021
+302A,Woodlands St 31,04 to 06,67,Model A,2016,94.58,352000,Apr 2021
+311,Woodlands St 31,04 to 06,73,Model A,1993,71.5,280000,Apr 2021
+213,Marsiling Cres,04 to 06,74,Model A,1982,60.58,258000,Mar 2021
+2,Marsiling Dr,07 to 09,65,Improved,1974,52.42,240000,Mar 2021
+2,Marsiling Dr,07 to 09,65,Improved,1974,52.33,250000,Mar 2021
+6,Marsiling Dr,04 to 06,65,Improved,1976,53.92,228888,Mar 2021
+204,Marsiling Dr,01 to 03,68,New Generation,1981,59.08,250000,Mar 2021
+12,Marsiling Lane,01 to 03,78,Improved,1976,54,255000,Mar 2021
+19,Marsiling Lane,01 to 03,60,Improved,1987,65.25,250000,Mar 2021
+180B,Marsiling Rd,28 to 30,67,Model A,2015,93.42,365000,Mar 2021
+130,Marsiling Rise,04 to 06,69,Improved,1985,62.92,267000,Mar 2021
+130,Marsiling Rise,10 to 12,60,Improved,1985,62.92,295000,Mar 2021
+780A,Woodlands Cres,13 to 15,67,Model A,2015,93.42,343888,Mar 2021
+780F,Woodlands Cres,07 to 09,67,Model A,2015,93.33,328000,Mar 2021
+782C,Woodlands Cres,07 to 09,67,Model A,2015,93.25,330000,Mar 2021
+887B,Woodlands Dr 50,04 to 06,67,Premium Apartment,2015,92.92,352000,Mar 2021
+887B,Woodlands Dr 50,10 to 12,67,Premium Apartment,2015,93,365000,Mar 2021
+148,Woodlands St 13,07 to 09,68,New Generation,1985,63.08,270000,Mar 2021
+152,Woodlands St 13,10 to 12,73,Model A,1985,63,323000,Mar 2021
+302A,Woodlands St 31,07 to 09,67,Model A,2016,94.75,350000,Mar 2021
+319,Woodlands St 31,01 to 03,73,Model A,1993,71.08,300000,Mar 2021
+847,Woodlands St 82,01 to 03,69,New Generation,1995,73.08,295000,Mar 2021
+218,Marsiling Cres,04 to 06,81,New Generation,1986,64.42,285000,Feb 2021
+6,Marsiling Dr,10 to 12,65,Improved,1976,54,240888,Feb 2021
+32,Marsiling Dr,13 to 15,73,New Generation,1980,57.92,263000,Feb 2021
+12,Marsiling Lane,07 to 09,65,Improved,1976,54.17,255000,Feb 2021
+17,Marsiling Lane,04 to 06,65,Improved,1984,62.83,250000,Feb 2021
+17,Marsiling Lane,13 to 15,65,Improved,1984,62.83,273000,Feb 2021
+570A,Woodlands Ave 1,10 to 12,67,Model A,2013,91.75,338000,Feb 2021
+780A,Woodlands Cres,13 to 15,67,Model A,2015,93.5,340000,Feb 2021
+886A,Woodlands Dr 50,13 to 15,67,Premium Apartment,2015,93,355000,Feb 2021
+102,Woodlands St 13,04 to 06,67,New Generation,1985,63.25,290000,Feb 2021
+149,Woodlands St 13,10 to 12,68,New Generation,1985,63.17,271000,Feb 2021
+820,Woodlands St 82,01 to 03,69,New Generation,1995,73.17,308000,Feb 2021
+213,Marsiling Cres,07 to 09,74,Model A,1982,60.75,260000,Jan 2021
+6,Marsiling Dr,10 to 12,65,Improved,1976,54.08,205000,Jan 2021
+6,Marsiling Dr,01 to 03,65,Improved,1976,54,228000,Jan 2021
+204,Marsiling Dr,01 to 03,68,New Generation,1981,59.33,210000,Jan 2021
+204,Marsiling Dr,04 to 06,68,New Generation,1981,59.25,263000,Jan 2021
+206,Marsiling Dr,04 to 06,68,New Generation,1981,59.33,265000,Jan 2021
+12A,Marsiling Lane,07 to 09,67,Model A,2013,91.5,330000,Jan 2021
+17,Marsiling Lane,04 to 06,65,Improved,1984,62.83,230000,Jan 2021
+130,Marsiling Rise,07 to 09,60,Improved,1985,63.08,265000,Jan 2021
+339,Woodlands Ave 1,01 to 03,69,New Generation,1995,73.58,310000,Jan 2021
+570B,Woodlands Ave 1,13 to 15,67,Model A,2013,91.92,330000,Jan 2021
+571C,Woodlands Ave 1,04 to 06,67,Model A,2013,91.92,345000,Jan 2021
+780B,Woodlands Cres,07 to 09,67,Model A,2015,93.67,328000,Jan 2021
+158,Woodlands St 13,07 to 09,73,Model A,1990,68.33,290000,Jan 2021
+166,Woodlands St 13,04 to 06,67,New Generation,1986,64.75,297000,Jan 2021
+302A,Woodlands St 31,07 to 09,67,Model A,2016,94.83,366500,Jan 2021
+302A,Woodlands St 31,25 to 27,67,Model A,2016,94.75,388000,Jan 2021
+850,Woodlands St 82,01 to 03,69,New Generation,1995,73.42,290000,Jan 2021
+2,Marsiling Dr,10 to 12,76,Improved,1974,52.67,240000,Dec 2020
+203,Marsiling Dr,04 to 06,68,New Generation,1981,60,255000,Dec 2020
+204,Marsiling Dr,04 to 06,68,New Generation,1981,59.33,245000,Dec 2020
+204,Marsiling Dr,07 to 09,82,New Generation,1981,59.42,270000,Dec 2020
+206,Marsiling Dr,01 to 03,68,New Generation,1981,59.42,230000,Dec 2020
+17,Marsiling Lane,10 to 12,75,Improved,1984,63,260000,Dec 2020
+130,Marsiling Rise,04 to 06,69,Improved,1985,63.17,240000,Dec 2020
+131,Marsiling Rise,07 to 09,69,Improved,1985,63.08,265000,Dec 2020
+780B,Woodlands Cres,01 to 03,67,Model A,2015,93.67,290000,Dec 2020
+886D,Woodlands Dr 50,13 to 15,67,Premium Apartment,2015,93.25,342000,Dec 2020
+151,Woodlands St 13,04 to 06,73,Model A,1985,63.33,270000,Dec 2020
+157,Woodlands St 13,01 to 03,73,Model A,1985,63.33,297000,Dec 2020
+159,Woodlands St 13,07 to 09,73,Model A,1990,68.42,315000,Dec 2020
+302A,Woodlands St 31,13 to 15,67,Model A,2016,94.92,350000,Dec 2020
+302A,Woodlands St 31,22 to 24,67,Model A,2016,94.83,378888,Dec 2020
+24,Marsiling Dr,07 to 09,67,New Generation,1977,55.67,250000,Nov 2020
+204,Marsiling Dr,04 to 06,68,New Generation,1981,59.5,230000,Nov 2020
+15,Marsiling Lane,10 to 12,65,Improved,1976,54.17,223000,Nov 2020
+17,Marsiling Lane,01 to 03,65,Improved,1984,63.08,252000,Nov 2020
+125,Marsiling Rise,04 to 06,69,Improved,1985,63.25,263000,Nov 2020
+129,Marsiling Rise,10 to 12,69,Improved,1985,63.25,260000,Nov 2020
+131,Marsiling Rise,01 to 03,69,Improved,1985,63.25,235000,Nov 2020
+780A,Woodlands Cres,10 to 12,67,Model A,2015,93.75,295000,Nov 2020
+780F,Woodlands Cres,10 to 12,67,Model A,2015,93.75,308000,Nov 2020
+886C,Woodlands Dr 50,13 to 15,67,Premium Apartment,2015,93.33,328000,Nov 2020
+887B,Woodlands Dr 50,07 to 09,67,Premium Apartment,2015,93.25,355000,Nov 2020
+102,Woodlands St 13,01 to 03,67,New Generation,1985,63.5,290000,Nov 2020
+146,Woodlands St 13,07 to 09,68,New Generation,1985,63.42,268000,Nov 2020
+149,Woodlands St 13,04 to 06,68,New Generation,1985,63.33,260000,Nov 2020
+302,Woodlands St 31,01 to 03,72,Simplified,1993,71.33,308000,Nov 2020
