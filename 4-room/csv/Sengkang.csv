@@ -1,0 +1,2799 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date
+327C,Anchorvale Rd,07 to 09,92,Premium Apartment,2015,92.5,485000,Nov 2021
+330B,Anchorvale St,01 to 03,93,Model A,2015,92.83,460000,Nov 2021
+278A,Compassvale Bow,13 to 15,92,Model A,2017,95.08,633888,Nov 2021
+289A,Compassvale Cres,04 to 06,93,Premium Apartment,2017,95.08,495000,Nov 2021
+293D,Compassvale Cres,10 to 12,93,Model A,2016,94.08,510000,Nov 2021
+294A,Compassvale Cres,04 to 06,93,Model A,2016,94.08,505000,Nov 2021
+215B,Compassvale Dr,13 to 15,92,Premium Apartment,2017,94.58,640000,Nov 2021
+216D,Compassvale Dr,07 to 09,92,Premium Apartment,2017,94.67,633000,Nov 2021
+217C,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.58,633000,Nov 2021
+206A,Compassvale Lane,01 to 03,101,Model A,1999,76.83,424000,Nov 2021
+269C,Compassvale Link,13 to 15,91,Premium Apartment,2006,83.33,515000,Nov 2021
+273B,Compassvale Link,07 to 09,90,Premium Apartment,2009,86.83,610000,Nov 2021
+275A,Compassvale Link,01 to 03,90,Premium Apartment,2009,86.67,563000,Nov 2021
+277C,Compassvale Link,01 to 03,90,Premium Apartment,2009,86.75,500000,Nov 2021
+257B,Compassvale Rd,07 to 09,85,Model A2,2001,78.42,452000,Nov 2021
+404B,Fernvale Lane,19 to 21,92,Premium Apartment,2004,81.58,450000,Nov 2021
+415B,Fernvale Link,16 to 18,93,Model A,2016,93.25,535000,Nov 2021
+416A,Fernvale Link,04 to 06,93,Model A,2016,93.25,475000,Nov 2021
+430D,Fernvale Link,04 to 06,92,Model A,2015,92.58,485000,Nov 2021
+467B,Fernvale Link,19 to 21,93,Model A,2016,93.83,495000,Nov 2021
+468B,Fernvale Link,16 to 18,93,Model A,2016,93.83,515000,Nov 2021
+406B,Fernvale Rd,19 to 21,90,Premium Apartment,2004,82.08,448000,Nov 2021
+435B,Fernvale Rd,13 to 15,94,Premium Apartment,2013,90.67,515000,Nov 2021
+453C,Fernvale Rd,13 to 15,92,Model A,2015,92.75,498000,Nov 2021
+163B,Rivervale Cres,10 to 12,93,Model A,2017,94.58,468000,Nov 2021
+163B,Rivervale Cres,16 to 18,93,Model A,2017,94.58,490000,Nov 2021
+164B,Rivervale Cres,16 to 18,93,Model A,2017,94.58,495000,Nov 2021
+190B,Rivervale Dr,13 to 15,95,Model A,2000,77.58,413000,Nov 2021
+140,Rivervale St,16 to 18,90,Model A2,1999,76.25,405000,Nov 2021
+105,Rivervale Walk,01 to 03,101,Model A,1999,76.42,432000,Nov 2021
+271C,Sengkang Ctrl,04 to 06,93,Premium Apartment,2010,87.58,578000,Nov 2021
+432A,Sengkang West Way,25 to 27,93,Model A,2014,92,520000,Nov 2021
+433B,Sengkang West Way,01 to 03,93,Model A,2014,92,440000,Nov 2021
+335A,Anchorvale Cres,07 to 09,92,Premium Apartment,2015,93.25,510000,Oct 2021
+335C,Anchorvale Cres,01 to 03,92,Premium Apartment,2015,93.25,480000,Oct 2021
+336C,Anchorvale Cres,01 to 03,92,Premium Apartment,2015,93.17,475000,Oct 2021
+301A,Anchorvale Dr,13 to 15,90,Model A,2001,78.83,440000,Oct 2021
+301B,Anchorvale Dr,04 to 06,90,Model A,2001,78.92,428000,Oct 2021
+301B,Anchorvale Dr,07 to 09,90,Model A,2001,78.83,448000,Oct 2021
+306C,Anchorvale Link,01 to 03,90,Model A,2002,79.25,398000,Oct 2021
+333A,Anchorvale Link,01 to 03,92,Model A,2015,92.67,490000,Oct 2021
+333D,Anchorvale Link,01 to 03,92,Model A,2015,92.75,525000,Oct 2021
+333D,Anchorvale Link,01 to 03,92,Model A,2015,92.75,528000,Oct 2021
+307A,Anchorvale Rd,10 to 12,90,Model A,2001,79.08,430000,Oct 2021
+309D,Anchorvale Rd,13 to 15,93,Premium Apartment,2002,80.17,450000,Oct 2021
+326D,Anchorvale Rd,04 to 06,92,Premium Apartment,2015,92.58,500000,Oct 2021
+330B,Anchorvale St,13 to 15,93,Model A,2015,92.92,533888,Oct 2021
+331A,Anchorvale St,13 to 15,93,Model A,2015,92.92,520000,Oct 2021
+266C,Compassvale Bow,04 to 06,92,Premium Apartment,2007,84.92,508000,Oct 2021
+274A,Compassvale Bow,04 to 06,92,Model A,2017,95.17,595000,Oct 2021
+274C,Compassvale Bow,07 to 09,92,Model A,2017,95.17,595000,Oct 2021
+278A,Compassvale Bow,04 to 06,92,Model A,2017,95.17,560000,Oct 2021
+278A,Compassvale Bow,07 to 09,92,Model A,2017,95.17,615000,Oct 2021
+286B,Compassvale Cres,01 to 03,93,Premium Apartment,2017,95.08,512000,Oct 2021
+286B,Compassvale Cres,13 to 15,93,Premium Apartment,2017,95.17,525000,Oct 2021
+286B,Compassvale Cres,10 to 12,93,Premium Apartment,2017,95.17,530000,Oct 2021
+286C,Compassvale Cres,13 to 15,93,Premium Apartment,2017,95.17,530000,Oct 2021
+287A,Compassvale Cres,04 to 06,93,Premium Apartment,2017,95.17,508000,Oct 2021
+287A,Compassvale Cres,10 to 12,96,Premium Apartment,2017,95.25,539000,Oct 2021
+287C,Compassvale Cres,04 to 06,93,Premium Apartment,2017,95.08,506888,Oct 2021
+288C,Compassvale Cres,13 to 15,93,Premium Apartment,2017,95.17,555000,Oct 2021
+293C,Compassvale Cres,07 to 09,93,Model A,2016,94.17,528000,Oct 2021
+201B,Compassvale Dr,04 to 06,90,Model A,2001,78.83,442000,Oct 2021
+212C,Compassvale Dr,10 to 12,98,Premium Apartment,2012,90.08,483000,Oct 2021
+215A,Compassvale Dr,01 to 03,92,Premium Apartment,2017,94.58,535000,Oct 2021
+215B,Compassvale Dr,01 to 03,92,Premium Apartment,2017,94.58,602000,Oct 2021
+216B,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.67,643000,Oct 2021
+217A,Compassvale Dr,01 to 03,92,Premium Apartment,2017,94.67,534000,Oct 2021
+217A,Compassvale Dr,07 to 09,92,Premium Apartment,2017,94.67,620000,Oct 2021
+217C,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.67,630000,Oct 2021
+206A,Compassvale Lane,01 to 03,102,Model A,1999,76.83,390000,Oct 2021
+207A,Compassvale Lane,04 to 06,92,Model A,2005,82.42,435000,Oct 2021
+209A,Compassvale Lane,04 to 06,92,Model A,2011,89.08,458000,Oct 2021
+211C,Compassvale Lane,13 to 15,97,Model A,2013,90.42,490000,Oct 2021
+268C,Compassvale Link,07 to 09,90,Premium Apartment,2006,83.42,518000,Oct 2021
+273A,Compassvale Link,04 to 06,90,Premium Apartment,2009,86.83,600000,Oct 2021
+273C,Compassvale Link,07 to 09,90,Premium Apartment,2009,86.92,558000,Oct 2021
+277B,Compassvale Link,01 to 03,90,Premium Apartment,2009,86.75,498000,Oct 2021
+277B,Compassvale Link,04 to 06,90,Premium Apartment,2009,86.75,580000,Oct 2021
+277B,Compassvale Link,10 to 12,90,Premium Apartment,2009,86.75,628000,Oct 2021
+277D,Compassvale Link,10 to 12,90,Premium Apartment,2009,86.75,618888,Oct 2021
+257C,Compassvale Rd,07 to 09,90,Model A,2001,78.42,455000,Oct 2021
+234,Compassvale Walk,07 to 09,100,Model A,1999,76.75,450000,Oct 2021
+403D,Fernvale Lane,13 to 15,92,Premium Apartment,2004,81.75,440000,Oct 2021
+405C,Fernvale Lane,07 to 09,93,Premium Apartment,2004,81.5,428000,Oct 2021
+412B,Fernvale Link,01 to 03,95,Premium Apartment,2004,81.67,410000,Oct 2021
+415B,Fernvale Link,13 to 15,93,Model A,2016,93.33,495000,Oct 2021
+416A,Fernvale Link,07 to 09,93,Model A,2016,93.25,500000,Oct 2021
+440C,Fernvale Link,13 to 15,92,Model A,2015,92.83,498000,Oct 2021
+468B,Fernvale Link,07 to 09,93,Model A,2016,93.92,445000,Oct 2021
+470A,Fernvale Link,01 to 03,93,Model A,2016,94,438000,Oct 2021
+470A,Fernvale Link,04 to 06,93,Model A,2016,94,456800,Oct 2021
+470B,Fernvale Link,07 to 09,93,Model A,2016,94,488000,Oct 2021
+408A,Fernvale Rd,10 to 12,95,Premium Apartment,2004,82.25,438000,Oct 2021
+409A,Fernvale Rd,13 to 15,95,Premium Apartment,2004,82.33,448000,Oct 2021
+410A,Fernvale Rd,01 to 03,95,Premium Apartment,2012,90.17,448000,Oct 2021
+410A,Fernvale Rd,19 to 21,96,Premium Apartment,2012,90.17,490000,Oct 2021
+410B,Fernvale Rd,19 to 21,96,Premium Apartment,2012,90.17,500000,Oct 2021
+410C,Fernvale Rd,10 to 12,95,Premium Apartment,2012,90.17,488000,Oct 2021
+410C,Fernvale Rd,19 to 21,96,Premium Apartment,2012,90.17,523000,Oct 2021
+435B,Fernvale Rd,22 to 24,94,Premium Apartment,2013,90.75,525000,Oct 2021
+436A,Fernvale Rd,10 to 12,96,Model A,2010,87.5,488000,Oct 2021
+441C,Fernvale Rd,16 to 18,92,Model A,2012,89.42,505000,Oct 2021
+453D,Fernvale Rd,07 to 09,92,Model A,2015,92.83,460888,Oct 2021
+471B,Fernvale St,04 to 06,93,Model A,2016,93.92,489000,Oct 2021
+471B,Fernvale St,16 to 18,93,Model A,2016,94,515000,Oct 2021
+471C,Fernvale St,16 to 18,93,Model A,2016,94,517000,Oct 2021
+472A,Fernvale St,10 to 12,93,Model A,2016,94,518000,Oct 2021
+446C,Jln Kayu,07 to 09,93,Model A,2013,91.17,455000,Oct 2021
+158D,Rivervale Cres,04 to 06,90,Premium Apartment,2003,81,428000,Oct 2021
+162B,Rivervale Cres,01 to 03,93,Model A,2017,94.67,445000,Oct 2021
+162C,Rivervale Cres,04 to 06,93,Model A,2017,94.67,478000,Oct 2021
+164C,Rivervale Cres,07 to 09,93,Model A,2017,94.67,442500,Oct 2021
+178D,Rivervale Cres,16 to 18,93,Model A,2015,92.5,442000,Oct 2021
+185B,Rivervale Cres,10 to 12,85,Model A2,2000,78.25,408500,Oct 2021
+185D,Rivervale Cres,04 to 06,87,Model A2,2000,78.17,390000,Oct 2021
+116A,Rivervale Dr,07 to 09,95,Model A,2000,77.83,415000,Oct 2021
+116B,Rivervale Dr,10 to 12,95,Model A,2000,77.83,420000,Oct 2021
+121,Rivervale Dr,10 to 12,90,Model A,2000,77.92,412000,Oct 2021
+123C,Rivervale Dr,13 to 15,101,Model A,1999,76.92,468000,Oct 2021
+188A,Rivervale Dr,04 to 06,95,Model A,2000,77.83,405500,Oct 2021
+191A,Rivervale Dr,04 to 06,96,Model A,2000,78,400000,Oct 2021
+194,Rivervale Dr,07 to 09,91,Model A,2001,78.58,416000,Oct 2021
+195,Rivervale Dr,13 to 15,91,Model A,2001,78.83,422000,Oct 2021
+196,Rivervale Dr,10 to 12,91,Model A,2001,78.58,420000,Oct 2021
+197,Rivervale Dr,01 to 03,90,Model A,2001,78.67,408888,Oct 2021
+131,Rivervale St,04 to 06,90,Model A2,1999,76.67,395000,Oct 2021
+140,Rivervale St,13 to 15,97,Model A2,1999,76.33,420000,Oct 2021
+101,Rivervale Walk,10 to 12,101,Model A,1999,76.5,435000,Oct 2021
+114,Rivervale Walk,04 to 06,102,Model A,1998,76.17,425000,Oct 2021
+271A,Sengkang Ctrl,01 to 03,93,Premium Apartment,2010,87.67,505000,Oct 2021
+271B,Sengkang Ctrl,07 to 09,93,Premium Apartment,2010,87.58,555000,Oct 2021
+272B,Sengkang Ctrl,04 to 06,90,Premium Apartment,2009,87.25,600000,Oct 2021
+282B,Sengkang East Ave,01 to 03,92,Premium Apartment,2015,92.92,558000,Oct 2021
+438B,Sengkang West Ave,04 to 06,94,Model A,2011,88.42,465000,Oct 2021
+432A,Sengkang West Way,16 to 18,93,Model A,2014,92.08,491000,Oct 2021
+450A,Sengkang West Way,13 to 15,92,Model A,2014,91.83,475000,Oct 2021
+451B,Sengkang West Way,19 to 21,92,Model A,2015,92.58,525000,Oct 2021
+452A,Sengkang West Way,16 to 18,92,Model A,2015,92.67,475000,Oct 2021
+452A,Sengkang West Way,19 to 21,92,Model A,2015,92.58,495000,Oct 2021
+334B,Anchorvale Cres,04 to 06,95,Premium Apartment,2015,93.42,485000,Sep 2021
+335A,Anchorvale Cres,13 to 15,92,Premium Apartment,2015,93.25,500000,Sep 2021
+336A,Anchorvale Cres,04 to 06,92,Premium Apartment,2015,93.33,480000,Sep 2021
+311D,Anchorvale Lane,01 to 03,90,Premium Apartment,2002,80.33,390000,Sep 2021
+302A,Anchorvale Link,01 to 03,90,Model A,2001,78.92,380000,Sep 2021
+332A,Anchorvale Link,04 to 06,92,Model A,2015,92.83,508000,Sep 2021
+332A,Anchorvale Link,10 to 12,92,Model A,2015,92.83,510000,Sep 2021
+332B,Anchorvale Link,04 to 06,92,Model A,2015,92.83,473000,Sep 2021
+333B,Anchorvale Link,04 to 06,92,Model A,2015,92.83,485000,Sep 2021
+317B,Anchorvale Rd,04 to 06,92,Premium Apartment,2003,80.83,430000,Sep 2021
+326D,Anchorvale Rd,04 to 06,92,Premium Apartment,2015,92.75,460000,Sep 2021
+326D,Anchorvale Rd,10 to 12,92,Premium Apartment,2015,92.67,488000,Sep 2021
+330A,Anchorvale St,13 to 15,92,Model A,2015,93,508000,Sep 2021
+330A,Anchorvale St,10 to 12,92,Model A,2015,93,510000,Sep 2021
+330B,Anchorvale St,10 to 12,92,Model A,2015,93,502000,Sep 2021
+331C,Anchorvale St,01 to 03,92,Model A,2015,93,440000,Sep 2021
+265E,Compassvale Bow,01 to 03,92,Premium Apartment,2007,84.92,440000,Sep 2021
+274B,Compassvale Bow,04 to 06,92,Model A,2017,95.25,570000,Sep 2021
+274B,Compassvale Bow,07 to 09,92,Model A,2017,95.25,628000,Sep 2021
+278A,Compassvale Bow,13 to 15,92,Model A,2017,95.25,610000,Sep 2021
+278B,Compassvale Bow,07 to 09,92,Model A,2017,95.17,575000,Sep 2021
+286A,Compassvale Cres,04 to 06,93,Premium Apartment,2017,95.25,515000,Sep 2021
+286A,Compassvale Cres,13 to 15,93,Premium Apartment,2017,95.25,540000,Sep 2021
+288B,Compassvale Cres,10 to 12,93,Premium Apartment,2017,95.25,500000,Sep 2021
+293A,Compassvale Cres,07 to 09,93,Model A,2016,94.25,505000,Sep 2021
+293C,Compassvale Cres,07 to 09,93,Model A,2016,94.25,493000,Sep 2021
+293C,Compassvale Cres,07 to 09,93,Model A,2016,94.17,510000,Sep 2021
+295B,Compassvale Cres,01 to 03,90,Model A,2002,79.5,373000,Sep 2021
+201D,Compassvale Dr,13 to 15,90,Model A,2001,78.83,460000,Sep 2021
+212A,Compassvale Dr,04 to 06,98,Premium Apartment,2012,90.08,470000,Sep 2021
+215A,Compassvale Dr,04 to 06,92,Premium Apartment,2017,94.67,550000,Sep 2021
+215A,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.75,606888,Sep 2021
+216A,Compassvale Dr,13 to 15,92,Premium Apartment,2017,94.67,645000,Sep 2021
+216B,Compassvale Dr,01 to 03,92,Premium Apartment,2017,94.67,568000,Sep 2021
+216D,Compassvale Dr,13 to 15,92,Premium Apartment,2017,94.75,655000,Sep 2021
+217A,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.75,616000,Sep 2021
+217C,Compassvale Dr,01 to 03,92,Premium Apartment,2017,94.67,545000,Sep 2021
+217C,Compassvale Dr,01 to 03,93,Premium Apartment,2017,94.67,580000,Sep 2021
+217C,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.75,633000,Sep 2021
+206B,Compassvale Lane,07 to 09,102,Model A,1999,77,425000,Sep 2021
+207A,Compassvale Lane,07 to 09,92,Model A,2005,82.42,450000,Sep 2021
+210C,Compassvale Lane,01 to 03,93,Model A,2013,90.5,458000,Sep 2021
+210C,Compassvale Lane,04 to 06,93,Model A,2013,90.42,478000,Sep 2021
+211C,Compassvale Lane,04 to 06,93,Model A,2013,90.42,456000,Sep 2021
+211D,Compassvale Lane,01 to 03,93,Model A,2013,90.5,420000,Sep 2021
+268B,Compassvale Link,10 to 12,90,Premium Apartment,2006,83.5,505000,Sep 2021
+269D,Compassvale Link,13 to 15,90,Premium Apartment,2006,83.5,525000,Sep 2021
+273B,Compassvale Link,13 to 15,90,Premium Apartment,2009,86.92,605000,Sep 2021
+273C,Compassvale Link,04 to 06,90,Premium Apartment,2009,87,520000,Sep 2021
+273C,Compassvale Link,04 to 06,90,Premium Apartment,2009,87,600000,Sep 2021
+275A,Compassvale Link,07 to 09,90,Premium Apartment,2009,86.83,608000,Sep 2021
+275A,Compassvale Link,10 to 12,90,Premium Apartment,2009,86.83,618888,Sep 2021
+277C,Compassvale Link,10 to 12,90,Premium Apartment,2009,86.83,620000,Sep 2021
+259C,Compassvale Rd,07 to 09,90,Model A,2000,78.33,455000,Sep 2021
+291B,Compassvale St,04 to 06,90,Model A,2002,79.33,400000,Sep 2021
+223D,Compassvale Walk,07 to 09,102,Model A,1999,76.75,455000,Sep 2021
+403A,Fernvale Lane,04 to 06,93,Premium Apartment,2004,81.67,410000,Sep 2021
+414B,Fernvale Link,04 to 06,93,Model A,2016,93.33,465000,Sep 2021
+415C,Fernvale Link,13 to 15,93,Model A,2016,93.42,535000,Sep 2021
+440C,Fernvale Link,16 to 18,92,Model A,2015,92.83,502000,Sep 2021
+467B,Fernvale Link,22 to 24,93,Model A,2016,94,503000,Sep 2021
+470A,Fernvale Link,04 to 06,93,Model A,2016,94.08,430000,Sep 2021
+470C,Fernvale Link,10 to 12,93,Model A,2016,94.08,463000,Sep 2021
+470C,Fernvale Link,22 to 24,93,Model A,2016,94.08,508800,Sep 2021
+407B,Fernvale Rd,01 to 03,95,Premium Apartment,2005,82.42,425000,Sep 2021
+408A,Fernvale Rd,10 to 12,95,Premium Apartment,2004,82.25,425000,Sep 2021
+408B,Fernvale Rd,16 to 18,95,Premium Apartment,2004,81.92,439000,Sep 2021
+411B,Fernvale Rd,13 to 15,95,Premium Apartment,2012,90.17,490000,Sep 2021
+441A,Fernvale Rd,10 to 12,93,Model A,2012,89.42,478000,Sep 2021
+441C,Fernvale Rd,16 to 18,92,Model A,2012,89.42,498000,Sep 2021
+441D,Fernvale Rd,16 to 18,93,Model A,2012,89.42,495000,Sep 2021
+443A,Fernvale Rd,22 to 24,95,Model A,2012,90.25,505000,Sep 2021
+445A,Fernvale Rd,01 to 03,94,Model A,2012,90.25,438000,Sep 2021
+453B,Fernvale Rd,01 to 03,92,Model A,2015,92.92,445000,Sep 2021
+453C,Fernvale Rd,16 to 18,92,Model A,2015,92.92,498000,Sep 2021
+472A,Fernvale St,22 to 24,93,Model A,2016,94.08,518888,Sep 2021
+472B,Fernvale St,19 to 21,93,Model A,2016,94,485000,Sep 2021
+446C,Jln Kayu,01 to 03,93,Model A,2013,91.25,422000,Sep 2021
+159A,Rivervale Cres,04 to 06,90,Premium Apartment,2003,81.17,420000,Sep 2021
+162B,Rivervale Cres,16 to 18,93,Model A,2017,94.75,492000,Sep 2021
+162C,Rivervale Cres,01 to 03,93,Model A,2017,94.75,438000,Sep 2021
+163A,Rivervale Cres,07 to 09,93,Model A,2017,94.75,460000,Sep 2021
+178A,Rivervale Cres,13 to 15,93,Model A,2015,92.58,440000,Sep 2021
+178D,Rivervale Cres,13 to 15,93,Model A,2015,92.58,450000,Sep 2021
+184A,Rivervale Cres,16 to 18,90,Model A,2003,80.75,400000,Sep 2021
+121B,Rivervale Dr,13 to 15,91,Model A,2000,77.92,455000,Sep 2021
+124B,Rivervale Dr,01 to 03,90,Model A2,1999,76.92,400000,Sep 2021
+190A,Rivervale Dr,01 to 03,95,Model A,2000,77.75,410000,Sep 2021
+128,Rivervale St,13 to 15,100,Model A,1999,76.83,430000,Sep 2021
+107,Rivervale Walk,10 to 12,100,Model A,1999,76.5,440000,Sep 2021
+114,Rivervale Walk,04 to 06,102,Model A,1998,76.17,425000,Sep 2021
+271B,Sengkang Ctrl,13 to 15,93,Premium Apartment,2010,87.75,545000,Sep 2021
+282A,Sengkang East Ave,04 to 06,92,Premium Apartment,2015,93,605000,Sep 2021
+282A,Sengkang East Ave,13 to 15,92,Premium Apartment,2015,92.92,638888,Sep 2021
+438B,Sengkang West Ave,16 to 18,94,Model A,2011,88.5,505000,Sep 2021
+439B,Sengkang West Ave,10 to 12,94,Model A,2011,88.5,460000,Sep 2021
+452B,Sengkang West Way,01 to 03,92,Model A,2015,92.75,410000,Sep 2021
+469B,Sengkang West Way,13 to 15,93,Model A,2016,94,478000,Sep 2021
+469B,Sengkang West Way,10 to 12,93,Model A,2016,94,488000,Sep 2021
+469C,Sengkang West Way,13 to 15,93,Model A,2016,94,490500,Sep 2021
+469C,Sengkang West Way,19 to 21,93,Model A,2016,94,500000,Sep 2021
+334A,Anchorvale Cres,04 to 06,92,Premium Apartment,2015,93.42,460000,Aug 2021
+336A,Anchorvale Cres,04 to 06,92,Premium Apartment,2015,93.33,453111,Aug 2021
+336A,Anchorvale Cres,07 to 09,92,Premium Apartment,2015,93.33,490000,Aug 2021
+336C,Anchorvale Cres,13 to 15,92,Premium Apartment,2015,93.42,518000,Aug 2021
+320A,Anchorvale Dr,13 to 15,87,Model A2,2002,80.08,435000,Aug 2021
+303B,Anchorvale Link,07 to 09,88,Model A2,2001,79.08,428000,Aug 2021
+332B,Anchorvale Link,13 to 15,92,Model A,2015,92.92,525000,Aug 2021
+326C,Anchorvale Rd,13 to 15,92,Premium Apartment,2015,92.75,510000,Aug 2021
+330B,Anchorvale St,07 to 09,93,Model A,2015,93,485000,Aug 2021
+330B,Anchorvale St,07 to 09,92,Model A,2015,93.08,490000,Aug 2021
+330B,Anchorvale St,13 to 15,92,Model A,2015,93.08,519999,Aug 2021
+331C,Anchorvale St,04 to 06,92,Model A,2015,93,463888,Aug 2021
+331C,Anchorvale St,10 to 12,92,Model A,2015,93.08,495000,Aug 2021
+264B,Compassvale Bow,01 to 03,92,Premium Apartment,2007,85.08,435000,Aug 2021
+264B,Compassvale Bow,01 to 03,92,Premium Apartment,2007,85.08,445000,Aug 2021
+264E,Compassvale Bow,07 to 09,92,Premium Apartment,2008,85.75,522000,Aug 2021
+265E,Compassvale Bow,16 to 18,92,Premium Apartment,2007,85.08,550000,Aug 2021
+266B,Compassvale Bow,10 to 12,92,Premium Apartment,2007,85.08,520000,Aug 2021
+274B,Compassvale Bow,10 to 12,92,Model A,2017,95.25,630000,Aug 2021
+274C,Compassvale Bow,16 to 18,92,Model A,2017,95.33,625000,Aug 2021
+278A,Compassvale Bow,16 to 18,92,Model A,2017,95.33,615000,Aug 2021
+278A,Compassvale Bow,16 to 18,92,Model A,2017,95.25,622888,Aug 2021
+286A,Compassvale Cres,13 to 15,93,Premium Apartment,2017,95.33,530000,Aug 2021
+286B,Compassvale Cres,04 to 06,93,Premium Apartment,2017,95.25,468000,Aug 2021
+286C,Compassvale Cres,01 to 03,93,Premium Apartment,2017,95.33,500000,Aug 2021
+293A,Compassvale Cres,04 to 06,93,Model A,2016,94.33,470000,Aug 2021
+293C,Compassvale Cres,04 to 06,93,Model A,2016,94.33,485000,Aug 2021
+293D,Compassvale Cres,10 to 12,93,Model A,2016,94.33,516000,Aug 2021
+295A,Compassvale Cres,10 to 12,90,Model A,2002,79.58,406000,Aug 2021
+201A,Compassvale Dr,04 to 06,90,Model A,2001,79.08,410000,Aug 2021
+204A,Compassvale Dr,01 to 03,90,Model A,2000,78.42,420000,Aug 2021
+204B,Compassvale Dr,07 to 09,90,Model A,2001,78.58,440000,Aug 2021
+215A,Compassvale Dr,04 to 06,92,Premium Apartment,2017,94.83,568000,Aug 2021
+215B,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.83,621000,Aug 2021
+216A,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.75,630000,Aug 2021
+216B,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.83,638000,Aug 2021
+216C,Compassvale Dr,04 to 06,92,Premium Apartment,2017,94.75,576000,Aug 2021
+216C,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.83,620000,Aug 2021
+216D,Compassvale Dr,01 to 03,92,Premium Apartment,2017,94.75,580000,Aug 2021
+216D,Compassvale Dr,04 to 06,92,Premium Apartment,2017,94.83,590000,Aug 2021
+216D,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.75,646000,Aug 2021
+217A,Compassvale Dr,04 to 06,92,Premium Apartment,2017,94.83,575000,Aug 2021
+217B,Compassvale Dr,13 to 15,92,Premium Apartment,2017,94.83,638000,Aug 2021
+217B,Compassvale Dr,13 to 15,92,Premium Apartment,2017,94.83,638000,Aug 2021
+217C,Compassvale Dr,01 to 03,92,Premium Apartment,2017,94.75,518000,Aug 2021
+217C,Compassvale Dr,01 to 03,92,Premium Apartment,2017,94.83,565000,Aug 2021
+208A,Compassvale Lane,13 to 15,92,Model A,2011,89.33,500000,Aug 2021
+209B,Compassvale Lane,01 to 03,92,Model A,2011,89.42,425000,Aug 2021
+209B,Compassvale Lane,13 to 15,92,Model A,2011,89.33,478888,Aug 2021
+209C,Compassvale Lane,01 to 03,92,Model A,2011,89.33,418000,Aug 2021
+210A,Compassvale Lane,07 to 09,93,Model A,2013,90.67,462000,Aug 2021
+211A,Compassvale Lane,16 to 18,95,Model A,2013,90.5,530000,Aug 2021
+213B,Compassvale Lane,01 to 03,95,Premium Apartment,2012,90.25,435000,Aug 2021
+213B,Compassvale Lane,04 to 06,95,Premium Apartment,2012,90.17,478000,Aug 2021
+267A,Compassvale Link,01 to 03,91,Premium Apartment,2006,83.5,473000,Aug 2021
+268C,Compassvale Link,13 to 15,90,Premium Apartment,2006,83.5,525000,Aug 2021
+269B,Compassvale Link,01 to 03,90,Premium Apartment,2006,83.58,455000,Aug 2021
+275A,Compassvale Link,13 to 15,90,Premium Apartment,2009,86.92,587000,Aug 2021
+275A,Compassvale Link,13 to 15,92,Premium Apartment,2009,86.92,608000,Aug 2021
+275B,Compassvale Link,04 to 06,90,Premium Apartment,2009,86.83,580000,Aug 2021
+275D,Compassvale Link,01 to 03,90,Premium Apartment,2009,86.92,480000,Aug 2021
+277A,Compassvale Link,04 to 06,90,Premium Apartment,2009,86.92,562000,Aug 2021
+203E,Compassvale Rd,04 to 06,90,Model A,2000,78.33,418000,Aug 2021
+248,Compassvale Rd,07 to 09,96,Model A,2000,77.92,450000,Aug 2021
+291D,Compassvale St,07 to 09,90,Model A,2001,79.17,393000,Aug 2021
+298B,Compassvale St,01 to 03,97,Premium Apartment,2001,79.08,402000,Aug 2021
+298C,Compassvale St,13 to 15,94,Premium Apartment,2001,79.08,425000,Aug 2021
+229,Compassvale Walk,01 to 03,100,Model A,1999,77.17,405000,Aug 2021
+232,Compassvale Walk,04 to 06,101,Model A,1999,76.92,435000,Aug 2021
+234,Compassvale Walk,01 to 03,100,Model A,1999,76.83,400000,Aug 2021
+238,Compassvale Walk,13 to 15,101,Model A,1999,77.25,442000,Aug 2021
+403A,Fernvale Lane,01 to 03,93,Premium Apartment,2004,81.75,395000,Aug 2021
+403B,Fernvale Lane,04 to 06,93,Premium Apartment,2004,81.67,401000,Aug 2021
+403D,Fernvale Lane,10 to 12,92,Premium Apartment,2004,81.92,410000,Aug 2021
+414A,Fernvale Link,07 to 09,93,Model A,2016,93.5,490000,Aug 2021
+414A,Fernvale Link,22 to 24,93,Model A,2016,93.5,500000,Aug 2021
+414A,Fernvale Link,16 to 18,93,Model A,2016,93.5,520000,Aug 2021
+415A,Fernvale Link,04 to 06,93,Model A,2016,93.42,460000,Aug 2021
+415B,Fernvale Link,01 to 03,93,Model A,2016,93.5,450000,Aug 2021
+415B,Fernvale Link,04 to 06,93,Model A,2016,93.5,480000,Aug 2021
+415B,Fernvale Link,10 to 12,93,Model A,2016,93.42,485000,Aug 2021
+415C,Fernvale Link,04 to 06,93,Model A,2016,93.5,460000,Aug 2021
+415C,Fernvale Link,13 to 15,93,Model A,2016,93.42,520000,Aug 2021
+416A,Fernvale Link,19 to 21,93,Model A,2016,93.42,497000,Aug 2021
+416B,Fernvale Link,04 to 06,93,Model A,2016,93.5,452000,Aug 2021
+416C,Fernvale Link,07 to 09,93,Model A,2016,93.5,460000,Aug 2021
+430A,Fernvale Link,07 to 09,92,Model A,2015,92.83,445000,Aug 2021
+430D,Fernvale Link,13 to 15,92,Model A,2015,92.83,458000,Aug 2021
+467A,Fernvale Link,07 to 09,93,Model A,2016,94.08,453000,Aug 2021
+467A,Fernvale Link,13 to 15,93,Model A,2016,94.08,475000,Aug 2021
+467A,Fernvale Link,10 to 12,93,Model A,2016,94,476000,Aug 2021
+468B,Fernvale Link,22 to 24,93,Model A,2016,94,488000,Aug 2021
+470A,Fernvale Link,10 to 12,93,Model A,2016,94.17,470000,Aug 2021
+470B,Fernvale Link,16 to 18,93,Model A,2016,94.17,480000,Aug 2021
+470C,Fernvale Link,25 to 27,93,Model A,2016,94.17,520000,Aug 2021
+406C,Fernvale Rd,16 to 18,91,Premium Apartment,2004,82.33,436000,Aug 2021
+409A,Fernvale Rd,13 to 15,95,Premium Apartment,2004,82.33,435000,Aug 2021
+410C,Fernvale Rd,01 to 03,95,Premium Apartment,2012,90.33,427000,Aug 2021
+411A,Fernvale Rd,10 to 12,95,Premium Apartment,2012,90.33,475000,Aug 2021
+411B,Fernvale Rd,07 to 09,95,Premium Apartment,2012,90.33,460888,Aug 2021
+436B,Fernvale Rd,04 to 06,96,Model A,2010,87.58,465000,Aug 2021
+443C,Fernvale Rd,19 to 21,94,Model A,2012,90.33,500000,Aug 2021
+453B,Fernvale Rd,07 to 09,92,Model A,2015,93,465888,Aug 2021
+453B,Fernvale Rd,16 to 18,92,Model A,2015,93,475000,Aug 2021
+453C,Fernvale Rd,13 to 15,92,Model A,2015,93,472000,Aug 2021
+453D,Fernvale Rd,22 to 24,92,Model A,2015,93,488000,Aug 2021
+471C,Fernvale St,10 to 12,93,Model A,2016,94.17,485000,Aug 2021
+472A,Fernvale St,04 to 06,93,Model A,2016,94.17,438000,Aug 2021
+446B,Jln Kayu,04 to 06,93,Model A,2013,91.25,463000,Aug 2021
+446B,Jln Kayu,10 to 12,93,Model A,2013,91.33,465000,Aug 2021
+154,Rivervale Cres,04 to 06,90,Model A,2005,83.5,360000,Aug 2021
+157B,Rivervale Cres,13 to 15,90,Premium Apartment,2003,81.25,408000,Aug 2021
+163C,Rivervale Cres,07 to 09,93,Model A,2017,94.83,450000,Aug 2021
+178C,Rivervale Cres,13 to 15,93,Model A,2015,92.67,430000,Aug 2021
+178C,Rivervale Cres,07 to 09,93,Model A,2015,92.67,446000,Aug 2021
+121A,Rivervale Dr,04 to 06,91,Model A,2000,77.92,390000,Aug 2021
+124B,Rivervale Dr,10 to 12,92,Model A2,1999,77,398000,Aug 2021
+188D,Rivervale Dr,16 to 18,96,Model A,2000,77.92,405800,Aug 2021
+194,Rivervale Dr,10 to 12,92,Model A,2001,78.83,416888,Aug 2021
+195,Rivervale Dr,10 to 12,91,Model A,2001,79,410000,Aug 2021
+196,Rivervale Dr,16 to 18,91,Model A,2001,78.75,400000,Aug 2021
+127,Rivervale St,13 to 15,100,Model A,1999,77,418000,Aug 2021
+129,Rivervale St,13 to 15,100,Model A,1999,76.92,430000,Aug 2021
+105,Rivervale Walk,07 to 09,102,Model A,1999,76.67,446000,Aug 2021
+270A,Sengkang Ctrl,10 to 12,93,Premium Apartment,2010,87.75,560000,Aug 2021
+271A,Sengkang Ctrl,10 to 12,93,Premium Apartment,2010,87.83,550000,Aug 2021
+271B,Sengkang Ctrl,07 to 09,93,Premium Apartment,2010,87.83,575000,Aug 2021
+271C,Sengkang Ctrl,01 to 03,93,Premium Apartment,2010,87.83,518888,Aug 2021
+271C,Sengkang Ctrl,10 to 12,93,Premium Apartment,2010,87.83,580000,Aug 2021
+272A,Sengkang Ctrl,04 to 06,90,Premium Apartment,2009,87.33,518000,Aug 2021
+272A,Sengkang Ctrl,13 to 15,90,Premium Apartment,2009,87.42,590000,Aug 2021
+272C,Sengkang Ctrl,04 to 06,90,Premium Apartment,2009,87.42,550000,Aug 2021
+281B,Sengkang East Ave,10 to 12,92,Premium Apartment,2015,93.08,540000,Aug 2021
+281B,Sengkang East Ave,07 to 09,92,Premium Apartment,2015,93.08,540000,Aug 2021
+281B,Sengkang East Ave,07 to 09,92,Premium Apartment,2015,93.08,605000,Aug 2021
+282A,Sengkang East Ave,07 to 09,92,Premium Apartment,2015,93,610000,Aug 2021
+122,Sengkang East Way,04 to 06,91,Model A,2000,78.08,375000,Aug 2021
+325B,Sengkang East Way,01 to 03,90,Model A,2003,80.83,385000,Aug 2021
+438B,Sengkang West Ave,25 to 27,94,Model A,2011,88.58,505000,Aug 2021
+439A,Sengkang West Ave,13 to 15,94,Model A,2011,88.5,495000,Aug 2021
+433A,Sengkang West Way,13 to 15,93,Model A,2014,92.33,470000,Aug 2021
+433A,Sengkang West Way,19 to 21,93,Model A,2014,92.25,485000,Aug 2021
+452A,Sengkang West Way,01 to 03,92,Model A,2015,92.83,450000,Aug 2021
+452A,Sengkang West Way,16 to 18,92,Model A,2015,92.83,478000,Aug 2021
+452B,Sengkang West Way,04 to 06,92,Model A,2015,92.83,458000,Aug 2021
+469A,Sengkang West Way,25 to 27,93,Model A,2016,94.08,493000,Aug 2021
+334A,Anchorvale Cres,13 to 15,92,Premium Apartment,2015,93.5,508888,Jul 2021
+335C,Anchorvale Cres,07 to 09,95,Premium Apartment,2015,93.5,524888,Jul 2021
+336A,Anchorvale Cres,07 to 09,92,Premium Apartment,2015,93.5,495000,Jul 2021
+336D,Anchorvale Cres,04 to 06,95,Premium Apartment,2015,93.5,508000,Jul 2021
+336D,Anchorvale Cres,07 to 09,95,Premium Apartment,2015,93.58,530000,Jul 2021
+319C,Anchorvale Dr,10 to 12,90,Model A,2002,80.17,423000,Jul 2021
+320A,Anchorvale Dr,07 to 09,87,Model A2,2002,80.25,443000,Jul 2021
+311C,Anchorvale Lane,07 to 09,93,Premium Apartment,2002,80.42,405000,Jul 2021
+303A,Anchorvale Link,04 to 06,90,Model A,2001,79.17,425000,Jul 2021
+305B,Anchorvale Link,13 to 15,90,Model A,2001,79.5,385000,Jul 2021
+332C,Anchorvale Link,13 to 15,92,Model A,2015,93,528000,Jul 2021
+332C,Anchorvale Link,13 to 15,92,Model A,2015,93,540000,Jul 2021
+333D,Anchorvale Link,04 to 06,92,Model A,2015,93,502000,Jul 2021
+309B,Anchorvale Rd,13 to 15,95,Premium Apartment,2002,80.25,430000,Jul 2021
+309C,Anchorvale Rd,07 to 09,93,Premium Apartment,2002,80.42,400000,Jul 2021
+309D,Anchorvale Rd,01 to 03,93,Premium Apartment,2002,80.42,395000,Jul 2021
+326B,Anchorvale Rd,04 to 06,92,Premium Apartment,2015,92.83,460000,Jul 2021
+327C,Anchorvale Rd,13 to 15,92,Premium Apartment,2015,92.75,500000,Jul 2021
+331C,Anchorvale St,10 to 12,92,Model A,2015,93.08,480000,Jul 2021
+331C,Anchorvale St,13 to 15,92,Model A,2015,93.17,510000,Jul 2021
+265E,Compassvale Bow,10 to 12,92,Premium Apartment,2007,85.17,522000,Jul 2021
+266B,Compassvale Bow,16 to 18,92,Premium Apartment,2007,85.08,540000,Jul 2021
+274A,Compassvale Bow,10 to 12,92,Model A,2017,95.42,606000,Jul 2021
+274A,Compassvale Bow,13 to 15,92,Model A,2017,95.42,620888,Jul 2021
+278A,Compassvale Bow,01 to 03,92,Model A,2017,95.42,540000,Jul 2021
+278A,Compassvale Bow,13 to 15,92,Model A,2017,95.42,606888,Jul 2021
+278B,Compassvale Bow,04 to 06,92,Model A,2017,95.42,560000,Jul 2021
+286A,Compassvale Cres,01 to 03,93,Premium Apartment,2017,95.42,468000,Jul 2021
+293A,Compassvale Cres,07 to 09,93,Model A,2016,94.42,485000,Jul 2021
+293C,Compassvale Cres,10 to 12,93,Model A,2016,94.42,515888,Jul 2021
+296A,Compassvale Cres,04 to 06,90,Model A,2002,79.58,398000,Jul 2021
+201C,Compassvale Dr,07 to 09,90,Model A,2001,79.17,401000,Jul 2021
+204A,Compassvale Dr,10 to 12,92,Model A,2000,78.42,418000,Jul 2021
+204C,Compassvale Dr,04 to 06,90,Model A,2001,78.58,425000,Jul 2021
+216C,Compassvale Dr,07 to 09,92,Premium Apartment,2017,94.92,620000,Jul 2021
+216D,Compassvale Dr,07 to 09,92,Premium Apartment,2017,94.92,638000,Jul 2021
+217B,Compassvale Dr,13 to 15,92,Premium Apartment,2017,94.92,612000,Jul 2021
+217B,Compassvale Dr,13 to 15,92,Premium Apartment,2017,94.92,630000,Jul 2021
+217B,Compassvale Dr,13 to 15,92,Premium Apartment,2017,94.92,647000,Jul 2021
+217C,Compassvale Dr,04 to 06,93,Premium Apartment,2017,94.83,585000,Jul 2021
+206B,Compassvale Lane,13 to 15,102,Model A,1999,77.17,440000,Jul 2021
+207A,Compassvale Lane,04 to 06,92,Model A,2005,82.58,430000,Jul 2021
+209B,Compassvale Lane,04 to 06,92,Model A,2011,89.42,435000,Jul 2021
+210A,Compassvale Lane,16 to 18,97,Model A,2013,90.67,485000,Jul 2021
+210B,Compassvale Lane,13 to 15,95,Model A,2013,90.67,488000,Jul 2021
+211A,Compassvale Lane,13 to 15,95,Model A,2013,90.58,490088,Jul 2021
+211D,Compassvale Lane,01 to 03,93,Model A,2013,90.67,420000,Jul 2021
+213B,Compassvale Lane,07 to 09,95,Premium Apartment,2012,90.33,468000,Jul 2021
+213B,Compassvale Lane,13 to 15,99,Premium Apartment,2012,90.33,485000,Jul 2021
+265A,Compassvale Link,16 to 18,92,Premium Apartment,2008,85.83,575000,Jul 2021
+265B,Compassvale Link,10 to 12,92,Premium Apartment,2008,85.92,608666,Jul 2021
+265C,Compassvale Link,04 to 06,92,Premium Apartment,2008,86,480000,Jul 2021
+269C,Compassvale Link,16 to 18,90,Premium Apartment,2006,83.67,515000,Jul 2021
+275C,Compassvale Link,10 to 12,90,Premium Apartment,2009,87,593000,Jul 2021
+275D,Compassvale Link,04 to 06,90,Premium Apartment,2009,87,585000,Jul 2021
+277B,Compassvale Link,04 to 06,92,Premium Apartment,2009,87.08,580000,Jul 2021
+277B,Compassvale Link,07 to 09,90,Premium Apartment,2009,86.92,585000,Jul 2021
+277B,Compassvale Link,07 to 09,90,Premium Apartment,2009,87,608000,Jul 2021
+277C,Compassvale Link,04 to 06,90,Premium Apartment,2009,87,542000,Jul 2021
+277C,Compassvale Link,13 to 15,90,Premium Apartment,2009,87,580000,Jul 2021
+277D,Compassvale Link,10 to 12,90,Premium Apartment,2009,86.92,590000,Jul 2021
+249,Compassvale Rd,04 to 06,85,Model A2,2000,77.92,435000,Jul 2021
+297B,Compassvale St,01 to 03,94,Premium Apartment,2001,79.17,405000,Jul 2021
+298D,Compassvale St,16 to 18,94,Premium Apartment,2001,79.17,419000,Jul 2021
+225A,Compassvale Walk,07 to 09,102,Model A,1999,77.33,448000,Jul 2021
+226A,Compassvale Walk,07 to 09,102,Model A,1999,77.5,443000,Jul 2021
+226A,Compassvale Walk,10 to 12,102,Model A,1999,77.5,445000,Jul 2021
+230,Compassvale Walk,07 to 09,101,Model A,1999,77.33,410000,Jul 2021
+241,Compassvale Walk,01 to 03,100,Model A,1999,77.33,415000,Jul 2021
+403D,Fernvale Lane,13 to 15,92,Premium Apartment,2004,82,440000,Jul 2021
+414B,Fernvale Link,01 to 03,93,Model A,2016,93.67,430000,Jul 2021
+414B,Fernvale Link,19 to 21,93,Model A,2016,93.58,486000,Jul 2021
+415A,Fernvale Link,07 to 09,93,Model A,2016,93.58,468000,Jul 2021
+430A,Fernvale Link,19 to 21,92,Model A,2015,92.92,490000,Jul 2021
+430A,Fernvale Link,25 to 27,92,Model A,2015,92.83,510000,Jul 2021
+440B,Fernvale Link,13 to 15,92,Model A,2015,93.08,500000,Jul 2021
+467A,Fernvale Link,13 to 15,93,Model A,2016,94.17,465000,Jul 2021
+470A,Fernvale Link,01 to 03,93,Model A,2016,94.17,420000,Jul 2021
+470A,Fernvale Link,19 to 21,93,Model A,2016,94.25,485000,Jul 2021
+470C,Fernvale Link,19 to 21,93,Model A,2016,94.25,450000,Jul 2021
+406A,Fernvale Rd,13 to 15,91,Premium Apartment,2004,82.33,435000,Jul 2021
+408A,Fernvale Rd,10 to 12,95,Premium Apartment,2004,82.5,435000,Jul 2021
+408A,Fernvale Rd,16 to 18,95,Premium Apartment,2004,82.5,440000,Jul 2021
+410A,Fernvale Rd,19 to 21,96,Premium Apartment,2012,90.42,490000,Jul 2021
+410A,Fernvale Rd,22 to 24,96,Premium Apartment,2012,90.42,490000,Jul 2021
+410C,Fernvale Rd,10 to 12,95,Premium Apartment,2012,90.42,465000,Jul 2021
+436B,Fernvale Rd,10 to 12,96,Model A,2010,87.75,480000,Jul 2021
+441D,Fernvale Rd,19 to 21,94,Model A,2012,89.58,485000,Jul 2021
+443B,Fernvale Rd,04 to 06,94,Model A,2012,90.42,412000,Jul 2021
+443B,Fernvale Rd,01 to 03,94,Model A,2012,90.33,425000,Jul 2021
+443C,Fernvale Rd,25 to 27,95,Model A,2012,90.42,475000,Jul 2021
+453B,Fernvale Rd,13 to 15,92,Model A,2015,93.08,475000,Jul 2021
+453B,Fernvale Rd,16 to 18,92,Model A,2015,93.08,478000,Jul 2021
+471B,Fernvale St,22 to 24,93,Model A,2016,94.25,450888,Jul 2021
+471B,Fernvale St,22 to 24,93,Model A,2016,94.25,475000,Jul 2021
+471B,Fernvale St,22 to 24,93,Model A,2016,94.25,485000,Jul 2021
+471B,Fernvale St,22 to 24,93,Model A,2016,94.25,505000,Jul 2021
+471C,Fernvale St,13 to 15,93,Model A,2016,94.25,485000,Jul 2021
+472C,Fernvale St,04 to 06,93,Model A,2016,94.25,467500,Jul 2021
+472C,Fernvale St,10 to 12,93,Model A,2016,94.25,480000,Jul 2021
+446B,Jln Kayu,07 to 09,93,Model A,2013,91.42,435000,Jul 2021
+446B,Jln Kayu,07 to 09,93,Model A,2013,91.42,438000,Jul 2021
+159A,Rivervale Cres,01 to 03,96,Premium Apartment,2003,81.33,412000,Jul 2021
+162A,Rivervale Cres,07 to 09,93,Model A,2017,94.92,450000,Jul 2021
+162B,Rivervale Cres,04 to 06,93,Model A,2017,94.92,438000,Jul 2021
+164B,Rivervale Cres,07 to 09,93,Model A,2017,94.92,450000,Jul 2021
+164C,Rivervale Cres,01 to 03,93,Model A,2017,94.92,405000,Jul 2021
+178A,Rivervale Cres,01 to 03,93,Model A,2015,92.75,405000,Jul 2021
+178A,Rivervale Cres,16 to 18,93,Model A,2015,92.67,430000,Jul 2021
+178A,Rivervale Cres,10 to 12,93,Model A,2015,92.75,442000,Jul 2021
+178B,Rivervale Cres,10 to 12,93,Model A,2015,92.67,439000,Jul 2021
+178B,Rivervale Cres,16 to 18,93,Model A,2015,92.75,443000,Jul 2021
+178D,Rivervale Cres,13 to 15,93,Model A,2015,92.75,432000,Jul 2021
+180C,Rivervale Cres,13 to 15,93,Model A,2015,92.67,432500,Jul 2021
+183D,Rivervale Cres,13 to 15,85,Model A2,2003,81,400000,Jul 2021
+116A,Rivervale Dr,01 to 03,95,Model A,2000,78.08,370000,Jul 2021
+194,Rivervale Dr,04 to 06,91,Model A,2001,78.92,375000,Jul 2021
+194,Rivervale Dr,10 to 12,91,Model A,2001,78.92,404000,Jul 2021
+101,Rivervale Walk,01 to 03,100,Model A,1999,76.75,415000,Jul 2021
+104,Rivervale Walk,16 to 18,104,Model A,1999,76.75,458000,Jul 2021
+106,Rivervale Walk,07 to 09,101,Model A,1999,76.75,410000,Jul 2021
+272C,Sengkang Ctrl,04 to 06,90,Premium Apartment,2009,87.42,532000,Jul 2021
+279B,Sengkang East Ave,07 to 09,92,Premium Apartment,2015,93.17,600000,Jul 2021
+280A,Sengkang East Ave,07 to 09,92,Premium Apartment,2015,93.17,582000,Jul 2021
+280A,Sengkang East Ave,10 to 12,92,Premium Apartment,2015,93.17,585888,Jul 2021
+281A,Sengkang East Ave,10 to 12,92,Premium Apartment,2015,93.17,598000,Jul 2021
+282A,Sengkang East Ave,13 to 15,92,Premium Apartment,2015,93.17,633000,Jul 2021
+202C,Sengkang East Rd,01 to 03,90,Model A,2001,78.92,406000,Jul 2021
+202C,Sengkang East Rd,07 to 09,90,Model A,2001,79,410000,Jul 2021
+324A,Sengkang East Way,10 to 12,85,Model A2,2003,80.75,465000,Jul 2021
+324B,Sengkang East Way,01 to 03,90,Model A,2003,80.83,438888,Jul 2021
+439B,Sengkang West Ave,10 to 12,94,Model A,2011,88.67,455000,Jul 2021
+432A,Sengkang West Way,04 to 06,93,Model A,2014,92.33,430000,Jul 2021
+432B,Sengkang West Way,22 to 24,93,Model A,2014,92.33,488888,Jul 2021
+450A,Sengkang West Way,16 to 18,92,Model A,2014,92.08,463000,Jul 2021
+469B,Sengkang West Way,07 to 09,93,Model A,2016,94.17,458000,Jul 2021
+469C,Sengkang West Way,07 to 09,93,Model A,2016,94.17,420000,Jul 2021
+334B,Anchorvale Cres,07 to 09,92,Premium Apartment,2015,93.58,490000,Jun 2021
+335B,Anchorvale Cres,13 to 15,92,Premium Apartment,2015,93.58,528000,Jun 2021
+336B,Anchorvale Cres,10 to 12,92,Premium Apartment,2015,93.5,503000,Jun 2021
+336D,Anchorvale Cres,10 to 12,92,Premium Apartment,2015,93.5,480000,Jun 2021
+319C,Anchorvale Dr,07 to 09,90,Model A,2002,80.25,430000,Jun 2021
+311B,Anchorvale Lane,04 to 06,95,Premium Apartment,2002,80.33,380000,Jun 2021
+303B,Anchorvale Link,01 to 03,85,Model A2,2001,79.25,378000,Jun 2021
+303B,Anchorvale Link,13 to 15,88,Model A2,2001,79.25,408000,Jun 2021
+303B,Anchorvale Link,10 to 12,88,Model A2,2001,79.25,445000,Jun 2021
+303C,Anchorvale Link,07 to 09,86,Model A2,2001,79.33,418000,Jun 2021
+333A,Anchorvale Link,07 to 09,92,Model A,2015,93.08,500000,Jun 2021
+333B,Anchorvale Link,07 to 09,92,Model A,2015,93.08,510000,Jun 2021
+327A,Anchorvale Rd,04 to 06,92,Premium Apartment,2015,92.92,450000,Jun 2021
+330A,Anchorvale St,01 to 03,93,Model A,2015,93.25,460000,Jun 2021
+330B,Anchorvale St,13 to 15,92,Model A,2015,93.25,502000,Jun 2021
+331B,Anchorvale St,04 to 06,93,Model A,2015,93.25,440000,Jun 2021
+331B,Anchorvale St,07 to 09,93,Model A,2015,93.25,482000,Jun 2021
+264D,Compassvale Bow,10 to 12,92,Premium Apartment,2008,86,515000,Jun 2021
+266C,Compassvale Bow,04 to 06,92,Premium Apartment,2007,85.25,485000,Jun 2021
+274A,Compassvale Bow,04 to 06,92,Model A,2017,95.5,535000,Jun 2021
+286A,Compassvale Cres,10 to 12,93,Premium Apartment,2017,95.5,500000,Jun 2021
+286A,Compassvale Cres,07 to 09,93,Premium Apartment,2017,95.5,512000,Jun 2021
+293A,Compassvale Cres,04 to 06,93,Model A,2016,94.5,480000,Jun 2021
+293A,Compassvale Cres,10 to 12,93,Model A,2016,94.5,510000,Jun 2021
+293C,Compassvale Cres,07 to 09,93,Model A,2016,94.5,481000,Jun 2021
+293C,Compassvale Cres,10 to 12,93,Model A,2016,94.5,510000,Jun 2021
+293C,Compassvale Cres,13 to 15,93,Model A,2016,94.5,515000,Jun 2021
+294A,Compassvale Cres,04 to 06,93,Model A,2016,94.5,468000,Jun 2021
+295A,Compassvale Cres,13 to 15,90,Model A,2002,79.75,385000,Jun 2021
+201B,Compassvale Dr,04 to 06,90,Model A,2001,79.17,428000,Jun 2021
+201C,Compassvale Dr,04 to 06,90,Model A,2001,79.17,420000,Jun 2021
+204C,Compassvale Dr,10 to 12,90,Model A,2001,78.75,432000,Jun 2021
+212A,Compassvale Dr,04 to 06,95,Premium Apartment,2012,90.42,445000,Jun 2021
+212A,Compassvale Dr,10 to 12,95,Premium Apartment,2012,90.42,485000,Jun 2021
+215A,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.92,618000,Jun 2021
+215B,Compassvale Dr,07 to 09,92,Premium Apartment,2017,95,570000,Jun 2021
+216B,Compassvale Dr,07 to 09,92,Premium Apartment,2017,95,613888,Jun 2021
+217B,Compassvale Dr,07 to 09,92,Premium Apartment,2017,95,582000,Jun 2021
+217C,Compassvale Dr,13 to 15,92,Premium Apartment,2017,95,625000,Jun 2021
+217C,Compassvale Dr,13 to 15,93,Premium Apartment,2017,95,640000,Jun 2021
+227A,Compassvale Dr,04 to 06,102,Model A,1999,77.58,401000,Jun 2021
+227A,Compassvale Dr,01 to 03,101,Model A,1999,77.58,410000,Jun 2021
+211C,Compassvale Lane,01 to 03,93,Model A,2013,90.75,423888,Jun 2021
+211D,Compassvale Lane,04 to 06,93,Model A,2013,90.75,420000,Jun 2021
+213A,Compassvale Lane,13 to 15,100,Premium Apartment,2012,90.42,465000,Jun 2021
+267A,Compassvale Link,16 to 18,90,Premium Apartment,2006,83.75,491888,Jun 2021
+267A,Compassvale Link,07 to 09,90,Premium Apartment,2006,83.75,510000,Jun 2021
+273D,Compassvale Link,07 to 09,90,Premium Apartment,2009,87.25,605000,Jun 2021
+275A,Compassvale Link,13 to 15,92,Premium Apartment,2009,87.08,600000,Jun 2021
+275B,Compassvale Link,10 to 12,90,Premium Apartment,2009,87.08,547500,Jun 2021
+275C,Compassvale Link,07 to 09,92,Premium Apartment,2009,87.08,580000,Jun 2021
+277A,Compassvale Link,13 to 15,90,Premium Apartment,2009,87.08,605000,Jun 2021
+277B,Compassvale Link,01 to 03,90,Premium Apartment,2009,87.08,480000,Jun 2021
+249,Compassvale Rd,10 to 12,85,Model A2,2000,78,420000,Jun 2021
+259B,Compassvale Rd,07 to 09,85,Model A2,2001,78.67,448000,Jun 2021
+224A,Compassvale Walk,01 to 03,102,Model A,1999,76.75,380000,Jun 2021
+230,Compassvale Walk,07 to 09,101,Model A,1999,77.33,420000,Jun 2021
+414B,Fernvale Link,16 to 18,93,Model A,2016,93.67,500000,Jun 2021
+415A,Fernvale Link,04 to 06,93,Model A,2016,93.67,448000,Jun 2021
+415B,Fernvale Link,07 to 09,93,Model A,2016,93.67,480000,Jun 2021
+415C,Fernvale Link,19 to 21,93,Model A,2016,93.67,505000,Jun 2021
+416A,Fernvale Link,13 to 15,93,Model A,2016,93.67,486000,Jun 2021
+430A,Fernvale Link,01 to 03,92,Model A,2015,93,430000,Jun 2021
+430A,Fernvale Link,13 to 15,92,Model A,2015,93,458000,Jun 2021
+430D,Fernvale Link,16 to 18,92,Model A,2015,93,458888,Jun 2021
+440C,Fernvale Link,16 to 18,92,Model A,2015,93.17,468888,Jun 2021
+440C,Fernvale Link,19 to 21,92,Model A,2015,93.17,488000,Jun 2021
+468B,Fernvale Link,13 to 15,93,Model A,2016,94.25,470000,Jun 2021
+470C,Fernvale Link,19 to 21,93,Model A,2016,94.33,500000,Jun 2021
+407A,Fernvale Rd,25 to 27,90,Premium Apartment,2005,82.67,428000,Jun 2021
+407B,Fernvale Rd,10 to 12,90,Premium Apartment,2005,82.67,405000,Jun 2021
+411A,Fernvale Rd,01 to 03,95,Premium Apartment,2012,90.5,360000,Jun 2021
+434B,Fernvale Rd,16 to 18,94,Premium Apartment,2013,91.08,475000,Jun 2021
+441A,Fernvale Rd,01 to 03,93,Model A,2012,89.75,420000,Jun 2021
+441B,Fernvale Rd,10 to 12,92,Model A,2012,89.75,447000,Jun 2021
+441D,Fernvale Rd,04 to 06,93,Model A,2012,89.75,400000,Jun 2021
+441D,Fernvale Rd,10 to 12,93,Model A,2012,89.83,455000,Jun 2021
+445A,Fernvale Rd,19 to 21,94,Model A,2012,90.5,488000,Jun 2021
+453B,Fernvale Rd,10 to 12,92,Model A,2015,93.17,468000,Jun 2021
+453B,Fernvale Rd,16 to 18,92,Model A,2015,93.17,470000,Jun 2021
+453C,Fernvale Rd,16 to 18,92,Model A,2015,93.17,485000,Jun 2021
+471A,Fernvale St,07 to 09,93,Model A,2016,94.33,460000,Jun 2021
+471B,Fernvale St,25 to 27,93,Model A,2016,94.33,460000,Jun 2021
+471B,Fernvale St,13 to 15,93,Model A,2016,94.25,480000,Jun 2021
+471B,Fernvale St,25 to 27,93,Model A,2016,94.33,493000,Jun 2021
+471C,Fernvale St,07 to 09,93,Model A,2016,94.33,480000,Jun 2021
+149,Rivervale Cres,07 to 09,100,Model A,1999,77.25,398000,Jun 2021
+153,Rivervale Cres,04 to 06,90,Model A,2005,83.58,399800,Jun 2021
+162A,Rivervale Cres,16 to 18,93,Model A,2017,95,508000,Jun 2021
+162B,Rivervale Cres,16 to 18,93,Model A,2017,95,457000,Jun 2021
+162B,Rivervale Cres,16 to 18,93,Model A,2017,95,485000,Jun 2021
+164B,Rivervale Cres,10 to 12,93,Model A,2017,95,475000,Jun 2021
+178A,Rivervale Cres,13 to 15,93,Model A,2015,92.83,440000,Jun 2021
+180C,Rivervale Cres,13 to 15,93,Model A,2015,92.83,438000,Jun 2021
+116A,Rivervale Dr,07 to 09,95,Model A,2000,78.17,415000,Jun 2021
+119B,Rivervale Dr,10 to 12,101,Premium Apartment,2001,78.75,445000,Jun 2021
+122D,Rivervale Dr,07 to 09,90,Model A,2000,78.17,383000,Jun 2021
+125,Rivervale St,13 to 15,101,Model A,1999,76.92,450000,Jun 2021
+131,Rivervale St,04 to 06,90,Model A2,1999,77,385000,Jun 2021
+271A,Sengkang Ctrl,07 to 09,93,Premium Apartment,2010,88,548000,Jun 2021
+271A,Sengkang Ctrl,10 to 12,93,Premium Apartment,2010,88,560000,Jun 2021
+271C,Sengkang Ctrl,10 to 12,93,Premium Apartment,2010,88,578000,Jun 2021
+272A,Sengkang Ctrl,10 to 12,90,Premium Apartment,2009,87.58,625000,Jun 2021
+281B,Sengkang East Ave,01 to 03,92,Premium Apartment,2015,93.17,561000,Jun 2021
+281B,Sengkang East Ave,04 to 06,92,Premium Apartment,2015,93.25,576888,Jun 2021
+282C,Sengkang East Ave,04 to 06,92,Premium Apartment,2015,93.25,577000,Jun 2021
+261C,Sengkang East Way,01 to 03,85,Model A2,2000,78.42,440000,Jun 2021
+323C,Sengkang East Way,13 to 15,90,Model A,2003,80.92,438000,Jun 2021
+438A,Sengkang West Ave,04 to 06,94,Model A,2011,88.75,450888,Jun 2021
+439A,Sengkang West Ave,16 to 18,94,Model A,2011,88.75,485000,Jun 2021
+439C,Sengkang West Ave,13 to 15,94,Model A,2011,88.75,450000,Jun 2021
+432A,Sengkang West Way,19 to 21,93,Model A,2014,92.42,475000,Jun 2021
+448A,Sengkang West Way,13 to 15,92,Model A,2014,92.17,470000,Jun 2021
+448A,Sengkang West Way,22 to 24,92,Model A,2014,92.17,470000,Jun 2021
+452B,Sengkang West Way,04 to 06,92,Model A,2015,93,440000,Jun 2021
+469C,Sengkang West Way,04 to 06,93,Model A,2016,94.25,420000,Jun 2021
+334B,Anchorvale Cres,04 to 06,95,Premium Apartment,2015,93.67,455000,May 2021
+335A,Anchorvale Cres,01 to 03,92,Premium Apartment,2015,93.58,470000,May 2021
+335A,Anchorvale Cres,16 to 18,92,Premium Apartment,2015,93.67,488000,May 2021
+335C,Anchorvale Cres,10 to 12,92,Premium Apartment,2015,93.67,500000,May 2021
+336A,Anchorvale Cres,10 to 12,92,Premium Apartment,2015,93.67,480000,May 2021
+336B,Anchorvale Cres,07 to 09,92,Premium Apartment,2015,93.67,490000,May 2021
+322C,Anchorvale Dr,01 to 03,91,Model A,2002,80.08,408000,May 2021
+311C,Anchorvale Lane,01 to 03,95,Premium Apartment,2002,80.58,390000,May 2021
+304A,Anchorvale Link,04 to 06,90,Model A,2002,79.75,382000,May 2021
+332A,Anchorvale Link,07 to 09,92,Model A,2015,93.17,518000,May 2021
+332C,Anchorvale Link,13 to 15,92,Model A,2015,93.17,510000,May 2021
+333D,Anchorvale Link,16 to 18,92,Model A,2015,93.17,523888,May 2021
+308A,Anchorvale Rd,10 to 12,90,Model A,2002,79.83,380000,May 2021
+326B,Anchorvale Rd,13 to 15,92,Premium Apartment,2015,93,480000,May 2021
+327C,Anchorvale Rd,04 to 06,92,Premium Apartment,2015,93,438000,May 2021
+327C,Anchorvale Rd,10 to 12,92,Premium Apartment,2015,93,490000,May 2021
+286C,Compassvale Cres,01 to 03,93,Premium Apartment,2017,95.58,460000,May 2021
+290C,Compassvale Cres,07 to 09,90,Model A,2001,79.58,380000,May 2021
+293A,Compassvale Cres,13 to 15,93,Model A,2016,94.58,520000,May 2021
+293C,Compassvale Cres,01 to 03,93,Model A,2016,94.58,445000,May 2021
+294A,Compassvale Cres,04 to 06,93,Model A,2016,94.5,472888,May 2021
+294A,Compassvale Cres,13 to 15,93,Model A,2016,94.58,528000,May 2021
+295A,Compassvale Cres,13 to 15,89,Model A,2002,79.83,411000,May 2021
+295C,Compassvale Cres,13 to 15,89,Model A,2002,79.92,383000,May 2021
+215B,Compassvale Dr,10 to 12,92,Premium Apartment,2017,95,618888,May 2021
+217A,Compassvale Dr,16 to 18,92,Premium Apartment,2017,95,638000,May 2021
+217B,Compassvale Dr,04 to 06,92,Premium Apartment,2017,95.08,552000,May 2021
+207D,Compassvale Lane,07 to 09,92,Model A,2005,83.17,425000,May 2021
+211A,Compassvale Lane,13 to 15,95,Model A,2013,90.75,480000,May 2021
+211C,Compassvale Lane,13 to 15,97,Model A,2013,90.75,488000,May 2021
+213B,Compassvale Lane,07 to 09,95,Premium Apartment,2012,90.42,475000,May 2021
+267B,Compassvale Link,13 to 15,90,Premium Apartment,2006,83.75,495000,May 2021
+269A,Compassvale Link,13 to 15,90,Premium Apartment,2006,83.83,520000,May 2021
+269C,Compassvale Link,10 to 12,91,Premium Apartment,2006,83.83,505000,May 2021
+269D,Compassvale Link,13 to 15,91,Premium Apartment,2006,83.75,518000,May 2021
+273B,Compassvale Link,16 to 18,90,Premium Apartment,2009,87.33,592888,May 2021
+273D,Compassvale Link,16 to 18,90,Premium Apartment,2009,87.33,610000,May 2021
+275B,Compassvale Link,13 to 15,90,Premium Apartment,2009,87.17,625000,May 2021
+275C,Compassvale Link,01 to 03,90,Premium Apartment,2009,87.17,475000,May 2021
+404A,Fernvale Lane,22 to 24,94,Premium Apartment,2004,82.08,430000,May 2021
+412B,Fernvale Link,10 to 12,95,Premium Apartment,2004,82,420000,May 2021
+414A,Fernvale Link,10 to 12,93,Model A,2016,93.75,490000,May 2021
+416C,Fernvale Link,04 to 06,93,Model A,2016,93.67,455000,May 2021
+416C,Fernvale Link,16 to 18,93,Model A,2016,93.75,478000,May 2021
+416C,Fernvale Link,13 to 15,93,Model A,2016,93.75,530000,May 2021
+430D,Fernvale Link,19 to 21,92,Model A,2015,93.08,455000,May 2021
+440C,Fernvale Link,22 to 24,92,Model A,2015,93.25,495000,May 2021
+467A,Fernvale Link,01 to 03,93,Model A,2016,94.25,398000,May 2021
+468C,Fernvale Link,01 to 03,93,Model A,2016,94.33,425000,May 2021
+468C,Fernvale Link,16 to 18,93,Model A,2016,94.33,460000,May 2021
+470A,Fernvale Link,13 to 15,93,Model A,2016,94.42,469888,May 2021
+470C,Fernvale Link,16 to 18,93,Model A,2016,94.42,475000,May 2021
+406A,Fernvale Rd,13 to 15,90,Premium Apartment,2004,82.58,415000,May 2021
+406B,Fernvale Rd,01 to 03,95,Premium Apartment,2004,82.58,382000,May 2021
+410B,Fernvale Rd,13 to 15,95,Premium Apartment,2012,90.58,488000,May 2021
+410C,Fernvale Rd,16 to 18,95,Premium Apartment,2012,90.58,472000,May 2021
+411B,Fernvale Rd,16 to 18,96,Premium Apartment,2012,90.5,472000,May 2021
+434B,Fernvale Rd,16 to 18,94,Premium Apartment,2013,91.17,470000,May 2021
+435B,Fernvale Rd,07 to 09,94,Premium Apartment,2013,91.17,440000,May 2021
+435C,Fernvale Rd,16 to 18,94,Premium Apartment,2013,91.17,500000,May 2021
+436C,Fernvale Rd,22 to 24,96,Model A,2010,87.83,468000,May 2021
+443A,Fernvale Rd,07 to 09,94,Model A,2012,90.5,465888,May 2021
+443B,Fernvale Rd,25 to 27,95,Model A,2012,90.58,500888,May 2021
+443C,Fernvale Rd,07 to 09,94,Model A,2012,90.5,435888,May 2021
+453C,Fernvale Rd,07 to 09,92,Model A,2015,93.17,450000,May 2021
+471A,Fernvale St,07 to 09,93,Model A,2016,94.42,453000,May 2021
+471A,Fernvale St,25 to 27,93,Model A,2016,94.42,485000,May 2021
+471B,Fernvale St,07 to 09,93,Model A,2016,94.33,451000,May 2021
+471B,Fernvale St,13 to 15,93,Model A,2016,94.33,485000,May 2021
+471C,Fernvale St,10 to 12,93,Model A,2016,94.42,485000,May 2021
+471C,Fernvale St,19 to 21,93,Model A,2016,94.33,495000,May 2021
+178B,Rivervale Cres,16 to 18,93,Model A,2015,92.92,408000,May 2021
+180C,Rivervale Cres,07 to 09,93,Model A,2015,92.92,427000,May 2021
+180C,Rivervale Cres,10 to 12,93,Model A,2015,92.92,430000,May 2021
+180C,Rivervale Cres,13 to 15,93,Model A,2015,92.83,435000,May 2021
+183D,Rivervale Cres,10 to 12,85,Model A2,2003,81.08,376000,May 2021
+184C,Rivervale Cres,13 to 15,86,Model A2,2003,81.17,430000,May 2021
+122E,Rivervale Dr,16 to 18,90,Model A,2000,78.25,415000,May 2021
+124,Rivervale Dr,04 to 06,101,Model A,1999,76.92,395000,May 2021
+124B,Rivervale Dr,04 to 06,90,Model A2,1999,77.25,370000,May 2021
+190B,Rivervale Dr,07 to 09,95,Model A,2000,78.08,385000,May 2021
+105,Rivervale Walk,01 to 03,100,Model A,1999,76.92,408000,May 2021
+272D,Sengkang Ctrl,07 to 09,90,Premium Apartment,2009,87.67,575000,May 2021
+279B,Sengkang East Ave,04 to 06,92,Premium Apartment,2015,93.33,527000,May 2021
+281A,Sengkang East Ave,07 to 09,92,Premium Apartment,2015,93.25,575000,May 2021
+281B,Sengkang East Ave,13 to 15,92,Premium Apartment,2015,93.33,605000,May 2021
+281B,Sengkang East Ave,13 to 15,92,Premium Apartment,2015,93.33,623800,May 2021
+282A,Sengkang East Ave,13 to 15,92,Premium Apartment,2015,93.25,600000,May 2021
+200A,Sengkang East Rd,04 to 06,90,Model A,2001,79.33,400000,May 2021
+122,Sengkang East Way,16 to 18,91,Model A,2000,78.33,400000,May 2021
+439A,Sengkang West Ave,04 to 06,94,Model A,2011,88.83,437000,May 2021
+432A,Sengkang West Way,16 to 18,93,Model A,2014,92.5,465000,May 2021
+432A,Sengkang West Way,16 to 18,93,Model A,2014,92.5,465000,May 2021
+432A,Sengkang West Way,07 to 09,93,Model A,2014,92.5,475000,May 2021
+452B,Sengkang West Way,22 to 24,92,Model A,2015,93.08,465000,May 2021
+469B,Sengkang West Way,16 to 18,93,Model A,2016,94.33,472000,May 2021
+334A,Anchorvale Cres,01 to 03,92,Premium Apartment,2015,93.75,430000,Apr 2021
+334A,Anchorvale Cres,10 to 12,92,Premium Apartment,2015,93.67,505888,Apr 2021
+334B,Anchorvale Cres,13 to 15,95,Premium Apartment,2015,93.67,525000,Apr 2021
+335A,Anchorvale Cres,13 to 15,92,Premium Apartment,2015,93.75,488000,Apr 2021
+321A,Anchorvale Dr,04 to 06,89,Model A,2002,80.5,425000,Apr 2021
+321B,Anchorvale Dr,10 to 12,90,Model A,2002,79.92,390000,Apr 2021
+322C,Anchorvale Dr,04 to 06,91,Model A,2002,80.17,440000,Apr 2021
+311C,Anchorvale Lane,01 to 03,89,Premium Apartment,2002,80.67,360000,Apr 2021
+305D,Anchorvale Link,01 to 03,90,Model A,2002,79.92,370000,Apr 2021
+306C,Anchorvale Link,07 to 09,90,Model A,2002,79.75,390000,Apr 2021
+333A,Anchorvale Link,07 to 09,92,Model A,2015,93.25,485000,Apr 2021
+333C,Anchorvale Link,07 to 09,92,Model A,2015,93.25,478000,Apr 2021
+309D,Anchorvale Rd,04 to 06,90,Premium Apartment,2002,80.58,405000,Apr 2021
+313A,Anchorvale Rd,10 to 12,92,Premium Apartment,2003,81.42,442500,Apr 2021
+329B,Anchorvale St,07 to 09,92,Model A,2015,93.42,475000,Apr 2021
+264C,Compassvale Bow,16 to 18,92,Premium Apartment,2008,86.08,532500,Apr 2021
+265E,Compassvale Bow,01 to 03,92,Premium Apartment,2007,85.42,460000,Apr 2021
+265E,Compassvale Bow,01 to 03,92,Premium Apartment,2007,85.42,485000,Apr 2021
+274A,Compassvale Bow,16 to 18,92,Model A,2017,95.75,600000,Apr 2021
+293A,Compassvale Cres,07 to 09,93,Model A,2016,94.67,500000,Apr 2021
+293C,Compassvale Cres,10 to 12,93,Model A,2016,94.67,510000,Apr 2021
+294A,Compassvale Cres,01 to 03,93,Model A,2016,94.58,450000,Apr 2021
+296A,Compassvale Cres,13 to 15,90,Model A,2002,79.83,378000,Apr 2021
+201A,Compassvale Dr,16 to 18,90,Model A,2001,79.42,418000,Apr 2021
+212B,Compassvale Dr,10 to 12,95,Premium Apartment,2012,90.58,450000,Apr 2021
+215A,Compassvale Dr,10 to 12,92,Premium Apartment,2017,95.17,620000,Apr 2021
+215B,Compassvale Dr,04 to 06,93,Premium Apartment,2017,95.08,568000,Apr 2021
+215B,Compassvale Dr,16 to 18,92,Premium Apartment,2017,95.08,591000,Apr 2021
+216A,Compassvale Dr,13 to 15,92,Premium Apartment,2017,95.08,613888,Apr 2021
+217A,Compassvale Dr,13 to 15,92,Premium Apartment,2017,95.08,630000,Apr 2021
+217B,Compassvale Dr,04 to 06,92,Premium Apartment,2017,95.08,575000,Apr 2021
+205C,Compassvale Lane,13 to 15,102,Model A,1999,77.17,418000,Apr 2021
+208B,Compassvale Lane,10 to 12,92,Model A,2011,89.58,440000,Apr 2021
+209A,Compassvale Lane,01 to 03,92,Model A,2011,89.67,425000,Apr 2021
+211B,Compassvale Lane,04 to 06,93,Model A,2013,90.92,445000,Apr 2021
+213B,Compassvale Lane,10 to 12,95,Premium Apartment,2012,90.58,455000,Apr 2021
+265A,Compassvale Link,07 to 09,92,Premium Apartment,2008,86.08,548000,Apr 2021
+269C,Compassvale Link,01 to 03,90,Premium Apartment,2006,83.83,415888,Apr 2021
+273C,Compassvale Link,07 to 09,90,Premium Apartment,2009,87.42,548888,Apr 2021
+273C,Compassvale Link,13 to 15,90,Premium Apartment,2009,87.33,603000,Apr 2021
+277B,Compassvale Link,07 to 09,90,Premium Apartment,2009,87.17,583000,Apr 2021
+277C,Compassvale Link,13 to 15,90,Premium Apartment,2009,87.17,615000,Apr 2021
+277D,Compassvale Link,04 to 06,90,Premium Apartment,2009,87.25,585000,Apr 2021
+203B,Compassvale Rd,07 to 09,90,Model A,2001,78.92,438000,Apr 2021
+252,Compassvale St,10 to 12,96,Model A,2000,78.58,400000,Apr 2021
+297A,Compassvale St,01 to 03,94,Premium Apartment,2001,79.33,385000,Apr 2021
+226A,Compassvale Walk,13 to 15,102,Model A,1999,77.75,445000,Apr 2021
+230,Compassvale Walk,13 to 15,101,Model A,1999,77.5,413000,Apr 2021
+237,Compassvale Walk,10 to 12,101,Model A,1999,77.58,422800,Apr 2021
+403D,Fernvale Lane,04 to 06,92,Premium Apartment,2004,82.25,400000,Apr 2021
+404B,Fernvale Lane,10 to 12,92,Premium Apartment,2004,82.17,410000,Apr 2021
+413B,Fernvale Link,13 to 15,95,Premium Apartment,2004,81.92,435888,Apr 2021
+414B,Fernvale Link,19 to 21,93,Model A,2016,93.83,500000,Apr 2021
+416A,Fernvale Link,16 to 18,93,Model A,2016,93.83,470000,Apr 2021
+416A,Fernvale Link,13 to 15,93,Model A,2016,93.83,480000,Apr 2021
+416C,Fernvale Link,19 to 21,93,Model A,2016,93.83,460888,Apr 2021
+416C,Fernvale Link,19 to 21,93,Model A,2016,93.75,465000,Apr 2021
+430B,Fernvale Link,16 to 18,92,Model A,2015,93.17,458000,Apr 2021
+440C,Fernvale Link,01 to 03,92,Model A,2015,93.25,425000,Apr 2021
+440C,Fernvale Link,10 to 12,92,Model A,2015,93.33,440000,Apr 2021
+467A,Fernvale Link,10 to 12,93,Model A,2016,94.42,455000,Apr 2021
+468A,Fernvale Link,19 to 21,93,Model A,2016,94.5,455000,Apr 2021
+468A,Fernvale Link,10 to 12,93,Model A,2016,94.33,463888,Apr 2021
+468B,Fernvale Link,13 to 15,93,Model A,2016,94.42,450000,Apr 2021
+468B,Fernvale Link,07 to 09,93,Model A,2016,94.42,450000,Apr 2021
+468B,Fernvale Link,25 to 27,93,Model A,2016,94.42,488000,Apr 2021
+468C,Fernvale Link,19 to 21,93,Model A,2016,94.33,450000,Apr 2021
+408B,Fernvale Rd,22 to 24,95,Premium Apartment,2004,82.42,428888,Apr 2021
+411A,Fernvale Rd,10 to 12,95,Premium Apartment,2012,90.58,445000,Apr 2021
+434A,Fernvale Rd,19 to 21,94,Premium Apartment,2013,91.17,500888,Apr 2021
+435B,Fernvale Rd,01 to 03,94,Premium Apartment,2013,91.25,420000,Apr 2021
+435B,Fernvale Rd,10 to 12,94,Premium Apartment,2013,91.17,478000,Apr 2021
+435C,Fernvale Rd,07 to 09,94,Premium Apartment,2013,91.25,440000,Apr 2021
+436A,Fernvale Rd,22 to 24,96,Model A,2010,87.92,466000,Apr 2021
+443B,Fernvale Rd,10 to 12,94,Model A,2012,90.58,430000,Apr 2021
+453B,Fernvale Rd,07 to 09,92,Model A,2015,93.42,435000,Apr 2021
+453B,Fernvale Rd,22 to 24,92,Model A,2015,93.33,510000,Apr 2021
+453C,Fernvale Rd,07 to 09,92,Model A,2015,93.33,430000,Apr 2021
+453C,Fernvale Rd,13 to 15,92,Model A,2015,93.33,468888,Apr 2021
+453D,Fernvale Rd,10 to 12,92,Model A,2015,93.33,468000,Apr 2021
+471A,Fernvale St,13 to 15,93,Model A,2016,94.5,467000,Apr 2021
+471A,Fernvale St,25 to 27,93,Model A,2016,94.5,469000,Apr 2021
+471B,Fernvale St,04 to 06,93,Model A,2016,94.5,435000,Apr 2021
+446B,Jln Kayu,04 to 06,93,Model A,2013,91.58,452000,Apr 2021
+158A,Rivervale Cres,04 to 06,94,Premium Apartment,2003,81.67,395000,Apr 2021
+162A,Rivervale Cres,01 to 03,93,Model A,2017,95.17,413000,Apr 2021
+162A,Rivervale Cres,04 to 06,93,Model A,2017,95.08,433000,Apr 2021
+162B,Rivervale Cres,07 to 09,93,Model A,2017,95.08,425000,Apr 2021
+162B,Rivervale Cres,04 to 06,93,Model A,2017,95.17,435000,Apr 2021
+162B,Rivervale Cres,10 to 12,93,Model A,2017,95.17,460000,Apr 2021
+163B,Rivervale Cres,16 to 18,93,Model A,2017,95.17,470000,Apr 2021
+163B,Rivervale Cres,13 to 15,93,Model A,2017,95.08,470000,Apr 2021
+163C,Rivervale Cres,01 to 03,93,Model A,2017,95.08,420000,Apr 2021
+164B,Rivervale Cres,16 to 18,93,Model A,2017,95.17,462000,Apr 2021
+164C,Rivervale Cres,16 to 18,93,Model A,2017,95.17,470000,Apr 2021
+178B,Rivervale Cres,13 to 15,93,Model A,2015,93,435000,Apr 2021
+178C,Rivervale Cres,01 to 03,93,Model A,2015,93,385000,Apr 2021
+178C,Rivervale Cres,04 to 06,93,Model A,2015,92.92,420000,Apr 2021
+178D,Rivervale Cres,16 to 18,93,Model A,2015,92.92,430000,Apr 2021
+180C,Rivervale Cres,10 to 12,93,Model A,2015,93,420000,Apr 2021
+183B,Rivervale Cres,16 to 18,90,Model A,2003,81.17,390000,Apr 2021
+183C,Rivervale Cres,16 to 18,90,Model A,2003,81.08,405000,Apr 2021
+183D,Rivervale Cres,04 to 06,85,Model A2,2003,81.25,360000,Apr 2021
+184B,Rivervale Cres,16 to 18,90,Model A,2003,81.25,398000,Apr 2021
+184C,Rivervale Cres,07 to 09,85,Model A2,2003,81.17,375000,Apr 2021
+184C,Rivervale Cres,13 to 15,86,Model A2,2003,81.25,383000,Apr 2021
+120C,Rivervale Dr,07 to 09,101,Premium Apartment,2001,79,408000,Apr 2021
+124C,Rivervale Dr,07 to 09,90,Model A2,1999,77.25,385000,Apr 2021
+194,Rivervale Dr,10 to 12,91,Model A,2001,79.17,373000,Apr 2021
+194,Rivervale Dr,13 to 15,91,Model A,2001,79.08,390000,Apr 2021
+130,Rivervale St,07 to 09,101,Model A,1999,77,425000,Apr 2021
+111,Rivervale Walk,16 to 18,100,Model A,1998,76.67,415000,Apr 2021
+272A,Sengkang Ctrl,13 to 15,90,Premium Apartment,2009,87.75,563000,Apr 2021
+272A,Sengkang Ctrl,04 to 06,90,Premium Apartment,2009,87.75,585000,Apr 2021
+272D,Sengkang Ctrl,10 to 12,90,Premium Apartment,2009,87.67,585000,Apr 2021
+280A,Sengkang East Ave,04 to 06,92,Premium Apartment,2015,93.42,520000,Apr 2021
+282C,Sengkang East Ave,01 to 03,92,Premium Apartment,2015,93.42,550000,Apr 2021
+122,Sengkang East Way,01 to 03,91,Model A,2000,78.42,365000,Apr 2021
+260A,Sengkang East Way,01 to 03,90,Model A,2001,78.83,416000,Apr 2021
+438A,Sengkang West Ave,13 to 15,94,Model A,2011,88.92,463000,Apr 2021
+438B,Sengkang West Ave,25 to 27,94,Model A,2011,88.83,475000,Apr 2021
+439A,Sengkang West Ave,10 to 12,94,Model A,2011,88.92,451000,Apr 2021
+433A,Sengkang West Way,10 to 12,93,Model A,2014,92.58,450000,Apr 2021
+433B,Sengkang West Way,13 to 15,93,Model A,2014,92.5,448000,Apr 2021
+448A,Sengkang West Way,22 to 24,92,Model A,2014,92.33,455000,Apr 2021
+450A,Sengkang West Way,04 to 06,92,Model A,2014,92.33,425000,Apr 2021
+451B,Sengkang West Way,04 to 06,92,Model A,2015,93.08,445000,Apr 2021
+452A,Sengkang West Way,07 to 09,92,Model A,2015,93.08,470000,Apr 2021
+469B,Sengkang West Way,19 to 21,93,Model A,2016,94.33,472000,Apr 2021
+469C,Sengkang West Way,25 to 27,93,Model A,2016,94.42,465000,Apr 2021
+469C,Sengkang West Way,10 to 12,93,Model A,2016,94.33,480000,Apr 2021
+334A,Anchorvale Cres,01 to 03,92,Premium Apartment,2015,93.75,430000,Mar 2021
+334C,Anchorvale Cres,10 to 12,95,Premium Apartment,2015,93.75,502000,Mar 2021
+335B,Anchorvale Cres,01 to 03,92,Premium Apartment,2015,93.83,435000,Mar 2021
+336D,Anchorvale Cres,01 to 03,92,Premium Apartment,2015,93.83,415000,Mar 2021
+319B,Anchorvale Dr,01 to 03,90,Model A,2002,80.42,376000,Mar 2021
+333D,Anchorvale Link,07 to 09,92,Model A,2015,93.25,502000,Mar 2021
+333D,Anchorvale Link,13 to 15,92,Model A,2015,93.33,511000,Mar 2021
+309B,Anchorvale Rd,10 to 12,90,Premium Apartment,2002,80.58,370000,Mar 2021
+327A,Anchorvale Rd,01 to 03,92,Premium Apartment,2015,93.17,425000,Mar 2021
+331B,Anchorvale St,01 to 03,92,Model A,2015,93.42,435000,Mar 2021
+264E,Compassvale Bow,04 to 06,92,Premium Apartment,2008,86.17,470000,Mar 2021
+290A,Compassvale Cres,13 to 15,90,Model A,2002,79.92,422000,Mar 2021
+293C,Compassvale Cres,10 to 12,93,Model A,2016,94.75,512888,Mar 2021
+294A,Compassvale Cres,04 to 06,93,Model A,2016,94.75,465000,Mar 2021
+296B,Compassvale Cres,13 to 15,89,Model A,2002,79.92,365000,Mar 2021
+212A,Compassvale Dr,10 to 12,95,Premium Apartment,2012,90.58,462000,Mar 2021
+216A,Compassvale Dr,16 to 18,92,Premium Apartment,2017,95.17,628000,Mar 2021
+208A,Compassvale Lane,13 to 15,92,Model A,2011,89.67,460000,Mar 2021
+211B,Compassvale Lane,07 to 09,93,Model A,2013,91,432000,Mar 2021
+267B,Compassvale Link,07 to 09,90,Premium Apartment,2006,83.92,478000,Mar 2021
+268A,Compassvale Link,01 to 03,90,Premium Apartment,2006,83.92,441000,Mar 2021
+268C,Compassvale Link,10 to 12,90,Premium Apartment,2006,84,486000,Mar 2021
+273C,Compassvale Link,01 to 03,90,Premium Apartment,2009,87.5,472000,Mar 2021
+273C,Compassvale Link,16 to 18,90,Premium Apartment,2009,87.42,619000,Mar 2021
+224A,Compassvale Walk,07 to 09,102,Model A,1999,76.92,420000,Mar 2021
+236,Compassvale Walk,01 to 03,100,Model A,1999,77.33,390000,Mar 2021
+403B,Fernvale Lane,16 to 18,93,Premium Apartment,2004,82,420000,Mar 2021
+404B,Fernvale Lane,22 to 24,92,Premium Apartment,2004,82.25,450000,Mar 2021
+414B,Fernvale Link,16 to 18,93,Model A,2016,93.92,450000,Mar 2021
+415A,Fernvale Link,07 to 09,93,Model A,2016,94,462888,Mar 2021
+415B,Fernvale Link,04 to 06,93,Model A,2016,93.92,430000,Mar 2021
+415B,Fernvale Link,07 to 09,93,Model A,2016,93.92,467000,Mar 2021
+415B,Fernvale Link,19 to 21,93,Model A,2016,93.92,515000,Mar 2021
+415C,Fernvale Link,16 to 18,93,Model A,2016,93.92,455000,Mar 2021
+415C,Fernvale Link,10 to 12,93,Model A,2016,93.83,477000,Mar 2021
+430B,Fernvale Link,04 to 06,92,Model A,2015,93.17,438000,Mar 2021
+430C,Fernvale Link,19 to 21,92,Model A,2015,93.25,438000,Mar 2021
+430C,Fernvale Link,19 to 21,92,Model A,2015,93.42,455000,Mar 2021
+440A,Fernvale Link,07 to 09,92,Model A,2015,93.42,438000,Mar 2021
+440A,Fernvale Link,10 to 12,92,Model A,2015,93.42,458000,Mar 2021
+468A,Fernvale Link,10 to 12,93,Model A,2016,94.42,452888,Mar 2021
+470A,Fernvale Link,04 to 06,93,Model A,2016,94.58,418000,Mar 2021
+470A,Fernvale Link,04 to 06,93,Model A,2016,94.5,425000,Mar 2021
+470B,Fernvale Link,04 to 06,93,Model A,2016,94.5,440000,Mar 2021
+470C,Fernvale Link,13 to 15,93,Model A,2016,94.5,440000,Mar 2021
+470C,Fernvale Link,13 to 15,93,Model A,2016,94.58,470000,Mar 2021
+407B,Fernvale Rd,13 to 15,90,Premium Apartment,2005,82.92,392000,Mar 2021
+408A,Fernvale Rd,16 to 18,95,Premium Apartment,2004,82.75,428888,Mar 2021
+410A,Fernvale Rd,13 to 15,95,Premium Apartment,2012,90.67,465888,Mar 2021
+410C,Fernvale Rd,04 to 06,95,Premium Apartment,2012,90.75,442000,Mar 2021
+411A,Fernvale Rd,04 to 06,95,Premium Apartment,2012,90.75,418000,Mar 2021
+435A,Fernvale Rd,19 to 21,94,Premium Apartment,2013,91.25,465000,Mar 2021
+435C,Fernvale Rd,22 to 24,94,Premium Apartment,2013,91.33,470000,Mar 2021
+436C,Fernvale Rd,16 to 18,96,Model A,2010,88,450000,Mar 2021
+436C,Fernvale Rd,19 to 21,96,Model A,2010,88.08,462000,Mar 2021
+441A,Fernvale Rd,07 to 09,93,Model A,2012,90,445000,Mar 2021
+441B,Fernvale Rd,22 to 24,94,Model A,2012,90,450000,Mar 2021
+443B,Fernvale Rd,19 to 21,94,Model A,2012,90.67,476800,Mar 2021
+453B,Fernvale Rd,10 to 12,92,Model A,2015,93.42,455000,Mar 2021
+471C,Fernvale St,13 to 15,93,Model A,2016,94.58,475000,Mar 2021
+446C,Jln Kayu,10 to 12,93,Model A,2013,91.83,433888,Mar 2021
+157A,Rivervale Cres,04 to 06,94,Premium Apartment,2003,81.58,400000,Mar 2021
+162A,Rivervale Cres,04 to 06,93,Model A,2017,95.25,425000,Mar 2021
+162A,Rivervale Cres,16 to 18,93,Model A,2017,95.17,470000,Mar 2021
+162A,Rivervale Cres,16 to 18,93,Model A,2017,95.25,472888,Mar 2021
+162B,Rivervale Cres,07 to 09,93,Model A,2017,95.25,440000,Mar 2021
+162C,Rivervale Cres,13 to 15,93,Model A,2017,95.17,462500,Mar 2021
+163A,Rivervale Cres,10 to 12,93,Model A,2017,95.25,440000,Mar 2021
+163B,Rivervale Cres,10 to 12,93,Model A,2017,95.25,445000,Mar 2021
+164B,Rivervale Cres,16 to 18,93,Model A,2017,95.25,465000,Mar 2021
+164C,Rivervale Cres,04 to 06,93,Model A,2017,95.17,415000,Mar 2021
+178B,Rivervale Cres,16 to 18,93,Model A,2015,93,440000,Mar 2021
+180C,Rivervale Cres,07 to 09,93,Model A,2015,93,408000,Mar 2021
+185B,Rivervale Cres,04 to 06,85,Model A2,2000,78.75,350000,Mar 2021
+116B,Rivervale Dr,01 to 03,95,Model A,2000,78.42,368000,Mar 2021
+131,Rivervale St,10 to 12,96,Model A2,1999,77.17,408000,Mar 2021
+106,Rivervale Walk,04 to 06,100,Model A,1999,76.92,395000,Mar 2021
+271B,Sengkang Ctrl,01 to 03,93,Premium Apartment,2010,88.25,415000,Mar 2021
+282A,Sengkang East Ave,13 to 15,92,Premium Apartment,2015,93.42,610000,Mar 2021
+439B,Sengkang West Ave,07 to 09,94,Model A,2011,89,445000,Mar 2021
+439C,Sengkang West Ave,04 to 06,94,Model A,2011,88.92,420000,Mar 2021
+432A,Sengkang West Way,19 to 21,93,Model A,2014,92.67,460000,Mar 2021
+432B,Sengkang West Way,07 to 09,93,Model A,2014,92.67,438000,Mar 2021
+433B,Sengkang West Way,16 to 18,93,Model A,2014,92.58,450888,Mar 2021
+450A,Sengkang West Way,10 to 12,92,Model A,2014,92.33,450000,Mar 2021
+469C,Sengkang West Way,22 to 24,93,Model A,2016,94.58,465000,Mar 2021
+334C,Anchorvale Cres,07 to 09,92,Premium Apartment,2015,93.83,467500,Feb 2021
+335C,Anchorvale Cres,01 to 03,92,Premium Apartment,2015,93.92,430000,Feb 2021
+335C,Anchorvale Cres,04 to 06,95,Premium Apartment,2015,93.92,480000,Feb 2021
+336A,Anchorvale Cres,10 to 12,92,Premium Apartment,2015,93.83,500000,Feb 2021
+320A,Anchorvale Dr,04 to 06,85,Model A2,2002,80.67,370000,Feb 2021
+321B,Anchorvale Dr,10 to 12,90,Model A,2002,80.08,435000,Feb 2021
+322A,Anchorvale Dr,04 to 06,86,Model A2,2002,80.25,412000,Feb 2021
+318A,Anchorvale Link,04 to 06,92,Premium Apartment,2003,81.33,417000,Feb 2021
+318D,Anchorvale Link,13 to 15,92,Premium Apartment,2003,81.17,445000,Feb 2021
+332A,Anchorvale Link,13 to 15,92,Model A,2015,93.42,500000,Feb 2021
+332A,Anchorvale Link,13 to 15,92,Model A,2015,93.42,520000,Feb 2021
+332C,Anchorvale Link,04 to 06,92,Model A,2015,93.33,460000,Feb 2021
+333B,Anchorvale Link,04 to 06,92,Model A,2015,93.42,468000,Feb 2021
+307C,Anchorvale Rd,13 to 15,90,Model A,2001,79.83,381000,Feb 2021
+326D,Anchorvale Rd,04 to 06,92,Premium Apartment,2015,93.17,448000,Feb 2021
+326D,Anchorvale Rd,10 to 12,92,Premium Apartment,2015,93.25,460000,Feb 2021
+329A,Anchorvale St,04 to 06,92,Model A,2015,93.58,422000,Feb 2021
+264E,Compassvale Bow,01 to 03,92,Premium Apartment,2008,86.25,435000,Feb 2021
+264F,Compassvale Bow,07 to 09,92,Premium Apartment,2008,86.67,496000,Feb 2021
+264F,Compassvale Bow,07 to 09,92,Premium Apartment,2008,86.67,528000,Feb 2021
+293C,Compassvale Cres,13 to 15,93,Model A,2016,94.83,482888,Feb 2021
+293D,Compassvale Cres,04 to 06,93,Model A,2016,94.83,445000,Feb 2021
+293D,Compassvale Cres,10 to 12,93,Model A,2016,94.92,485000,Feb 2021
+293D,Compassvale Cres,13 to 15,93,Model A,2016,94.75,508888,Feb 2021
+294A,Compassvale Cres,07 to 09,93,Model A,2016,94.75,470000,Feb 2021
+212B,Compassvale Dr,10 to 12,98,Premium Apartment,2012,90.75,480000,Feb 2021
+215B,Compassvale Dr,01 to 03,92,Premium Apartment,2017,95.33,500000,Feb 2021
+215B,Compassvale Dr,04 to 06,93,Premium Apartment,2017,95.33,550000,Feb 2021
+216A,Compassvale Dr,07 to 09,92,Premium Apartment,2017,95.33,580000,Feb 2021
+216B,Compassvale Dr,10 to 12,92,Premium Apartment,2017,95.25,588888,Feb 2021
+207D,Compassvale Lane,07 to 09,92,Model A,2005,83.42,406000,Feb 2021
+211B,Compassvale Lane,04 to 06,93,Model A,2013,91.08,445000,Feb 2021
+268A,Compassvale Link,13 to 15,90,Premium Apartment,2006,84.17,470000,Feb 2021
+268B,Compassvale Link,16 to 18,91,Premium Apartment,2006,84.08,520000,Feb 2021
+269B,Compassvale Link,01 to 03,90,Premium Apartment,2006,84,448000,Feb 2021
+273C,Compassvale Link,10 to 12,90,Premium Apartment,2009,87.58,608000,Feb 2021
+277C,Compassvale Link,13 to 15,90,Premium Apartment,2009,87.42,580000,Feb 2021
+247,Compassvale Rd,10 to 12,85,Model A2,2000,78.25,450000,Feb 2021
+230,Compassvale Walk,07 to 09,100,Model A,1999,77.67,392000,Feb 2021
+230,Compassvale Walk,04 to 06,101,Model A,1999,77.58,404000,Feb 2021
+415A,Fernvale Link,19 to 21,93,Model A,2016,94,480000,Feb 2021
+415B,Fernvale Link,13 to 15,93,Model A,2016,93.92,485000,Feb 2021
+440A,Fernvale Link,07 to 09,92,Model A,2015,93.5,420000,Feb 2021
+440A,Fernvale Link,22 to 24,92,Model A,2015,93.42,450000,Feb 2021
+440A,Fernvale Link,19 to 21,92,Model A,2015,93.42,470000,Feb 2021
+440B,Fernvale Link,04 to 06,92,Model A,2015,93.5,425000,Feb 2021
+467B,Fernvale Link,16 to 18,93,Model A,2016,94.5,428000,Feb 2021
+468C,Fernvale Link,13 to 15,93,Model A,2016,94.58,450000,Feb 2021
+470A,Fernvale Link,10 to 12,93,Model A,2016,94.67,442888,Feb 2021
+470B,Fernvale Link,10 to 12,93,Model A,2016,94.58,452000,Feb 2021
+470B,Fernvale Link,22 to 24,93,Model A,2016,94.67,469000,Feb 2021
+470C,Fernvale Link,16 to 18,93,Model A,2016,94.67,450000,Feb 2021
+470C,Fernvale Link,22 to 24,93,Model A,2016,94.67,471000,Feb 2021
+407B,Fernvale Rd,25 to 27,90,Premium Apartment,2005,83,409000,Feb 2021
+410A,Fernvale Rd,13 to 15,95,Premium Apartment,2012,90.83,465000,Feb 2021
+435A,Fernvale Rd,07 to 09,94,Premium Apartment,2013,91.42,427000,Feb 2021
+441B,Fernvale Rd,19 to 21,94,Model A,2012,90.08,458000,Feb 2021
+441C,Fernvale Rd,19 to 21,93,Model A,2012,90.08,475000,Feb 2021
+441D,Fernvale Rd,13 to 15,92,Model A,2012,90.08,435000,Feb 2021
+445B,Fernvale Rd,22 to 24,94,Model A,2012,90.83,300000,Feb 2021
+453B,Fernvale Rd,07 to 09,92,Model A,2015,93.42,440000,Feb 2021
+471A,Fernvale St,04 to 06,93,Model A,2016,94.67,451000,Feb 2021
+471B,Fernvale St,22 to 24,93,Model A,2016,94.67,460000,Feb 2021
+471B,Fernvale St,16 to 18,93,Model A,2016,94.67,465000,Feb 2021
+471B,Fernvale St,22 to 24,93,Model A,2016,94.58,480000,Feb 2021
+471C,Fernvale St,19 to 21,93,Model A,2016,94.67,505000,Feb 2021
+472B,Fernvale St,22 to 24,93,Model A,2016,94.58,472000,Feb 2021
+149,Rivervale Cres,01 to 03,100,Model A,1999,77.67,385000,Feb 2021
+156,Rivervale Cres,10 to 12,90,Model A,2005,83.92,385000,Feb 2021
+158A,Rivervale Cres,13 to 15,94,Premium Apartment,2003,81.75,390000,Feb 2021
+162C,Rivervale Cres,10 to 12,93,Model A,2017,95.33,445000,Feb 2021
+163C,Rivervale Cres,01 to 03,93,Model A,2017,95.25,410000,Feb 2021
+164B,Rivervale Cres,10 to 12,93,Model A,2017,95.33,458888,Feb 2021
+164C,Rivervale Cres,10 to 12,93,Model A,2017,95.33,450000,Feb 2021
+178B,Rivervale Cres,10 to 12,93,Model A,2015,93.17,408000,Feb 2021
+178B,Rivervale Cres,13 to 15,93,Model A,2015,93.17,430000,Feb 2021
+183B,Rivervale Cres,07 to 09,90,Model A,2003,81.25,360000,Feb 2021
+183D,Rivervale Cres,01 to 03,85,Model A2,2003,81.33,343000,Feb 2021
+185C,Rivervale Cres,01 to 03,91,Model A2,2000,78.83,366000,Feb 2021
+116B,Rivervale Dr,10 to 12,95,Model A,2000,78.5,370000,Feb 2021
+117B,Rivervale Dr,01 to 03,95,Model A,2000,78.42,365000,Feb 2021
+186C,Rivervale Dr,13 to 15,90,Model A,2001,79,370000,Feb 2021
+188B,Rivervale Dr,10 to 12,96,Model A,2000,78.58,356000,Feb 2021
+190A,Rivervale Dr,07 to 09,96,Model A,2000,78.33,376000,Feb 2021
+141,Rivervale St,13 to 15,100,Model A,1999,77.25,395000,Feb 2021
+272C,Sengkang Ctrl,07 to 09,90,Premium Apartment,2009,87.92,545000,Feb 2021
+281A,Sengkang East Ave,01 to 03,92,Premium Apartment,2015,93.5,525000,Feb 2021
+324B,Sengkang East Way,07 to 09,90,Model A,2003,81.17,453000,Feb 2021
+438A,Sengkang West Ave,07 to 09,94,Model A,2011,89.08,420000,Feb 2021
+438A,Sengkang West Ave,13 to 15,94,Model A,2011,89,480000,Feb 2021
+438B,Sengkang West Ave,13 to 15,94,Model A,2011,89,443000,Feb 2021
+432A,Sengkang West Way,13 to 15,93,Model A,2014,92.75,438888,Feb 2021
+433B,Sengkang West Way,13 to 15,93,Model A,2014,92.67,448000,Feb 2021
+448A,Sengkang West Way,19 to 21,92,Model A,2014,92.5,455000,Feb 2021
+450A,Sengkang West Way,07 to 09,92,Model A,2014,92.5,418000,Feb 2021
+452A,Sengkang West Way,16 to 18,92,Model A,2015,93.25,455000,Feb 2021
+469A,Sengkang West Way,07 to 09,93,Model A,2016,94.58,438000,Feb 2021
+469A,Sengkang West Way,07 to 09,93,Model A,2016,94.58,450000,Feb 2021
+469B,Sengkang West Way,13 to 15,93,Model A,2016,94.58,445000,Feb 2021
+469C,Sengkang West Way,22 to 24,93,Model A,2016,94.58,460000,Feb 2021
+334B,Anchorvale Cres,10 to 12,95,Premium Apartment,2015,94,475000,Jan 2021
+334B,Anchorvale Cres,07 to 09,95,Premium Apartment,2015,94,488888,Jan 2021
+334C,Anchorvale Cres,16 to 18,95,Premium Apartment,2015,93.92,515000,Jan 2021
+335B,Anchorvale Cres,07 to 09,92,Premium Apartment,2015,94,472888,Jan 2021
+336A,Anchorvale Cres,10 to 12,92,Premium Apartment,2015,93.92,488888,Jan 2021
+336B,Anchorvale Cres,13 to 15,92,Premium Apartment,2015,94,495000,Jan 2021
+336C,Anchorvale Cres,07 to 09,92,Premium Apartment,2015,93.92,490000,Jan 2021
+322A,Anchorvale Dr,13 to 15,86,Model A2,2002,80.33,438000,Jan 2021
+303B,Anchorvale Link,04 to 06,85,Model A2,2001,79.67,365000,Jan 2021
+303B,Anchorvale Link,01 to 03,88,Model A2,2001,79.58,385000,Jan 2021
+306C,Anchorvale Link,10 to 12,90,Model A,2002,80.08,370000,Jan 2021
+332A,Anchorvale Link,16 to 18,92,Model A,2015,93.5,488000,Jan 2021
+332B,Anchorvale Link,04 to 06,92,Model A,2015,93.5,440000,Jan 2021
+333A,Anchorvale Link,01 to 03,92,Model A,2015,93.5,418000,Jan 2021
+333A,Anchorvale Link,04 to 06,92,Model A,2015,93.42,450000,Jan 2021
+333A,Anchorvale Link,10 to 12,92,Model A,2015,93.42,495000,Jan 2021
+333C,Anchorvale Link,04 to 06,92,Model A,2015,93.5,450000,Jan 2021
+333C,Anchorvale Link,13 to 15,92,Model A,2015,93.5,485000,Jan 2021
+307D,Anchorvale Rd,07 to 09,90,Model A,2001,79.83,370000,Jan 2021
+308A,Anchorvale Rd,04 to 06,90,Model A,2002,80.17,368000,Jan 2021
+326B,Anchorvale Rd,07 to 09,92,Premium Apartment,2015,93.25,472888,Jan 2021
+327C,Anchorvale Rd,07 to 09,92,Premium Apartment,2015,93.33,467000,Jan 2021
+329A,Anchorvale St,01 to 03,93,Model A,2015,93.67,430000,Jan 2021
+331C,Anchorvale St,07 to 09,92,Model A,2015,93.67,480000,Jan 2021
+264F,Compassvale Bow,07 to 09,92,Premium Apartment,2008,86.67,520000,Jan 2021
+293A,Compassvale Cres,01 to 03,93,Model A,2016,94.92,435000,Jan 2021
+293C,Compassvale Cres,10 to 12,93,Model A,2016,94.92,470000,Jan 2021
+293C,Compassvale Cres,04 to 06,93,Model A,2016,94.83,480000,Jan 2021
+296C,Compassvale Cres,10 to 12,90,Model A,2002,80.17,380000,Jan 2021
+202,Compassvale Dr,01 to 03,87,Model A2,2001,79.67,360000,Jan 2021
+212A,Compassvale Dr,07 to 09,98,Premium Apartment,2012,90.75,455000,Jan 2021
+212C,Compassvale Dr,13 to 15,100,Premium Apartment,2012,90.83,475000,Jan 2021
+216B,Compassvale Dr,13 to 15,92,Premium Apartment,2017,95.42,603000,Jan 2021
+216B,Compassvale Dr,07 to 09,92,Premium Apartment,2017,95.42,625000,Jan 2021
+206C,Compassvale Lane,01 to 03,102,Model A,1999,77.83,375000,Jan 2021
+207A,Compassvale Lane,01 to 03,92,Model A,2005,83.08,370000,Jan 2021
+209B,Compassvale Lane,13 to 15,92,Model A,2011,89.83,446000,Jan 2021
+211C,Compassvale Lane,10 to 12,93,Model A,2013,91.08,460000,Jan 2021
+273D,Compassvale Link,04 to 06,90,Premium Apartment,2009,87.67,470000,Jan 2021
+273D,Compassvale Link,13 to 15,90,Premium Apartment,2009,87.67,535000,Jan 2021
+275C,Compassvale Link,07 to 09,90,Premium Apartment,2009,87.42,585000,Jan 2021
+277A,Compassvale Link,07 to 09,90,Premium Apartment,2009,87.5,568000,Jan 2021
+277B,Compassvale Link,13 to 15,90,Premium Apartment,2009,87.5,600000,Jan 2021
+203A,Compassvale Rd,13 to 15,90,Model A,2000,78.92,418000,Jan 2021
+297A,Compassvale St,04 to 06,94,Premium Apartment,2001,79.75,390000,Jan 2021
+239,Compassvale Walk,04 to 06,101,Model A,1999,77.75,413000,Jan 2021
+240,Compassvale Walk,04 to 06,100,Model A,1999,77.75,425000,Jan 2021
+403C,Fernvale Lane,22 to 24,94,Premium Apartment,2004,82.42,415000,Jan 2021
+405C,Fernvale Lane,19 to 21,93,Premium Apartment,2004,82.25,397000,Jan 2021
+413A,Fernvale Link,16 to 18,95,Premium Apartment,2004,82.25,405000,Jan 2021
+414A,Fernvale Link,07 to 09,93,Model A,2016,94.17,440000,Jan 2021
+414B,Fernvale Link,01 to 03,93,Model A,2016,94.08,380000,Jan 2021
+415A,Fernvale Link,13 to 15,93,Model A,2016,94.17,475000,Jan 2021
+416A,Fernvale Link,19 to 21,93,Model A,2016,94.08,465000,Jan 2021
+416B,Fernvale Link,04 to 06,93,Model A,2016,94.08,400000,Jan 2021
+416B,Fernvale Link,04 to 06,93,Model A,2016,94.17,425000,Jan 2021
+416C,Fernvale Link,13 to 15,93,Model A,2016,94,450000,Jan 2021
+416C,Fernvale Link,13 to 15,93,Model A,2016,94.08,458000,Jan 2021
+430B,Fernvale Link,01 to 03,92,Model A,2015,93.42,400000,Jan 2021
+440A,Fernvale Link,19 to 21,92,Model A,2015,93.58,441000,Jan 2021
+440C,Fernvale Link,10 to 12,92,Model A,2015,93.58,425000,Jan 2021
+440C,Fernvale Link,19 to 21,92,Model A,2015,93.58,453800,Jan 2021
+467A,Fernvale Link,04 to 06,93,Model A,2016,94.58,405000,Jan 2021
+467B,Fernvale Link,22 to 24,93,Model A,2016,94.58,450000,Jan 2021
+467B,Fernvale Link,25 to 27,93,Model A,2016,94.58,485000,Jan 2021
+468B,Fernvale Link,07 to 09,93,Model A,2016,94.67,439000,Jan 2021
+468B,Fernvale Link,25 to 27,93,Model A,2016,94.67,505000,Jan 2021
+470C,Fernvale Link,25 to 27,93,Model A,2016,94.67,478000,Jan 2021
+407A,Fernvale Rd,07 to 09,90,Premium Apartment,2005,83.08,383000,Jan 2021
+408B,Fernvale Rd,22 to 24,95,Premium Apartment,2004,82.67,418000,Jan 2021
+411A,Fernvale Rd,16 to 18,96,Premium Apartment,2012,90.92,450000,Jan 2021
+411B,Fernvale Rd,07 to 09,95,Premium Apartment,2012,90.92,435000,Jan 2021
+411B,Fernvale Rd,13 to 15,95,Premium Apartment,2012,90.83,468888,Jan 2021
+436A,Fernvale Rd,10 to 12,96,Model A,2010,88.25,441000,Jan 2021
+436A,Fernvale Rd,25 to 27,96,Model A,2010,88.25,451000,Jan 2021
+441D,Fernvale Rd,22 to 24,94,Model A,2012,90.08,478000,Jan 2021
+443A,Fernvale Rd,22 to 24,95,Model A,2012,90.83,475000,Jan 2021
+445B,Fernvale Rd,10 to 12,94,Model A,2012,90.83,435000,Jan 2021
+445B,Fernvale Rd,13 to 15,94,Model A,2012,90.92,447000,Jan 2021
+453B,Fernvale Rd,10 to 12,92,Model A,2015,93.58,443888,Jan 2021
+453B,Fernvale Rd,13 to 15,92,Model A,2015,93.58,455000,Jan 2021
+453B,Fernvale Rd,22 to 24,92,Model A,2015,93.58,461888,Jan 2021
+453C,Fernvale Rd,19 to 21,92,Model A,2015,93.58,442000,Jan 2021
+453D,Fernvale Rd,07 to 09,92,Model A,2015,93.5,412888,Jan 2021
+471A,Fernvale St,07 to 09,93,Model A,2016,94.75,435000,Jan 2021
+471A,Fernvale St,07 to 09,93,Model A,2016,94.67,438000,Jan 2021
+471A,Fernvale St,25 to 27,93,Model A,2016,94.67,468000,Jan 2021
+471A,Fernvale St,19 to 21,93,Model A,2016,94.75,480000,Jan 2021
+471C,Fernvale St,13 to 15,93,Model A,2016,94.67,475000,Jan 2021
+446B,Jln Kayu,07 to 09,93,Model A,2013,91.83,438000,Jan 2021
+153,Rivervale Cres,10 to 12,90,Model A,2005,84,406800,Jan 2021
+157A,Rivervale Cres,16 to 18,90,Premium Apartment,2003,81.83,400000,Jan 2021
+163A,Rivervale Cres,07 to 09,93,Model A,2017,95.42,430000,Jan 2021
+163B,Rivervale Cres,10 to 12,93,Model A,2017,95.33,440000,Jan 2021
+163C,Rivervale Cres,07 to 09,93,Model A,2017,95.42,413000,Jan 2021
+163C,Rivervale Cres,10 to 12,93,Model A,2017,95.42,430000,Jan 2021
+163C,Rivervale Cres,16 to 18,93,Model A,2017,95.42,440000,Jan 2021
+163C,Rivervale Cres,10 to 12,93,Model A,2017,95.33,468000,Jan 2021
+178C,Rivervale Cres,10 to 12,93,Model A,2015,93.25,400000,Jan 2021
+180C,Rivervale Cres,04 to 06,93,Model A,2015,93.33,410000,Jan 2021
+185C,Rivervale Cres,10 to 12,85,Model A2,2000,78.92,370000,Jan 2021
+185D,Rivervale Cres,10 to 12,85,Model A2,2000,79,350000,Jan 2021
+185D,Rivervale Cres,13 to 15,88,Model A2,2000,79,385000,Jan 2021
+117A,Rivervale Dr,04 to 06,95,Model A,2000,78.5,372000,Jan 2021
+117C,Rivervale Dr,10 to 12,95,Model A,2000,78.58,480000,Jan 2021
+119B,Rivervale Dr,07 to 09,101,Premium Apartment,2001,79.25,410000,Jan 2021
+124C,Rivervale Dr,01 to 03,92,Model A2,1999,77.5,355000,Jan 2021
+129,Rivervale St,10 to 12,100,Model A,1999,77.5,390000,Jan 2021
+140,Rivervale St,13 to 15,90,Model A2,1999,77,365000,Jan 2021
+108,Rivervale Walk,13 to 15,105,Model A,1999,77.17,415000,Jan 2021
+271B,Sengkang Ctrl,01 to 03,93,Premium Apartment,2010,88.42,430000,Jan 2021
+272A,Sengkang Ctrl,07 to 09,90,Premium Apartment,2009,87.92,550000,Jan 2021
+272B,Sengkang Ctrl,04 to 06,90,Premium Apartment,2009,87.92,520000,Jan 2021
+272B,Sengkang Ctrl,10 to 12,90,Premium Apartment,2009,88,580000,Jan 2021
+272C,Sengkang Ctrl,07 to 09,90,Premium Apartment,2009,88,530000,Jan 2021
+272C,Sengkang Ctrl,13 to 15,90,Premium Apartment,2009,88,575000,Jan 2021
+272D,Sengkang Ctrl,07 to 09,90,Premium Apartment,2009,88,565000,Jan 2021
+280B,Sengkang East Ave,01 to 03,92,Premium Apartment,2015,93.67,540000,Jan 2021
+280B,Sengkang East Ave,13 to 15,92,Premium Apartment,2015,93.58,590000,Jan 2021
+282A,Sengkang East Ave,10 to 12,92,Premium Apartment,2015,93.58,590000,Jan 2021
+282A,Sengkang East Ave,13 to 15,92,Premium Apartment,2015,93.67,625000,Jan 2021
+439A,Sengkang West Ave,13 to 15,94,Model A,2011,89.17,434000,Jan 2021
+432A,Sengkang West Way,07 to 09,93,Model A,2014,92.83,435000,Jan 2021
+433A,Sengkang West Way,13 to 15,93,Model A,2014,92.83,436000,Jan 2021
+433B,Sengkang West Way,16 to 18,93,Model A,2014,92.75,442000,Jan 2021
+433B,Sengkang West Way,22 to 24,93,Model A,2014,92.83,455000,Jan 2021
+448A,Sengkang West Way,25 to 27,92,Model A,2014,92.5,450000,Jan 2021
+450A,Sengkang West Way,10 to 12,92,Model A,2014,92.58,436000,Jan 2021
+451A,Sengkang West Way,10 to 12,92,Model A,2015,93.42,425000,Jan 2021
+451B,Sengkang West Way,10 to 12,92,Model A,2015,93.42,458000,Jan 2021
+451B,Sengkang West Way,19 to 21,92,Model A,2015,93.33,466000,Jan 2021
+452A,Sengkang West Way,07 to 09,92,Model A,2015,93.42,426000,Jan 2021
+452B,Sengkang West Way,10 to 12,92,Model A,2015,93.42,440000,Jan 2021
+452B,Sengkang West Way,19 to 21,92,Model A,2015,93.42,460000,Jan 2021
+469B,Sengkang West Way,22 to 24,93,Model A,2016,94.67,450000,Jan 2021
+469C,Sengkang West Way,13 to 15,93,Model A,2016,94.67,445000,Jan 2021
+334B,Anchorvale Cres,04 to 06,95,Premium Apartment,2015,94.08,455000,Dec 2020
+336A,Anchorvale Cres,13 to 15,92,Premium Apartment,2015,94,498000,Dec 2020
+336C,Anchorvale Cres,01 to 03,92,Premium Apartment,2015,94.08,420000,Dec 2020
+336C,Anchorvale Cres,04 to 06,92,Premium Apartment,2015,94.08,455000,Dec 2020
+301B,Anchorvale Dr,01 to 03,90,Model A,2001,79.75,375000,Dec 2020
+303B,Anchorvale Link,07 to 09,85,Model A2,2001,79.83,366500,Dec 2020
+305D,Anchorvale Link,13 to 15,90,Model A,2002,80.25,375000,Dec 2020
+332B,Anchorvale Link,01 to 03,92,Model A,2015,93.58,438000,Dec 2020
+333A,Anchorvale Link,07 to 09,92,Model A,2015,93.5,475000,Dec 2020
+333D,Anchorvale Link,04 to 06,92,Model A,2015,93.58,470000,Dec 2020
+308B,Anchorvale Rd,10 to 12,90,Model A,2001,80,372888,Dec 2020
+317B,Anchorvale Rd,01 to 03,92,Premium Apartment,2003,81.58,375000,Dec 2020
+329B,Anchorvale St,04 to 06,92,Model A,2015,93.75,468000,Dec 2020
+330B,Anchorvale St,01 to 03,92,Model A,2015,93.75,430000,Dec 2020
+330B,Anchorvale St,07 to 09,92,Model A,2015,93.75,439800,Dec 2020
+331B,Anchorvale St,10 to 12,92,Model A,2015,93.75,465000,Dec 2020
+293A,Compassvale Cres,13 to 15,93,Model A,2016,95,480000,Dec 2020
+293A,Compassvale Cres,13 to 15,93,Model A,2016,94.92,480000,Dec 2020
+293B,Compassvale Cres,04 to 06,93,Model A,2016,95,472000,Dec 2020
+293B,Compassvale Cres,07 to 09,93,Model A,2016,95,478000,Dec 2020
+293B,Compassvale Cres,10 to 12,93,Model A,2016,95,485000,Dec 2020
+293C,Compassvale Cres,04 to 06,93,Model A,2016,95,445000,Dec 2020
+294A,Compassvale Cres,10 to 12,93,Model A,2016,95,475000,Dec 2020
+294A,Compassvale Cres,13 to 15,93,Model A,2016,95,485000,Dec 2020
+294A,Compassvale Cres,07 to 09,93,Model A,2016,95,488000,Dec 2020
+215B,Compassvale Dr,01 to 03,93,Premium Apartment,2017,95.42,562000,Dec 2020
+227C,Compassvale Dr,10 to 12,102,Model A,2000,78.17,430000,Dec 2020
+208B,Compassvale Lane,01 to 03,92,Model A,2011,89.92,410000,Dec 2020
+209B,Compassvale Lane,01 to 03,92,Model A,2011,90,419000,Dec 2020
+210A,Compassvale Lane,13 to 15,97,Model A,2013,91.25,440000,Dec 2020
+211A,Compassvale Lane,01 to 03,93,Model A,2013,91.17,393000,Dec 2020
+211A,Compassvale Lane,10 to 12,93,Model A,2013,91.17,450000,Dec 2020
+211B,Compassvale Lane,04 to 06,93,Model A,2013,91.17,441000,Dec 2020
+211C,Compassvale Lane,13 to 15,95,Model A,2013,91.25,445000,Dec 2020
+211D,Compassvale Lane,07 to 09,93,Model A,2013,91.25,438000,Dec 2020
+268D,Compassvale Link,10 to 12,91,Premium Apartment,2006,84.25,470000,Dec 2020
+268D,Compassvale Link,13 to 15,90,Premium Apartment,2006,84.25,495000,Dec 2020
+269D,Compassvale Link,01 to 03,90,Premium Apartment,2006,84.25,404000,Dec 2020
+273D,Compassvale Link,01 to 03,90,Premium Apartment,2009,87.67,430000,Dec 2020
+275B,Compassvale Link,01 to 03,90,Premium Apartment,2009,87.58,540000,Dec 2020
+275B,Compassvale Link,07 to 09,92,Premium Apartment,2009,87.5,588000,Dec 2020
+277A,Compassvale Link,13 to 15,92,Premium Apartment,2009,87.5,580000,Dec 2020
+257B,Compassvale Rd,13 to 15,85,Model A2,2001,79.33,455888,Dec 2020
+299A,Compassvale St,01 to 03,94,Premium Apartment,2001,79.75,368000,Dec 2020
+223A,Compassvale Walk,04 to 06,102,Model A,1999,77.5,420000,Dec 2020
+226A,Compassvale Walk,10 to 12,102,Model A,1999,78.08,420000,Dec 2020
+403A,Fernvale Lane,10 to 12,94,Premium Apartment,2004,82.42,408000,Dec 2020
+403B,Fernvale Lane,22 to 24,93,Premium Apartment,2004,82.33,398000,Dec 2020
+403C,Fernvale Lane,16 to 18,94,Premium Apartment,2004,82.5,407000,Dec 2020
+403C,Fernvale Lane,19 to 21,93,Premium Apartment,2004,82.42,445000,Dec 2020
+405C,Fernvale Lane,16 to 18,93,Premium Apartment,2004,82.33,385000,Dec 2020
+405C,Fernvale Lane,16 to 18,93,Premium Apartment,2004,82.33,388000,Dec 2020
+414A,Fernvale Link,07 to 09,93,Model A,2016,94.17,438000,Dec 2020
+414B,Fernvale Link,04 to 06,93,Model A,2016,94.17,410000,Dec 2020
+415A,Fernvale Link,04 to 06,93,Model A,2016,94.17,483000,Dec 2020
+415B,Fernvale Link,19 to 21,93,Model A,2016,94.17,510000,Dec 2020
+415C,Fernvale Link,07 to 09,93,Model A,2016,94.08,460000,Dec 2020
+416B,Fernvale Link,19 to 21,93,Model A,2016,94.17,445000,Dec 2020
+416B,Fernvale Link,16 to 18,93,Model A,2016,94.17,450000,Dec 2020
+416C,Fernvale Link,04 to 06,93,Model A,2016,94.17,431000,Dec 2020
+430A,Fernvale Link,10 to 12,92,Model A,2015,93.5,408000,Dec 2020
+440B,Fernvale Link,22 to 24,92,Model A,2015,93.67,468000,Dec 2020
+440C,Fernvale Link,22 to 24,92,Model A,2015,93.67,468000,Dec 2020
+467A,Fernvale Link,22 to 24,93,Model A,2016,94.67,469000,Dec 2020
+468A,Fernvale Link,19 to 21,93,Model A,2016,94.75,455000,Dec 2020
+468A,Fernvale Link,16 to 18,93,Model A,2016,94.75,455000,Dec 2020
+470A,Fernvale Link,07 to 09,93,Model A,2016,94.83,438000,Dec 2020
+406C,Fernvale Rd,07 to 09,91,Premium Apartment,2004,83,388000,Dec 2020
+407A,Fernvale Rd,07 to 09,90,Premium Apartment,2005,83.17,385000,Dec 2020
+407A,Fernvale Rd,07 to 09,90,Premium Apartment,2005,83.17,450000,Dec 2020
+409B,Fernvale Rd,13 to 15,95,Premium Apartment,2004,83.08,390000,Dec 2020
+411A,Fernvale Rd,04 to 06,95,Premium Apartment,2012,91,425000,Dec 2020
+411A,Fernvale Rd,25 to 27,96,Premium Apartment,2012,90.92,460000,Dec 2020
+434B,Fernvale Rd,04 to 06,94,Premium Apartment,2013,91.5,416000,Dec 2020
+434B,Fernvale Rd,10 to 12,94,Premium Apartment,2013,91.5,445000,Dec 2020
+436B,Fernvale Rd,19 to 21,96,Model A,2010,88.33,458000,Dec 2020
+436C,Fernvale Rd,04 to 06,96,Model A,2010,88.33,402000,Dec 2020
+441A,Fernvale Rd,19 to 21,94,Model A,2012,90.25,435000,Dec 2020
+443A,Fernvale Rd,04 to 06,94,Model A,2012,91,440000,Dec 2020
+443A,Fernvale Rd,13 to 15,94,Model A,2012,91,445000,Dec 2020
+443A,Fernvale Rd,19 to 21,95,Model A,2012,91,460000,Dec 2020
+445A,Fernvale Rd,07 to 09,94,Model A,2012,90.92,432000,Dec 2020
+471C,Fernvale St,04 to 06,93,Model A,2016,94.75,422000,Dec 2020
+153,Rivervale Cres,13 to 15,91,Model A,2005,84.08,400000,Dec 2020
+158D,Rivervale Cres,13 to 15,90,Premium Apartment,2003,81.83,380000,Dec 2020
+159A,Rivervale Cres,04 to 06,91,Premium Apartment,2003,81.92,370000,Dec 2020
+163B,Rivervale Cres,16 to 18,93,Model A,2017,95.5,475000,Dec 2020
+163C,Rivervale Cres,07 to 09,93,Model A,2017,95.5,420000,Dec 2020
+163C,Rivervale Cres,10 to 12,93,Model A,2017,95.42,445000,Dec 2020
+163C,Rivervale Cres,10 to 12,93,Model A,2017,95.42,457000,Dec 2020
+164A,Rivervale Cres,01 to 03,93,Model A,2017,95.5,400000,Dec 2020
+164A,Rivervale Cres,07 to 09,93,Model A,2017,95.42,455000,Dec 2020
+164B,Rivervale Cres,04 to 06,93,Model A,2017,95.42,428888,Dec 2020
+164C,Rivervale Cres,07 to 09,93,Model A,2017,95.5,440000,Dec 2020
+164C,Rivervale Cres,16 to 18,93,Model A,2017,95.5,470000,Dec 2020
+178A,Rivervale Cres,10 to 12,93,Model A,2015,93.33,405000,Dec 2020
+178B,Rivervale Cres,10 to 12,93,Model A,2015,93.25,402000,Dec 2020
+178C,Rivervale Cres,10 to 12,93,Model A,2015,93.25,395000,Dec 2020
+178D,Rivervale Cres,07 to 09,93,Model A,2015,93.33,400000,Dec 2020
+185B,Rivervale Cres,01 to 03,91,Model A2,2000,79.08,370000,Dec 2020
+188C,Rivervale Dr,01 to 03,95,Model A,2000,78.75,335000,Dec 2020
+130,Rivervale St,10 to 12,100,Model A,1999,77.33,385000,Dec 2020
+271B,Sengkang Ctrl,07 to 09,93,Premium Apartment,2010,88.5,528000,Dec 2020
+271B,Sengkang Ctrl,10 to 12,93,Premium Apartment,2010,88.5,570000,Dec 2020
+280B,Sengkang East Ave,04 to 06,92,Premium Apartment,2015,93.67,575000,Dec 2020
+282C,Sengkang East Ave,10 to 12,92,Premium Apartment,2015,93.75,602000,Dec 2020
+323A,Sengkang East Way,10 to 12,90,Model A,2003,81.25,429500,Dec 2020
+439C,Sengkang West Ave,25 to 27,94,Model A,2011,89.17,446000,Dec 2020
+432B,Sengkang West Way,04 to 06,93,Model A,2014,92.92,392000,Dec 2020
+433A,Sengkang West Way,22 to 24,93,Model A,2014,92.92,462000,Dec 2020
+451A,Sengkang West Way,16 to 18,92,Model A,2015,93.5,466800,Dec 2020
+451B,Sengkang West Way,16 to 18,92,Model A,2015,93.5,448888,Dec 2020
+452A,Sengkang West Way,16 to 18,92,Model A,2015,93.5,460000,Dec 2020
+469B,Sengkang West Way,01 to 03,93,Model A,2016,94.75,400000,Dec 2020
+469B,Sengkang West Way,25 to 27,93,Model A,2016,94.75,450000,Dec 2020
+334A,Anchorvale Cres,04 to 06,92,Premium Apartment,2015,94.17,465000,Nov 2020
+334B,Anchorvale Cres,07 to 09,92,Premium Apartment,2015,94.17,468000,Nov 2020
+334B,Anchorvale Cres,13 to 15,95,Premium Apartment,2015,94.17,516000,Nov 2020
+303B,Anchorvale Link,07 to 09,85,Model A2,2001,79.83,382000,Nov 2020
+333B,Anchorvale Link,07 to 09,92,Model A,2015,93.58,480000,Nov 2020
+309A,Anchorvale Rd,10 to 12,95,Premium Apartment,2002,80.92,385000,Nov 2020
+313C,Anchorvale Rd,01 to 03,92,Premium Apartment,2003,81.58,365000,Nov 2020
+317D,Anchorvale Rd,01 to 03,92,Premium Apartment,2003,81.5,370000,Nov 2020
+326D,Anchorvale Rd,01 to 03,92,Premium Apartment,2015,93.5,428888,Nov 2020
+327A,Anchorvale Rd,07 to 09,92,Premium Apartment,2015,93.5,468000,Nov 2020
+329B,Anchorvale St,01 to 03,92,Model A,2015,93.83,427800,Nov 2020
+329B,Anchorvale St,16 to 18,93,Model A,2015,93.83,485000,Nov 2020
+330A,Anchorvale St,01 to 03,92,Model A,2015,93.83,400000,Nov 2020
+330A,Anchorvale St,04 to 06,93,Model A,2015,93.83,428000,Nov 2020
+264A,Compassvale Bow,07 to 09,92,Premium Apartment,2007,85.75,498000,Nov 2020
+264B,Compassvale Bow,01 to 03,92,Premium Apartment,2007,85.83,403000,Nov 2020
+264F,Compassvale Bow,01 to 03,92,Premium Apartment,2008,86.92,485000,Nov 2020
+266A,Compassvale Bow,01 to 03,92,Premium Apartment,2007,85.92,433000,Nov 2020
+293C,Compassvale Cres,07 to 09,93,Model A,2016,95.08,480000,Nov 2020
+294A,Compassvale Cres,10 to 12,93,Model A,2016,95,475000,Nov 2020
+294A,Compassvale Cres,13 to 15,93,Model A,2016,95.08,485000,Nov 2020
+294A,Compassvale Cres,07 to 09,93,Model A,2016,95,498000,Nov 2020
+216A,Compassvale Dr,07 to 09,92,Premium Apartment,2017,95.58,580000,Nov 2020
+207A,Compassvale Lane,13 to 15,92,Model A,2005,83.33,388000,Nov 2020
+209C,Compassvale Lane,04 to 06,92,Model A,2011,90.08,420000,Nov 2020
+211C,Compassvale Lane,01 to 03,93,Model A,2013,91.33,410000,Nov 2020
+211C,Compassvale Lane,01 to 03,93,Model A,2013,91.33,425000,Nov 2020
+269B,Compassvale Link,01 to 03,90,Premium Apartment,2006,84.33,440000,Nov 2020
+275C,Compassvale Link,13 to 15,92,Premium Apartment,2009,87.58,600000,Nov 2020
+277B,Compassvale Link,04 to 06,92,Premium Apartment,2009,87.58,535000,Nov 2020
+277C,Compassvale Link,07 to 09,90,Premium Apartment,2009,87.67,570000,Nov 2020
+292B,Compassvale St,04 to 06,90,Model A,2002,80.17,380000,Nov 2020
+297A,Compassvale St,07 to 09,94,Premium Apartment,2001,79.83,378000,Nov 2020
+226A,Compassvale Walk,10 to 12,102,Model A,1999,78.17,421000,Nov 2020
+228B,Compassvale Walk,01 to 03,101,Model A,1999,78.17,375000,Nov 2020
+230,Compassvale Walk,10 to 12,101,Model A,1999,77.83,385000,Nov 2020
+403D,Fernvale Lane,16 to 18,92,Premium Apartment,2004,82.67,400000,Nov 2020
+413B,Fernvale Link,22 to 24,95,Premium Apartment,2004,82.42,412000,Nov 2020
+414A,Fernvale Link,04 to 06,93,Model A,2016,94.25,414000,Nov 2020
+414B,Fernvale Link,10 to 12,93,Model A,2016,94.25,455000,Nov 2020
+415A,Fernvale Link,07 to 09,93,Model A,2016,94.25,438000,Nov 2020
+415C,Fernvale Link,16 to 18,93,Model A,2016,94.25,478000,Nov 2020
+430A,Fernvale Link,19 to 21,92,Model A,2015,93.58,432888,Nov 2020
+440A,Fernvale Link,25 to 27,92,Model A,2015,93.75,465000,Nov 2020
+440B,Fernvale Link,07 to 09,92,Model A,2015,93.75,425000,Nov 2020
+467B,Fernvale Link,22 to 24,93,Model A,2016,94.75,430000,Nov 2020
+467B,Fernvale Link,10 to 12,93,Model A,2016,94.83,430000,Nov 2020
+467B,Fernvale Link,16 to 18,93,Model A,2016,94.83,435000,Nov 2020
+470B,Fernvale Link,25 to 27,93,Model A,2016,94.92,495000,Nov 2020
+470C,Fernvale Link,22 to 24,93,Model A,2016,94.92,470888,Nov 2020
+407B,Fernvale Rd,10 to 12,90,Premium Apartment,2005,83.25,369000,Nov 2020
+410A,Fernvale Rd,04 to 06,95,Premium Apartment,2012,91.08,400000,Nov 2020
+410B,Fernvale Rd,01 to 03,95,Premium Apartment,2012,91.08,380000,Nov 2020
+410B,Fernvale Rd,25 to 27,96,Premium Apartment,2012,91.08,455000,Nov 2020
+411B,Fernvale Rd,07 to 09,95,Premium Apartment,2012,91.08,440000,Nov 2020
+411B,Fernvale Rd,19 to 21,96,Premium Apartment,2012,91.08,460000,Nov 2020
+436A,Fernvale Rd,19 to 21,96,Model A,2010,88.42,445000,Nov 2020
+443A,Fernvale Rd,07 to 09,94,Model A,2012,91.17,413000,Nov 2020
+443C,Fernvale Rd,10 to 12,94,Model A,2012,91,435000,Nov 2020
+445B,Fernvale Rd,22 to 24,94,Model A,2012,91.08,462888,Nov 2020
+453C,Fernvale Rd,04 to 06,92,Model A,2015,93.75,408000,Nov 2020
+453C,Fernvale Rd,07 to 09,92,Model A,2015,93.75,430000,Nov 2020
+453C,Fernvale Rd,19 to 21,92,Model A,2015,93.75,460000,Nov 2020
+453D,Fernvale Rd,19 to 21,92,Model A,2015,93.75,458888,Nov 2020
+471A,Fernvale St,04 to 06,93,Model A,2016,94.92,420000,Nov 2020
+471A,Fernvale St,16 to 18,93,Model A,2016,94.92,470000,Nov 2020
+471B,Fernvale St,01 to 03,93,Model A,2016,94.92,408000,Nov 2020
+472A,Fernvale St,19 to 21,93,Model A,2016,94.92,513888,Nov 2020
+472C,Fernvale St,22 to 24,93,Model A,2016,94.83,482000,Nov 2020
+149,Rivervale Cres,10 to 12,100,Model A,1999,77.92,400000,Nov 2020
+155,Rivervale Cres,01 to 03,91,Model A,2005,84.17,370000,Nov 2020
+157A,Rivervale Cres,01 to 03,90,Premium Apartment,2003,82,368000,Nov 2020
+164B,Rivervale Cres,07 to 09,93,Model A,2017,95.58,445000,Nov 2020
+164C,Rivervale Cres,04 to 06,93,Model A,2017,95.58,425000,Nov 2020
+178C,Rivervale Cres,07 to 09,93,Model A,2015,93.33,395000,Nov 2020
+180C,Rivervale Cres,16 to 18,93,Model A,2015,93.42,400000,Nov 2020
+180C,Rivervale Cres,13 to 15,93,Model A,2015,93.33,410000,Nov 2020
+183C,Rivervale Cres,16 to 18,90,Model A,2003,81.58,355000,Nov 2020
+184C,Rivervale Cres,01 to 03,85,Model A2,2003,81.58,346000,Nov 2020
+124C,Rivervale Dr,13 to 15,90,Model A2,1999,77.75,372100,Nov 2020
+188C,Rivervale Dr,10 to 12,96,Model A,2000,78.83,348000,Nov 2020
+188C,Rivervale Dr,16 to 18,96,Model A,2000,78.83,373000,Nov 2020
+131,Rivervale St,16 to 18,89,Model A2,1999,77.58,377000,Nov 2020
+140,Rivervale St,04 to 06,90,Model A2,1999,77.25,345000,Nov 2020
+140,Rivervale St,16 to 18,97,Model A2,1999,77.17,410000,Nov 2020
+270A,Sengkang Ctrl,13 to 15,93,Premium Apartment,2010,88.58,560000,Nov 2020
+271C,Sengkang Ctrl,13 to 15,93,Premium Apartment,2010,88.58,566500,Nov 2020
+272A,Sengkang Ctrl,01 to 03,90,Premium Apartment,2009,88.17,510000,Nov 2020
+272D,Sengkang Ctrl,04 to 06,90,Premium Apartment,2009,88.08,560000,Nov 2020
+282A,Sengkang East Ave,13 to 15,92,Premium Apartment,2015,93.75,618000,Nov 2020
+325A,Sengkang East Way,01 to 03,90,Model A,2003,81.33,375000,Nov 2020
+433B,Sengkang West Way,10 to 12,93,Model A,2014,92.92,425000,Nov 2020
+451B,Sengkang West Way,13 to 15,92,Model A,2015,93.58,415000,Nov 2020
+469A,Sengkang West Way,04 to 06,93,Model A,2016,94.75,415000,Nov 2020
+469B,Sengkang West Way,16 to 18,93,Model A,2016,94.83,455888,Nov 2020
+327C,Anchorvale Rd,07 to 09,92,Premium Apartment,2015,92.5,485000,Nov 2021
+330B,Anchorvale St,01 to 03,93,Model A,2015,92.83,460000,Nov 2021
+278A,Compassvale Bow,13 to 15,92,Model A,2017,95.08,633888,Nov 2021
+289A,Compassvale Cres,04 to 06,93,Premium Apartment,2017,95.08,495000,Nov 2021
+293D,Compassvale Cres,10 to 12,93,Model A,2016,94.08,510000,Nov 2021
+294A,Compassvale Cres,04 to 06,93,Model A,2016,94.08,505000,Nov 2021
+215B,Compassvale Dr,13 to 15,92,Premium Apartment,2017,94.58,640000,Nov 2021
+216D,Compassvale Dr,07 to 09,92,Premium Apartment,2017,94.67,633000,Nov 2021
+217C,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.58,633000,Nov 2021
+206A,Compassvale Lane,01 to 03,101,Model A,1999,76.83,424000,Nov 2021
+269C,Compassvale Link,13 to 15,91,Premium Apartment,2006,83.33,515000,Nov 2021
+273B,Compassvale Link,07 to 09,90,Premium Apartment,2009,86.83,610000,Nov 2021
+275A,Compassvale Link,01 to 03,90,Premium Apartment,2009,86.67,563000,Nov 2021
+277C,Compassvale Link,01 to 03,90,Premium Apartment,2009,86.75,500000,Nov 2021
+257B,Compassvale Rd,07 to 09,85,Model A2,2001,78.42,452000,Nov 2021
+404B,Fernvale Lane,19 to 21,92,Premium Apartment,2004,81.58,450000,Nov 2021
+415B,Fernvale Link,16 to 18,93,Model A,2016,93.25,535000,Nov 2021
+416A,Fernvale Link,04 to 06,93,Model A,2016,93.25,475000,Nov 2021
+430D,Fernvale Link,04 to 06,92,Model A,2015,92.58,485000,Nov 2021
+467B,Fernvale Link,19 to 21,93,Model A,2016,93.83,495000,Nov 2021
+468B,Fernvale Link,16 to 18,93,Model A,2016,93.83,515000,Nov 2021
+406B,Fernvale Rd,19 to 21,90,Premium Apartment,2004,82.08,448000,Nov 2021
+435B,Fernvale Rd,13 to 15,94,Premium Apartment,2013,90.67,515000,Nov 2021
+453C,Fernvale Rd,13 to 15,92,Model A,2015,92.75,498000,Nov 2021
+163B,Rivervale Cres,10 to 12,93,Model A,2017,94.58,468000,Nov 2021
+163B,Rivervale Cres,16 to 18,93,Model A,2017,94.58,490000,Nov 2021
+164B,Rivervale Cres,16 to 18,93,Model A,2017,94.58,495000,Nov 2021
+190B,Rivervale Dr,13 to 15,95,Model A,2000,77.58,413000,Nov 2021
+140,Rivervale St,16 to 18,90,Model A2,1999,76.25,405000,Nov 2021
+105,Rivervale Walk,01 to 03,101,Model A,1999,76.42,432000,Nov 2021
+271C,Sengkang Ctrl,04 to 06,93,Premium Apartment,2010,87.58,578000,Nov 2021
+432A,Sengkang West Way,25 to 27,93,Model A,2014,92,520000,Nov 2021
+433B,Sengkang West Way,01 to 03,93,Model A,2014,92,440000,Nov 2021
+335A,Anchorvale Cres,07 to 09,92,Premium Apartment,2015,93.25,510000,Oct 2021
+335C,Anchorvale Cres,01 to 03,92,Premium Apartment,2015,93.25,480000,Oct 2021
+336C,Anchorvale Cres,01 to 03,92,Premium Apartment,2015,93.17,475000,Oct 2021
+301A,Anchorvale Dr,13 to 15,90,Model A,2001,78.83,440000,Oct 2021
+301B,Anchorvale Dr,04 to 06,90,Model A,2001,78.92,428000,Oct 2021
+301B,Anchorvale Dr,07 to 09,90,Model A,2001,78.83,448000,Oct 2021
+306C,Anchorvale Link,01 to 03,90,Model A,2002,79.25,398000,Oct 2021
+333A,Anchorvale Link,01 to 03,92,Model A,2015,92.67,490000,Oct 2021
+333D,Anchorvale Link,01 to 03,92,Model A,2015,92.75,525000,Oct 2021
+333D,Anchorvale Link,01 to 03,92,Model A,2015,92.75,528000,Oct 2021
+307A,Anchorvale Rd,10 to 12,90,Model A,2001,79.08,430000,Oct 2021
+309D,Anchorvale Rd,13 to 15,93,Premium Apartment,2002,80.17,450000,Oct 2021
+326D,Anchorvale Rd,04 to 06,92,Premium Apartment,2015,92.58,500000,Oct 2021
+330B,Anchorvale St,13 to 15,93,Model A,2015,92.92,533888,Oct 2021
+331A,Anchorvale St,13 to 15,93,Model A,2015,92.92,520000,Oct 2021
+266C,Compassvale Bow,04 to 06,92,Premium Apartment,2007,84.92,508000,Oct 2021
+274A,Compassvale Bow,04 to 06,92,Model A,2017,95.17,595000,Oct 2021
+274C,Compassvale Bow,07 to 09,92,Model A,2017,95.17,595000,Oct 2021
+278A,Compassvale Bow,04 to 06,92,Model A,2017,95.17,560000,Oct 2021
+278A,Compassvale Bow,07 to 09,92,Model A,2017,95.17,615000,Oct 2021
+286B,Compassvale Cres,01 to 03,93,Premium Apartment,2017,95.08,512000,Oct 2021
+286B,Compassvale Cres,13 to 15,93,Premium Apartment,2017,95.17,525000,Oct 2021
+286B,Compassvale Cres,10 to 12,93,Premium Apartment,2017,95.17,530000,Oct 2021
+286C,Compassvale Cres,13 to 15,93,Premium Apartment,2017,95.17,530000,Oct 2021
+287A,Compassvale Cres,04 to 06,93,Premium Apartment,2017,95.17,508000,Oct 2021
+287A,Compassvale Cres,10 to 12,96,Premium Apartment,2017,95.25,539000,Oct 2021
+287C,Compassvale Cres,04 to 06,93,Premium Apartment,2017,95.08,506888,Oct 2021
+288C,Compassvale Cres,13 to 15,93,Premium Apartment,2017,95.17,555000,Oct 2021
+293C,Compassvale Cres,07 to 09,93,Model A,2016,94.17,528000,Oct 2021
+201B,Compassvale Dr,04 to 06,90,Model A,2001,78.83,442000,Oct 2021
+212C,Compassvale Dr,10 to 12,98,Premium Apartment,2012,90.08,483000,Oct 2021
+215A,Compassvale Dr,01 to 03,92,Premium Apartment,2017,94.58,535000,Oct 2021
+215B,Compassvale Dr,01 to 03,92,Premium Apartment,2017,94.58,602000,Oct 2021
+216B,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.67,643000,Oct 2021
+217A,Compassvale Dr,01 to 03,92,Premium Apartment,2017,94.67,534000,Oct 2021
+217A,Compassvale Dr,07 to 09,92,Premium Apartment,2017,94.67,620000,Oct 2021
+217C,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.67,630000,Oct 2021
+206A,Compassvale Lane,01 to 03,102,Model A,1999,76.83,390000,Oct 2021
+207A,Compassvale Lane,04 to 06,92,Model A,2005,82.42,435000,Oct 2021
+209A,Compassvale Lane,04 to 06,92,Model A,2011,89.08,458000,Oct 2021
+211C,Compassvale Lane,13 to 15,97,Model A,2013,90.42,490000,Oct 2021
+268C,Compassvale Link,07 to 09,90,Premium Apartment,2006,83.42,518000,Oct 2021
+273A,Compassvale Link,04 to 06,90,Premium Apartment,2009,86.83,600000,Oct 2021
+273C,Compassvale Link,07 to 09,90,Premium Apartment,2009,86.92,558000,Oct 2021
+277B,Compassvale Link,01 to 03,90,Premium Apartment,2009,86.75,498000,Oct 2021
+277B,Compassvale Link,04 to 06,90,Premium Apartment,2009,86.75,580000,Oct 2021
+277B,Compassvale Link,10 to 12,90,Premium Apartment,2009,86.75,628000,Oct 2021
+277D,Compassvale Link,10 to 12,90,Premium Apartment,2009,86.75,618888,Oct 2021
+257C,Compassvale Rd,07 to 09,90,Model A,2001,78.42,455000,Oct 2021
+234,Compassvale Walk,07 to 09,100,Model A,1999,76.75,450000,Oct 2021
+403D,Fernvale Lane,13 to 15,92,Premium Apartment,2004,81.75,440000,Oct 2021
+405C,Fernvale Lane,07 to 09,93,Premium Apartment,2004,81.5,428000,Oct 2021
+412B,Fernvale Link,01 to 03,95,Premium Apartment,2004,81.67,410000,Oct 2021
+415B,Fernvale Link,13 to 15,93,Model A,2016,93.33,495000,Oct 2021
+416A,Fernvale Link,07 to 09,93,Model A,2016,93.25,500000,Oct 2021
+440C,Fernvale Link,13 to 15,92,Model A,2015,92.83,498000,Oct 2021
+468B,Fernvale Link,07 to 09,93,Model A,2016,93.92,445000,Oct 2021
+470A,Fernvale Link,01 to 03,93,Model A,2016,94,438000,Oct 2021
+470A,Fernvale Link,04 to 06,93,Model A,2016,94,456800,Oct 2021
+470B,Fernvale Link,07 to 09,93,Model A,2016,94,488000,Oct 2021
+408A,Fernvale Rd,10 to 12,95,Premium Apartment,2004,82.25,438000,Oct 2021
+409A,Fernvale Rd,13 to 15,95,Premium Apartment,2004,82.33,448000,Oct 2021
+410A,Fernvale Rd,01 to 03,95,Premium Apartment,2012,90.17,448000,Oct 2021
+410A,Fernvale Rd,19 to 21,96,Premium Apartment,2012,90.17,490000,Oct 2021
+410B,Fernvale Rd,19 to 21,96,Premium Apartment,2012,90.17,500000,Oct 2021
+410C,Fernvale Rd,10 to 12,95,Premium Apartment,2012,90.17,488000,Oct 2021
+410C,Fernvale Rd,19 to 21,96,Premium Apartment,2012,90.17,523000,Oct 2021
+435B,Fernvale Rd,22 to 24,94,Premium Apartment,2013,90.75,525000,Oct 2021
+436A,Fernvale Rd,10 to 12,96,Model A,2010,87.5,488000,Oct 2021
+441C,Fernvale Rd,16 to 18,92,Model A,2012,89.42,505000,Oct 2021
+453D,Fernvale Rd,07 to 09,92,Model A,2015,92.83,460888,Oct 2021
+471B,Fernvale St,04 to 06,93,Model A,2016,93.92,489000,Oct 2021
+471B,Fernvale St,16 to 18,93,Model A,2016,94,515000,Oct 2021
+471C,Fernvale St,16 to 18,93,Model A,2016,94,517000,Oct 2021
+472A,Fernvale St,10 to 12,93,Model A,2016,94,518000,Oct 2021
+446C,Jln Kayu,07 to 09,93,Model A,2013,91.17,455000,Oct 2021
+158D,Rivervale Cres,04 to 06,90,Premium Apartment,2003,81,428000,Oct 2021
+162B,Rivervale Cres,01 to 03,93,Model A,2017,94.67,445000,Oct 2021
+162C,Rivervale Cres,04 to 06,93,Model A,2017,94.67,478000,Oct 2021
+164C,Rivervale Cres,07 to 09,93,Model A,2017,94.67,442500,Oct 2021
+178D,Rivervale Cres,16 to 18,93,Model A,2015,92.5,442000,Oct 2021
+185B,Rivervale Cres,10 to 12,85,Model A2,2000,78.25,408500,Oct 2021
+185D,Rivervale Cres,04 to 06,87,Model A2,2000,78.17,390000,Oct 2021
+116A,Rivervale Dr,07 to 09,95,Model A,2000,77.83,415000,Oct 2021
+116B,Rivervale Dr,10 to 12,95,Model A,2000,77.83,420000,Oct 2021
+121,Rivervale Dr,10 to 12,90,Model A,2000,77.92,412000,Oct 2021
+123C,Rivervale Dr,13 to 15,101,Model A,1999,76.92,468000,Oct 2021
+188A,Rivervale Dr,04 to 06,95,Model A,2000,77.83,405500,Oct 2021
+191A,Rivervale Dr,04 to 06,96,Model A,2000,78,400000,Oct 2021
+194,Rivervale Dr,07 to 09,91,Model A,2001,78.58,416000,Oct 2021
+195,Rivervale Dr,13 to 15,91,Model A,2001,78.83,422000,Oct 2021
+196,Rivervale Dr,10 to 12,91,Model A,2001,78.58,420000,Oct 2021
+197,Rivervale Dr,01 to 03,90,Model A,2001,78.67,408888,Oct 2021
+131,Rivervale St,04 to 06,90,Model A2,1999,76.67,395000,Oct 2021
+140,Rivervale St,13 to 15,97,Model A2,1999,76.33,420000,Oct 2021
+101,Rivervale Walk,10 to 12,101,Model A,1999,76.5,435000,Oct 2021
+114,Rivervale Walk,04 to 06,102,Model A,1998,76.17,425000,Oct 2021
+271A,Sengkang Ctrl,01 to 03,93,Premium Apartment,2010,87.67,505000,Oct 2021
+271B,Sengkang Ctrl,07 to 09,93,Premium Apartment,2010,87.58,555000,Oct 2021
+272B,Sengkang Ctrl,04 to 06,90,Premium Apartment,2009,87.25,600000,Oct 2021
+282B,Sengkang East Ave,01 to 03,92,Premium Apartment,2015,92.92,558000,Oct 2021
+438B,Sengkang West Ave,04 to 06,94,Model A,2011,88.42,465000,Oct 2021
+432A,Sengkang West Way,16 to 18,93,Model A,2014,92.08,491000,Oct 2021
+450A,Sengkang West Way,13 to 15,92,Model A,2014,91.83,475000,Oct 2021
+451B,Sengkang West Way,19 to 21,92,Model A,2015,92.58,525000,Oct 2021
+452A,Sengkang West Way,16 to 18,92,Model A,2015,92.67,475000,Oct 2021
+452A,Sengkang West Way,19 to 21,92,Model A,2015,92.58,495000,Oct 2021
+334B,Anchorvale Cres,04 to 06,95,Premium Apartment,2015,93.42,485000,Sep 2021
+335A,Anchorvale Cres,13 to 15,92,Premium Apartment,2015,93.25,500000,Sep 2021
+336A,Anchorvale Cres,04 to 06,92,Premium Apartment,2015,93.33,480000,Sep 2021
+311D,Anchorvale Lane,01 to 03,90,Premium Apartment,2002,80.33,390000,Sep 2021
+302A,Anchorvale Link,01 to 03,90,Model A,2001,78.92,380000,Sep 2021
+332A,Anchorvale Link,04 to 06,92,Model A,2015,92.83,508000,Sep 2021
+332A,Anchorvale Link,10 to 12,92,Model A,2015,92.83,510000,Sep 2021
+332B,Anchorvale Link,04 to 06,92,Model A,2015,92.83,473000,Sep 2021
+333B,Anchorvale Link,04 to 06,92,Model A,2015,92.83,485000,Sep 2021
+317B,Anchorvale Rd,04 to 06,92,Premium Apartment,2003,80.83,430000,Sep 2021
+326D,Anchorvale Rd,04 to 06,92,Premium Apartment,2015,92.75,460000,Sep 2021
+326D,Anchorvale Rd,10 to 12,92,Premium Apartment,2015,92.67,488000,Sep 2021
+330A,Anchorvale St,13 to 15,92,Model A,2015,93,508000,Sep 2021
+330A,Anchorvale St,10 to 12,92,Model A,2015,93,510000,Sep 2021
+330B,Anchorvale St,10 to 12,92,Model A,2015,93,502000,Sep 2021
+331C,Anchorvale St,01 to 03,92,Model A,2015,93,440000,Sep 2021
+265E,Compassvale Bow,01 to 03,92,Premium Apartment,2007,84.92,440000,Sep 2021
+274B,Compassvale Bow,04 to 06,92,Model A,2017,95.25,570000,Sep 2021
+274B,Compassvale Bow,07 to 09,92,Model A,2017,95.25,628000,Sep 2021
+278A,Compassvale Bow,13 to 15,92,Model A,2017,95.25,610000,Sep 2021
+278B,Compassvale Bow,07 to 09,92,Model A,2017,95.17,575000,Sep 2021
+286A,Compassvale Cres,04 to 06,93,Premium Apartment,2017,95.25,515000,Sep 2021
+286A,Compassvale Cres,13 to 15,93,Premium Apartment,2017,95.25,540000,Sep 2021
+288B,Compassvale Cres,10 to 12,93,Premium Apartment,2017,95.25,500000,Sep 2021
+293A,Compassvale Cres,07 to 09,93,Model A,2016,94.25,505000,Sep 2021
+293C,Compassvale Cres,07 to 09,93,Model A,2016,94.25,493000,Sep 2021
+293C,Compassvale Cres,07 to 09,93,Model A,2016,94.17,510000,Sep 2021
+295B,Compassvale Cres,01 to 03,90,Model A,2002,79.5,373000,Sep 2021
+201D,Compassvale Dr,13 to 15,90,Model A,2001,78.83,460000,Sep 2021
+212A,Compassvale Dr,04 to 06,98,Premium Apartment,2012,90.08,470000,Sep 2021
+215A,Compassvale Dr,04 to 06,92,Premium Apartment,2017,94.67,550000,Sep 2021
+215A,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.75,606888,Sep 2021
+216A,Compassvale Dr,13 to 15,92,Premium Apartment,2017,94.67,645000,Sep 2021
+216B,Compassvale Dr,01 to 03,92,Premium Apartment,2017,94.67,568000,Sep 2021
+216D,Compassvale Dr,13 to 15,92,Premium Apartment,2017,94.75,655000,Sep 2021
+217A,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.75,616000,Sep 2021
+217C,Compassvale Dr,01 to 03,92,Premium Apartment,2017,94.67,545000,Sep 2021
+217C,Compassvale Dr,01 to 03,93,Premium Apartment,2017,94.67,580000,Sep 2021
+217C,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.75,633000,Sep 2021
+206B,Compassvale Lane,07 to 09,102,Model A,1999,77,425000,Sep 2021
+207A,Compassvale Lane,07 to 09,92,Model A,2005,82.42,450000,Sep 2021
+210C,Compassvale Lane,01 to 03,93,Model A,2013,90.5,458000,Sep 2021
+210C,Compassvale Lane,04 to 06,93,Model A,2013,90.42,478000,Sep 2021
+211C,Compassvale Lane,04 to 06,93,Model A,2013,90.42,456000,Sep 2021
+211D,Compassvale Lane,01 to 03,93,Model A,2013,90.5,420000,Sep 2021
+268B,Compassvale Link,10 to 12,90,Premium Apartment,2006,83.5,505000,Sep 2021
+269D,Compassvale Link,13 to 15,90,Premium Apartment,2006,83.5,525000,Sep 2021
+273B,Compassvale Link,13 to 15,90,Premium Apartment,2009,86.92,605000,Sep 2021
+273C,Compassvale Link,04 to 06,90,Premium Apartment,2009,87,520000,Sep 2021
+273C,Compassvale Link,04 to 06,90,Premium Apartment,2009,87,600000,Sep 2021
+275A,Compassvale Link,07 to 09,90,Premium Apartment,2009,86.83,608000,Sep 2021
+275A,Compassvale Link,10 to 12,90,Premium Apartment,2009,86.83,618888,Sep 2021
+277C,Compassvale Link,10 to 12,90,Premium Apartment,2009,86.83,620000,Sep 2021
+259C,Compassvale Rd,07 to 09,90,Model A,2000,78.33,455000,Sep 2021
+291B,Compassvale St,04 to 06,90,Model A,2002,79.33,400000,Sep 2021
+223D,Compassvale Walk,07 to 09,102,Model A,1999,76.75,455000,Sep 2021
+403A,Fernvale Lane,04 to 06,93,Premium Apartment,2004,81.67,410000,Sep 2021
+414B,Fernvale Link,04 to 06,93,Model A,2016,93.33,465000,Sep 2021
+415C,Fernvale Link,13 to 15,93,Model A,2016,93.42,535000,Sep 2021
+440C,Fernvale Link,16 to 18,92,Model A,2015,92.83,502000,Sep 2021
+467B,Fernvale Link,22 to 24,93,Model A,2016,94,503000,Sep 2021
+470A,Fernvale Link,04 to 06,93,Model A,2016,94.08,430000,Sep 2021
+470C,Fernvale Link,10 to 12,93,Model A,2016,94.08,463000,Sep 2021
+470C,Fernvale Link,22 to 24,93,Model A,2016,94.08,508800,Sep 2021
+407B,Fernvale Rd,01 to 03,95,Premium Apartment,2005,82.42,425000,Sep 2021
+408A,Fernvale Rd,10 to 12,95,Premium Apartment,2004,82.25,425000,Sep 2021
+408B,Fernvale Rd,16 to 18,95,Premium Apartment,2004,81.92,439000,Sep 2021
+411B,Fernvale Rd,13 to 15,95,Premium Apartment,2012,90.17,490000,Sep 2021
+441A,Fernvale Rd,10 to 12,93,Model A,2012,89.42,478000,Sep 2021
+441C,Fernvale Rd,16 to 18,92,Model A,2012,89.42,498000,Sep 2021
+441D,Fernvale Rd,16 to 18,93,Model A,2012,89.42,495000,Sep 2021
+443A,Fernvale Rd,22 to 24,95,Model A,2012,90.25,505000,Sep 2021
+445A,Fernvale Rd,01 to 03,94,Model A,2012,90.25,438000,Sep 2021
+453B,Fernvale Rd,01 to 03,92,Model A,2015,92.92,445000,Sep 2021
+453C,Fernvale Rd,16 to 18,92,Model A,2015,92.92,498000,Sep 2021
+472A,Fernvale St,22 to 24,93,Model A,2016,94.08,518888,Sep 2021
+472B,Fernvale St,19 to 21,93,Model A,2016,94,485000,Sep 2021
+446C,Jln Kayu,01 to 03,93,Model A,2013,91.25,422000,Sep 2021
+159A,Rivervale Cres,04 to 06,90,Premium Apartment,2003,81.17,420000,Sep 2021
+162B,Rivervale Cres,16 to 18,93,Model A,2017,94.75,492000,Sep 2021
+162C,Rivervale Cres,01 to 03,93,Model A,2017,94.75,438000,Sep 2021
+163A,Rivervale Cres,07 to 09,93,Model A,2017,94.75,460000,Sep 2021
+178A,Rivervale Cres,13 to 15,93,Model A,2015,92.58,440000,Sep 2021
+178D,Rivervale Cres,13 to 15,93,Model A,2015,92.58,450000,Sep 2021
+184A,Rivervale Cres,16 to 18,90,Model A,2003,80.75,400000,Sep 2021
+121B,Rivervale Dr,13 to 15,91,Model A,2000,77.92,455000,Sep 2021
+124B,Rivervale Dr,01 to 03,90,Model A2,1999,76.92,400000,Sep 2021
+190A,Rivervale Dr,01 to 03,95,Model A,2000,77.75,410000,Sep 2021
+128,Rivervale St,13 to 15,100,Model A,1999,76.83,430000,Sep 2021
+107,Rivervale Walk,10 to 12,100,Model A,1999,76.5,440000,Sep 2021
+114,Rivervale Walk,04 to 06,102,Model A,1998,76.17,425000,Sep 2021
+271B,Sengkang Ctrl,13 to 15,93,Premium Apartment,2010,87.75,545000,Sep 2021
+282A,Sengkang East Ave,04 to 06,92,Premium Apartment,2015,93,605000,Sep 2021
+282A,Sengkang East Ave,13 to 15,92,Premium Apartment,2015,92.92,638888,Sep 2021
+438B,Sengkang West Ave,16 to 18,94,Model A,2011,88.5,505000,Sep 2021
+439B,Sengkang West Ave,10 to 12,94,Model A,2011,88.5,460000,Sep 2021
+452B,Sengkang West Way,01 to 03,92,Model A,2015,92.75,410000,Sep 2021
+469B,Sengkang West Way,13 to 15,93,Model A,2016,94,478000,Sep 2021
+469B,Sengkang West Way,10 to 12,93,Model A,2016,94,488000,Sep 2021
+469C,Sengkang West Way,13 to 15,93,Model A,2016,94,490500,Sep 2021
+469C,Sengkang West Way,19 to 21,93,Model A,2016,94,500000,Sep 2021
+334A,Anchorvale Cres,04 to 06,92,Premium Apartment,2015,93.42,460000,Aug 2021
+336A,Anchorvale Cres,04 to 06,92,Premium Apartment,2015,93.33,453111,Aug 2021
+336A,Anchorvale Cres,07 to 09,92,Premium Apartment,2015,93.33,490000,Aug 2021
+336C,Anchorvale Cres,13 to 15,92,Premium Apartment,2015,93.42,518000,Aug 2021
+320A,Anchorvale Dr,13 to 15,87,Model A2,2002,80.08,435000,Aug 2021
+303B,Anchorvale Link,07 to 09,88,Model A2,2001,79.08,428000,Aug 2021
+332B,Anchorvale Link,13 to 15,92,Model A,2015,92.92,525000,Aug 2021
+326C,Anchorvale Rd,13 to 15,92,Premium Apartment,2015,92.75,510000,Aug 2021
+330B,Anchorvale St,07 to 09,93,Model A,2015,93,485000,Aug 2021
+330B,Anchorvale St,07 to 09,92,Model A,2015,93.08,490000,Aug 2021
+330B,Anchorvale St,13 to 15,92,Model A,2015,93.08,519999,Aug 2021
+331C,Anchorvale St,04 to 06,92,Model A,2015,93,463888,Aug 2021
+331C,Anchorvale St,10 to 12,92,Model A,2015,93.08,495000,Aug 2021
+264B,Compassvale Bow,01 to 03,92,Premium Apartment,2007,85.08,435000,Aug 2021
+264B,Compassvale Bow,01 to 03,92,Premium Apartment,2007,85.08,445000,Aug 2021
+264E,Compassvale Bow,07 to 09,92,Premium Apartment,2008,85.75,522000,Aug 2021
+265E,Compassvale Bow,16 to 18,92,Premium Apartment,2007,85.08,550000,Aug 2021
+266B,Compassvale Bow,10 to 12,92,Premium Apartment,2007,85.08,520000,Aug 2021
+274B,Compassvale Bow,10 to 12,92,Model A,2017,95.25,630000,Aug 2021
+274C,Compassvale Bow,16 to 18,92,Model A,2017,95.33,625000,Aug 2021
+278A,Compassvale Bow,16 to 18,92,Model A,2017,95.33,615000,Aug 2021
+278A,Compassvale Bow,16 to 18,92,Model A,2017,95.25,622888,Aug 2021
+286A,Compassvale Cres,13 to 15,93,Premium Apartment,2017,95.33,530000,Aug 2021
+286B,Compassvale Cres,04 to 06,93,Premium Apartment,2017,95.25,468000,Aug 2021
+286C,Compassvale Cres,01 to 03,93,Premium Apartment,2017,95.33,500000,Aug 2021
+293A,Compassvale Cres,04 to 06,93,Model A,2016,94.33,470000,Aug 2021
+293C,Compassvale Cres,04 to 06,93,Model A,2016,94.33,485000,Aug 2021
+293D,Compassvale Cres,10 to 12,93,Model A,2016,94.33,516000,Aug 2021
+295A,Compassvale Cres,10 to 12,90,Model A,2002,79.58,406000,Aug 2021
+201A,Compassvale Dr,04 to 06,90,Model A,2001,79.08,410000,Aug 2021
+204A,Compassvale Dr,01 to 03,90,Model A,2000,78.42,420000,Aug 2021
+204B,Compassvale Dr,07 to 09,90,Model A,2001,78.58,440000,Aug 2021
+215A,Compassvale Dr,04 to 06,92,Premium Apartment,2017,94.83,568000,Aug 2021
+215B,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.83,621000,Aug 2021
+216A,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.75,630000,Aug 2021
+216B,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.83,638000,Aug 2021
+216C,Compassvale Dr,04 to 06,92,Premium Apartment,2017,94.75,576000,Aug 2021
+216C,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.83,620000,Aug 2021
+216D,Compassvale Dr,01 to 03,92,Premium Apartment,2017,94.75,580000,Aug 2021
+216D,Compassvale Dr,04 to 06,92,Premium Apartment,2017,94.83,590000,Aug 2021
+216D,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.75,646000,Aug 2021
+217A,Compassvale Dr,04 to 06,92,Premium Apartment,2017,94.83,575000,Aug 2021
+217B,Compassvale Dr,13 to 15,92,Premium Apartment,2017,94.83,638000,Aug 2021
+217B,Compassvale Dr,13 to 15,92,Premium Apartment,2017,94.83,638000,Aug 2021
+217C,Compassvale Dr,01 to 03,92,Premium Apartment,2017,94.75,518000,Aug 2021
+217C,Compassvale Dr,01 to 03,92,Premium Apartment,2017,94.83,565000,Aug 2021
+208A,Compassvale Lane,13 to 15,92,Model A,2011,89.33,500000,Aug 2021
+209B,Compassvale Lane,01 to 03,92,Model A,2011,89.42,425000,Aug 2021
+209B,Compassvale Lane,13 to 15,92,Model A,2011,89.33,478888,Aug 2021
+209C,Compassvale Lane,01 to 03,92,Model A,2011,89.33,418000,Aug 2021
+210A,Compassvale Lane,07 to 09,93,Model A,2013,90.67,462000,Aug 2021
+211A,Compassvale Lane,16 to 18,95,Model A,2013,90.5,530000,Aug 2021
+213B,Compassvale Lane,01 to 03,95,Premium Apartment,2012,90.25,435000,Aug 2021
+213B,Compassvale Lane,04 to 06,95,Premium Apartment,2012,90.17,478000,Aug 2021
+267A,Compassvale Link,01 to 03,91,Premium Apartment,2006,83.5,473000,Aug 2021
+268C,Compassvale Link,13 to 15,90,Premium Apartment,2006,83.5,525000,Aug 2021
+269B,Compassvale Link,01 to 03,90,Premium Apartment,2006,83.58,455000,Aug 2021
+275A,Compassvale Link,13 to 15,90,Premium Apartment,2009,86.92,587000,Aug 2021
+275A,Compassvale Link,13 to 15,92,Premium Apartment,2009,86.92,608000,Aug 2021
+275B,Compassvale Link,04 to 06,90,Premium Apartment,2009,86.83,580000,Aug 2021
+275D,Compassvale Link,01 to 03,90,Premium Apartment,2009,86.92,480000,Aug 2021
+277A,Compassvale Link,04 to 06,90,Premium Apartment,2009,86.92,562000,Aug 2021
+203E,Compassvale Rd,04 to 06,90,Model A,2000,78.33,418000,Aug 2021
+248,Compassvale Rd,07 to 09,96,Model A,2000,77.92,450000,Aug 2021
+291D,Compassvale St,07 to 09,90,Model A,2001,79.17,393000,Aug 2021
+298B,Compassvale St,01 to 03,97,Premium Apartment,2001,79.08,402000,Aug 2021
+298C,Compassvale St,13 to 15,94,Premium Apartment,2001,79.08,425000,Aug 2021
+229,Compassvale Walk,01 to 03,100,Model A,1999,77.17,405000,Aug 2021
+232,Compassvale Walk,04 to 06,101,Model A,1999,76.92,435000,Aug 2021
+234,Compassvale Walk,01 to 03,100,Model A,1999,76.83,400000,Aug 2021
+238,Compassvale Walk,13 to 15,101,Model A,1999,77.25,442000,Aug 2021
+403A,Fernvale Lane,01 to 03,93,Premium Apartment,2004,81.75,395000,Aug 2021
+403B,Fernvale Lane,04 to 06,93,Premium Apartment,2004,81.67,401000,Aug 2021
+403D,Fernvale Lane,10 to 12,92,Premium Apartment,2004,81.92,410000,Aug 2021
+414A,Fernvale Link,07 to 09,93,Model A,2016,93.5,490000,Aug 2021
+414A,Fernvale Link,22 to 24,93,Model A,2016,93.5,500000,Aug 2021
+414A,Fernvale Link,16 to 18,93,Model A,2016,93.5,520000,Aug 2021
+415A,Fernvale Link,04 to 06,93,Model A,2016,93.42,460000,Aug 2021
+415B,Fernvale Link,01 to 03,93,Model A,2016,93.5,450000,Aug 2021
+415B,Fernvale Link,04 to 06,93,Model A,2016,93.5,480000,Aug 2021
+415B,Fernvale Link,10 to 12,93,Model A,2016,93.42,485000,Aug 2021
+415C,Fernvale Link,04 to 06,93,Model A,2016,93.5,460000,Aug 2021
+415C,Fernvale Link,13 to 15,93,Model A,2016,93.42,520000,Aug 2021
+416A,Fernvale Link,19 to 21,93,Model A,2016,93.42,497000,Aug 2021
+416B,Fernvale Link,04 to 06,93,Model A,2016,93.5,452000,Aug 2021
+416C,Fernvale Link,07 to 09,93,Model A,2016,93.5,460000,Aug 2021
+430A,Fernvale Link,07 to 09,92,Model A,2015,92.83,445000,Aug 2021
+430D,Fernvale Link,13 to 15,92,Model A,2015,92.83,458000,Aug 2021
+467A,Fernvale Link,07 to 09,93,Model A,2016,94.08,453000,Aug 2021
+467A,Fernvale Link,13 to 15,93,Model A,2016,94.08,475000,Aug 2021
+467A,Fernvale Link,10 to 12,93,Model A,2016,94,476000,Aug 2021
+468B,Fernvale Link,22 to 24,93,Model A,2016,94,488000,Aug 2021
+470A,Fernvale Link,10 to 12,93,Model A,2016,94.17,470000,Aug 2021
+470B,Fernvale Link,16 to 18,93,Model A,2016,94.17,480000,Aug 2021
+470C,Fernvale Link,25 to 27,93,Model A,2016,94.17,520000,Aug 2021
+406C,Fernvale Rd,16 to 18,91,Premium Apartment,2004,82.33,436000,Aug 2021
+409A,Fernvale Rd,13 to 15,95,Premium Apartment,2004,82.33,435000,Aug 2021
+410C,Fernvale Rd,01 to 03,95,Premium Apartment,2012,90.33,427000,Aug 2021
+411A,Fernvale Rd,10 to 12,95,Premium Apartment,2012,90.33,475000,Aug 2021
+411B,Fernvale Rd,07 to 09,95,Premium Apartment,2012,90.33,460888,Aug 2021
+436B,Fernvale Rd,04 to 06,96,Model A,2010,87.58,465000,Aug 2021
+443C,Fernvale Rd,19 to 21,94,Model A,2012,90.33,500000,Aug 2021
+453B,Fernvale Rd,07 to 09,92,Model A,2015,93,465888,Aug 2021
+453B,Fernvale Rd,16 to 18,92,Model A,2015,93,475000,Aug 2021
+453C,Fernvale Rd,13 to 15,92,Model A,2015,93,472000,Aug 2021
+453D,Fernvale Rd,22 to 24,92,Model A,2015,93,488000,Aug 2021
+471C,Fernvale St,10 to 12,93,Model A,2016,94.17,485000,Aug 2021
+472A,Fernvale St,04 to 06,93,Model A,2016,94.17,438000,Aug 2021
+446B,Jln Kayu,04 to 06,93,Model A,2013,91.25,463000,Aug 2021
+446B,Jln Kayu,10 to 12,93,Model A,2013,91.33,465000,Aug 2021
+154,Rivervale Cres,04 to 06,90,Model A,2005,83.5,360000,Aug 2021
+157B,Rivervale Cres,13 to 15,90,Premium Apartment,2003,81.25,408000,Aug 2021
+163C,Rivervale Cres,07 to 09,93,Model A,2017,94.83,450000,Aug 2021
+178C,Rivervale Cres,13 to 15,93,Model A,2015,92.67,430000,Aug 2021
+178C,Rivervale Cres,07 to 09,93,Model A,2015,92.67,446000,Aug 2021
+121A,Rivervale Dr,04 to 06,91,Model A,2000,77.92,390000,Aug 2021
+124B,Rivervale Dr,10 to 12,92,Model A2,1999,77,398000,Aug 2021
+188D,Rivervale Dr,16 to 18,96,Model A,2000,77.92,405800,Aug 2021
+194,Rivervale Dr,10 to 12,92,Model A,2001,78.83,416888,Aug 2021
+195,Rivervale Dr,10 to 12,91,Model A,2001,79,410000,Aug 2021
+196,Rivervale Dr,16 to 18,91,Model A,2001,78.75,400000,Aug 2021
+127,Rivervale St,13 to 15,100,Model A,1999,77,418000,Aug 2021
+129,Rivervale St,13 to 15,100,Model A,1999,76.92,430000,Aug 2021
+105,Rivervale Walk,07 to 09,102,Model A,1999,76.67,446000,Aug 2021
+270A,Sengkang Ctrl,10 to 12,93,Premium Apartment,2010,87.75,560000,Aug 2021
+271A,Sengkang Ctrl,10 to 12,93,Premium Apartment,2010,87.83,550000,Aug 2021
+271B,Sengkang Ctrl,07 to 09,93,Premium Apartment,2010,87.83,575000,Aug 2021
+271C,Sengkang Ctrl,01 to 03,93,Premium Apartment,2010,87.83,518888,Aug 2021
+271C,Sengkang Ctrl,10 to 12,93,Premium Apartment,2010,87.83,580000,Aug 2021
+272A,Sengkang Ctrl,04 to 06,90,Premium Apartment,2009,87.33,518000,Aug 2021
+272A,Sengkang Ctrl,13 to 15,90,Premium Apartment,2009,87.42,590000,Aug 2021
+272C,Sengkang Ctrl,04 to 06,90,Premium Apartment,2009,87.42,550000,Aug 2021
+281B,Sengkang East Ave,10 to 12,92,Premium Apartment,2015,93.08,540000,Aug 2021
+281B,Sengkang East Ave,07 to 09,92,Premium Apartment,2015,93.08,540000,Aug 2021
+281B,Sengkang East Ave,07 to 09,92,Premium Apartment,2015,93.08,605000,Aug 2021
+282A,Sengkang East Ave,07 to 09,92,Premium Apartment,2015,93,610000,Aug 2021
+122,Sengkang East Way,04 to 06,91,Model A,2000,78.08,375000,Aug 2021
+325B,Sengkang East Way,01 to 03,90,Model A,2003,80.83,385000,Aug 2021
+438B,Sengkang West Ave,25 to 27,94,Model A,2011,88.58,505000,Aug 2021
+439A,Sengkang West Ave,13 to 15,94,Model A,2011,88.5,495000,Aug 2021
+433A,Sengkang West Way,13 to 15,93,Model A,2014,92.33,470000,Aug 2021
+433A,Sengkang West Way,19 to 21,93,Model A,2014,92.25,485000,Aug 2021
+452A,Sengkang West Way,01 to 03,92,Model A,2015,92.83,450000,Aug 2021
+452A,Sengkang West Way,16 to 18,92,Model A,2015,92.83,478000,Aug 2021
+452B,Sengkang West Way,04 to 06,92,Model A,2015,92.83,458000,Aug 2021
+469A,Sengkang West Way,25 to 27,93,Model A,2016,94.08,493000,Aug 2021
+334A,Anchorvale Cres,13 to 15,92,Premium Apartment,2015,93.5,508888,Jul 2021
+335C,Anchorvale Cres,07 to 09,95,Premium Apartment,2015,93.5,524888,Jul 2021
+336A,Anchorvale Cres,07 to 09,92,Premium Apartment,2015,93.5,495000,Jul 2021
+336D,Anchorvale Cres,04 to 06,95,Premium Apartment,2015,93.5,508000,Jul 2021
+336D,Anchorvale Cres,07 to 09,95,Premium Apartment,2015,93.58,530000,Jul 2021
+319C,Anchorvale Dr,10 to 12,90,Model A,2002,80.17,423000,Jul 2021
+320A,Anchorvale Dr,07 to 09,87,Model A2,2002,80.25,443000,Jul 2021
+311C,Anchorvale Lane,07 to 09,93,Premium Apartment,2002,80.42,405000,Jul 2021
+303A,Anchorvale Link,04 to 06,90,Model A,2001,79.17,425000,Jul 2021
+305B,Anchorvale Link,13 to 15,90,Model A,2001,79.5,385000,Jul 2021
+332C,Anchorvale Link,13 to 15,92,Model A,2015,93,528000,Jul 2021
+332C,Anchorvale Link,13 to 15,92,Model A,2015,93,540000,Jul 2021
+333D,Anchorvale Link,04 to 06,92,Model A,2015,93,502000,Jul 2021
+309B,Anchorvale Rd,13 to 15,95,Premium Apartment,2002,80.25,430000,Jul 2021
+309C,Anchorvale Rd,07 to 09,93,Premium Apartment,2002,80.42,400000,Jul 2021
+309D,Anchorvale Rd,01 to 03,93,Premium Apartment,2002,80.42,395000,Jul 2021
+326B,Anchorvale Rd,04 to 06,92,Premium Apartment,2015,92.83,460000,Jul 2021
+327C,Anchorvale Rd,13 to 15,92,Premium Apartment,2015,92.75,500000,Jul 2021
+331C,Anchorvale St,10 to 12,92,Model A,2015,93.08,480000,Jul 2021
+331C,Anchorvale St,13 to 15,92,Model A,2015,93.17,510000,Jul 2021
+265E,Compassvale Bow,10 to 12,92,Premium Apartment,2007,85.17,522000,Jul 2021
+266B,Compassvale Bow,16 to 18,92,Premium Apartment,2007,85.08,540000,Jul 2021
+274A,Compassvale Bow,10 to 12,92,Model A,2017,95.42,606000,Jul 2021
+274A,Compassvale Bow,13 to 15,92,Model A,2017,95.42,620888,Jul 2021
+278A,Compassvale Bow,01 to 03,92,Model A,2017,95.42,540000,Jul 2021
+278A,Compassvale Bow,13 to 15,92,Model A,2017,95.42,606888,Jul 2021
+278B,Compassvale Bow,04 to 06,92,Model A,2017,95.42,560000,Jul 2021
+286A,Compassvale Cres,01 to 03,93,Premium Apartment,2017,95.42,468000,Jul 2021
+293A,Compassvale Cres,07 to 09,93,Model A,2016,94.42,485000,Jul 2021
+293C,Compassvale Cres,10 to 12,93,Model A,2016,94.42,515888,Jul 2021
+296A,Compassvale Cres,04 to 06,90,Model A,2002,79.58,398000,Jul 2021
+201C,Compassvale Dr,07 to 09,90,Model A,2001,79.17,401000,Jul 2021
+204A,Compassvale Dr,10 to 12,92,Model A,2000,78.42,418000,Jul 2021
+204C,Compassvale Dr,04 to 06,90,Model A,2001,78.58,425000,Jul 2021
+216C,Compassvale Dr,07 to 09,92,Premium Apartment,2017,94.92,620000,Jul 2021
+216D,Compassvale Dr,07 to 09,92,Premium Apartment,2017,94.92,638000,Jul 2021
+217B,Compassvale Dr,13 to 15,92,Premium Apartment,2017,94.92,612000,Jul 2021
+217B,Compassvale Dr,13 to 15,92,Premium Apartment,2017,94.92,630000,Jul 2021
+217B,Compassvale Dr,13 to 15,92,Premium Apartment,2017,94.92,647000,Jul 2021
+217C,Compassvale Dr,04 to 06,93,Premium Apartment,2017,94.83,585000,Jul 2021
+206B,Compassvale Lane,13 to 15,102,Model A,1999,77.17,440000,Jul 2021
+207A,Compassvale Lane,04 to 06,92,Model A,2005,82.58,430000,Jul 2021
+209B,Compassvale Lane,04 to 06,92,Model A,2011,89.42,435000,Jul 2021
+210A,Compassvale Lane,16 to 18,97,Model A,2013,90.67,485000,Jul 2021
+210B,Compassvale Lane,13 to 15,95,Model A,2013,90.67,488000,Jul 2021
+211A,Compassvale Lane,13 to 15,95,Model A,2013,90.58,490088,Jul 2021
+211D,Compassvale Lane,01 to 03,93,Model A,2013,90.67,420000,Jul 2021
+213B,Compassvale Lane,07 to 09,95,Premium Apartment,2012,90.33,468000,Jul 2021
+213B,Compassvale Lane,13 to 15,99,Premium Apartment,2012,90.33,485000,Jul 2021
+265A,Compassvale Link,16 to 18,92,Premium Apartment,2008,85.83,575000,Jul 2021
+265B,Compassvale Link,10 to 12,92,Premium Apartment,2008,85.92,608666,Jul 2021
+265C,Compassvale Link,04 to 06,92,Premium Apartment,2008,86,480000,Jul 2021
+269C,Compassvale Link,16 to 18,90,Premium Apartment,2006,83.67,515000,Jul 2021
+275C,Compassvale Link,10 to 12,90,Premium Apartment,2009,87,593000,Jul 2021
+275D,Compassvale Link,04 to 06,90,Premium Apartment,2009,87,585000,Jul 2021
+277B,Compassvale Link,04 to 06,92,Premium Apartment,2009,87.08,580000,Jul 2021
+277B,Compassvale Link,07 to 09,90,Premium Apartment,2009,86.92,585000,Jul 2021
+277B,Compassvale Link,07 to 09,90,Premium Apartment,2009,87,608000,Jul 2021
+277C,Compassvale Link,04 to 06,90,Premium Apartment,2009,87,542000,Jul 2021
+277C,Compassvale Link,13 to 15,90,Premium Apartment,2009,87,580000,Jul 2021
+277D,Compassvale Link,10 to 12,90,Premium Apartment,2009,86.92,590000,Jul 2021
+249,Compassvale Rd,04 to 06,85,Model A2,2000,77.92,435000,Jul 2021
+297B,Compassvale St,01 to 03,94,Premium Apartment,2001,79.17,405000,Jul 2021
+298D,Compassvale St,16 to 18,94,Premium Apartment,2001,79.17,419000,Jul 2021
+225A,Compassvale Walk,07 to 09,102,Model A,1999,77.33,448000,Jul 2021
+226A,Compassvale Walk,07 to 09,102,Model A,1999,77.5,443000,Jul 2021
+226A,Compassvale Walk,10 to 12,102,Model A,1999,77.5,445000,Jul 2021
+230,Compassvale Walk,07 to 09,101,Model A,1999,77.33,410000,Jul 2021
+241,Compassvale Walk,01 to 03,100,Model A,1999,77.33,415000,Jul 2021
+403D,Fernvale Lane,13 to 15,92,Premium Apartment,2004,82,440000,Jul 2021
+414B,Fernvale Link,01 to 03,93,Model A,2016,93.67,430000,Jul 2021
+414B,Fernvale Link,19 to 21,93,Model A,2016,93.58,486000,Jul 2021
+415A,Fernvale Link,07 to 09,93,Model A,2016,93.58,468000,Jul 2021
+430A,Fernvale Link,19 to 21,92,Model A,2015,92.92,490000,Jul 2021
+430A,Fernvale Link,25 to 27,92,Model A,2015,92.83,510000,Jul 2021
+440B,Fernvale Link,13 to 15,92,Model A,2015,93.08,500000,Jul 2021
+467A,Fernvale Link,13 to 15,93,Model A,2016,94.17,465000,Jul 2021
+470A,Fernvale Link,01 to 03,93,Model A,2016,94.17,420000,Jul 2021
+470A,Fernvale Link,19 to 21,93,Model A,2016,94.25,485000,Jul 2021
+470C,Fernvale Link,19 to 21,93,Model A,2016,94.25,450000,Jul 2021
+406A,Fernvale Rd,13 to 15,91,Premium Apartment,2004,82.33,435000,Jul 2021
+408A,Fernvale Rd,10 to 12,95,Premium Apartment,2004,82.5,435000,Jul 2021
+408A,Fernvale Rd,16 to 18,95,Premium Apartment,2004,82.5,440000,Jul 2021
+410A,Fernvale Rd,19 to 21,96,Premium Apartment,2012,90.42,490000,Jul 2021
+410A,Fernvale Rd,22 to 24,96,Premium Apartment,2012,90.42,490000,Jul 2021
+410C,Fernvale Rd,10 to 12,95,Premium Apartment,2012,90.42,465000,Jul 2021
+436B,Fernvale Rd,10 to 12,96,Model A,2010,87.75,480000,Jul 2021
+441D,Fernvale Rd,19 to 21,94,Model A,2012,89.58,485000,Jul 2021
+443B,Fernvale Rd,04 to 06,94,Model A,2012,90.42,412000,Jul 2021
+443B,Fernvale Rd,01 to 03,94,Model A,2012,90.33,425000,Jul 2021
+443C,Fernvale Rd,25 to 27,95,Model A,2012,90.42,475000,Jul 2021
+453B,Fernvale Rd,13 to 15,92,Model A,2015,93.08,475000,Jul 2021
+453B,Fernvale Rd,16 to 18,92,Model A,2015,93.08,478000,Jul 2021
+471B,Fernvale St,22 to 24,93,Model A,2016,94.25,450888,Jul 2021
+471B,Fernvale St,22 to 24,93,Model A,2016,94.25,475000,Jul 2021
+471B,Fernvale St,22 to 24,93,Model A,2016,94.25,485000,Jul 2021
+471B,Fernvale St,22 to 24,93,Model A,2016,94.25,505000,Jul 2021
+471C,Fernvale St,13 to 15,93,Model A,2016,94.25,485000,Jul 2021
+472C,Fernvale St,04 to 06,93,Model A,2016,94.25,467500,Jul 2021
+472C,Fernvale St,10 to 12,93,Model A,2016,94.25,480000,Jul 2021
+446B,Jln Kayu,07 to 09,93,Model A,2013,91.42,435000,Jul 2021
+446B,Jln Kayu,07 to 09,93,Model A,2013,91.42,438000,Jul 2021
+159A,Rivervale Cres,01 to 03,96,Premium Apartment,2003,81.33,412000,Jul 2021
+162A,Rivervale Cres,07 to 09,93,Model A,2017,94.92,450000,Jul 2021
+162B,Rivervale Cres,04 to 06,93,Model A,2017,94.92,438000,Jul 2021
+164B,Rivervale Cres,07 to 09,93,Model A,2017,94.92,450000,Jul 2021
+164C,Rivervale Cres,01 to 03,93,Model A,2017,94.92,405000,Jul 2021
+178A,Rivervale Cres,01 to 03,93,Model A,2015,92.75,405000,Jul 2021
+178A,Rivervale Cres,16 to 18,93,Model A,2015,92.67,430000,Jul 2021
+178A,Rivervale Cres,10 to 12,93,Model A,2015,92.75,442000,Jul 2021
+178B,Rivervale Cres,10 to 12,93,Model A,2015,92.67,439000,Jul 2021
+178B,Rivervale Cres,16 to 18,93,Model A,2015,92.75,443000,Jul 2021
+178D,Rivervale Cres,13 to 15,93,Model A,2015,92.75,432000,Jul 2021
+180C,Rivervale Cres,13 to 15,93,Model A,2015,92.67,432500,Jul 2021
+183D,Rivervale Cres,13 to 15,85,Model A2,2003,81,400000,Jul 2021
+116A,Rivervale Dr,01 to 03,95,Model A,2000,78.08,370000,Jul 2021
+194,Rivervale Dr,04 to 06,91,Model A,2001,78.92,375000,Jul 2021
+194,Rivervale Dr,10 to 12,91,Model A,2001,78.92,404000,Jul 2021
+101,Rivervale Walk,01 to 03,100,Model A,1999,76.75,415000,Jul 2021
+104,Rivervale Walk,16 to 18,104,Model A,1999,76.75,458000,Jul 2021
+106,Rivervale Walk,07 to 09,101,Model A,1999,76.75,410000,Jul 2021
+272C,Sengkang Ctrl,04 to 06,90,Premium Apartment,2009,87.42,532000,Jul 2021
+279B,Sengkang East Ave,07 to 09,92,Premium Apartment,2015,93.17,600000,Jul 2021
+280A,Sengkang East Ave,07 to 09,92,Premium Apartment,2015,93.17,582000,Jul 2021
+280A,Sengkang East Ave,10 to 12,92,Premium Apartment,2015,93.17,585888,Jul 2021
+281A,Sengkang East Ave,10 to 12,92,Premium Apartment,2015,93.17,598000,Jul 2021
+282A,Sengkang East Ave,13 to 15,92,Premium Apartment,2015,93.17,633000,Jul 2021
+202C,Sengkang East Rd,01 to 03,90,Model A,2001,78.92,406000,Jul 2021
+202C,Sengkang East Rd,07 to 09,90,Model A,2001,79,410000,Jul 2021
+324A,Sengkang East Way,10 to 12,85,Model A2,2003,80.75,465000,Jul 2021
+324B,Sengkang East Way,01 to 03,90,Model A,2003,80.83,438888,Jul 2021
+439B,Sengkang West Ave,10 to 12,94,Model A,2011,88.67,455000,Jul 2021
+432A,Sengkang West Way,04 to 06,93,Model A,2014,92.33,430000,Jul 2021
+432B,Sengkang West Way,22 to 24,93,Model A,2014,92.33,488888,Jul 2021
+450A,Sengkang West Way,16 to 18,92,Model A,2014,92.08,463000,Jul 2021
+469B,Sengkang West Way,07 to 09,93,Model A,2016,94.17,458000,Jul 2021
+469C,Sengkang West Way,07 to 09,93,Model A,2016,94.17,420000,Jul 2021
+334B,Anchorvale Cres,07 to 09,92,Premium Apartment,2015,93.58,490000,Jun 2021
+335B,Anchorvale Cres,13 to 15,92,Premium Apartment,2015,93.58,528000,Jun 2021
+336B,Anchorvale Cres,10 to 12,92,Premium Apartment,2015,93.5,503000,Jun 2021
+336D,Anchorvale Cres,10 to 12,92,Premium Apartment,2015,93.5,480000,Jun 2021
+319C,Anchorvale Dr,07 to 09,90,Model A,2002,80.25,430000,Jun 2021
+311B,Anchorvale Lane,04 to 06,95,Premium Apartment,2002,80.33,380000,Jun 2021
+303B,Anchorvale Link,01 to 03,85,Model A2,2001,79.25,378000,Jun 2021
+303B,Anchorvale Link,13 to 15,88,Model A2,2001,79.25,408000,Jun 2021
+303B,Anchorvale Link,10 to 12,88,Model A2,2001,79.25,445000,Jun 2021
+303C,Anchorvale Link,07 to 09,86,Model A2,2001,79.33,418000,Jun 2021
+333A,Anchorvale Link,07 to 09,92,Model A,2015,93.08,500000,Jun 2021
+333B,Anchorvale Link,07 to 09,92,Model A,2015,93.08,510000,Jun 2021
+327A,Anchorvale Rd,04 to 06,92,Premium Apartment,2015,92.92,450000,Jun 2021
+330A,Anchorvale St,01 to 03,93,Model A,2015,93.25,460000,Jun 2021
+330B,Anchorvale St,13 to 15,92,Model A,2015,93.25,502000,Jun 2021
+331B,Anchorvale St,04 to 06,93,Model A,2015,93.25,440000,Jun 2021
+331B,Anchorvale St,07 to 09,93,Model A,2015,93.25,482000,Jun 2021
+264D,Compassvale Bow,10 to 12,92,Premium Apartment,2008,86,515000,Jun 2021
+266C,Compassvale Bow,04 to 06,92,Premium Apartment,2007,85.25,485000,Jun 2021
+274A,Compassvale Bow,04 to 06,92,Model A,2017,95.5,535000,Jun 2021
+286A,Compassvale Cres,10 to 12,93,Premium Apartment,2017,95.5,500000,Jun 2021
+286A,Compassvale Cres,07 to 09,93,Premium Apartment,2017,95.5,512000,Jun 2021
+293A,Compassvale Cres,04 to 06,93,Model A,2016,94.5,480000,Jun 2021
+293A,Compassvale Cres,10 to 12,93,Model A,2016,94.5,510000,Jun 2021
+293C,Compassvale Cres,07 to 09,93,Model A,2016,94.5,481000,Jun 2021
+293C,Compassvale Cres,10 to 12,93,Model A,2016,94.5,510000,Jun 2021
+293C,Compassvale Cres,13 to 15,93,Model A,2016,94.5,515000,Jun 2021
+294A,Compassvale Cres,04 to 06,93,Model A,2016,94.5,468000,Jun 2021
+295A,Compassvale Cres,13 to 15,90,Model A,2002,79.75,385000,Jun 2021
+201B,Compassvale Dr,04 to 06,90,Model A,2001,79.17,428000,Jun 2021
+201C,Compassvale Dr,04 to 06,90,Model A,2001,79.17,420000,Jun 2021
+204C,Compassvale Dr,10 to 12,90,Model A,2001,78.75,432000,Jun 2021
+212A,Compassvale Dr,04 to 06,95,Premium Apartment,2012,90.42,445000,Jun 2021
+212A,Compassvale Dr,10 to 12,95,Premium Apartment,2012,90.42,485000,Jun 2021
+215A,Compassvale Dr,10 to 12,92,Premium Apartment,2017,94.92,618000,Jun 2021
+215B,Compassvale Dr,07 to 09,92,Premium Apartment,2017,95,570000,Jun 2021
+216B,Compassvale Dr,07 to 09,92,Premium Apartment,2017,95,613888,Jun 2021
+217B,Compassvale Dr,07 to 09,92,Premium Apartment,2017,95,582000,Jun 2021
+217C,Compassvale Dr,13 to 15,92,Premium Apartment,2017,95,625000,Jun 2021
+217C,Compassvale Dr,13 to 15,93,Premium Apartment,2017,95,640000,Jun 2021
+227A,Compassvale Dr,04 to 06,102,Model A,1999,77.58,401000,Jun 2021
+227A,Compassvale Dr,01 to 03,101,Model A,1999,77.58,410000,Jun 2021
+211C,Compassvale Lane,01 to 03,93,Model A,2013,90.75,423888,Jun 2021
+211D,Compassvale Lane,04 to 06,93,Model A,2013,90.75,420000,Jun 2021
+213A,Compassvale Lane,13 to 15,100,Premium Apartment,2012,90.42,465000,Jun 2021
+267A,Compassvale Link,16 to 18,90,Premium Apartment,2006,83.75,491888,Jun 2021
+267A,Compassvale Link,07 to 09,90,Premium Apartment,2006,83.75,510000,Jun 2021
+273D,Compassvale Link,07 to 09,90,Premium Apartment,2009,87.25,605000,Jun 2021
+275A,Compassvale Link,13 to 15,92,Premium Apartment,2009,87.08,600000,Jun 2021
+275B,Compassvale Link,10 to 12,90,Premium Apartment,2009,87.08,547500,Jun 2021
+275C,Compassvale Link,07 to 09,92,Premium Apartment,2009,87.08,580000,Jun 2021
+277A,Compassvale Link,13 to 15,90,Premium Apartment,2009,87.08,605000,Jun 2021
+277B,Compassvale Link,01 to 03,90,Premium Apartment,2009,87.08,480000,Jun 2021
+249,Compassvale Rd,10 to 12,85,Model A2,2000,78,420000,Jun 2021
+259B,Compassvale Rd,07 to 09,85,Model A2,2001,78.67,448000,Jun 2021
+224A,Compassvale Walk,01 to 03,102,Model A,1999,76.75,380000,Jun 2021
+230,Compassvale Walk,07 to 09,101,Model A,1999,77.33,420000,Jun 2021
+414B,Fernvale Link,16 to 18,93,Model A,2016,93.67,500000,Jun 2021
+415A,Fernvale Link,04 to 06,93,Model A,2016,93.67,448000,Jun 2021
+415B,Fernvale Link,07 to 09,93,Model A,2016,93.67,480000,Jun 2021
+415C,Fernvale Link,19 to 21,93,Model A,2016,93.67,505000,Jun 2021
+416A,Fernvale Link,13 to 15,93,Model A,2016,93.67,486000,Jun 2021
+430A,Fernvale Link,01 to 03,92,Model A,2015,93,430000,Jun 2021
+430A,Fernvale Link,13 to 15,92,Model A,2015,93,458000,Jun 2021
+430D,Fernvale Link,16 to 18,92,Model A,2015,93,458888,Jun 2021
+440C,Fernvale Link,16 to 18,92,Model A,2015,93.17,468888,Jun 2021
+440C,Fernvale Link,19 to 21,92,Model A,2015,93.17,488000,Jun 2021
+468B,Fernvale Link,13 to 15,93,Model A,2016,94.25,470000,Jun 2021
+470C,Fernvale Link,19 to 21,93,Model A,2016,94.33,500000,Jun 2021
+407A,Fernvale Rd,25 to 27,90,Premium Apartment,2005,82.67,428000,Jun 2021
+407B,Fernvale Rd,10 to 12,90,Premium Apartment,2005,82.67,405000,Jun 2021
+411A,Fernvale Rd,01 to 03,95,Premium Apartment,2012,90.5,360000,Jun 2021
+434B,Fernvale Rd,16 to 18,94,Premium Apartment,2013,91.08,475000,Jun 2021
+441A,Fernvale Rd,01 to 03,93,Model A,2012,89.75,420000,Jun 2021
+441B,Fernvale Rd,10 to 12,92,Model A,2012,89.75,447000,Jun 2021
+441D,Fernvale Rd,04 to 06,93,Model A,2012,89.75,400000,Jun 2021
+441D,Fernvale Rd,10 to 12,93,Model A,2012,89.83,455000,Jun 2021
+445A,Fernvale Rd,19 to 21,94,Model A,2012,90.5,488000,Jun 2021
+453B,Fernvale Rd,10 to 12,92,Model A,2015,93.17,468000,Jun 2021
+453B,Fernvale Rd,16 to 18,92,Model A,2015,93.17,470000,Jun 2021
+453C,Fernvale Rd,16 to 18,92,Model A,2015,93.17,485000,Jun 2021
+471A,Fernvale St,07 to 09,93,Model A,2016,94.33,460000,Jun 2021
+471B,Fernvale St,25 to 27,93,Model A,2016,94.33,460000,Jun 2021
+471B,Fernvale St,13 to 15,93,Model A,2016,94.25,480000,Jun 2021
+471B,Fernvale St,25 to 27,93,Model A,2016,94.33,493000,Jun 2021
+471C,Fernvale St,07 to 09,93,Model A,2016,94.33,480000,Jun 2021
+149,Rivervale Cres,07 to 09,100,Model A,1999,77.25,398000,Jun 2021
+153,Rivervale Cres,04 to 06,90,Model A,2005,83.58,399800,Jun 2021
+162A,Rivervale Cres,16 to 18,93,Model A,2017,95,508000,Jun 2021
+162B,Rivervale Cres,16 to 18,93,Model A,2017,95,457000,Jun 2021
+162B,Rivervale Cres,16 to 18,93,Model A,2017,95,485000,Jun 2021
+164B,Rivervale Cres,10 to 12,93,Model A,2017,95,475000,Jun 2021
+178A,Rivervale Cres,13 to 15,93,Model A,2015,92.83,440000,Jun 2021
+180C,Rivervale Cres,13 to 15,93,Model A,2015,92.83,438000,Jun 2021
+116A,Rivervale Dr,07 to 09,95,Model A,2000,78.17,415000,Jun 2021
+119B,Rivervale Dr,10 to 12,101,Premium Apartment,2001,78.75,445000,Jun 2021
+122D,Rivervale Dr,07 to 09,90,Model A,2000,78.17,383000,Jun 2021
+125,Rivervale St,13 to 15,101,Model A,1999,76.92,450000,Jun 2021
+131,Rivervale St,04 to 06,90,Model A2,1999,77,385000,Jun 2021
+271A,Sengkang Ctrl,07 to 09,93,Premium Apartment,2010,88,548000,Jun 2021
+271A,Sengkang Ctrl,10 to 12,93,Premium Apartment,2010,88,560000,Jun 2021
+271C,Sengkang Ctrl,10 to 12,93,Premium Apartment,2010,88,578000,Jun 2021
+272A,Sengkang Ctrl,10 to 12,90,Premium Apartment,2009,87.58,625000,Jun 2021
+281B,Sengkang East Ave,01 to 03,92,Premium Apartment,2015,93.17,561000,Jun 2021
+281B,Sengkang East Ave,04 to 06,92,Premium Apartment,2015,93.25,576888,Jun 2021
+282C,Sengkang East Ave,04 to 06,92,Premium Apartment,2015,93.25,577000,Jun 2021
+261C,Sengkang East Way,01 to 03,85,Model A2,2000,78.42,440000,Jun 2021
+323C,Sengkang East Way,13 to 15,90,Model A,2003,80.92,438000,Jun 2021
+438A,Sengkang West Ave,04 to 06,94,Model A,2011,88.75,450888,Jun 2021
+439A,Sengkang West Ave,16 to 18,94,Model A,2011,88.75,485000,Jun 2021
+439C,Sengkang West Ave,13 to 15,94,Model A,2011,88.75,450000,Jun 2021
+432A,Sengkang West Way,19 to 21,93,Model A,2014,92.42,475000,Jun 2021
+448A,Sengkang West Way,13 to 15,92,Model A,2014,92.17,470000,Jun 2021
+448A,Sengkang West Way,22 to 24,92,Model A,2014,92.17,470000,Jun 2021
+452B,Sengkang West Way,04 to 06,92,Model A,2015,93,440000,Jun 2021
+469C,Sengkang West Way,04 to 06,93,Model A,2016,94.25,420000,Jun 2021
+334B,Anchorvale Cres,04 to 06,95,Premium Apartment,2015,93.67,455000,May 2021
+335A,Anchorvale Cres,01 to 03,92,Premium Apartment,2015,93.58,470000,May 2021
+335A,Anchorvale Cres,16 to 18,92,Premium Apartment,2015,93.67,488000,May 2021
+335C,Anchorvale Cres,10 to 12,92,Premium Apartment,2015,93.67,500000,May 2021
+336A,Anchorvale Cres,10 to 12,92,Premium Apartment,2015,93.67,480000,May 2021
+336B,Anchorvale Cres,07 to 09,92,Premium Apartment,2015,93.67,490000,May 2021
+322C,Anchorvale Dr,01 to 03,91,Model A,2002,80.08,408000,May 2021
+311C,Anchorvale Lane,01 to 03,95,Premium Apartment,2002,80.58,390000,May 2021
+304A,Anchorvale Link,04 to 06,90,Model A,2002,79.75,382000,May 2021
+332A,Anchorvale Link,07 to 09,92,Model A,2015,93.17,518000,May 2021
+332C,Anchorvale Link,13 to 15,92,Model A,2015,93.17,510000,May 2021
+333D,Anchorvale Link,16 to 18,92,Model A,2015,93.17,523888,May 2021
+308A,Anchorvale Rd,10 to 12,90,Model A,2002,79.83,380000,May 2021
+326B,Anchorvale Rd,13 to 15,92,Premium Apartment,2015,93,480000,May 2021
+327C,Anchorvale Rd,04 to 06,92,Premium Apartment,2015,93,438000,May 2021
+327C,Anchorvale Rd,10 to 12,92,Premium Apartment,2015,93,490000,May 2021
+286C,Compassvale Cres,01 to 03,93,Premium Apartment,2017,95.58,460000,May 2021
+290C,Compassvale Cres,07 to 09,90,Model A,2001,79.58,380000,May 2021
+293A,Compassvale Cres,13 to 15,93,Model A,2016,94.58,520000,May 2021
+293C,Compassvale Cres,01 to 03,93,Model A,2016,94.58,445000,May 2021
+294A,Compassvale Cres,04 to 06,93,Model A,2016,94.5,472888,May 2021
+294A,Compassvale Cres,13 to 15,93,Model A,2016,94.58,528000,May 2021
+295A,Compassvale Cres,13 to 15,89,Model A,2002,79.83,411000,May 2021
+295C,Compassvale Cres,13 to 15,89,Model A,2002,79.92,383000,May 2021
+215B,Compassvale Dr,10 to 12,92,Premium Apartment,2017,95,618888,May 2021
+217A,Compassvale Dr,16 to 18,92,Premium Apartment,2017,95,638000,May 2021
+217B,Compassvale Dr,04 to 06,92,Premium Apartment,2017,95.08,552000,May 2021
+207D,Compassvale Lane,07 to 09,92,Model A,2005,83.17,425000,May 2021
+211A,Compassvale Lane,13 to 15,95,Model A,2013,90.75,480000,May 2021
+211C,Compassvale Lane,13 to 15,97,Model A,2013,90.75,488000,May 2021
+213B,Compassvale Lane,07 to 09,95,Premium Apartment,2012,90.42,475000,May 2021
+267B,Compassvale Link,13 to 15,90,Premium Apartment,2006,83.75,495000,May 2021
+269A,Compassvale Link,13 to 15,90,Premium Apartment,2006,83.83,520000,May 2021
+269C,Compassvale Link,10 to 12,91,Premium Apartment,2006,83.83,505000,May 2021
+269D,Compassvale Link,13 to 15,91,Premium Apartment,2006,83.75,518000,May 2021
+273B,Compassvale Link,16 to 18,90,Premium Apartment,2009,87.33,592888,May 2021
+273D,Compassvale Link,16 to 18,90,Premium Apartment,2009,87.33,610000,May 2021
+275B,Compassvale Link,13 to 15,90,Premium Apartment,2009,87.17,625000,May 2021
+275C,Compassvale Link,01 to 03,90,Premium Apartment,2009,87.17,475000,May 2021
+404A,Fernvale Lane,22 to 24,94,Premium Apartment,2004,82.08,430000,May 2021
+412B,Fernvale Link,10 to 12,95,Premium Apartment,2004,82,420000,May 2021
+414A,Fernvale Link,10 to 12,93,Model A,2016,93.75,490000,May 2021
+416C,Fernvale Link,04 to 06,93,Model A,2016,93.67,455000,May 2021
+416C,Fernvale Link,16 to 18,93,Model A,2016,93.75,478000,May 2021
+416C,Fernvale Link,13 to 15,93,Model A,2016,93.75,530000,May 2021
+430D,Fernvale Link,19 to 21,92,Model A,2015,93.08,455000,May 2021
+440C,Fernvale Link,22 to 24,92,Model A,2015,93.25,495000,May 2021
+467A,Fernvale Link,01 to 03,93,Model A,2016,94.25,398000,May 2021
+468C,Fernvale Link,01 to 03,93,Model A,2016,94.33,425000,May 2021
+468C,Fernvale Link,16 to 18,93,Model A,2016,94.33,460000,May 2021
+470A,Fernvale Link,13 to 15,93,Model A,2016,94.42,469888,May 2021
+470C,Fernvale Link,16 to 18,93,Model A,2016,94.42,475000,May 2021
+406A,Fernvale Rd,13 to 15,90,Premium Apartment,2004,82.58,415000,May 2021
+406B,Fernvale Rd,01 to 03,95,Premium Apartment,2004,82.58,382000,May 2021
+410B,Fernvale Rd,13 to 15,95,Premium Apartment,2012,90.58,488000,May 2021
+410C,Fernvale Rd,16 to 18,95,Premium Apartment,2012,90.58,472000,May 2021
+411B,Fernvale Rd,16 to 18,96,Premium Apartment,2012,90.5,472000,May 2021
+434B,Fernvale Rd,16 to 18,94,Premium Apartment,2013,91.17,470000,May 2021
+435B,Fernvale Rd,07 to 09,94,Premium Apartment,2013,91.17,440000,May 2021
+435C,Fernvale Rd,16 to 18,94,Premium Apartment,2013,91.17,500000,May 2021
+436C,Fernvale Rd,22 to 24,96,Model A,2010,87.83,468000,May 2021
+443A,Fernvale Rd,07 to 09,94,Model A,2012,90.5,465888,May 2021
+443B,Fernvale Rd,25 to 27,95,Model A,2012,90.58,500888,May 2021
+443C,Fernvale Rd,07 to 09,94,Model A,2012,90.5,435888,May 2021
+453C,Fernvale Rd,07 to 09,92,Model A,2015,93.17,450000,May 2021
+471A,Fernvale St,07 to 09,93,Model A,2016,94.42,453000,May 2021
+471A,Fernvale St,25 to 27,93,Model A,2016,94.42,485000,May 2021
+471B,Fernvale St,07 to 09,93,Model A,2016,94.33,451000,May 2021
+471B,Fernvale St,13 to 15,93,Model A,2016,94.33,485000,May 2021
+471C,Fernvale St,10 to 12,93,Model A,2016,94.42,485000,May 2021
+471C,Fernvale St,19 to 21,93,Model A,2016,94.33,495000,May 2021
+178B,Rivervale Cres,16 to 18,93,Model A,2015,92.92,408000,May 2021
+180C,Rivervale Cres,07 to 09,93,Model A,2015,92.92,427000,May 2021
+180C,Rivervale Cres,10 to 12,93,Model A,2015,92.92,430000,May 2021
+180C,Rivervale Cres,13 to 15,93,Model A,2015,92.83,435000,May 2021
+183D,Rivervale Cres,10 to 12,85,Model A2,2003,81.08,376000,May 2021
+184C,Rivervale Cres,13 to 15,86,Model A2,2003,81.17,430000,May 2021
+122E,Rivervale Dr,16 to 18,90,Model A,2000,78.25,415000,May 2021
+124,Rivervale Dr,04 to 06,101,Model A,1999,76.92,395000,May 2021
+124B,Rivervale Dr,04 to 06,90,Model A2,1999,77.25,370000,May 2021
+190B,Rivervale Dr,07 to 09,95,Model A,2000,78.08,385000,May 2021
+105,Rivervale Walk,01 to 03,100,Model A,1999,76.92,408000,May 2021
+272D,Sengkang Ctrl,07 to 09,90,Premium Apartment,2009,87.67,575000,May 2021
+279B,Sengkang East Ave,04 to 06,92,Premium Apartment,2015,93.33,527000,May 2021
+281A,Sengkang East Ave,07 to 09,92,Premium Apartment,2015,93.25,575000,May 2021
+281B,Sengkang East Ave,13 to 15,92,Premium Apartment,2015,93.33,605000,May 2021
+281B,Sengkang East Ave,13 to 15,92,Premium Apartment,2015,93.33,623800,May 2021
+282A,Sengkang East Ave,13 to 15,92,Premium Apartment,2015,93.25,600000,May 2021
+200A,Sengkang East Rd,04 to 06,90,Model A,2001,79.33,400000,May 2021
+122,Sengkang East Way,16 to 18,91,Model A,2000,78.33,400000,May 2021
+439A,Sengkang West Ave,04 to 06,94,Model A,2011,88.83,437000,May 2021
+432A,Sengkang West Way,16 to 18,93,Model A,2014,92.5,465000,May 2021
+432A,Sengkang West Way,16 to 18,93,Model A,2014,92.5,465000,May 2021
+432A,Sengkang West Way,07 to 09,93,Model A,2014,92.5,475000,May 2021
+452B,Sengkang West Way,22 to 24,92,Model A,2015,93.08,465000,May 2021
+469B,Sengkang West Way,16 to 18,93,Model A,2016,94.33,472000,May 2021
+334A,Anchorvale Cres,01 to 03,92,Premium Apartment,2015,93.75,430000,Apr 2021
+334A,Anchorvale Cres,10 to 12,92,Premium Apartment,2015,93.67,505888,Apr 2021
+334B,Anchorvale Cres,13 to 15,95,Premium Apartment,2015,93.67,525000,Apr 2021
+335A,Anchorvale Cres,13 to 15,92,Premium Apartment,2015,93.75,488000,Apr 2021
+321A,Anchorvale Dr,04 to 06,89,Model A,2002,80.5,425000,Apr 2021
+321B,Anchorvale Dr,10 to 12,90,Model A,2002,79.92,390000,Apr 2021
+322C,Anchorvale Dr,04 to 06,91,Model A,2002,80.17,440000,Apr 2021
+311C,Anchorvale Lane,01 to 03,89,Premium Apartment,2002,80.67,360000,Apr 2021
+305D,Anchorvale Link,01 to 03,90,Model A,2002,79.92,370000,Apr 2021
+306C,Anchorvale Link,07 to 09,90,Model A,2002,79.75,390000,Apr 2021
+333A,Anchorvale Link,07 to 09,92,Model A,2015,93.25,485000,Apr 2021
+333C,Anchorvale Link,07 to 09,92,Model A,2015,93.25,478000,Apr 2021
+309D,Anchorvale Rd,04 to 06,90,Premium Apartment,2002,80.58,405000,Apr 2021
+313A,Anchorvale Rd,10 to 12,92,Premium Apartment,2003,81.42,442500,Apr 2021
+329B,Anchorvale St,07 to 09,92,Model A,2015,93.42,475000,Apr 2021
+264C,Compassvale Bow,16 to 18,92,Premium Apartment,2008,86.08,532500,Apr 2021
+265E,Compassvale Bow,01 to 03,92,Premium Apartment,2007,85.42,460000,Apr 2021
+265E,Compassvale Bow,01 to 03,92,Premium Apartment,2007,85.42,485000,Apr 2021
+274A,Compassvale Bow,16 to 18,92,Model A,2017,95.75,600000,Apr 2021
+293A,Compassvale Cres,07 to 09,93,Model A,2016,94.67,500000,Apr 2021
+293C,Compassvale Cres,10 to 12,93,Model A,2016,94.67,510000,Apr 2021
+294A,Compassvale Cres,01 to 03,93,Model A,2016,94.58,450000,Apr 2021
+296A,Compassvale Cres,13 to 15,90,Model A,2002,79.83,378000,Apr 2021
+201A,Compassvale Dr,16 to 18,90,Model A,2001,79.42,418000,Apr 2021
+212B,Compassvale Dr,10 to 12,95,Premium Apartment,2012,90.58,450000,Apr 2021
+215A,Compassvale Dr,10 to 12,92,Premium Apartment,2017,95.17,620000,Apr 2021
+215B,Compassvale Dr,04 to 06,93,Premium Apartment,2017,95.08,568000,Apr 2021
+215B,Compassvale Dr,16 to 18,92,Premium Apartment,2017,95.08,591000,Apr 2021
+216A,Compassvale Dr,13 to 15,92,Premium Apartment,2017,95.08,613888,Apr 2021
+217A,Compassvale Dr,13 to 15,92,Premium Apartment,2017,95.08,630000,Apr 2021
+217B,Compassvale Dr,04 to 06,92,Premium Apartment,2017,95.08,575000,Apr 2021
+205C,Compassvale Lane,13 to 15,102,Model A,1999,77.17,418000,Apr 2021
+208B,Compassvale Lane,10 to 12,92,Model A,2011,89.58,440000,Apr 2021
+209A,Compassvale Lane,01 to 03,92,Model A,2011,89.67,425000,Apr 2021
+211B,Compassvale Lane,04 to 06,93,Model A,2013,90.92,445000,Apr 2021
+213B,Compassvale Lane,10 to 12,95,Premium Apartment,2012,90.58,455000,Apr 2021
+265A,Compassvale Link,07 to 09,92,Premium Apartment,2008,86.08,548000,Apr 2021
+269C,Compassvale Link,01 to 03,90,Premium Apartment,2006,83.83,415888,Apr 2021
+273C,Compassvale Link,07 to 09,90,Premium Apartment,2009,87.42,548888,Apr 2021
+273C,Compassvale Link,13 to 15,90,Premium Apartment,2009,87.33,603000,Apr 2021
+277B,Compassvale Link,07 to 09,90,Premium Apartment,2009,87.17,583000,Apr 2021
+277C,Compassvale Link,13 to 15,90,Premium Apartment,2009,87.17,615000,Apr 2021
+277D,Compassvale Link,04 to 06,90,Premium Apartment,2009,87.25,585000,Apr 2021
+203B,Compassvale Rd,07 to 09,90,Model A,2001,78.92,438000,Apr 2021
+252,Compassvale St,10 to 12,96,Model A,2000,78.58,400000,Apr 2021
+297A,Compassvale St,01 to 03,94,Premium Apartment,2001,79.33,385000,Apr 2021
+226A,Compassvale Walk,13 to 15,102,Model A,1999,77.75,445000,Apr 2021
+230,Compassvale Walk,13 to 15,101,Model A,1999,77.5,413000,Apr 2021
+237,Compassvale Walk,10 to 12,101,Model A,1999,77.58,422800,Apr 2021
+403D,Fernvale Lane,04 to 06,92,Premium Apartment,2004,82.25,400000,Apr 2021
+404B,Fernvale Lane,10 to 12,92,Premium Apartment,2004,82.17,410000,Apr 2021
+413B,Fernvale Link,13 to 15,95,Premium Apartment,2004,81.92,435888,Apr 2021
+414B,Fernvale Link,19 to 21,93,Model A,2016,93.83,500000,Apr 2021
+416A,Fernvale Link,16 to 18,93,Model A,2016,93.83,470000,Apr 2021
+416A,Fernvale Link,13 to 15,93,Model A,2016,93.83,480000,Apr 2021
+416C,Fernvale Link,19 to 21,93,Model A,2016,93.83,460888,Apr 2021
+416C,Fernvale Link,19 to 21,93,Model A,2016,93.75,465000,Apr 2021
+430B,Fernvale Link,16 to 18,92,Model A,2015,93.17,458000,Apr 2021
+440C,Fernvale Link,01 to 03,92,Model A,2015,93.25,425000,Apr 2021
+440C,Fernvale Link,10 to 12,92,Model A,2015,93.33,440000,Apr 2021
+467A,Fernvale Link,10 to 12,93,Model A,2016,94.42,455000,Apr 2021
+468A,Fernvale Link,19 to 21,93,Model A,2016,94.5,455000,Apr 2021
+468A,Fernvale Link,10 to 12,93,Model A,2016,94.33,463888,Apr 2021
+468B,Fernvale Link,13 to 15,93,Model A,2016,94.42,450000,Apr 2021
+468B,Fernvale Link,07 to 09,93,Model A,2016,94.42,450000,Apr 2021
+468B,Fernvale Link,25 to 27,93,Model A,2016,94.42,488000,Apr 2021
+468C,Fernvale Link,19 to 21,93,Model A,2016,94.33,450000,Apr 2021
+408B,Fernvale Rd,22 to 24,95,Premium Apartment,2004,82.42,428888,Apr 2021
+411A,Fernvale Rd,10 to 12,95,Premium Apartment,2012,90.58,445000,Apr 2021
+434A,Fernvale Rd,19 to 21,94,Premium Apartment,2013,91.17,500888,Apr 2021
+435B,Fernvale Rd,01 to 03,94,Premium Apartment,2013,91.25,420000,Apr 2021
+435B,Fernvale Rd,10 to 12,94,Premium Apartment,2013,91.17,478000,Apr 2021
+435C,Fernvale Rd,07 to 09,94,Premium Apartment,2013,91.25,440000,Apr 2021
+436A,Fernvale Rd,22 to 24,96,Model A,2010,87.92,466000,Apr 2021
+443B,Fernvale Rd,10 to 12,94,Model A,2012,90.58,430000,Apr 2021
+453B,Fernvale Rd,07 to 09,92,Model A,2015,93.42,435000,Apr 2021
+453B,Fernvale Rd,22 to 24,92,Model A,2015,93.33,510000,Apr 2021
+453C,Fernvale Rd,07 to 09,92,Model A,2015,93.33,430000,Apr 2021
+453C,Fernvale Rd,13 to 15,92,Model A,2015,93.33,468888,Apr 2021
+453D,Fernvale Rd,10 to 12,92,Model A,2015,93.33,468000,Apr 2021
+471A,Fernvale St,13 to 15,93,Model A,2016,94.5,467000,Apr 2021
+471A,Fernvale St,25 to 27,93,Model A,2016,94.5,469000,Apr 2021
+471B,Fernvale St,04 to 06,93,Model A,2016,94.5,435000,Apr 2021
+446B,Jln Kayu,04 to 06,93,Model A,2013,91.58,452000,Apr 2021
+158A,Rivervale Cres,04 to 06,94,Premium Apartment,2003,81.67,395000,Apr 2021
+162A,Rivervale Cres,01 to 03,93,Model A,2017,95.17,413000,Apr 2021
+162A,Rivervale Cres,04 to 06,93,Model A,2017,95.08,433000,Apr 2021
+162B,Rivervale Cres,07 to 09,93,Model A,2017,95.08,425000,Apr 2021
+162B,Rivervale Cres,04 to 06,93,Model A,2017,95.17,435000,Apr 2021
+162B,Rivervale Cres,10 to 12,93,Model A,2017,95.17,460000,Apr 2021
+163B,Rivervale Cres,16 to 18,93,Model A,2017,95.17,470000,Apr 2021
+163B,Rivervale Cres,13 to 15,93,Model A,2017,95.08,470000,Apr 2021
+163C,Rivervale Cres,01 to 03,93,Model A,2017,95.08,420000,Apr 2021
+164B,Rivervale Cres,16 to 18,93,Model A,2017,95.17,462000,Apr 2021
+164C,Rivervale Cres,16 to 18,93,Model A,2017,95.17,470000,Apr 2021
+178B,Rivervale Cres,13 to 15,93,Model A,2015,93,435000,Apr 2021
+178C,Rivervale Cres,01 to 03,93,Model A,2015,93,385000,Apr 2021
+178C,Rivervale Cres,04 to 06,93,Model A,2015,92.92,420000,Apr 2021
+178D,Rivervale Cres,16 to 18,93,Model A,2015,92.92,430000,Apr 2021
+180C,Rivervale Cres,10 to 12,93,Model A,2015,93,420000,Apr 2021
+183B,Rivervale Cres,16 to 18,90,Model A,2003,81.17,390000,Apr 2021
+183C,Rivervale Cres,16 to 18,90,Model A,2003,81.08,405000,Apr 2021
+183D,Rivervale Cres,04 to 06,85,Model A2,2003,81.25,360000,Apr 2021
+184B,Rivervale Cres,16 to 18,90,Model A,2003,81.25,398000,Apr 2021
+184C,Rivervale Cres,07 to 09,85,Model A2,2003,81.17,375000,Apr 2021
+184C,Rivervale Cres,13 to 15,86,Model A2,2003,81.25,383000,Apr 2021
+120C,Rivervale Dr,07 to 09,101,Premium Apartment,2001,79,408000,Apr 2021
+124C,Rivervale Dr,07 to 09,90,Model A2,1999,77.25,385000,Apr 2021
+194,Rivervale Dr,10 to 12,91,Model A,2001,79.17,373000,Apr 2021
+194,Rivervale Dr,13 to 15,91,Model A,2001,79.08,390000,Apr 2021
+130,Rivervale St,07 to 09,101,Model A,1999,77,425000,Apr 2021
+111,Rivervale Walk,16 to 18,100,Model A,1998,76.67,415000,Apr 2021
+272A,Sengkang Ctrl,13 to 15,90,Premium Apartment,2009,87.75,563000,Apr 2021
+272A,Sengkang Ctrl,04 to 06,90,Premium Apartment,2009,87.75,585000,Apr 2021
+272D,Sengkang Ctrl,10 to 12,90,Premium Apartment,2009,87.67,585000,Apr 2021
+280A,Sengkang East Ave,04 to 06,92,Premium Apartment,2015,93.42,520000,Apr 2021
+282C,Sengkang East Ave,01 to 03,92,Premium Apartment,2015,93.42,550000,Apr 2021
+122,Sengkang East Way,01 to 03,91,Model A,2000,78.42,365000,Apr 2021
+260A,Sengkang East Way,01 to 03,90,Model A,2001,78.83,416000,Apr 2021
+438A,Sengkang West Ave,13 to 15,94,Model A,2011,88.92,463000,Apr 2021
+438B,Sengkang West Ave,25 to 27,94,Model A,2011,88.83,475000,Apr 2021
+439A,Sengkang West Ave,10 to 12,94,Model A,2011,88.92,451000,Apr 2021
+433A,Sengkang West Way,10 to 12,93,Model A,2014,92.58,450000,Apr 2021
+433B,Sengkang West Way,13 to 15,93,Model A,2014,92.5,448000,Apr 2021
+448A,Sengkang West Way,22 to 24,92,Model A,2014,92.33,455000,Apr 2021
+450A,Sengkang West Way,04 to 06,92,Model A,2014,92.33,425000,Apr 2021
+451B,Sengkang West Way,04 to 06,92,Model A,2015,93.08,445000,Apr 2021
+452A,Sengkang West Way,07 to 09,92,Model A,2015,93.08,470000,Apr 2021
+469B,Sengkang West Way,19 to 21,93,Model A,2016,94.33,472000,Apr 2021
+469C,Sengkang West Way,25 to 27,93,Model A,2016,94.42,465000,Apr 2021
+469C,Sengkang West Way,10 to 12,93,Model A,2016,94.33,480000,Apr 2021
+334A,Anchorvale Cres,01 to 03,92,Premium Apartment,2015,93.75,430000,Mar 2021
+334C,Anchorvale Cres,10 to 12,95,Premium Apartment,2015,93.75,502000,Mar 2021
+335B,Anchorvale Cres,01 to 03,92,Premium Apartment,2015,93.83,435000,Mar 2021
+336D,Anchorvale Cres,01 to 03,92,Premium Apartment,2015,93.83,415000,Mar 2021
+319B,Anchorvale Dr,01 to 03,90,Model A,2002,80.42,376000,Mar 2021
+333D,Anchorvale Link,07 to 09,92,Model A,2015,93.25,502000,Mar 2021
+333D,Anchorvale Link,13 to 15,92,Model A,2015,93.33,511000,Mar 2021
+309B,Anchorvale Rd,10 to 12,90,Premium Apartment,2002,80.58,370000,Mar 2021
+327A,Anchorvale Rd,01 to 03,92,Premium Apartment,2015,93.17,425000,Mar 2021
+331B,Anchorvale St,01 to 03,92,Model A,2015,93.42,435000,Mar 2021
+264E,Compassvale Bow,04 to 06,92,Premium Apartment,2008,86.17,470000,Mar 2021
+290A,Compassvale Cres,13 to 15,90,Model A,2002,79.92,422000,Mar 2021
+293C,Compassvale Cres,10 to 12,93,Model A,2016,94.75,512888,Mar 2021
+294A,Compassvale Cres,04 to 06,93,Model A,2016,94.75,465000,Mar 2021
+296B,Compassvale Cres,13 to 15,89,Model A,2002,79.92,365000,Mar 2021
+212A,Compassvale Dr,10 to 12,95,Premium Apartment,2012,90.58,462000,Mar 2021
+216A,Compassvale Dr,16 to 18,92,Premium Apartment,2017,95.17,628000,Mar 2021
+208A,Compassvale Lane,13 to 15,92,Model A,2011,89.67,460000,Mar 2021
+211B,Compassvale Lane,07 to 09,93,Model A,2013,91,432000,Mar 2021
+267B,Compassvale Link,07 to 09,90,Premium Apartment,2006,83.92,478000,Mar 2021
+268A,Compassvale Link,01 to 03,90,Premium Apartment,2006,83.92,441000,Mar 2021
+268C,Compassvale Link,10 to 12,90,Premium Apartment,2006,84,486000,Mar 2021
+273C,Compassvale Link,01 to 03,90,Premium Apartment,2009,87.5,472000,Mar 2021
+273C,Compassvale Link,16 to 18,90,Premium Apartment,2009,87.42,619000,Mar 2021
+224A,Compassvale Walk,07 to 09,102,Model A,1999,76.92,420000,Mar 2021
+236,Compassvale Walk,01 to 03,100,Model A,1999,77.33,390000,Mar 2021
+403B,Fernvale Lane,16 to 18,93,Premium Apartment,2004,82,420000,Mar 2021
+404B,Fernvale Lane,22 to 24,92,Premium Apartment,2004,82.25,450000,Mar 2021
+414B,Fernvale Link,16 to 18,93,Model A,2016,93.92,450000,Mar 2021
+415A,Fernvale Link,07 to 09,93,Model A,2016,94,462888,Mar 2021
+415B,Fernvale Link,04 to 06,93,Model A,2016,93.92,430000,Mar 2021
+415B,Fernvale Link,07 to 09,93,Model A,2016,93.92,467000,Mar 2021
+415B,Fernvale Link,19 to 21,93,Model A,2016,93.92,515000,Mar 2021
+415C,Fernvale Link,16 to 18,93,Model A,2016,93.92,455000,Mar 2021
+415C,Fernvale Link,10 to 12,93,Model A,2016,93.83,477000,Mar 2021
+430B,Fernvale Link,04 to 06,92,Model A,2015,93.17,438000,Mar 2021
+430C,Fernvale Link,19 to 21,92,Model A,2015,93.25,438000,Mar 2021
+430C,Fernvale Link,19 to 21,92,Model A,2015,93.42,455000,Mar 2021
+440A,Fernvale Link,07 to 09,92,Model A,2015,93.42,438000,Mar 2021
+440A,Fernvale Link,10 to 12,92,Model A,2015,93.42,458000,Mar 2021
+468A,Fernvale Link,10 to 12,93,Model A,2016,94.42,452888,Mar 2021
+470A,Fernvale Link,04 to 06,93,Model A,2016,94.58,418000,Mar 2021
+470A,Fernvale Link,04 to 06,93,Model A,2016,94.5,425000,Mar 2021
+470B,Fernvale Link,04 to 06,93,Model A,2016,94.5,440000,Mar 2021
+470C,Fernvale Link,13 to 15,93,Model A,2016,94.5,440000,Mar 2021
+470C,Fernvale Link,13 to 15,93,Model A,2016,94.58,470000,Mar 2021
+407B,Fernvale Rd,13 to 15,90,Premium Apartment,2005,82.92,392000,Mar 2021
+408A,Fernvale Rd,16 to 18,95,Premium Apartment,2004,82.75,428888,Mar 2021
+410A,Fernvale Rd,13 to 15,95,Premium Apartment,2012,90.67,465888,Mar 2021
+410C,Fernvale Rd,04 to 06,95,Premium Apartment,2012,90.75,442000,Mar 2021
+411A,Fernvale Rd,04 to 06,95,Premium Apartment,2012,90.75,418000,Mar 2021
+435A,Fernvale Rd,19 to 21,94,Premium Apartment,2013,91.25,465000,Mar 2021
+435C,Fernvale Rd,22 to 24,94,Premium Apartment,2013,91.33,470000,Mar 2021
+436C,Fernvale Rd,16 to 18,96,Model A,2010,88,450000,Mar 2021
+436C,Fernvale Rd,19 to 21,96,Model A,2010,88.08,462000,Mar 2021
+441A,Fernvale Rd,07 to 09,93,Model A,2012,90,445000,Mar 2021
+441B,Fernvale Rd,22 to 24,94,Model A,2012,90,450000,Mar 2021
+443B,Fernvale Rd,19 to 21,94,Model A,2012,90.67,476800,Mar 2021
+453B,Fernvale Rd,10 to 12,92,Model A,2015,93.42,455000,Mar 2021
+471C,Fernvale St,13 to 15,93,Model A,2016,94.58,475000,Mar 2021
+446C,Jln Kayu,10 to 12,93,Model A,2013,91.83,433888,Mar 2021
+157A,Rivervale Cres,04 to 06,94,Premium Apartment,2003,81.58,400000,Mar 2021
+162A,Rivervale Cres,04 to 06,93,Model A,2017,95.25,425000,Mar 2021
+162A,Rivervale Cres,16 to 18,93,Model A,2017,95.17,470000,Mar 2021
+162A,Rivervale Cres,16 to 18,93,Model A,2017,95.25,472888,Mar 2021
+162B,Rivervale Cres,07 to 09,93,Model A,2017,95.25,440000,Mar 2021
+162C,Rivervale Cres,13 to 15,93,Model A,2017,95.17,462500,Mar 2021
+163A,Rivervale Cres,10 to 12,93,Model A,2017,95.25,440000,Mar 2021
+163B,Rivervale Cres,10 to 12,93,Model A,2017,95.25,445000,Mar 2021
+164B,Rivervale Cres,16 to 18,93,Model A,2017,95.25,465000,Mar 2021
+164C,Rivervale Cres,04 to 06,93,Model A,2017,95.17,415000,Mar 2021
+178B,Rivervale Cres,16 to 18,93,Model A,2015,93,440000,Mar 2021
+180C,Rivervale Cres,07 to 09,93,Model A,2015,93,408000,Mar 2021
+185B,Rivervale Cres,04 to 06,85,Model A2,2000,78.75,350000,Mar 2021
+116B,Rivervale Dr,01 to 03,95,Model A,2000,78.42,368000,Mar 2021
+131,Rivervale St,10 to 12,96,Model A2,1999,77.17,408000,Mar 2021
+106,Rivervale Walk,04 to 06,100,Model A,1999,76.92,395000,Mar 2021
+271B,Sengkang Ctrl,01 to 03,93,Premium Apartment,2010,88.25,415000,Mar 2021
+282A,Sengkang East Ave,13 to 15,92,Premium Apartment,2015,93.42,610000,Mar 2021
+439B,Sengkang West Ave,07 to 09,94,Model A,2011,89,445000,Mar 2021
+439C,Sengkang West Ave,04 to 06,94,Model A,2011,88.92,420000,Mar 2021
+432A,Sengkang West Way,19 to 21,93,Model A,2014,92.67,460000,Mar 2021
+432B,Sengkang West Way,07 to 09,93,Model A,2014,92.67,438000,Mar 2021
+433B,Sengkang West Way,16 to 18,93,Model A,2014,92.58,450888,Mar 2021
+450A,Sengkang West Way,10 to 12,92,Model A,2014,92.33,450000,Mar 2021
+469C,Sengkang West Way,22 to 24,93,Model A,2016,94.58,465000,Mar 2021
+334C,Anchorvale Cres,07 to 09,92,Premium Apartment,2015,93.83,467500,Feb 2021
+335C,Anchorvale Cres,01 to 03,92,Premium Apartment,2015,93.92,430000,Feb 2021
+335C,Anchorvale Cres,04 to 06,95,Premium Apartment,2015,93.92,480000,Feb 2021
+336A,Anchorvale Cres,10 to 12,92,Premium Apartment,2015,93.83,500000,Feb 2021
+320A,Anchorvale Dr,04 to 06,85,Model A2,2002,80.67,370000,Feb 2021
+321B,Anchorvale Dr,10 to 12,90,Model A,2002,80.08,435000,Feb 2021
+322A,Anchorvale Dr,04 to 06,86,Model A2,2002,80.25,412000,Feb 2021
+318A,Anchorvale Link,04 to 06,92,Premium Apartment,2003,81.33,417000,Feb 2021
+318D,Anchorvale Link,13 to 15,92,Premium Apartment,2003,81.17,445000,Feb 2021
+332A,Anchorvale Link,13 to 15,92,Model A,2015,93.42,500000,Feb 2021
+332A,Anchorvale Link,13 to 15,92,Model A,2015,93.42,520000,Feb 2021
+332C,Anchorvale Link,04 to 06,92,Model A,2015,93.33,460000,Feb 2021
+333B,Anchorvale Link,04 to 06,92,Model A,2015,93.42,468000,Feb 2021
+307C,Anchorvale Rd,13 to 15,90,Model A,2001,79.83,381000,Feb 2021
+326D,Anchorvale Rd,04 to 06,92,Premium Apartment,2015,93.17,448000,Feb 2021
+326D,Anchorvale Rd,10 to 12,92,Premium Apartment,2015,93.25,460000,Feb 2021
+329A,Anchorvale St,04 to 06,92,Model A,2015,93.58,422000,Feb 2021
+264E,Compassvale Bow,01 to 03,92,Premium Apartment,2008,86.25,435000,Feb 2021
+264F,Compassvale Bow,07 to 09,92,Premium Apartment,2008,86.67,496000,Feb 2021
+264F,Compassvale Bow,07 to 09,92,Premium Apartment,2008,86.67,528000,Feb 2021
+293C,Compassvale Cres,13 to 15,93,Model A,2016,94.83,482888,Feb 2021
+293D,Compassvale Cres,04 to 06,93,Model A,2016,94.83,445000,Feb 2021
+293D,Compassvale Cres,10 to 12,93,Model A,2016,94.92,485000,Feb 2021
+293D,Compassvale Cres,13 to 15,93,Model A,2016,94.75,508888,Feb 2021
+294A,Compassvale Cres,07 to 09,93,Model A,2016,94.75,470000,Feb 2021
+212B,Compassvale Dr,10 to 12,98,Premium Apartment,2012,90.75,480000,Feb 2021
+215B,Compassvale Dr,01 to 03,92,Premium Apartment,2017,95.33,500000,Feb 2021
+215B,Compassvale Dr,04 to 06,93,Premium Apartment,2017,95.33,550000,Feb 2021
+216A,Compassvale Dr,07 to 09,92,Premium Apartment,2017,95.33,580000,Feb 2021
+216B,Compassvale Dr,10 to 12,92,Premium Apartment,2017,95.25,588888,Feb 2021
+207D,Compassvale Lane,07 to 09,92,Model A,2005,83.42,406000,Feb 2021
+211B,Compassvale Lane,04 to 06,93,Model A,2013,91.08,445000,Feb 2021
+268A,Compassvale Link,13 to 15,90,Premium Apartment,2006,84.17,470000,Feb 2021
+268B,Compassvale Link,16 to 18,91,Premium Apartment,2006,84.08,520000,Feb 2021
+269B,Compassvale Link,01 to 03,90,Premium Apartment,2006,84,448000,Feb 2021
+273C,Compassvale Link,10 to 12,90,Premium Apartment,2009,87.58,608000,Feb 2021
+277C,Compassvale Link,13 to 15,90,Premium Apartment,2009,87.42,580000,Feb 2021
+247,Compassvale Rd,10 to 12,85,Model A2,2000,78.25,450000,Feb 2021
+230,Compassvale Walk,07 to 09,100,Model A,1999,77.67,392000,Feb 2021
+230,Compassvale Walk,04 to 06,101,Model A,1999,77.58,404000,Feb 2021
+415A,Fernvale Link,19 to 21,93,Model A,2016,94,480000,Feb 2021
+415B,Fernvale Link,13 to 15,93,Model A,2016,93.92,485000,Feb 2021
+440A,Fernvale Link,07 to 09,92,Model A,2015,93.5,420000,Feb 2021
+440A,Fernvale Link,22 to 24,92,Model A,2015,93.42,450000,Feb 2021
+440A,Fernvale Link,19 to 21,92,Model A,2015,93.42,470000,Feb 2021
+440B,Fernvale Link,04 to 06,92,Model A,2015,93.5,425000,Feb 2021
+467B,Fernvale Link,16 to 18,93,Model A,2016,94.5,428000,Feb 2021
+468C,Fernvale Link,13 to 15,93,Model A,2016,94.58,450000,Feb 2021
+470A,Fernvale Link,10 to 12,93,Model A,2016,94.67,442888,Feb 2021
+470B,Fernvale Link,10 to 12,93,Model A,2016,94.58,452000,Feb 2021
+470B,Fernvale Link,22 to 24,93,Model A,2016,94.67,469000,Feb 2021
+470C,Fernvale Link,16 to 18,93,Model A,2016,94.67,450000,Feb 2021
+470C,Fernvale Link,22 to 24,93,Model A,2016,94.67,471000,Feb 2021
+407B,Fernvale Rd,25 to 27,90,Premium Apartment,2005,83,409000,Feb 2021
+410A,Fernvale Rd,13 to 15,95,Premium Apartment,2012,90.83,465000,Feb 2021
+435A,Fernvale Rd,07 to 09,94,Premium Apartment,2013,91.42,427000,Feb 2021
+441B,Fernvale Rd,19 to 21,94,Model A,2012,90.08,458000,Feb 2021
+441C,Fernvale Rd,19 to 21,93,Model A,2012,90.08,475000,Feb 2021
+441D,Fernvale Rd,13 to 15,92,Model A,2012,90.08,435000,Feb 2021
+445B,Fernvale Rd,22 to 24,94,Model A,2012,90.83,300000,Feb 2021
+453B,Fernvale Rd,07 to 09,92,Model A,2015,93.42,440000,Feb 2021
+471A,Fernvale St,04 to 06,93,Model A,2016,94.67,451000,Feb 2021
+471B,Fernvale St,22 to 24,93,Model A,2016,94.67,460000,Feb 2021
+471B,Fernvale St,16 to 18,93,Model A,2016,94.67,465000,Feb 2021
+471B,Fernvale St,22 to 24,93,Model A,2016,94.58,480000,Feb 2021
+471C,Fernvale St,19 to 21,93,Model A,2016,94.67,505000,Feb 2021
+472B,Fernvale St,22 to 24,93,Model A,2016,94.58,472000,Feb 2021
+149,Rivervale Cres,01 to 03,100,Model A,1999,77.67,385000,Feb 2021
+156,Rivervale Cres,10 to 12,90,Model A,2005,83.92,385000,Feb 2021
+158A,Rivervale Cres,13 to 15,94,Premium Apartment,2003,81.75,390000,Feb 2021
+162C,Rivervale Cres,10 to 12,93,Model A,2017,95.33,445000,Feb 2021
+163C,Rivervale Cres,01 to 03,93,Model A,2017,95.25,410000,Feb 2021
+164B,Rivervale Cres,10 to 12,93,Model A,2017,95.33,458888,Feb 2021
+164C,Rivervale Cres,10 to 12,93,Model A,2017,95.33,450000,Feb 2021
+178B,Rivervale Cres,10 to 12,93,Model A,2015,93.17,408000,Feb 2021
+178B,Rivervale Cres,13 to 15,93,Model A,2015,93.17,430000,Feb 2021
+183B,Rivervale Cres,07 to 09,90,Model A,2003,81.25,360000,Feb 2021
+183D,Rivervale Cres,01 to 03,85,Model A2,2003,81.33,343000,Feb 2021
+185C,Rivervale Cres,01 to 03,91,Model A2,2000,78.83,366000,Feb 2021
+116B,Rivervale Dr,10 to 12,95,Model A,2000,78.5,370000,Feb 2021
+117B,Rivervale Dr,01 to 03,95,Model A,2000,78.42,365000,Feb 2021
+186C,Rivervale Dr,13 to 15,90,Model A,2001,79,370000,Feb 2021
+188B,Rivervale Dr,10 to 12,96,Model A,2000,78.58,356000,Feb 2021
+190A,Rivervale Dr,07 to 09,96,Model A,2000,78.33,376000,Feb 2021
+141,Rivervale St,13 to 15,100,Model A,1999,77.25,395000,Feb 2021
+272C,Sengkang Ctrl,07 to 09,90,Premium Apartment,2009,87.92,545000,Feb 2021
+281A,Sengkang East Ave,01 to 03,92,Premium Apartment,2015,93.5,525000,Feb 2021
+324B,Sengkang East Way,07 to 09,90,Model A,2003,81.17,453000,Feb 2021
+438A,Sengkang West Ave,07 to 09,94,Model A,2011,89.08,420000,Feb 2021
+438A,Sengkang West Ave,13 to 15,94,Model A,2011,89,480000,Feb 2021
+438B,Sengkang West Ave,13 to 15,94,Model A,2011,89,443000,Feb 2021
+432A,Sengkang West Way,13 to 15,93,Model A,2014,92.75,438888,Feb 2021
+433B,Sengkang West Way,13 to 15,93,Model A,2014,92.67,448000,Feb 2021
+448A,Sengkang West Way,19 to 21,92,Model A,2014,92.5,455000,Feb 2021
+450A,Sengkang West Way,07 to 09,92,Model A,2014,92.5,418000,Feb 2021
+452A,Sengkang West Way,16 to 18,92,Model A,2015,93.25,455000,Feb 2021
+469A,Sengkang West Way,07 to 09,93,Model A,2016,94.58,438000,Feb 2021
+469A,Sengkang West Way,07 to 09,93,Model A,2016,94.58,450000,Feb 2021
+469B,Sengkang West Way,13 to 15,93,Model A,2016,94.58,445000,Feb 2021
+469C,Sengkang West Way,22 to 24,93,Model A,2016,94.58,460000,Feb 2021
+334B,Anchorvale Cres,10 to 12,95,Premium Apartment,2015,94,475000,Jan 2021
+334B,Anchorvale Cres,07 to 09,95,Premium Apartment,2015,94,488888,Jan 2021
+334C,Anchorvale Cres,16 to 18,95,Premium Apartment,2015,93.92,515000,Jan 2021
+335B,Anchorvale Cres,07 to 09,92,Premium Apartment,2015,94,472888,Jan 2021
+336A,Anchorvale Cres,10 to 12,92,Premium Apartment,2015,93.92,488888,Jan 2021
+336B,Anchorvale Cres,13 to 15,92,Premium Apartment,2015,94,495000,Jan 2021
+336C,Anchorvale Cres,07 to 09,92,Premium Apartment,2015,93.92,490000,Jan 2021
+322A,Anchorvale Dr,13 to 15,86,Model A2,2002,80.33,438000,Jan 2021
+303B,Anchorvale Link,04 to 06,85,Model A2,2001,79.67,365000,Jan 2021
+303B,Anchorvale Link,01 to 03,88,Model A2,2001,79.58,385000,Jan 2021
+306C,Anchorvale Link,10 to 12,90,Model A,2002,80.08,370000,Jan 2021
+332A,Anchorvale Link,16 to 18,92,Model A,2015,93.5,488000,Jan 2021
+332B,Anchorvale Link,04 to 06,92,Model A,2015,93.5,440000,Jan 2021
+333A,Anchorvale Link,01 to 03,92,Model A,2015,93.5,418000,Jan 2021
+333A,Anchorvale Link,04 to 06,92,Model A,2015,93.42,450000,Jan 2021
+333A,Anchorvale Link,10 to 12,92,Model A,2015,93.42,495000,Jan 2021
+333C,Anchorvale Link,04 to 06,92,Model A,2015,93.5,450000,Jan 2021
+333C,Anchorvale Link,13 to 15,92,Model A,2015,93.5,485000,Jan 2021
+307D,Anchorvale Rd,07 to 09,90,Model A,2001,79.83,370000,Jan 2021
+308A,Anchorvale Rd,04 to 06,90,Model A,2002,80.17,368000,Jan 2021
+326B,Anchorvale Rd,07 to 09,92,Premium Apartment,2015,93.25,472888,Jan 2021
+327C,Anchorvale Rd,07 to 09,92,Premium Apartment,2015,93.33,467000,Jan 2021
+329A,Anchorvale St,01 to 03,93,Model A,2015,93.67,430000,Jan 2021
+331C,Anchorvale St,07 to 09,92,Model A,2015,93.67,480000,Jan 2021
+264F,Compassvale Bow,07 to 09,92,Premium Apartment,2008,86.67,520000,Jan 2021
+293A,Compassvale Cres,01 to 03,93,Model A,2016,94.92,435000,Jan 2021
+293C,Compassvale Cres,10 to 12,93,Model A,2016,94.92,470000,Jan 2021
+293C,Compassvale Cres,04 to 06,93,Model A,2016,94.83,480000,Jan 2021
+296C,Compassvale Cres,10 to 12,90,Model A,2002,80.17,380000,Jan 2021
+202,Compassvale Dr,01 to 03,87,Model A2,2001,79.67,360000,Jan 2021
+212A,Compassvale Dr,07 to 09,98,Premium Apartment,2012,90.75,455000,Jan 2021
+212C,Compassvale Dr,13 to 15,100,Premium Apartment,2012,90.83,475000,Jan 2021
+216B,Compassvale Dr,13 to 15,92,Premium Apartment,2017,95.42,603000,Jan 2021
+216B,Compassvale Dr,07 to 09,92,Premium Apartment,2017,95.42,625000,Jan 2021
+206C,Compassvale Lane,01 to 03,102,Model A,1999,77.83,375000,Jan 2021
+207A,Compassvale Lane,01 to 03,92,Model A,2005,83.08,370000,Jan 2021
+209B,Compassvale Lane,13 to 15,92,Model A,2011,89.83,446000,Jan 2021
+211C,Compassvale Lane,10 to 12,93,Model A,2013,91.08,460000,Jan 2021
+273D,Compassvale Link,04 to 06,90,Premium Apartment,2009,87.67,470000,Jan 2021
+273D,Compassvale Link,13 to 15,90,Premium Apartment,2009,87.67,535000,Jan 2021
+275C,Compassvale Link,07 to 09,90,Premium Apartment,2009,87.42,585000,Jan 2021
+277A,Compassvale Link,07 to 09,90,Premium Apartment,2009,87.5,568000,Jan 2021
+277B,Compassvale Link,13 to 15,90,Premium Apartment,2009,87.5,600000,Jan 2021
+203A,Compassvale Rd,13 to 15,90,Model A,2000,78.92,418000,Jan 2021
+297A,Compassvale St,04 to 06,94,Premium Apartment,2001,79.75,390000,Jan 2021
+239,Compassvale Walk,04 to 06,101,Model A,1999,77.75,413000,Jan 2021
+240,Compassvale Walk,04 to 06,100,Model A,1999,77.75,425000,Jan 2021
+403C,Fernvale Lane,22 to 24,94,Premium Apartment,2004,82.42,415000,Jan 2021
+405C,Fernvale Lane,19 to 21,93,Premium Apartment,2004,82.25,397000,Jan 2021
+413A,Fernvale Link,16 to 18,95,Premium Apartment,2004,82.25,405000,Jan 2021
+414A,Fernvale Link,07 to 09,93,Model A,2016,94.17,440000,Jan 2021
+414B,Fernvale Link,01 to 03,93,Model A,2016,94.08,380000,Jan 2021
+415A,Fernvale Link,13 to 15,93,Model A,2016,94.17,475000,Jan 2021
+416A,Fernvale Link,19 to 21,93,Model A,2016,94.08,465000,Jan 2021
+416B,Fernvale Link,04 to 06,93,Model A,2016,94.08,400000,Jan 2021
+416B,Fernvale Link,04 to 06,93,Model A,2016,94.17,425000,Jan 2021
+416C,Fernvale Link,13 to 15,93,Model A,2016,94,450000,Jan 2021
+416C,Fernvale Link,13 to 15,93,Model A,2016,94.08,458000,Jan 2021
+430B,Fernvale Link,01 to 03,92,Model A,2015,93.42,400000,Jan 2021
+440A,Fernvale Link,19 to 21,92,Model A,2015,93.58,441000,Jan 2021
+440C,Fernvale Link,10 to 12,92,Model A,2015,93.58,425000,Jan 2021
+440C,Fernvale Link,19 to 21,92,Model A,2015,93.58,453800,Jan 2021
+467A,Fernvale Link,04 to 06,93,Model A,2016,94.58,405000,Jan 2021
+467B,Fernvale Link,22 to 24,93,Model A,2016,94.58,450000,Jan 2021
+467B,Fernvale Link,25 to 27,93,Model A,2016,94.58,485000,Jan 2021
+468B,Fernvale Link,07 to 09,93,Model A,2016,94.67,439000,Jan 2021
+468B,Fernvale Link,25 to 27,93,Model A,2016,94.67,505000,Jan 2021
+470C,Fernvale Link,25 to 27,93,Model A,2016,94.67,478000,Jan 2021
+407A,Fernvale Rd,07 to 09,90,Premium Apartment,2005,83.08,383000,Jan 2021
+408B,Fernvale Rd,22 to 24,95,Premium Apartment,2004,82.67,418000,Jan 2021
+411A,Fernvale Rd,16 to 18,96,Premium Apartment,2012,90.92,450000,Jan 2021
+411B,Fernvale Rd,07 to 09,95,Premium Apartment,2012,90.92,435000,Jan 2021
+411B,Fernvale Rd,13 to 15,95,Premium Apartment,2012,90.83,468888,Jan 2021
+436A,Fernvale Rd,10 to 12,96,Model A,2010,88.25,441000,Jan 2021
+436A,Fernvale Rd,25 to 27,96,Model A,2010,88.25,451000,Jan 2021
+441D,Fernvale Rd,22 to 24,94,Model A,2012,90.08,478000,Jan 2021
+443A,Fernvale Rd,22 to 24,95,Model A,2012,90.83,475000,Jan 2021
+445B,Fernvale Rd,10 to 12,94,Model A,2012,90.83,435000,Jan 2021
+445B,Fernvale Rd,13 to 15,94,Model A,2012,90.92,447000,Jan 2021
+453B,Fernvale Rd,10 to 12,92,Model A,2015,93.58,443888,Jan 2021
+453B,Fernvale Rd,13 to 15,92,Model A,2015,93.58,455000,Jan 2021
+453B,Fernvale Rd,22 to 24,92,Model A,2015,93.58,461888,Jan 2021
+453C,Fernvale Rd,19 to 21,92,Model A,2015,93.58,442000,Jan 2021
+453D,Fernvale Rd,07 to 09,92,Model A,2015,93.5,412888,Jan 2021
+471A,Fernvale St,07 to 09,93,Model A,2016,94.75,435000,Jan 2021
+471A,Fernvale St,07 to 09,93,Model A,2016,94.67,438000,Jan 2021
+471A,Fernvale St,25 to 27,93,Model A,2016,94.67,468000,Jan 2021
+471A,Fernvale St,19 to 21,93,Model A,2016,94.75,480000,Jan 2021
+471C,Fernvale St,13 to 15,93,Model A,2016,94.67,475000,Jan 2021
+446B,Jln Kayu,07 to 09,93,Model A,2013,91.83,438000,Jan 2021
+153,Rivervale Cres,10 to 12,90,Model A,2005,84,406800,Jan 2021
+157A,Rivervale Cres,16 to 18,90,Premium Apartment,2003,81.83,400000,Jan 2021
+163A,Rivervale Cres,07 to 09,93,Model A,2017,95.42,430000,Jan 2021
+163B,Rivervale Cres,10 to 12,93,Model A,2017,95.33,440000,Jan 2021
+163C,Rivervale Cres,07 to 09,93,Model A,2017,95.42,413000,Jan 2021
+163C,Rivervale Cres,10 to 12,93,Model A,2017,95.42,430000,Jan 2021
+163C,Rivervale Cres,16 to 18,93,Model A,2017,95.42,440000,Jan 2021
+163C,Rivervale Cres,10 to 12,93,Model A,2017,95.33,468000,Jan 2021
+178C,Rivervale Cres,10 to 12,93,Model A,2015,93.25,400000,Jan 2021
+180C,Rivervale Cres,04 to 06,93,Model A,2015,93.33,410000,Jan 2021
+185C,Rivervale Cres,10 to 12,85,Model A2,2000,78.92,370000,Jan 2021
+185D,Rivervale Cres,10 to 12,85,Model A2,2000,79,350000,Jan 2021
+185D,Rivervale Cres,13 to 15,88,Model A2,2000,79,385000,Jan 2021
+117A,Rivervale Dr,04 to 06,95,Model A,2000,78.5,372000,Jan 2021
+117C,Rivervale Dr,10 to 12,95,Model A,2000,78.58,480000,Jan 2021
+119B,Rivervale Dr,07 to 09,101,Premium Apartment,2001,79.25,410000,Jan 2021
+124C,Rivervale Dr,01 to 03,92,Model A2,1999,77.5,355000,Jan 2021
+129,Rivervale St,10 to 12,100,Model A,1999,77.5,390000,Jan 2021
+140,Rivervale St,13 to 15,90,Model A2,1999,77,365000,Jan 2021
+108,Rivervale Walk,13 to 15,105,Model A,1999,77.17,415000,Jan 2021
+271B,Sengkang Ctrl,01 to 03,93,Premium Apartment,2010,88.42,430000,Jan 2021
+272A,Sengkang Ctrl,07 to 09,90,Premium Apartment,2009,87.92,550000,Jan 2021
+272B,Sengkang Ctrl,04 to 06,90,Premium Apartment,2009,87.92,520000,Jan 2021
+272B,Sengkang Ctrl,10 to 12,90,Premium Apartment,2009,88,580000,Jan 2021
+272C,Sengkang Ctrl,07 to 09,90,Premium Apartment,2009,88,530000,Jan 2021
+272C,Sengkang Ctrl,13 to 15,90,Premium Apartment,2009,88,575000,Jan 2021
+272D,Sengkang Ctrl,07 to 09,90,Premium Apartment,2009,88,565000,Jan 2021
+280B,Sengkang East Ave,01 to 03,92,Premium Apartment,2015,93.67,540000,Jan 2021
+280B,Sengkang East Ave,13 to 15,92,Premium Apartment,2015,93.58,590000,Jan 2021
+282A,Sengkang East Ave,10 to 12,92,Premium Apartment,2015,93.58,590000,Jan 2021
+282A,Sengkang East Ave,13 to 15,92,Premium Apartment,2015,93.67,625000,Jan 2021
+439A,Sengkang West Ave,13 to 15,94,Model A,2011,89.17,434000,Jan 2021
+432A,Sengkang West Way,07 to 09,93,Model A,2014,92.83,435000,Jan 2021
+433A,Sengkang West Way,13 to 15,93,Model A,2014,92.83,436000,Jan 2021
+433B,Sengkang West Way,16 to 18,93,Model A,2014,92.75,442000,Jan 2021
+433B,Sengkang West Way,22 to 24,93,Model A,2014,92.83,455000,Jan 2021
+448A,Sengkang West Way,25 to 27,92,Model A,2014,92.5,450000,Jan 2021
+450A,Sengkang West Way,10 to 12,92,Model A,2014,92.58,436000,Jan 2021
+451A,Sengkang West Way,10 to 12,92,Model A,2015,93.42,425000,Jan 2021
+451B,Sengkang West Way,10 to 12,92,Model A,2015,93.42,458000,Jan 2021
+451B,Sengkang West Way,19 to 21,92,Model A,2015,93.33,466000,Jan 2021
+452A,Sengkang West Way,07 to 09,92,Model A,2015,93.42,426000,Jan 2021
+452B,Sengkang West Way,10 to 12,92,Model A,2015,93.42,440000,Jan 2021
+452B,Sengkang West Way,19 to 21,92,Model A,2015,93.42,460000,Jan 2021
+469B,Sengkang West Way,22 to 24,93,Model A,2016,94.67,450000,Jan 2021
+469C,Sengkang West Way,13 to 15,93,Model A,2016,94.67,445000,Jan 2021
+334B,Anchorvale Cres,04 to 06,95,Premium Apartment,2015,94.08,455000,Dec 2020
+336A,Anchorvale Cres,13 to 15,92,Premium Apartment,2015,94,498000,Dec 2020
+336C,Anchorvale Cres,01 to 03,92,Premium Apartment,2015,94.08,420000,Dec 2020
+336C,Anchorvale Cres,04 to 06,92,Premium Apartment,2015,94.08,455000,Dec 2020
+301B,Anchorvale Dr,01 to 03,90,Model A,2001,79.75,375000,Dec 2020
+303B,Anchorvale Link,07 to 09,85,Model A2,2001,79.83,366500,Dec 2020
+305D,Anchorvale Link,13 to 15,90,Model A,2002,80.25,375000,Dec 2020
+332B,Anchorvale Link,01 to 03,92,Model A,2015,93.58,438000,Dec 2020
+333A,Anchorvale Link,07 to 09,92,Model A,2015,93.5,475000,Dec 2020
+333D,Anchorvale Link,04 to 06,92,Model A,2015,93.58,470000,Dec 2020
+308B,Anchorvale Rd,10 to 12,90,Model A,2001,80,372888,Dec 2020
+317B,Anchorvale Rd,01 to 03,92,Premium Apartment,2003,81.58,375000,Dec 2020
+329B,Anchorvale St,04 to 06,92,Model A,2015,93.75,468000,Dec 2020
+330B,Anchorvale St,01 to 03,92,Model A,2015,93.75,430000,Dec 2020
+330B,Anchorvale St,07 to 09,92,Model A,2015,93.75,439800,Dec 2020
+331B,Anchorvale St,10 to 12,92,Model A,2015,93.75,465000,Dec 2020
+293A,Compassvale Cres,13 to 15,93,Model A,2016,95,480000,Dec 2020
+293A,Compassvale Cres,13 to 15,93,Model A,2016,94.92,480000,Dec 2020
+293B,Compassvale Cres,04 to 06,93,Model A,2016,95,472000,Dec 2020
+293B,Compassvale Cres,07 to 09,93,Model A,2016,95,478000,Dec 2020
+293B,Compassvale Cres,10 to 12,93,Model A,2016,95,485000,Dec 2020
+293C,Compassvale Cres,04 to 06,93,Model A,2016,95,445000,Dec 2020
+294A,Compassvale Cres,10 to 12,93,Model A,2016,95,475000,Dec 2020
+294A,Compassvale Cres,13 to 15,93,Model A,2016,95,485000,Dec 2020
+294A,Compassvale Cres,07 to 09,93,Model A,2016,95,488000,Dec 2020
+215B,Compassvale Dr,01 to 03,93,Premium Apartment,2017,95.42,562000,Dec 2020
+227C,Compassvale Dr,10 to 12,102,Model A,2000,78.17,430000,Dec 2020
+208B,Compassvale Lane,01 to 03,92,Model A,2011,89.92,410000,Dec 2020
+209B,Compassvale Lane,01 to 03,92,Model A,2011,90,419000,Dec 2020
+210A,Compassvale Lane,13 to 15,97,Model A,2013,91.25,440000,Dec 2020
+211A,Compassvale Lane,01 to 03,93,Model A,2013,91.17,393000,Dec 2020
+211A,Compassvale Lane,10 to 12,93,Model A,2013,91.17,450000,Dec 2020
+211B,Compassvale Lane,04 to 06,93,Model A,2013,91.17,441000,Dec 2020
+211C,Compassvale Lane,13 to 15,95,Model A,2013,91.25,445000,Dec 2020
+211D,Compassvale Lane,07 to 09,93,Model A,2013,91.25,438000,Dec 2020
+268D,Compassvale Link,10 to 12,91,Premium Apartment,2006,84.25,470000,Dec 2020
+268D,Compassvale Link,13 to 15,90,Premium Apartment,2006,84.25,495000,Dec 2020
+269D,Compassvale Link,01 to 03,90,Premium Apartment,2006,84.25,404000,Dec 2020
+273D,Compassvale Link,01 to 03,90,Premium Apartment,2009,87.67,430000,Dec 2020
+275B,Compassvale Link,01 to 03,90,Premium Apartment,2009,87.58,540000,Dec 2020
+275B,Compassvale Link,07 to 09,92,Premium Apartment,2009,87.5,588000,Dec 2020
+277A,Compassvale Link,13 to 15,92,Premium Apartment,2009,87.5,580000,Dec 2020
+257B,Compassvale Rd,13 to 15,85,Model A2,2001,79.33,455888,Dec 2020
+299A,Compassvale St,01 to 03,94,Premium Apartment,2001,79.75,368000,Dec 2020
+223A,Compassvale Walk,04 to 06,102,Model A,1999,77.5,420000,Dec 2020
+226A,Compassvale Walk,10 to 12,102,Model A,1999,78.08,420000,Dec 2020
+403A,Fernvale Lane,10 to 12,94,Premium Apartment,2004,82.42,408000,Dec 2020
+403B,Fernvale Lane,22 to 24,93,Premium Apartment,2004,82.33,398000,Dec 2020
+403C,Fernvale Lane,16 to 18,94,Premium Apartment,2004,82.5,407000,Dec 2020
+403C,Fernvale Lane,19 to 21,93,Premium Apartment,2004,82.42,445000,Dec 2020
+405C,Fernvale Lane,16 to 18,93,Premium Apartment,2004,82.33,385000,Dec 2020
+405C,Fernvale Lane,16 to 18,93,Premium Apartment,2004,82.33,388000,Dec 2020
+414A,Fernvale Link,07 to 09,93,Model A,2016,94.17,438000,Dec 2020
+414B,Fernvale Link,04 to 06,93,Model A,2016,94.17,410000,Dec 2020
+415A,Fernvale Link,04 to 06,93,Model A,2016,94.17,483000,Dec 2020
+415B,Fernvale Link,19 to 21,93,Model A,2016,94.17,510000,Dec 2020
+415C,Fernvale Link,07 to 09,93,Model A,2016,94.08,460000,Dec 2020
+416B,Fernvale Link,19 to 21,93,Model A,2016,94.17,445000,Dec 2020
+416B,Fernvale Link,16 to 18,93,Model A,2016,94.17,450000,Dec 2020
+416C,Fernvale Link,04 to 06,93,Model A,2016,94.17,431000,Dec 2020
+430A,Fernvale Link,10 to 12,92,Model A,2015,93.5,408000,Dec 2020
+440B,Fernvale Link,22 to 24,92,Model A,2015,93.67,468000,Dec 2020
+440C,Fernvale Link,22 to 24,92,Model A,2015,93.67,468000,Dec 2020
+467A,Fernvale Link,22 to 24,93,Model A,2016,94.67,469000,Dec 2020
+468A,Fernvale Link,19 to 21,93,Model A,2016,94.75,455000,Dec 2020
+468A,Fernvale Link,16 to 18,93,Model A,2016,94.75,455000,Dec 2020
+470A,Fernvale Link,07 to 09,93,Model A,2016,94.83,438000,Dec 2020
+406C,Fernvale Rd,07 to 09,91,Premium Apartment,2004,83,388000,Dec 2020
+407A,Fernvale Rd,07 to 09,90,Premium Apartment,2005,83.17,385000,Dec 2020
+407A,Fernvale Rd,07 to 09,90,Premium Apartment,2005,83.17,450000,Dec 2020
+409B,Fernvale Rd,13 to 15,95,Premium Apartment,2004,83.08,390000,Dec 2020
+411A,Fernvale Rd,04 to 06,95,Premium Apartment,2012,91,425000,Dec 2020
+411A,Fernvale Rd,25 to 27,96,Premium Apartment,2012,90.92,460000,Dec 2020
+434B,Fernvale Rd,04 to 06,94,Premium Apartment,2013,91.5,416000,Dec 2020
+434B,Fernvale Rd,10 to 12,94,Premium Apartment,2013,91.5,445000,Dec 2020
+436B,Fernvale Rd,19 to 21,96,Model A,2010,88.33,458000,Dec 2020
+436C,Fernvale Rd,04 to 06,96,Model A,2010,88.33,402000,Dec 2020
+441A,Fernvale Rd,19 to 21,94,Model A,2012,90.25,435000,Dec 2020
+443A,Fernvale Rd,04 to 06,94,Model A,2012,91,440000,Dec 2020
+443A,Fernvale Rd,13 to 15,94,Model A,2012,91,445000,Dec 2020
+443A,Fernvale Rd,19 to 21,95,Model A,2012,91,460000,Dec 2020
+445A,Fernvale Rd,07 to 09,94,Model A,2012,90.92,432000,Dec 2020
+471C,Fernvale St,04 to 06,93,Model A,2016,94.75,422000,Dec 2020
+153,Rivervale Cres,13 to 15,91,Model A,2005,84.08,400000,Dec 2020
+158D,Rivervale Cres,13 to 15,90,Premium Apartment,2003,81.83,380000,Dec 2020
+159A,Rivervale Cres,04 to 06,91,Premium Apartment,2003,81.92,370000,Dec 2020
+163B,Rivervale Cres,16 to 18,93,Model A,2017,95.5,475000,Dec 2020
+163C,Rivervale Cres,07 to 09,93,Model A,2017,95.5,420000,Dec 2020
+163C,Rivervale Cres,10 to 12,93,Model A,2017,95.42,445000,Dec 2020
+163C,Rivervale Cres,10 to 12,93,Model A,2017,95.42,457000,Dec 2020
+164A,Rivervale Cres,01 to 03,93,Model A,2017,95.5,400000,Dec 2020
+164A,Rivervale Cres,07 to 09,93,Model A,2017,95.42,455000,Dec 2020
+164B,Rivervale Cres,04 to 06,93,Model A,2017,95.42,428888,Dec 2020
+164C,Rivervale Cres,07 to 09,93,Model A,2017,95.5,440000,Dec 2020
+164C,Rivervale Cres,16 to 18,93,Model A,2017,95.5,470000,Dec 2020
+178A,Rivervale Cres,10 to 12,93,Model A,2015,93.33,405000,Dec 2020
+178B,Rivervale Cres,10 to 12,93,Model A,2015,93.25,402000,Dec 2020
+178C,Rivervale Cres,10 to 12,93,Model A,2015,93.25,395000,Dec 2020
+178D,Rivervale Cres,07 to 09,93,Model A,2015,93.33,400000,Dec 2020
+185B,Rivervale Cres,01 to 03,91,Model A2,2000,79.08,370000,Dec 2020
+188C,Rivervale Dr,01 to 03,95,Model A,2000,78.75,335000,Dec 2020
+130,Rivervale St,10 to 12,100,Model A,1999,77.33,385000,Dec 2020
+271B,Sengkang Ctrl,07 to 09,93,Premium Apartment,2010,88.5,528000,Dec 2020
+271B,Sengkang Ctrl,10 to 12,93,Premium Apartment,2010,88.5,570000,Dec 2020
+280B,Sengkang East Ave,04 to 06,92,Premium Apartment,2015,93.67,575000,Dec 2020
+282C,Sengkang East Ave,10 to 12,92,Premium Apartment,2015,93.75,602000,Dec 2020
+323A,Sengkang East Way,10 to 12,90,Model A,2003,81.25,429500,Dec 2020
+439C,Sengkang West Ave,25 to 27,94,Model A,2011,89.17,446000,Dec 2020
+432B,Sengkang West Way,04 to 06,93,Model A,2014,92.92,392000,Dec 2020
+433A,Sengkang West Way,22 to 24,93,Model A,2014,92.92,462000,Dec 2020
+451A,Sengkang West Way,16 to 18,92,Model A,2015,93.5,466800,Dec 2020
+451B,Sengkang West Way,16 to 18,92,Model A,2015,93.5,448888,Dec 2020
+452A,Sengkang West Way,16 to 18,92,Model A,2015,93.5,460000,Dec 2020
+469B,Sengkang West Way,01 to 03,93,Model A,2016,94.75,400000,Dec 2020
+469B,Sengkang West Way,25 to 27,93,Model A,2016,94.75,450000,Dec 2020
+334A,Anchorvale Cres,04 to 06,92,Premium Apartment,2015,94.17,465000,Nov 2020
+334B,Anchorvale Cres,07 to 09,92,Premium Apartment,2015,94.17,468000,Nov 2020
+334B,Anchorvale Cres,13 to 15,95,Premium Apartment,2015,94.17,516000,Nov 2020
+303B,Anchorvale Link,07 to 09,85,Model A2,2001,79.83,382000,Nov 2020
+333B,Anchorvale Link,07 to 09,92,Model A,2015,93.58,480000,Nov 2020
+309A,Anchorvale Rd,10 to 12,95,Premium Apartment,2002,80.92,385000,Nov 2020
+313C,Anchorvale Rd,01 to 03,92,Premium Apartment,2003,81.58,365000,Nov 2020
+317D,Anchorvale Rd,01 to 03,92,Premium Apartment,2003,81.5,370000,Nov 2020
+326D,Anchorvale Rd,01 to 03,92,Premium Apartment,2015,93.5,428888,Nov 2020
+327A,Anchorvale Rd,07 to 09,92,Premium Apartment,2015,93.5,468000,Nov 2020
+329B,Anchorvale St,01 to 03,92,Model A,2015,93.83,427800,Nov 2020
+329B,Anchorvale St,16 to 18,93,Model A,2015,93.83,485000,Nov 2020
+330A,Anchorvale St,01 to 03,92,Model A,2015,93.83,400000,Nov 2020
+330A,Anchorvale St,04 to 06,93,Model A,2015,93.83,428000,Nov 2020
+264A,Compassvale Bow,07 to 09,92,Premium Apartment,2007,85.75,498000,Nov 2020
+264B,Compassvale Bow,01 to 03,92,Premium Apartment,2007,85.83,403000,Nov 2020
+264F,Compassvale Bow,01 to 03,92,Premium Apartment,2008,86.92,485000,Nov 2020
+266A,Compassvale Bow,01 to 03,92,Premium Apartment,2007,85.92,433000,Nov 2020
+293C,Compassvale Cres,07 to 09,93,Model A,2016,95.08,480000,Nov 2020
+294A,Compassvale Cres,10 to 12,93,Model A,2016,95,475000,Nov 2020
+294A,Compassvale Cres,13 to 15,93,Model A,2016,95.08,485000,Nov 2020
+294A,Compassvale Cres,07 to 09,93,Model A,2016,95,498000,Nov 2020
+216A,Compassvale Dr,07 to 09,92,Premium Apartment,2017,95.58,580000,Nov 2020
+207A,Compassvale Lane,13 to 15,92,Model A,2005,83.33,388000,Nov 2020
+209C,Compassvale Lane,04 to 06,92,Model A,2011,90.08,420000,Nov 2020
+211C,Compassvale Lane,01 to 03,93,Model A,2013,91.33,410000,Nov 2020
+211C,Compassvale Lane,01 to 03,93,Model A,2013,91.33,425000,Nov 2020
+269B,Compassvale Link,01 to 03,90,Premium Apartment,2006,84.33,440000,Nov 2020
+275C,Compassvale Link,13 to 15,92,Premium Apartment,2009,87.58,600000,Nov 2020
+277B,Compassvale Link,04 to 06,92,Premium Apartment,2009,87.58,535000,Nov 2020
+277C,Compassvale Link,07 to 09,90,Premium Apartment,2009,87.67,570000,Nov 2020
+292B,Compassvale St,04 to 06,90,Model A,2002,80.17,380000,Nov 2020
+297A,Compassvale St,07 to 09,94,Premium Apartment,2001,79.83,378000,Nov 2020
+226A,Compassvale Walk,10 to 12,102,Model A,1999,78.17,421000,Nov 2020
+228B,Compassvale Walk,01 to 03,101,Model A,1999,78.17,375000,Nov 2020
+230,Compassvale Walk,10 to 12,101,Model A,1999,77.83,385000,Nov 2020
+403D,Fernvale Lane,16 to 18,92,Premium Apartment,2004,82.67,400000,Nov 2020
+413B,Fernvale Link,22 to 24,95,Premium Apartment,2004,82.42,412000,Nov 2020
+414A,Fernvale Link,04 to 06,93,Model A,2016,94.25,414000,Nov 2020
+414B,Fernvale Link,10 to 12,93,Model A,2016,94.25,455000,Nov 2020
+415A,Fernvale Link,07 to 09,93,Model A,2016,94.25,438000,Nov 2020
+415C,Fernvale Link,16 to 18,93,Model A,2016,94.25,478000,Nov 2020
+430A,Fernvale Link,19 to 21,92,Model A,2015,93.58,432888,Nov 2020
+440A,Fernvale Link,25 to 27,92,Model A,2015,93.75,465000,Nov 2020
+440B,Fernvale Link,07 to 09,92,Model A,2015,93.75,425000,Nov 2020
+467B,Fernvale Link,22 to 24,93,Model A,2016,94.75,430000,Nov 2020
+467B,Fernvale Link,10 to 12,93,Model A,2016,94.83,430000,Nov 2020
+467B,Fernvale Link,16 to 18,93,Model A,2016,94.83,435000,Nov 2020
+470B,Fernvale Link,25 to 27,93,Model A,2016,94.92,495000,Nov 2020
+470C,Fernvale Link,22 to 24,93,Model A,2016,94.92,470888,Nov 2020
+407B,Fernvale Rd,10 to 12,90,Premium Apartment,2005,83.25,369000,Nov 2020
+410A,Fernvale Rd,04 to 06,95,Premium Apartment,2012,91.08,400000,Nov 2020
+410B,Fernvale Rd,01 to 03,95,Premium Apartment,2012,91.08,380000,Nov 2020
+410B,Fernvale Rd,25 to 27,96,Premium Apartment,2012,91.08,455000,Nov 2020
+411B,Fernvale Rd,07 to 09,95,Premium Apartment,2012,91.08,440000,Nov 2020
+411B,Fernvale Rd,19 to 21,96,Premium Apartment,2012,91.08,460000,Nov 2020
+436A,Fernvale Rd,19 to 21,96,Model A,2010,88.42,445000,Nov 2020
+443A,Fernvale Rd,07 to 09,94,Model A,2012,91.17,413000,Nov 2020
+443C,Fernvale Rd,10 to 12,94,Model A,2012,91,435000,Nov 2020
+445B,Fernvale Rd,22 to 24,94,Model A,2012,91.08,462888,Nov 2020
+453C,Fernvale Rd,04 to 06,92,Model A,2015,93.75,408000,Nov 2020
+453C,Fernvale Rd,07 to 09,92,Model A,2015,93.75,430000,Nov 2020
+453C,Fernvale Rd,19 to 21,92,Model A,2015,93.75,460000,Nov 2020
+453D,Fernvale Rd,19 to 21,92,Model A,2015,93.75,458888,Nov 2020
+471A,Fernvale St,04 to 06,93,Model A,2016,94.92,420000,Nov 2020
+471A,Fernvale St,16 to 18,93,Model A,2016,94.92,470000,Nov 2020
+471B,Fernvale St,01 to 03,93,Model A,2016,94.92,408000,Nov 2020
+472A,Fernvale St,19 to 21,93,Model A,2016,94.92,513888,Nov 2020
+472C,Fernvale St,22 to 24,93,Model A,2016,94.83,482000,Nov 2020
+149,Rivervale Cres,10 to 12,100,Model A,1999,77.92,400000,Nov 2020
+155,Rivervale Cres,01 to 03,91,Model A,2005,84.17,370000,Nov 2020
+157A,Rivervale Cres,01 to 03,90,Premium Apartment,2003,82,368000,Nov 2020
+164B,Rivervale Cres,07 to 09,93,Model A,2017,95.58,445000,Nov 2020
+164C,Rivervale Cres,04 to 06,93,Model A,2017,95.58,425000,Nov 2020
+178C,Rivervale Cres,07 to 09,93,Model A,2015,93.33,395000,Nov 2020
+180C,Rivervale Cres,16 to 18,93,Model A,2015,93.42,400000,Nov 2020
+180C,Rivervale Cres,13 to 15,93,Model A,2015,93.33,410000,Nov 2020
+183C,Rivervale Cres,16 to 18,90,Model A,2003,81.58,355000,Nov 2020
+184C,Rivervale Cres,01 to 03,85,Model A2,2003,81.58,346000,Nov 2020
+124C,Rivervale Dr,13 to 15,90,Model A2,1999,77.75,372100,Nov 2020
+188C,Rivervale Dr,10 to 12,96,Model A,2000,78.83,348000,Nov 2020
+188C,Rivervale Dr,16 to 18,96,Model A,2000,78.83,373000,Nov 2020
+131,Rivervale St,16 to 18,89,Model A2,1999,77.58,377000,Nov 2020
+140,Rivervale St,04 to 06,90,Model A2,1999,77.25,345000,Nov 2020
+140,Rivervale St,16 to 18,97,Model A2,1999,77.17,410000,Nov 2020
+270A,Sengkang Ctrl,13 to 15,93,Premium Apartment,2010,88.58,560000,Nov 2020
+271C,Sengkang Ctrl,13 to 15,93,Premium Apartment,2010,88.58,566500,Nov 2020
+272A,Sengkang Ctrl,01 to 03,90,Premium Apartment,2009,88.17,510000,Nov 2020
+272D,Sengkang Ctrl,04 to 06,90,Premium Apartment,2009,88.08,560000,Nov 2020
+282A,Sengkang East Ave,13 to 15,92,Premium Apartment,2015,93.75,618000,Nov 2020
+325A,Sengkang East Way,01 to 03,90,Model A,2003,81.33,375000,Nov 2020
+433B,Sengkang West Way,10 to 12,93,Model A,2014,92.92,425000,Nov 2020
+451B,Sengkang West Way,13 to 15,92,Model A,2015,93.58,415000,Nov 2020
+469A,Sengkang West Way,04 to 06,93,Model A,2016,94.75,415000,Nov 2020
+469B,Sengkang West Way,16 to 18,93,Model A,2016,94.83,455888,Nov 2020

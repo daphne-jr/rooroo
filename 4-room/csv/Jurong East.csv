@@ -1,0 +1,387 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date
+205,Jurong East St 21,01 to 03,95,New Generation,1983,60.58,460000,Nov 2021
+288B,Jurong East St 21,04 to 06,100,Model A,2000,77.5,508888,Nov 2021
+101,Jurong East St 13,10 to 12,101,New Generation,1983,60.5,490000,Oct 2021
+113,Jurong East St 13,10 to 12,90,New Generation,1981,58.75,458000,Oct 2021
+204,Jurong East St 21,04 to 06,98,New Generation,1983,60.5,450000,Oct 2021
+207,Jurong East St 21,04 to 06,95,New Generation,1983,60.58,497000,Oct 2021
+288A,Jurong East St 21,01 to 03,104,Model A,2000,77.75,488000,Oct 2021
+319,Jurong East St 31,13 to 15,108,Model A,1984,61.83,480000,Oct 2021
+409,Pandan Gdns,10 to 12,97,New Generation,1978,56.17,468000,Oct 2021
+25,Teban Gdns Rd,04 to 06,99,Model A,1993,70.83,395000,Oct 2021
+43,Teban Gdns Rd,01 to 03,93,New Generation,1985,63.08,395000,Oct 2021
+52,Teban Gdns Rd,07 to 09,83,Simplified,1987,64.5,382000,Oct 2021
+55,Teban Gdns Rd,25 to 27,92,Model A,2016,94.17,583000,Oct 2021
+65,Teban Gdns Rd,19 to 21,91,Model A,2003,80.75,435000,Oct 2021
+274,Toh Guan Rd,01 to 03,101,Model A,1999,76.33,460000,Oct 2021
+282,Toh Guan Rd,01 to 03,92,Model A2,1998,76.17,445000,Oct 2021
+282,Toh Guan Rd,16 to 18,90,Model A2,1998,76.17,490000,Oct 2021
+214,Jurong East St 21,01 to 03,94,New Generation,1983,60.58,420000,Sep 2021
+217,Jurong East St 21,01 to 03,91,New Generation,1985,62.42,402000,Sep 2021
+288B,Jurong East St 21,07 to 09,103,Model A,2000,77.67,528000,Sep 2021
+320,Jurong East St 31,01 to 03,105,Model A,1984,62.25,435000,Sep 2021
+311,Jurong East St 32,04 to 06,106,Model A,1984,61.75,470000,Sep 2021
+20,Teban Gdns Rd,28 to 30,92,Model A,2013,91,530000,Sep 2021
+23,Teban Gdns Rd,31 to 33,87,Model A,2013,91.08,490000,Sep 2021
+25,Teban Gdns Rd,07 to 09,99,Model A,1993,70.92,420000,Sep 2021
+31,Teban Gdns Rd,04 to 06,99,New Generation,1981,58.92,347000,Sep 2021
+32,Teban Gdns Rd,10 to 12,99,New Generation,1981,58.92,380000,Sep 2021
+32,Teban Gdns Rd,07 to 09,99,New Generation,1981,58.92,400000,Sep 2021
+52,Teban Gdns Rd,04 to 06,83,Simplified,1987,64.67,360000,Sep 2021
+55,Teban Gdns Rd,04 to 06,92,Model A,2016,94.25,440000,Sep 2021
+56,Teban Gdns Rd,25 to 27,92,Model A,2016,94.25,550000,Sep 2021
+57,Teban Gdns Rd,25 to 27,92,Model A,2016,94.25,528888,Sep 2021
+65,Teban Gdns Rd,01 to 03,90,Model A,2003,80.75,409888,Sep 2021
+280,Toh Guan Rd,04 to 06,91,Model A2,1998,76.08,460000,Sep 2021
+339,Jurong East Ave 1,01 to 03,104,Model A,1983,60.92,412000,Aug 2021
+341,Jurong East Ave 1,13 to 15,104,Model A,1983,60.75,455000,Aug 2021
+112,Jurong East St 13,01 to 03,90,New Generation,1981,58.92,395000,Aug 2021
+211,Jurong East St 21,04 to 06,94,New Generation,1983,60.67,420000,Aug 2021
+218,Jurong East St 21,01 to 03,91,New Generation,1984,62.33,400000,Aug 2021
+232,Jurong East St 21,01 to 03,98,New Generation,1982,59.58,400000,Aug 2021
+261,Jurong East St 24,10 to 12,111,New Generation,1983,60.67,440000,Aug 2021
+317,Jurong East St 31,04 to 06,105,Model A,1984,61.83,450000,Aug 2021
+319,Jurong East St 31,07 to 09,104,Model A,1984,62,440000,Aug 2021
+20,Teban Gdns Rd,10 to 12,92,Model A,2013,91.08,455000,Aug 2021
+20,Teban Gdns Rd,19 to 21,92,Model A,2013,91.17,476889,Aug 2021
+21,Teban Gdns Rd,34 to 36,87,Model A,2013,91.17,515000,Aug 2021
+47,Teban Gdns Rd,10 to 12,93,New Generation,1985,63,410000,Aug 2021
+55,Teban Gdns Rd,28 to 30,92,Model A,2016,94.33,550000,Aug 2021
+56,Teban Gdns Rd,10 to 12,92,Model A,2016,94.25,480000,Aug 2021
+56,Teban Gdns Rd,07 to 09,92,Model A,2016,94.33,490000,Aug 2021
+56,Teban Gdns Rd,19 to 21,92,Model A,2016,94.33,530000,Aug 2021
+56,Teban Gdns Rd,34 to 36,92,Model A,2016,94.33,550000,Aug 2021
+57,Teban Gdns Rd,10 to 12,92,Model A,2016,94.33,465000,Aug 2021
+266,Toh Guan Rd,04 to 06,102,Model A,1998,76.25,510000,Aug 2021
+270,Toh Guan Rd,04 to 06,100,Model A,1999,76.58,533000,Aug 2021
+112,Jurong East St 13,01 to 03,90,New Generation,1981,59,395000,Jul 2021
+251,Jurong East St 24,01 to 03,93,New Generation,1982,60.08,410200,Jul 2021
+324,Jurong East St 31,13 to 15,104,Model A,1984,62.33,450000,Jul 2021
+312,Jurong East St 32,04 to 06,105,Model A,1984,62.17,435000,Jul 2021
+316,Jurong East St 32,07 to 09,112,Model A,1984,62.17,470000,Jul 2021
+414,Pandan Gdns,01 to 03,97,New Generation,1978,56.33,370000,Jul 2021
+23,Teban Gdns Rd,31 to 33,87,Model A,2013,91.25,455000,Jul 2021
+31,Teban Gdns Rd,01 to 03,99,New Generation,1981,59,345000,Jul 2021
+41,Teban Gdns Rd,01 to 03,99,New Generation,1981,59.08,375000,Jul 2021
+47,Teban Gdns Rd,10 to 12,93,New Generation,1985,63.17,395000,Jul 2021
+53,Teban Gdns Rd,10 to 12,83,Simplified,1986,64.5,340000,Jul 2021
+55,Teban Gdns Rd,25 to 27,92,Model A,2016,94.42,525000,Jul 2021
+64,Teban Gdns Rd,25 to 27,85,Model A,2003,81,398000,Jul 2021
+278,Toh Guan Rd,04 to 06,101,Model A,1998,76.42,488000,Jul 2021
+280,Toh Guan Rd,07 to 09,91,Model A2,1998,76.25,452000,Jul 2021
+282,Toh Guan Rd,13 to 15,90,Model A2,1998,76.42,468000,Jul 2021
+243,Jurong East St 24,10 to 12,94,New Generation,1983,60.75,400000,Jun 2021
+409,Pandan Gdns,10 to 12,97,New Generation,1978,56.5,387000,Jun 2021
+22,Teban Gdns Rd,37 to 39,92,Model A,2013,91.33,515000,Jun 2021
+44,Teban Gdns Rd,04 to 06,93,New Generation,1985,63.5,368000,Jun 2021
+55,Teban Gdns Rd,16 to 18,92,Model A,2016,94.5,460000,Jun 2021
+56,Teban Gdns Rd,31 to 33,92,Model A,2016,94.5,600000,Jun 2021
+265,Toh Guan Rd,19 to 21,101,Model A,1998,76.42,580000,Jun 2021
+267,Toh Guan Rd,04 to 06,101,Model A,1998,76.42,525000,Jun 2021
+267,Toh Guan Rd,22 to 24,101,Model A,1998,76.42,560000,Jun 2021
+269,Toh Guan Rd,10 to 12,100,Model A,1999,76.92,563000,Jun 2021
+280,Toh Guan Rd,04 to 06,90,Model A2,1998,76.33,450000,Jun 2021
+282,Toh Guan Rd,04 to 06,91,Model A2,1998,76.5,441000,Jun 2021
+282,Toh Guan Rd,10 to 12,90,Model A2,1998,76.5,480000,Jun 2021
+329,Jurong East Ave 1,04 to 06,104,Model A,1983,61.17,415000,May 2021
+330,Jurong East Ave 1,07 to 09,104,Model A,1983,61,405000,May 2021
+341,Jurong East Ave 1,04 to 06,104,Model A,1983,61,445888,May 2021
+113,Jurong East St 13,04 to 06,90,New Generation,1981,59.17,410000,May 2021
+214,Jurong East St 21,04 to 06,94,New Generation,1983,60.83,395000,May 2021
+218,Jurong East St 21,07 to 09,91,New Generation,1984,62.58,406000,May 2021
+317,Jurong East St 31,04 to 06,105,Model A,1984,62.08,445000,May 2021
+311,Jurong East St 32,01 to 03,106,Model A,1984,62.08,400000,May 2021
+24,Teban Gdns Rd,04 to 06,107,Model A,1993,71.17,394000,May 2021
+52,Teban Gdns Rd,01 to 03,83,Simplified,1987,65,310000,May 2021
+62,Teban Gdns Rd,16 to 18,90,Model A,2003,81.17,382000,May 2021
+64,Teban Gdns Rd,13 to 15,90,Model A,2003,81.17,395000,May 2021
+65,Teban Gdns Rd,01 to 03,90,Model A,2003,81.17,385000,May 2021
+269,Toh Guan Rd,01 to 03,100,Model A,1999,77,475000,May 2021
+339,Jurong East Ave 1,10 to 12,104,Model A,1983,61.17,438000,Apr 2021
+208,Jurong East St 21,07 to 09,95,New Generation,1982,60.75,395000,Apr 2021
+318,Jurong East St 31,01 to 03,105,Model A,1984,62.08,390000,Apr 2021
+21,Teban Gdns Rd,04 to 06,92,Model A,2013,91.42,429000,Apr 2021
+23,Teban Gdns Rd,19 to 21,87,Model A,2013,91.42,470000,Apr 2021
+43,Teban Gdns Rd,10 to 12,98,New Generation,1985,63.42,385000,Apr 2021
+55,Teban Gdns Rd,28 to 30,92,Model A,2016,94.58,548000,Apr 2021
+56,Teban Gdns Rd,07 to 09,92,Model A,2016,94.67,450000,Apr 2021
+56,Teban Gdns Rd,25 to 27,92,Model A,2016,94.67,500000,Apr 2021
+56,Teban Gdns Rd,28 to 30,92,Model A,2016,94.58,516000,Apr 2021
+62,Teban Gdns Rd,10 to 12,90,Model A,2003,81.25,375000,Apr 2021
+65,Teban Gdns Rd,19 to 21,85,Model A,2003,81.25,405000,Apr 2021
+332,Jurong East Ave 1,01 to 03,113,Model A,1985,63.67,360000,Mar 2021
+232,Jurong East St 21,07 to 09,98,New Generation,1982,60,400000,Mar 2021
+236,Jurong East St 21,04 to 06,91,New Generation,1982,60,388000,Mar 2021
+288A,Jurong East St 21,19 to 21,104,Model A,2000,78.33,524000,Mar 2021
+288E,Jurong East St 21,16 to 18,100,Model A,2000,78.17,475000,Mar 2021
+288E,Jurong East St 21,07 to 09,100,Model A,2000,78.08,498000,Mar 2021
+319,Jurong East St 31,01 to 03,104,Model A,1984,62.42,410000,Mar 2021
+316,Jurong East St 32,01 to 03,104,Model A,1984,62.5,415000,Mar 2021
+20,Teban Gdns Rd,37 to 39,92,Model A,2013,91.5,520000,Mar 2021
+21,Teban Gdns Rd,01 to 03,92,Model A,2013,91.58,410000,Mar 2021
+21,Teban Gdns Rd,31 to 33,92,Model A,2013,91.5,498000,Mar 2021
+30,Teban Gdns Rd,01 to 03,99,New Generation,1981,59.33,320000,Mar 2021
+31,Teban Gdns Rd,10 to 12,103,New Generation,1981,59.33,395000,Mar 2021
+41,Teban Gdns Rd,10 to 12,103,New Generation,1981,59.33,395000,Mar 2021
+55,Teban Gdns Rd,31 to 33,92,Model A,2016,94.75,530000,Mar 2021
+56,Teban Gdns Rd,22 to 24,92,Model A,2016,94.67,525000,Mar 2021
+101,Jurong East St 13,04 to 06,95,New Generation,1983,61.08,400000,Feb 2021
+113,Jurong East St 13,07 to 09,90,New Generation,1981,59.42,425000,Feb 2021
+206,Jurong East St 21,01 to 03,94,New Generation,1982,60.83,398000,Feb 2021
+288D,Jurong East St 21,19 to 21,102,Model A,2000,78.33,500000,Feb 2021
+243,Jurong East St 24,01 to 03,97,New Generation,1983,61.08,388000,Feb 2021
+263,Jurong East St 24,04 to 06,98,New Generation,1983,61,385000,Feb 2021
+315,Jurong East St 32,07 to 09,103,Model A,1984,62.25,403800,Feb 2021
+316,Jurong East St 32,10 to 12,105,Model A,1984,62.58,455000,Feb 2021
+408,Pandan Gdns,07 to 09,97,New Generation,1978,56.75,385000,Feb 2021
+25,Teban Gdns Rd,04 to 06,107,Model A,1993,71.5,388000,Feb 2021
+265,Toh Guan Rd,13 to 15,101,Model A,1998,76.75,530000,Feb 2021
+266,Toh Guan Rd,07 to 09,101,Model A,1998,76.75,510000,Feb 2021
+266,Toh Guan Rd,07 to 09,102,Model A,1998,76.75,510000,Feb 2021
+272,Toh Guan Rd,04 to 06,100,Model A,1999,77.25,465000,Feb 2021
+341,Jurong East Ave 1,10 to 12,104,Model A,1983,61.42,420000,Jan 2021
+115,Jurong East St 13,01 to 03,94,New Generation,1981,59.42,420666,Jan 2021
+115,Jurong East St 13,04 to 06,94,New Generation,1981,59.42,450000,Jan 2021
+205,Jurong East St 21,07 to 09,95,New Generation,1983,61.42,465000,Jan 2021
+231,Jurong East St 21,01 to 03,91,New Generation,1981,59.5,373000,Jan 2021
+261,Jurong East St 24,01 to 03,94,New Generation,1983,61.25,320000,Jan 2021
+264,Jurong East St 24,04 to 06,95,New Generation,1983,61.33,358000,Jan 2021
+321,Jurong East St 31,01 to 03,104,Model A,1984,62.83,385000,Jan 2021
+22,Teban Gdns Rd,25 to 27,87,Model A,2013,91.67,468000,Jan 2021
+52,Teban Gdns Rd,10 to 12,83,Simplified,1987,65.25,335000,Jan 2021
+55,Teban Gdns Rd,25 to 27,92,Model A,2016,94.83,528000,Jan 2021
+57,Teban Gdns Rd,25 to 27,92,Model A,2016,94.83,500000,Jan 2021
+57,Teban Gdns Rd,37 to 39,92,Model A,2016,94.92,530000,Jan 2021
+267,Toh Guan Rd,13 to 15,101,Model A,1998,76.83,530000,Jan 2021
+332,Jurong East Ave 1,13 to 15,106,Model A,1985,63.92,425000,Dec 2020
+108,Jurong East St 13,04 to 06,90,New Generation,1982,60.92,415000,Dec 2020
+209,Jurong East St 21,07 to 09,98,New Generation,1983,61.33,400000,Dec 2020
+218,Jurong East St 21,01 to 03,91,New Generation,1984,63,368000,Dec 2020
+228,Jurong East St 21,04 to 06,86,Simplified,1987,65.92,395000,Dec 2020
+288B,Jurong East St 21,07 to 09,103,Model A,2000,78.42,495000,Dec 2020
+244,Jurong East St 24,07 to 09,111,New Generation,1983,61.42,367000,Dec 2020
+304,Jurong East St 32,07 to 09,99,New Generation,1983,61.83,424000,Dec 2020
+306,Jurong East St 32,10 to 12,94,New Generation,1983,61.83,421000,Dec 2020
+310,Jurong East St 32,10 to 12,105,Model A,1985,63.25,360000,Dec 2020
+312,Jurong East St 32,01 to 03,106,Model A,1984,62.67,400000,Dec 2020
+56,Teban Gdns Rd,04 to 06,92,Model A,2016,95,425000,Dec 2020
+56,Teban Gdns Rd,01 to 03,92,Model A,2016,95,430000,Dec 2020
+56,Teban Gdns Rd,16 to 18,92,Model A,2016,95,470000,Dec 2020
+60,Teban Gdns Rd,10 to 12,90,Model A,2003,81.75,360000,Dec 2020
+60,Teban Gdns Rd,19 to 21,90,Model A,2003,81.75,410000,Dec 2020
+268,Toh Guan Rd,10 to 12,102,Model A,1999,77.25,490000,Dec 2020
+269,Toh Guan Rd,07 to 09,100,Model A,1999,77.42,500000,Dec 2020
+271,Toh Guan Rd,10 to 12,100,Model A,1999,77.33,529000,Dec 2020
+280,Toh Guan Rd,16 to 18,90,Model A2,1998,76.75,483000,Dec 2020
+281,Toh Guan Rd,01 to 03,100,Model A,1998,77.08,450000,Dec 2020
+284,Toh Guan Rd,01 to 03,101,Model A,1998,77.08,472000,Dec 2020
+285B,Toh Guan Rd,04 to 06,100,Model A,1998,77,482500,Dec 2020
+332,Jurong East Ave 1,10 to 12,106,Model A,1985,64,340000,Nov 2020
+339,Jurong East Ave 1,10 to 12,104,Model A,1983,61.67,400000,Nov 2020
+113,Jurong East St 13,04 to 06,90,New Generation,1981,59.67,373000,Nov 2020
+236,Jurong East St 21,07 to 09,91,New Generation,1982,60.33,382000,Nov 2020
+316,Jurong East St 32,10 to 12,104,Model A,1984,62.92,400000,Nov 2020
+409,Pandan Gdns,04 to 06,97,New Generation,1978,57.08,370000,Nov 2020
+55,Teban Gdns Rd,25 to 27,92,Model A,2016,95.08,488000,Nov 2020
+55,Teban Gdns Rd,34 to 36,92,Model A,2016,95.08,530000,Nov 2020
+56,Teban Gdns Rd,10 to 12,92,Model A,2016,95.08,440000,Nov 2020
+56,Teban Gdns Rd,07 to 09,92,Model A,2016,95.08,440000,Nov 2020
+56,Teban Gdns Rd,19 to 21,92,Model A,2016,95,506000,Nov 2020
+57,Teban Gdns Rd,04 to 06,92,Model A,2016,95.08,420000,Nov 2020
+57,Teban Gdns Rd,22 to 24,92,Model A,2016,95.08,477000,Nov 2020
+57,Teban Gdns Rd,28 to 30,92,Model A,2016,95.08,502888,Nov 2020
+276,Toh Guan Rd,16 to 18,100,Model A,1998,77,528000,Nov 2020
+285B,Toh Guan Rd,16 to 18,102,Model A,1998,77.17,510000,Nov 2020
+205,Jurong East St 21,01 to 03,95,New Generation,1983,60.58,460000,Nov 2021
+288B,Jurong East St 21,04 to 06,100,Model A,2000,77.5,508888,Nov 2021
+101,Jurong East St 13,10 to 12,101,New Generation,1983,60.5,490000,Oct 2021
+113,Jurong East St 13,10 to 12,90,New Generation,1981,58.75,458000,Oct 2021
+204,Jurong East St 21,04 to 06,98,New Generation,1983,60.5,450000,Oct 2021
+207,Jurong East St 21,04 to 06,95,New Generation,1983,60.58,497000,Oct 2021
+288A,Jurong East St 21,01 to 03,104,Model A,2000,77.75,488000,Oct 2021
+319,Jurong East St 31,13 to 15,108,Model A,1984,61.83,480000,Oct 2021
+409,Pandan Gdns,10 to 12,97,New Generation,1978,56.17,468000,Oct 2021
+25,Teban Gdns Rd,04 to 06,99,Model A,1993,70.83,395000,Oct 2021
+43,Teban Gdns Rd,01 to 03,93,New Generation,1985,63.08,395000,Oct 2021
+52,Teban Gdns Rd,07 to 09,83,Simplified,1987,64.5,382000,Oct 2021
+55,Teban Gdns Rd,25 to 27,92,Model A,2016,94.17,583000,Oct 2021
+65,Teban Gdns Rd,19 to 21,91,Model A,2003,80.75,435000,Oct 2021
+274,Toh Guan Rd,01 to 03,101,Model A,1999,76.33,460000,Oct 2021
+282,Toh Guan Rd,01 to 03,92,Model A2,1998,76.17,445000,Oct 2021
+282,Toh Guan Rd,16 to 18,90,Model A2,1998,76.17,490000,Oct 2021
+214,Jurong East St 21,01 to 03,94,New Generation,1983,60.58,420000,Sep 2021
+217,Jurong East St 21,01 to 03,91,New Generation,1985,62.42,402000,Sep 2021
+288B,Jurong East St 21,07 to 09,103,Model A,2000,77.67,528000,Sep 2021
+320,Jurong East St 31,01 to 03,105,Model A,1984,62.25,435000,Sep 2021
+311,Jurong East St 32,04 to 06,106,Model A,1984,61.75,470000,Sep 2021
+20,Teban Gdns Rd,28 to 30,92,Model A,2013,91,530000,Sep 2021
+23,Teban Gdns Rd,31 to 33,87,Model A,2013,91.08,490000,Sep 2021
+25,Teban Gdns Rd,07 to 09,99,Model A,1993,70.92,420000,Sep 2021
+31,Teban Gdns Rd,04 to 06,99,New Generation,1981,58.92,347000,Sep 2021
+32,Teban Gdns Rd,10 to 12,99,New Generation,1981,58.92,380000,Sep 2021
+32,Teban Gdns Rd,07 to 09,99,New Generation,1981,58.92,400000,Sep 2021
+52,Teban Gdns Rd,04 to 06,83,Simplified,1987,64.67,360000,Sep 2021
+55,Teban Gdns Rd,04 to 06,92,Model A,2016,94.25,440000,Sep 2021
+56,Teban Gdns Rd,25 to 27,92,Model A,2016,94.25,550000,Sep 2021
+57,Teban Gdns Rd,25 to 27,92,Model A,2016,94.25,528888,Sep 2021
+65,Teban Gdns Rd,01 to 03,90,Model A,2003,80.75,409888,Sep 2021
+280,Toh Guan Rd,04 to 06,91,Model A2,1998,76.08,460000,Sep 2021
+339,Jurong East Ave 1,01 to 03,104,Model A,1983,60.92,412000,Aug 2021
+341,Jurong East Ave 1,13 to 15,104,Model A,1983,60.75,455000,Aug 2021
+112,Jurong East St 13,01 to 03,90,New Generation,1981,58.92,395000,Aug 2021
+211,Jurong East St 21,04 to 06,94,New Generation,1983,60.67,420000,Aug 2021
+218,Jurong East St 21,01 to 03,91,New Generation,1984,62.33,400000,Aug 2021
+232,Jurong East St 21,01 to 03,98,New Generation,1982,59.58,400000,Aug 2021
+261,Jurong East St 24,10 to 12,111,New Generation,1983,60.67,440000,Aug 2021
+317,Jurong East St 31,04 to 06,105,Model A,1984,61.83,450000,Aug 2021
+319,Jurong East St 31,07 to 09,104,Model A,1984,62,440000,Aug 2021
+20,Teban Gdns Rd,10 to 12,92,Model A,2013,91.08,455000,Aug 2021
+20,Teban Gdns Rd,19 to 21,92,Model A,2013,91.17,476889,Aug 2021
+21,Teban Gdns Rd,34 to 36,87,Model A,2013,91.17,515000,Aug 2021
+47,Teban Gdns Rd,10 to 12,93,New Generation,1985,63,410000,Aug 2021
+55,Teban Gdns Rd,28 to 30,92,Model A,2016,94.33,550000,Aug 2021
+56,Teban Gdns Rd,10 to 12,92,Model A,2016,94.25,480000,Aug 2021
+56,Teban Gdns Rd,07 to 09,92,Model A,2016,94.33,490000,Aug 2021
+56,Teban Gdns Rd,19 to 21,92,Model A,2016,94.33,530000,Aug 2021
+56,Teban Gdns Rd,34 to 36,92,Model A,2016,94.33,550000,Aug 2021
+57,Teban Gdns Rd,10 to 12,92,Model A,2016,94.33,465000,Aug 2021
+266,Toh Guan Rd,04 to 06,102,Model A,1998,76.25,510000,Aug 2021
+270,Toh Guan Rd,04 to 06,100,Model A,1999,76.58,533000,Aug 2021
+112,Jurong East St 13,01 to 03,90,New Generation,1981,59,395000,Jul 2021
+251,Jurong East St 24,01 to 03,93,New Generation,1982,60.08,410200,Jul 2021
+324,Jurong East St 31,13 to 15,104,Model A,1984,62.33,450000,Jul 2021
+312,Jurong East St 32,04 to 06,105,Model A,1984,62.17,435000,Jul 2021
+316,Jurong East St 32,07 to 09,112,Model A,1984,62.17,470000,Jul 2021
+414,Pandan Gdns,01 to 03,97,New Generation,1978,56.33,370000,Jul 2021
+23,Teban Gdns Rd,31 to 33,87,Model A,2013,91.25,455000,Jul 2021
+31,Teban Gdns Rd,01 to 03,99,New Generation,1981,59,345000,Jul 2021
+41,Teban Gdns Rd,01 to 03,99,New Generation,1981,59.08,375000,Jul 2021
+47,Teban Gdns Rd,10 to 12,93,New Generation,1985,63.17,395000,Jul 2021
+53,Teban Gdns Rd,10 to 12,83,Simplified,1986,64.5,340000,Jul 2021
+55,Teban Gdns Rd,25 to 27,92,Model A,2016,94.42,525000,Jul 2021
+64,Teban Gdns Rd,25 to 27,85,Model A,2003,81,398000,Jul 2021
+278,Toh Guan Rd,04 to 06,101,Model A,1998,76.42,488000,Jul 2021
+280,Toh Guan Rd,07 to 09,91,Model A2,1998,76.25,452000,Jul 2021
+282,Toh Guan Rd,13 to 15,90,Model A2,1998,76.42,468000,Jul 2021
+243,Jurong East St 24,10 to 12,94,New Generation,1983,60.75,400000,Jun 2021
+409,Pandan Gdns,10 to 12,97,New Generation,1978,56.5,387000,Jun 2021
+22,Teban Gdns Rd,37 to 39,92,Model A,2013,91.33,515000,Jun 2021
+44,Teban Gdns Rd,04 to 06,93,New Generation,1985,63.5,368000,Jun 2021
+55,Teban Gdns Rd,16 to 18,92,Model A,2016,94.5,460000,Jun 2021
+56,Teban Gdns Rd,31 to 33,92,Model A,2016,94.5,600000,Jun 2021
+265,Toh Guan Rd,19 to 21,101,Model A,1998,76.42,580000,Jun 2021
+267,Toh Guan Rd,04 to 06,101,Model A,1998,76.42,525000,Jun 2021
+267,Toh Guan Rd,22 to 24,101,Model A,1998,76.42,560000,Jun 2021
+269,Toh Guan Rd,10 to 12,100,Model A,1999,76.92,563000,Jun 2021
+280,Toh Guan Rd,04 to 06,90,Model A2,1998,76.33,450000,Jun 2021
+282,Toh Guan Rd,04 to 06,91,Model A2,1998,76.5,441000,Jun 2021
+282,Toh Guan Rd,10 to 12,90,Model A2,1998,76.5,480000,Jun 2021
+329,Jurong East Ave 1,04 to 06,104,Model A,1983,61.17,415000,May 2021
+330,Jurong East Ave 1,07 to 09,104,Model A,1983,61,405000,May 2021
+341,Jurong East Ave 1,04 to 06,104,Model A,1983,61,445888,May 2021
+113,Jurong East St 13,04 to 06,90,New Generation,1981,59.17,410000,May 2021
+214,Jurong East St 21,04 to 06,94,New Generation,1983,60.83,395000,May 2021
+218,Jurong East St 21,07 to 09,91,New Generation,1984,62.58,406000,May 2021
+317,Jurong East St 31,04 to 06,105,Model A,1984,62.08,445000,May 2021
+311,Jurong East St 32,01 to 03,106,Model A,1984,62.08,400000,May 2021
+24,Teban Gdns Rd,04 to 06,107,Model A,1993,71.17,394000,May 2021
+52,Teban Gdns Rd,01 to 03,83,Simplified,1987,65,310000,May 2021
+62,Teban Gdns Rd,16 to 18,90,Model A,2003,81.17,382000,May 2021
+64,Teban Gdns Rd,13 to 15,90,Model A,2003,81.17,395000,May 2021
+65,Teban Gdns Rd,01 to 03,90,Model A,2003,81.17,385000,May 2021
+269,Toh Guan Rd,01 to 03,100,Model A,1999,77,475000,May 2021
+339,Jurong East Ave 1,10 to 12,104,Model A,1983,61.17,438000,Apr 2021
+208,Jurong East St 21,07 to 09,95,New Generation,1982,60.75,395000,Apr 2021
+318,Jurong East St 31,01 to 03,105,Model A,1984,62.08,390000,Apr 2021
+21,Teban Gdns Rd,04 to 06,92,Model A,2013,91.42,429000,Apr 2021
+23,Teban Gdns Rd,19 to 21,87,Model A,2013,91.42,470000,Apr 2021
+43,Teban Gdns Rd,10 to 12,98,New Generation,1985,63.42,385000,Apr 2021
+55,Teban Gdns Rd,28 to 30,92,Model A,2016,94.58,548000,Apr 2021
+56,Teban Gdns Rd,07 to 09,92,Model A,2016,94.67,450000,Apr 2021
+56,Teban Gdns Rd,25 to 27,92,Model A,2016,94.67,500000,Apr 2021
+56,Teban Gdns Rd,28 to 30,92,Model A,2016,94.58,516000,Apr 2021
+62,Teban Gdns Rd,10 to 12,90,Model A,2003,81.25,375000,Apr 2021
+65,Teban Gdns Rd,19 to 21,85,Model A,2003,81.25,405000,Apr 2021
+332,Jurong East Ave 1,01 to 03,113,Model A,1985,63.67,360000,Mar 2021
+232,Jurong East St 21,07 to 09,98,New Generation,1982,60,400000,Mar 2021
+236,Jurong East St 21,04 to 06,91,New Generation,1982,60,388000,Mar 2021
+288A,Jurong East St 21,19 to 21,104,Model A,2000,78.33,524000,Mar 2021
+288E,Jurong East St 21,16 to 18,100,Model A,2000,78.17,475000,Mar 2021
+288E,Jurong East St 21,07 to 09,100,Model A,2000,78.08,498000,Mar 2021
+319,Jurong East St 31,01 to 03,104,Model A,1984,62.42,410000,Mar 2021
+316,Jurong East St 32,01 to 03,104,Model A,1984,62.5,415000,Mar 2021
+20,Teban Gdns Rd,37 to 39,92,Model A,2013,91.5,520000,Mar 2021
+21,Teban Gdns Rd,01 to 03,92,Model A,2013,91.58,410000,Mar 2021
+21,Teban Gdns Rd,31 to 33,92,Model A,2013,91.5,498000,Mar 2021
+30,Teban Gdns Rd,01 to 03,99,New Generation,1981,59.33,320000,Mar 2021
+31,Teban Gdns Rd,10 to 12,103,New Generation,1981,59.33,395000,Mar 2021
+41,Teban Gdns Rd,10 to 12,103,New Generation,1981,59.33,395000,Mar 2021
+55,Teban Gdns Rd,31 to 33,92,Model A,2016,94.75,530000,Mar 2021
+56,Teban Gdns Rd,22 to 24,92,Model A,2016,94.67,525000,Mar 2021
+101,Jurong East St 13,04 to 06,95,New Generation,1983,61.08,400000,Feb 2021
+113,Jurong East St 13,07 to 09,90,New Generation,1981,59.42,425000,Feb 2021
+206,Jurong East St 21,01 to 03,94,New Generation,1982,60.83,398000,Feb 2021
+288D,Jurong East St 21,19 to 21,102,Model A,2000,78.33,500000,Feb 2021
+243,Jurong East St 24,01 to 03,97,New Generation,1983,61.08,388000,Feb 2021
+263,Jurong East St 24,04 to 06,98,New Generation,1983,61,385000,Feb 2021
+315,Jurong East St 32,07 to 09,103,Model A,1984,62.25,403800,Feb 2021
+316,Jurong East St 32,10 to 12,105,Model A,1984,62.58,455000,Feb 2021
+408,Pandan Gdns,07 to 09,97,New Generation,1978,56.75,385000,Feb 2021
+25,Teban Gdns Rd,04 to 06,107,Model A,1993,71.5,388000,Feb 2021
+265,Toh Guan Rd,13 to 15,101,Model A,1998,76.75,530000,Feb 2021
+266,Toh Guan Rd,07 to 09,101,Model A,1998,76.75,510000,Feb 2021
+266,Toh Guan Rd,07 to 09,102,Model A,1998,76.75,510000,Feb 2021
+272,Toh Guan Rd,04 to 06,100,Model A,1999,77.25,465000,Feb 2021
+341,Jurong East Ave 1,10 to 12,104,Model A,1983,61.42,420000,Jan 2021
+115,Jurong East St 13,01 to 03,94,New Generation,1981,59.42,420666,Jan 2021
+115,Jurong East St 13,04 to 06,94,New Generation,1981,59.42,450000,Jan 2021
+205,Jurong East St 21,07 to 09,95,New Generation,1983,61.42,465000,Jan 2021
+231,Jurong East St 21,01 to 03,91,New Generation,1981,59.5,373000,Jan 2021
+261,Jurong East St 24,01 to 03,94,New Generation,1983,61.25,320000,Jan 2021
+264,Jurong East St 24,04 to 06,95,New Generation,1983,61.33,358000,Jan 2021
+321,Jurong East St 31,01 to 03,104,Model A,1984,62.83,385000,Jan 2021
+22,Teban Gdns Rd,25 to 27,87,Model A,2013,91.67,468000,Jan 2021
+52,Teban Gdns Rd,10 to 12,83,Simplified,1987,65.25,335000,Jan 2021
+55,Teban Gdns Rd,25 to 27,92,Model A,2016,94.83,528000,Jan 2021
+57,Teban Gdns Rd,25 to 27,92,Model A,2016,94.83,500000,Jan 2021
+57,Teban Gdns Rd,37 to 39,92,Model A,2016,94.92,530000,Jan 2021
+267,Toh Guan Rd,13 to 15,101,Model A,1998,76.83,530000,Jan 2021
+332,Jurong East Ave 1,13 to 15,106,Model A,1985,63.92,425000,Dec 2020
+108,Jurong East St 13,04 to 06,90,New Generation,1982,60.92,415000,Dec 2020
+209,Jurong East St 21,07 to 09,98,New Generation,1983,61.33,400000,Dec 2020
+218,Jurong East St 21,01 to 03,91,New Generation,1984,63,368000,Dec 2020
+228,Jurong East St 21,04 to 06,86,Simplified,1987,65.92,395000,Dec 2020
+288B,Jurong East St 21,07 to 09,103,Model A,2000,78.42,495000,Dec 2020
+244,Jurong East St 24,07 to 09,111,New Generation,1983,61.42,367000,Dec 2020
+304,Jurong East St 32,07 to 09,99,New Generation,1983,61.83,424000,Dec 2020
+306,Jurong East St 32,10 to 12,94,New Generation,1983,61.83,421000,Dec 2020
+310,Jurong East St 32,10 to 12,105,Model A,1985,63.25,360000,Dec 2020
+312,Jurong East St 32,01 to 03,106,Model A,1984,62.67,400000,Dec 2020
+56,Teban Gdns Rd,04 to 06,92,Model A,2016,95,425000,Dec 2020
+56,Teban Gdns Rd,01 to 03,92,Model A,2016,95,430000,Dec 2020
+56,Teban Gdns Rd,16 to 18,92,Model A,2016,95,470000,Dec 2020
+60,Teban Gdns Rd,10 to 12,90,Model A,2003,81.75,360000,Dec 2020
+60,Teban Gdns Rd,19 to 21,90,Model A,2003,81.75,410000,Dec 2020
+268,Toh Guan Rd,10 to 12,102,Model A,1999,77.25,490000,Dec 2020
+269,Toh Guan Rd,07 to 09,100,Model A,1999,77.42,500000,Dec 2020
+271,Toh Guan Rd,10 to 12,100,Model A,1999,77.33,529000,Dec 2020
+280,Toh Guan Rd,16 to 18,90,Model A2,1998,76.75,483000,Dec 2020
+281,Toh Guan Rd,01 to 03,100,Model A,1998,77.08,450000,Dec 2020
+284,Toh Guan Rd,01 to 03,101,Model A,1998,77.08,472000,Dec 2020
+285B,Toh Guan Rd,04 to 06,100,Model A,1998,77,482500,Dec 2020
+332,Jurong East Ave 1,10 to 12,106,Model A,1985,64,340000,Nov 2020
+339,Jurong East Ave 1,10 to 12,104,Model A,1983,61.67,400000,Nov 2020
+113,Jurong East St 13,04 to 06,90,New Generation,1981,59.67,373000,Nov 2020
+236,Jurong East St 21,07 to 09,91,New Generation,1982,60.33,382000,Nov 2020
+316,Jurong East St 32,10 to 12,104,Model A,1984,62.92,400000,Nov 2020
+409,Pandan Gdns,04 to 06,97,New Generation,1978,57.08,370000,Nov 2020
+55,Teban Gdns Rd,25 to 27,92,Model A,2016,95.08,488000,Nov 2020
+55,Teban Gdns Rd,34 to 36,92,Model A,2016,95.08,530000,Nov 2020
+56,Teban Gdns Rd,10 to 12,92,Model A,2016,95.08,440000,Nov 2020
+56,Teban Gdns Rd,07 to 09,92,Model A,2016,95.08,440000,Nov 2020
+56,Teban Gdns Rd,19 to 21,92,Model A,2016,95,506000,Nov 2020
+57,Teban Gdns Rd,04 to 06,92,Model A,2016,95.08,420000,Nov 2020
+57,Teban Gdns Rd,22 to 24,92,Model A,2016,95.08,477000,Nov 2020
+57,Teban Gdns Rd,28 to 30,92,Model A,2016,95.08,502888,Nov 2020
+276,Toh Guan Rd,16 to 18,100,Model A,1998,77,528000,Nov 2020
+285B,Toh Guan Rd,16 to 18,102,Model A,1998,77.17,510000,Nov 2020

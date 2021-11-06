@@ -1,0 +1,927 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date
+86,Dawson Rd,19 to 21,83,Premium Apartment,2016,93.83,848000,Nov 2021
+86,Dawson Rd,22 to 24,87,Premium Apartment,2016,93.83,898000,Nov 2021
+92,Dawson Rd,34 to 36,87,Premium Apartment,2016,93.5,885000,Nov 2021
+28B,Dover Cres,04 to 06,95,Model A,2012,89.42,708888,Nov 2021
+51,Strathmore Ave,13 to 15,90,Model A,2006,84.17,718000,Nov 2021
+86,Dawson Rd,13 to 15,83,Premium Apartment,2016,93.83,800000,Oct 2021
+86,Dawson Rd,10 to 12,83,Premium Apartment,2016,93.83,808000,Oct 2021
+86,Dawson Rd,25 to 27,83,Premium Apartment,2016,93.92,838000,Oct 2021
+87,Dawson Rd,07 to 09,83,Premium Apartment,2016,93.92,705000,Oct 2021
+87,Dawson Rd,04 to 06,83,Premium Apartment,2016,93.92,725000,Oct 2021
+87,Dawson Rd,19 to 21,83,Premium Apartment,2016,93.92,800000,Oct 2021
+87,Dawson Rd,19 to 21,83,Premium Apartment,2016,93.92,823000,Oct 2021
+87,Dawson Rd,28 to 30,83,Premium Apartment,2016,93.92,830000,Oct 2021
+87,Dawson Rd,34 to 36,83,Premium Apartment,2016,93.92,835000,Oct 2021
+87,Dawson Rd,43 to 45,83,Premium Apartment,2016,93.83,888000,Oct 2021
+88,Dawson Rd,25 to 27,83,Premium Apartment,2016,93.92,790000,Oct 2021
+88,Dawson Rd,10 to 12,83,Premium Apartment,2016,93.92,795000,Oct 2021
+88,Dawson Rd,10 to 12,83,Premium Apartment,2016,93.83,808808,Oct 2021
+88,Dawson Rd,40 to 42,83,Premium Apartment,2016,93.92,865000,Oct 2021
+89,Dawson Rd,10 to 12,83,Premium Apartment,2016,93.58,800000,Oct 2021
+91,Dawson Rd,16 to 18,83,Premium Apartment,2016,93.58,818000,Oct 2021
+92,Dawson Rd,13 to 15,97,Premium Apartment Loft,2016,93.5,958000,Oct 2021
+17,Dover Cres,13 to 15,92,Model A,2003,81,675000,Oct 2021
+19,Dover Cres,13 to 15,92,Model A,2003,80.92,695000,Oct 2021
+23,Dover Cres,04 to 06,88,Improved,1976,53.83,440000,Oct 2021
+28B,Dover Cres,01 to 03,95,Model A,2012,89.5,620000,Oct 2021
+28D,Dover Cres,10 to 12,95,Model A,2012,89.5,735000,Oct 2021
+27,Ghim Moh Link,31 to 33,87,Model A,2013,90.58,815000,Oct 2021
+12,Holland Ave,10 to 12,88,Improved,1975,52.33,510000,Oct 2021
+11,Holland Dr,13 to 15,88,Improved,1975,52.33,538000,Oct 2021
+145,Mei Ling St,07 to 09,109,Model A,1995,72.92,740000,Oct 2021
+23B,Queen's Cl,07 to 09,89,Improved,1973,50.67,435000,Oct 2021
+168A,Queensway,01 to 03,84,Improved,1974,51.83,360000,Oct 2021
+183,Stirling Rd,01 to 03,95,Model A,2000,78.17,646888,Oct 2021
+184,Stirling Rd,01 to 03,95,Model A,2000,78.17,702000,Oct 2021
+48,Strathmore Ave,13 to 15,85,Model A,2006,84.25,751000,Oct 2021
+48,Strathmore Ave,07 to 09,85,Model A,2006,84.17,778000,Oct 2021
+49,Strathmore Ave,01 to 03,90,Model A,2006,83.75,660000,Oct 2021
+60,Strathmore Ave,19 to 21,85,Model A,2000,78,750000,Oct 2021
+60,Strathmore Ave,19 to 21,96,Model A,2000,78.08,780000,Oct 2021
+61B,Strathmore Ave,07 to 09,96,Model A,2011,88.92,775000,Oct 2021
+82,Strathmore Ave,07 to 09,104,Model A,1997,75.08,715000,Oct 2021
+91,Tanglin Halt Rd,13 to 15,90,Model A,2008,85.92,780000,Oct 2021
+7,C'wealth Ave,13 to 15,105,Model A,1996,74.08,770000,Sep 2021
+50,C'wealth Dr,25 to 27,96,Model A,2015,92.42,860000,Sep 2021
+86,Dawson Rd,16 to 18,83,Premium Apartment,2016,94,730000,Sep 2021
+86,Dawson Rd,28 to 30,83,Premium Apartment,2016,94,828000,Sep 2021
+86,Dawson Rd,31 to 33,83,Premium Apartment,2016,94,860000,Sep 2021
+86,Dawson Rd,43 to 45,83,Premium Apartment,2016,94,877000,Sep 2021
+88,Dawson Rd,01 to 03,83,Premium Apartment,2016,94,650000,Sep 2021
+88,Dawson Rd,04 to 06,83,Premium Apartment,2016,94,755000,Sep 2021
+88,Dawson Rd,25 to 27,83,Premium Apartment,2016,94,820000,Sep 2021
+88,Dawson Rd,22 to 24,87,Premium Apartment,2016,94,830888,Sep 2021
+88,Dawson Rd,37 to 39,83,Premium Apartment,2016,94,845000,Sep 2021
+89,Dawson Rd,10 to 12,83,Premium Apartment,2016,93.67,798000,Sep 2021
+90,Dawson Rd,28 to 30,87,Premium Apartment,2016,93.67,852000,Sep 2021
+90,Dawson Rd,10 to 12,97,Premium Apartment Loft,2016,93.58,900000,Sep 2021
+90,Dawson Rd,31 to 33,97,Premium Apartment Loft,2016,93.58,971118,Sep 2021
+91,Dawson Rd,22 to 24,87,Premium Apartment,2016,93.67,850000,Sep 2021
+91,Dawson Rd,25 to 27,97,Premium Apartment Loft,2016,93.67,968800,Sep 2021
+92,Dawson Rd,10 to 12,83,Premium Apartment,2016,93.67,795000,Sep 2021
+28B,Dover Cres,04 to 06,88,Model A,2012,89.5,620000,Sep 2021
+28B,Dover Cres,28 to 30,88,Model A,2012,89.5,788000,Sep 2021
+28C,Dover Cres,16 to 18,95,Model A,2012,89.5,720000,Sep 2021
+22,Ghim Moh Link,04 to 06,92,Model A,2013,90.67,720000,Sep 2021
+27,Ghim Moh Link,37 to 39,87,Model A,2013,90.67,838000,Sep 2021
+28,Ghim Moh Link,04 to 06,92,Model A,2013,90.58,760000,Sep 2021
+28,Ghim Moh Link,19 to 21,92,Model A,2013,90.67,855000,Sep 2021
+15,Ghim Moh Rd,07 to 09,82,Improved,1977,54.33,568000,Sep 2021
+10,Holland Ave,07 to 09,88,Improved,1975,52.33,600000,Sep 2021
+11,Holland Dr,07 to 09,88,Improved,1975,52.42,565000,Sep 2021
+13,Holland Dr,19 to 21,88,Improved,1975,52.33,550000,Sep 2021
+18A,Holland Dr,19 to 21,92,Model A,2012,90.08,888000,Sep 2021
+18C,Holland Dr,10 to 12,92,Model A,2012,90.08,780000,Sep 2021
+49,Strathmore Ave,22 to 24,90,Model A,2006,83.92,800000,Sep 2021
+52,Strathmore Ave,04 to 06,90,Model A,2006,84.33,740000,Sep 2021
+55,Strathmore Ave,01 to 03,95,Model A,2002,79.75,603000,Sep 2021
+55,Strathmore Ave,04 to 06,95,Model A,2002,79.75,665000,Sep 2021
+56,Strathmore Ave,16 to 18,85,Model A,2002,79.75,595000,Sep 2021
+58,Strathmore Ave,13 to 15,85,Model A,2000,78.17,710000,Sep 2021
+61A,Strathmore Ave,16 to 18,96,Model A,2011,88.92,808000,Sep 2021
+61B,Strathmore Ave,04 to 06,93,Model A,2011,88.92,706800,Sep 2021
+61B,Strathmore Ave,10 to 12,94,Model A,2011,89,790000,Sep 2021
+61B,Strathmore Ave,13 to 15,93,Model A,2011,89.08,805000,Sep 2021
+61C,Strathmore Ave,07 to 09,93,Model A,2011,88.92,750000,Sep 2021
+62B,Strathmore Ave,04 to 06,96,Model A,2011,89,720000,Sep 2021
+89,Tanglin Halt Rd,04 to 06,90,Model A,2008,86,710888,Sep 2021
+90,Tanglin Halt Rd,22 to 24,90,Model A,2008,85.92,770000,Sep 2021
+90,Tanglin Halt Rd,31 to 33,90,Model A,2008,86,780000,Sep 2021
+91,Tanglin Halt Rd,01 to 03,90,Model A,2008,86,670000,Sep 2021
+52,C'wealth Dr,07 to 09,95,Model A,2015,92.58,790000,Aug 2021
+91,C'wealth Dr,07 to 09,138,Adjoined Flat,1967,44.5,695000,Aug 2021
+86,Dawson Rd,01 to 03,83,Premium Apartment,2016,94,660000,Aug 2021
+86,Dawson Rd,13 to 15,83,Premium Apartment,2016,94,818000,Aug 2021
+86,Dawson Rd,43 to 45,87,Premium Apartment,2016,94,888000,Aug 2021
+86,Dawson Rd,43 to 45,83,Premium Apartment,2016,94,908000,Aug 2021
+88,Dawson Rd,04 to 06,83,Premium Apartment,2016,94.08,728000,Aug 2021
+88,Dawson Rd,25 to 27,83,Premium Apartment,2016,94,800000,Aug 2021
+88,Dawson Rd,31 to 33,83,Premium Apartment,2016,94.08,810000,Aug 2021
+88,Dawson Rd,34 to 36,87,Premium Apartment,2016,94,860000,Aug 2021
+89,Dawson Rd,25 to 27,97,Premium Apartment Loft,2016,93.75,850000,Aug 2021
+91,Dawson Rd,04 to 06,83,Premium Apartment,2016,93.75,775000,Aug 2021
+92,Dawson Rd,19 to 21,83,Premium Apartment,2016,93.75,810000,Aug 2021
+93,Dawson Rd,07 to 09,83,Premium Apartment,2016,93.75,808000,Aug 2021
+93,Dawson Rd,13 to 15,87,Premium Apartment,2016,93.67,838000,Aug 2021
+93,Dawson Rd,19 to 21,87,Premium Apartment,2016,93.75,845000,Aug 2021
+93,Dawson Rd,40 to 42,95,Premium Apartment Loft,2016,93.75,986000,Aug 2021
+28A,Dover Cres,22 to 24,95,Model A,2012,89.58,770000,Aug 2021
+28C,Dover Cres,04 to 06,95,Model A,2012,89.67,725000,Aug 2021
+15,Ghim Moh Rd,10 to 12,82,Improved,1977,54.5,523000,Aug 2021
+10,Holland Ave,13 to 15,88,Improved,1975,52.5,550000,Aug 2021
+4,Holland Cl,04 to 06,88,Improved,1974,51.75,538000,Aug 2021
+4,Holland Cl,13 to 15,88,Improved,1974,51.83,585000,Aug 2021
+6,Holland Cl,01 to 03,86,Improved,1974,51.75,555000,Aug 2021
+18C,Holland Dr,04 to 06,92,Model A,2012,90.17,782000,Aug 2021
+18D,Holland Dr,34 to 36,92,Model A,2012,90.17,930000,Aug 2021
+145,Mei Ling St,01 to 03,109,Model A,1995,73.08,665000,Aug 2021
+145,Mei Ling St,04 to 06,109,Model A,1995,73.08,686000,Aug 2021
+161,Mei Ling St,01 to 03,85,Improved,1970,48.08,375000,Aug 2021
+42,Stirling Rd,01 to 03,120,Terrace,1968,46.42,930000,Aug 2021
+182,Stirling Rd,01 to 03,96,Model A,2000,78.08,723000,Aug 2021
+49,Strathmore Ave,04 to 06,85,Model A,2006,84,705000,Aug 2021
+59,Strathmore Ave,10 to 12,85,Model A,2000,78.25,710000,Aug 2021
+60,Strathmore Ave,04 to 06,86,Model A,2000,78.25,620000,Aug 2021
+61B,Strathmore Ave,16 to 18,93,Model A,2011,89,818000,Aug 2021
+89,Tanglin Halt Rd,13 to 15,90,Model A,2008,86.08,730000,Aug 2021
+89,Tanglin Halt Rd,34 to 36,85,Model A,2008,86.08,810000,Aug 2021
+89,Tanglin Halt Rd,40 to 42,90,Model A,2008,86.08,845000,Aug 2021
+91,Tanglin Halt Rd,04 to 06,85,Model A,2008,86,700000,Aug 2021
+50,C'wealth Dr,22 to 24,96,Model A,2015,92.67,858000,Jul 2021
+50,C'wealth Dr,31 to 33,96,Model A,2015,92.67,870000,Jul 2021
+129,Clarence Lane,10 to 12,104,Model A,1996,74.17,808000,Jul 2021
+130,Clarence Lane,10 to 12,105,Model A,1996,74.17,850000,Jul 2021
+86,Dawson Rd,43 to 45,83,Premium Apartment,2016,94.08,880000,Jul 2021
+87,Dawson Rd,16 to 18,87,Premium Apartment,2016,94.17,775000,Jul 2021
+87,Dawson Rd,10 to 12,87,Premium Apartment,2016,94.08,855000,Jul 2021
+88,Dawson Rd,07 to 09,83,Premium Apartment,2016,94.17,775000,Jul 2021
+88,Dawson Rd,22 to 24,83,Premium Apartment,2016,94.17,818000,Jul 2021
+88,Dawson Rd,16 to 18,87,Premium Apartment,2016,94.17,823000,Jul 2021
+88,Dawson Rd,43 to 45,83,Premium Apartment,2016,94.17,838000,Jul 2021
+88,Dawson Rd,31 to 33,83,Premium Apartment,2016,94.25,855000,Jul 2021
+89,Dawson Rd,40 to 42,97,Premium Apartment Loft,2016,93.75,920000,Jul 2021
+90,Dawson Rd,22 to 24,97,Premium Apartment Loft,2016,93.83,915000,Jul 2021
+91,Dawson Rd,34 to 36,97,Premium Apartment Loft,2016,93.83,988000,Jul 2021
+92,Dawson Rd,07 to 09,83,Premium Apartment,2016,93.75,762000,Jul 2021
+93,Dawson Rd,19 to 21,87,Premium Apartment,2016,93.75,840000,Jul 2021
+23,Dover Cres,07 to 09,88,Improved,1976,54.08,450000,Jul 2021
+28C,Dover Cres,07 to 09,95,Model A,2012,89.75,730000,Jul 2021
+27,Ghim Moh Link,34 to 36,87,Model A,2013,90.83,830000,Jul 2021
+28,Ghim Moh Link,07 to 09,92,Model A,2013,90.83,810000,Jul 2021
+28,Ghim Moh Link,19 to 21,93,Model A,2013,90.83,818000,Jul 2021
+28,Ghim Moh Link,31 to 33,92,Model A,2013,90.83,840000,Jul 2021
+8,Holland Ave,13 to 15,82,Improved,1974,51.92,452000,Jul 2021
+12,Holland Ave,07 to 09,88,Improved,1975,52.5,535000,Jul 2021
+5,Holland Cl,07 to 09,105,Model A,1998,76.42,785000,Jul 2021
+6,Holland Cl,16 to 18,86,Improved,1974,51.92,535000,Jul 2021
+6,Holland Cl,22 to 24,86,Improved,1974,51.92,565000,Jul 2021
+11,Holland Dr,19 to 21,88,Improved,1975,52.58,540000,Jul 2021
+161,Mei Ling St,07 to 09,85,Improved,1970,48.08,405000,Jul 2021
+50,Strathmore Ave,04 to 06,85,Model A,2006,84.25,660000,Jul 2021
+52,Strathmore Ave,16 to 18,90,Model A,2006,84.5,720000,Jul 2021
+61A,Strathmore Ave,22 to 24,98,Model A,2011,89.08,850000,Jul 2021
+61C,Strathmore Ave,01 to 03,93,Model A,2011,89.17,683888,Jul 2021
+89,Tanglin Halt Rd,31 to 33,85,Model A,2008,86.17,748000,Jul 2021
+89,Tanglin Halt Rd,25 to 27,85,Model A,2008,86.17,750000,Jul 2021
+90,Tanglin Halt Rd,10 to 12,85,Model A,2008,86.08,738500,Jul 2021
+90,Tanglin Halt Rd,37 to 39,90,Model A,2008,86.17,825000,Jul 2021
+52,C'wealth Dr,13 to 15,88,Model A,2015,92.75,802888,Jun 2021
+86,Dawson Rd,25 to 27,83,Premium Apartment,2016,94.25,805000,Jun 2021
+86,Dawson Rd,10 to 12,87,Premium Apartment,2016,94.25,815000,Jun 2021
+87,Dawson Rd,07 to 09,83,Premium Apartment,2016,94.25,680000,Jun 2021
+87,Dawson Rd,04 to 06,87,Premium Apartment,2016,94.25,785000,Jun 2021
+87,Dawson Rd,13 to 15,83,Premium Apartment,2016,94.25,798000,Jun 2021
+87,Dawson Rd,31 to 33,87,Premium Apartment,2016,94.25,838888,Jun 2021
+88,Dawson Rd,16 to 18,87,Premium Apartment,2016,94.17,735000,Jun 2021
+88,Dawson Rd,04 to 06,83,Premium Apartment,2016,94.25,763000,Jun 2021
+88,Dawson Rd,10 to 12,83,Premium Apartment,2016,94.25,775000,Jun 2021
+88,Dawson Rd,22 to 24,83,Premium Apartment,2016,94.25,795000,Jun 2021
+88,Dawson Rd,16 to 18,83,Premium Apartment,2016,94.25,800000,Jun 2021
+88,Dawson Rd,13 to 15,83,Premium Apartment,2016,94.25,808000,Jun 2021
+88,Dawson Rd,31 to 33,83,Premium Apartment,2016,94.25,835000,Jun 2021
+88,Dawson Rd,46 to 48,83,Premium Apartment,2016,94.25,840000,Jun 2021
+88,Dawson Rd,40 to 42,87,Premium Apartment,2016,94.25,875000,Jun 2021
+89,Dawson Rd,25 to 27,83,Premium Apartment,2016,93.92,815000,Jun 2021
+89,Dawson Rd,34 to 36,83,Premium Apartment,2016,93.92,848000,Jun 2021
+89,Dawson Rd,10 to 12,109,Premium Apartment Loft,2016,93.92,950000,Jun 2021
+91,Dawson Rd,37 to 39,83,Premium Apartment,2016,93.92,880000,Jun 2021
+91,Dawson Rd,07 to 09,97,Premium Apartment Loft,2016,93.92,930000,Jun 2021
+91,Dawson Rd,31 to 33,109,Premium Apartment Loft,2016,93.92,1032888,Jun 2021
+92,Dawson Rd,19 to 21,87,Premium Apartment,2016,93.92,825000,Jun 2021
+92,Dawson Rd,34 to 36,83,Premium Apartment,2016,93.92,860000,Jun 2021
+93,Dawson Rd,19 to 21,83,Premium Apartment,2016,93.92,785000,Jun 2021
+93,Dawson Rd,31 to 33,83,Premium Apartment,2016,93.92,840000,Jun 2021
+18,Dover Cres,07 to 09,92,Model A,2003,81.33,680000,Jun 2021
+10,Holland Ave,10 to 12,88,Improved,1975,52.67,510000,Jun 2021
+168A,Queensway,16 to 18,84,Improved,1974,52.08,445000,Jun 2021
+48,Strathmore Ave,34 to 36,90,Model A,2006,84.58,800000,Jun 2021
+58,Strathmore Ave,13 to 15,96,Model A,2000,78.42,710000,Jun 2021
+61A,Strathmore Ave,04 to 06,96,Model A,2011,89.25,685000,Jun 2021
+61C,Strathmore Ave,16 to 18,93,Model A,2011,89.25,782000,Jun 2021
+91,Tanglin Halt Rd,19 to 21,90,Model A,2008,86.25,790000,Jun 2021
+7,C'wealth Ave,10 to 12,106,Model A,1996,74.33,740000,May 2021
+50,C'wealth Dr,07 to 09,96,Model A,2015,92.83,790000,May 2021
+52,C'wealth Dr,13 to 15,95,Model A,2015,92.83,800000,May 2021
+53,C'wealth Dr,22 to 24,93,Model A,2015,92.83,832000,May 2021
+86,Dawson Rd,28 to 30,83,Premium Apartment,2016,94.25,800000,May 2021
+86,Dawson Rd,22 to 24,83,Premium Apartment,2016,94.33,825000,May 2021
+86,Dawson Rd,37 to 39,87,Premium Apartment,2016,94.25,830000,May 2021
+86,Dawson Rd,34 to 36,87,Premium Apartment,2016,94.33,855000,May 2021
+86,Dawson Rd,43 to 45,87,Premium Apartment,2016,94.33,878888,May 2021
+87,Dawson Rd,31 to 33,83,Premium Apartment,2016,94.33,815000,May 2021
+87,Dawson Rd,16 to 18,87,Premium Apartment,2016,94.33,827000,May 2021
+87,Dawson Rd,37 to 39,87,Premium Apartment,2016,94.33,850000,May 2021
+88,Dawson Rd,04 to 06,83,Premium Apartment,2016,94.33,670000,May 2021
+88,Dawson Rd,22 to 24,87,Premium Apartment,2016,94.33,790000,May 2021
+88,Dawson Rd,22 to 24,87,Premium Apartment,2016,94.33,805000,May 2021
+88,Dawson Rd,28 to 30,83,Premium Apartment,2016,94.33,810000,May 2021
+88,Dawson Rd,40 to 42,83,Premium Apartment,2016,94.25,825000,May 2021
+88,Dawson Rd,40 to 42,83,Premium Apartment,2016,94.33,830000,May 2021
+88,Dawson Rd,43 to 45,83,Premium Apartment,2016,94.33,868800,May 2021
+88,Dawson Rd,37 to 39,87,Premium Apartment,2016,94.33,908000,May 2021
+89,Dawson Rd,07 to 09,87,Premium Apartment,2016,93.92,766800,May 2021
+89,Dawson Rd,37 to 39,83,Premium Apartment,2016,93.92,832000,May 2021
+91,Dawson Rd,31 to 33,97,Premium Apartment Loft,2016,93.92,930888,May 2021
+91,Dawson Rd,40 to 42,97,Premium Apartment Loft,2016,94,978000,May 2021
+92,Dawson Rd,25 to 27,83,Premium Apartment,2016,94,788000,May 2021
+93,Dawson Rd,13 to 15,87,Premium Apartment,2016,94,816800,May 2021
+17,Dover Cres,10 to 12,92,Model A,2003,81.33,615000,May 2021
+18,Dover Cres,10 to 12,92,Model A,2003,81.42,668000,May 2021
+23,Dover Cres,10 to 12,88,Improved,1976,54.25,450000,May 2021
+28C,Dover Cres,28 to 30,95,Model A,2012,89.92,750000,May 2021
+3,Holland Cl,04 to 06,105,Model A,1998,76.5,740000,May 2021
+5,Holland Cl,01 to 03,105,Model A,1998,76.58,750000,May 2021
+18A,Holland Dr,37 to 39,92,Model A,2012,90.33,940000,May 2021
+18C,Holland Dr,01 to 03,92,Model A,2012,90.42,680000,May 2021
+18C,Holland Dr,16 to 18,92,Model A,2012,90.33,770000,May 2021
+18D,Holland Dr,16 to 18,92,Model A,2012,90.42,895000,May 2021
+23B,Queen's Cl,04 to 06,89,Improved,1973,51.08,408000,May 2021
+48,Strathmore Ave,22 to 24,85,Model A,2006,84.67,775000,May 2021
+49,Strathmore Ave,28 to 30,90,Model A,2006,84.25,785000,May 2021
+50,Strathmore Ave,07 to 09,90,Model A,2006,84.42,760000,May 2021
+51,Strathmore Ave,01 to 03,90,Model A,2006,84.5,705000,May 2021
+51,Strathmore Ave,25 to 27,90,Model A,2006,84.42,790000,May 2021
+55,Strathmore Ave,16 to 18,95,Model A,2002,80.08,722000,May 2021
+61B,Strathmore Ave,01 to 03,96,Model A,2011,89.33,680000,May 2021
+81,Strathmore Ave,04 to 06,105,Model A,1993,71.17,708000,May 2021
+89,Tanglin Halt Rd,04 to 06,90,Model A,2008,86.25,688888,May 2021
+89,Tanglin Halt Rd,16 to 18,85,Model A,2008,86.33,738000,May 2021
+91,Tanglin Halt Rd,19 to 21,90,Model A,2008,86.33,760000,May 2021
+91,Tanglin Halt Rd,37 to 39,90,Model A,2008,86.33,850000,May 2021
+53,C'wealth Dr,34 to 36,93,Model A,2015,92.83,875000,Apr 2021
+129,Clarence Lane,07 to 09,104,Model A,1996,74.5,835000,Apr 2021
+86,Dawson Rd,04 to 06,83,Premium Apartment,2016,94.42,690000,Apr 2021
+86,Dawson Rd,10 to 12,87,Premium Apartment,2016,94.33,808000,Apr 2021
+87,Dawson Rd,07 to 09,83,Premium Apartment,2016,94.42,715000,Apr 2021
+87,Dawson Rd,16 to 18,87,Premium Apartment,2016,94.33,840000,Apr 2021
+87,Dawson Rd,43 to 45,83,Premium Apartment,2016,94.33,870000,Apr 2021
+88,Dawson Rd,07 to 09,83,Premium Apartment,2016,94.42,753888,Apr 2021
+88,Dawson Rd,19 to 21,83,Premium Apartment,2016,94.33,808000,Apr 2021
+88,Dawson Rd,19 to 21,87,Premium Apartment,2016,94.33,825000,Apr 2021
+90,Dawson Rd,31 to 33,109,Premium Apartment Loft,2016,94.08,975000,Apr 2021
+91,Dawson Rd,16 to 18,83,Premium Apartment,2016,94,800000,Apr 2021
+91,Dawson Rd,07 to 09,97,Premium Apartment Loft,2016,94.08,878000,Apr 2021
+91,Dawson Rd,40 to 42,83,Premium Apartment,2016,94,890000,Apr 2021
+92,Dawson Rd,16 to 18,95,Premium Apartment Loft,2016,94,825000,Apr 2021
+92,Dawson Rd,16 to 18,97,Premium Apartment Loft,2016,94.08,928000,Apr 2021
+28A,Dover Cres,01 to 03,95,Model A,2012,89.92,660000,Apr 2021
+28C,Dover Cres,07 to 09,95,Model A,2012,89.92,725000,Apr 2021
+22,Ghim Moh Link,07 to 09,92,Model A,2013,91,808000,Apr 2021
+28,Ghim Moh Link,01 to 03,92,Model A,2013,91.08,638888,Apr 2021
+4,Holland Cl,16 to 18,88,Improved,1974,52.08,590000,Apr 2021
+143,Mei Ling St,07 to 09,109,Model A,1995,73.42,663000,Apr 2021
+160,Mei Ling St,04 to 06,85,Improved,1970,48.25,380000,Apr 2021
+19,Queen's Cl,07 to 09,107,Model A,1996,74.58,640000,Apr 2021
+168A,Queensway,04 to 06,84,Improved,1974,52.25,360000,Apr 2021
+51,Strathmore Ave,19 to 21,90,Model A,2006,84.58,750000,Apr 2021
+52,Strathmore Ave,10 to 12,90,Model A,2006,84.67,650000,Apr 2021
+58,Strathmore Ave,10 to 12,85,Model A,2000,78.58,675000,Apr 2021
+59,Strathmore Ave,01 to 03,96,Model A,2000,78.5,602888,Apr 2021
+89,Tanglin Halt Rd,31 to 33,90,Model A,2008,86.42,780000,Apr 2021
+89,Tanglin Halt Rd,31 to 33,90,Model A,2008,86.33,818000,Apr 2021
+91,Tanglin Halt Rd,19 to 21,90,Model A,2008,86.42,736800,Apr 2021
+50,C'wealth Dr,34 to 36,96,Model A,2015,92.92,860888,Mar 2021
+53,C'wealth Dr,31 to 33,88,Model A,2015,93.08,818000,Mar 2021
+129,Clarence Lane,13 to 15,105,Model A,1996,74.42,790000,Mar 2021
+130,Clarence Lane,04 to 06,104,Model A,1996,74.42,780000,Mar 2021
+86,Dawson Rd,07 to 09,83,Premium Apartment,2016,94.42,715000,Mar 2021
+86,Dawson Rd,19 to 21,83,Premium Apartment,2016,94.42,830000,Mar 2021
+87,Dawson Rd,22 to 24,83,Premium Apartment,2016,94.42,760000,Mar 2021
+88,Dawson Rd,10 to 12,83,Premium Apartment,2016,94.5,775000,Mar 2021
+88,Dawson Rd,16 to 18,83,Premium Apartment,2016,94.42,808000,Mar 2021
+88,Dawson Rd,34 to 36,83,Premium Apartment,2016,94.42,848000,Mar 2021
+88,Dawson Rd,43 to 45,87,Premium Apartment,2016,94.5,855000,Mar 2021
+89,Dawson Rd,07 to 09,97,Premium Apartment Loft,2016,94.17,795000,Mar 2021
+89,Dawson Rd,22 to 24,97,Premium Apartment Loft,2016,94.17,890000,Mar 2021
+89,Dawson Rd,25 to 27,97,Premium Apartment Loft,2016,94.17,920000,Mar 2021
+90,Dawson Rd,37 to 39,83,Premium Apartment,2016,94.17,808888,Mar 2021
+90,Dawson Rd,13 to 15,97,Premium Apartment Loft,2016,94.17,888000,Mar 2021
+90,Dawson Rd,10 to 12,109,Premium Apartment Loft,2016,94.08,900000,Mar 2021
+90,Dawson Rd,10 to 12,95,Premium Apartment Loft,2016,94.17,920000,Mar 2021
+91,Dawson Rd,10 to 12,83,Premium Apartment,2016,94.08,775000,Mar 2021
+91,Dawson Rd,10 to 12,95,Premium Apartment Loft,2016,94.08,844000,Mar 2021
+92,Dawson Rd,16 to 18,83,Premium Apartment,2016,94.17,772500,Mar 2021
+92,Dawson Rd,07 to 09,97,Premium Apartment Loft,2016,94.17,858000,Mar 2021
+92,Dawson Rd,25 to 27,97,Premium Apartment Loft,2016,94.08,938000,Mar 2021
+93,Dawson Rd,34 to 36,97,Premium Apartment Loft,2016,94.17,905000,Mar 2021
+18,Dover Cres,04 to 06,87,Model A,2003,81.5,578000,Mar 2021
+28A,Dover Cres,25 to 27,95,Model A,2012,90.08,768000,Mar 2021
+28B,Dover Cres,10 to 12,88,Model A,2012,90.08,693000,Mar 2021
+28B,Dover Cres,07 to 09,95,Model A,2012,90,700000,Mar 2021
+28B,Dover Cres,01 to 03,95,Model A,2012,90,718000,Mar 2021
+28C,Dover Cres,13 to 15,95,Model A,2012,90,738000,Mar 2021
+22,Ghim Moh Link,13 to 15,93,Model A,2013,91.08,820000,Mar 2021
+27,Ghim Moh Link,04 to 06,87,Model A,2013,91.17,755000,Mar 2021
+28,Ghim Moh Link,13 to 15,93,Model A,2013,91.08,850000,Mar 2021
+8,Holland Ave,10 to 12,82,Improved,1974,52.17,520000,Mar 2021
+9,Holland Ave,07 to 09,86,Improved,1974,52.17,590000,Mar 2021
+10,Holland Ave,07 to 09,88,Improved,1975,52.83,500000,Mar 2021
+20,Queen's Cl,16 to 18,107,Model A,1996,74.58,662000,Mar 2021
+22,Queen's Cl,04 to 06,107,Model A,1996,74.58,610000,Mar 2021
+184,Stirling Rd,10 to 12,94,Model A,2000,78.75,698000,Mar 2021
+51,Strathmore Ave,10 to 12,85,Model A,2006,84.58,740000,Mar 2021
+59,Strathmore Ave,04 to 06,85,Model A,2000,78.67,620000,Mar 2021
+61C,Strathmore Ave,19 to 21,98,Model A,2011,89.42,788000,Mar 2021
+62B,Strathmore Ave,22 to 24,93,Model A,2011,89.5,783000,Mar 2021
+90,Tanglin Halt Rd,13 to 15,90,Model A,2008,86.42,735000,Mar 2021
+91,Tanglin Halt Rd,10 to 12,90,Model A,2008,86.42,725000,Mar 2021
+91,Tanglin Halt Rd,16 to 18,90,Model A,2008,86.42,732000,Mar 2021
+7,C'wealth Ave,01 to 03,106,Model A,1996,74.58,689000,Feb 2021
+129,Clarence Lane,01 to 03,103,Model A,1996,74.58,780000,Feb 2021
+86,Dawson Rd,22 to 24,83,Premium Apartment,2016,94.5,780000,Feb 2021
+86,Dawson Rd,16 to 18,83,Premium Apartment,2016,94.58,800000,Feb 2021
+86,Dawson Rd,40 to 42,87,Premium Apartment,2016,94.5,890000,Feb 2021
+87,Dawson Rd,10 to 12,83,Premium Apartment,2016,94.5,825000,Feb 2021
+87,Dawson Rd,31 to 33,83,Premium Apartment,2016,94.58,855000,Feb 2021
+87,Dawson Rd,19 to 21,87,Premium Apartment,2016,94.58,875000,Feb 2021
+88,Dawson Rd,16 to 18,83,Premium Apartment,2016,94.58,788000,Feb 2021
+88,Dawson Rd,40 to 42,83,Premium Apartment,2016,94.5,870000,Feb 2021
+89,Dawson Rd,13 to 15,97,Premium Apartment Loft,2016,94.17,820000,Feb 2021
+90,Dawson Rd,37 to 39,95,Premium Apartment Loft,2016,94.25,948888,Feb 2021
+90,Dawson Rd,37 to 39,109,Premium Apartment Loft,2016,94.25,988000,Feb 2021
+91,Dawson Rd,22 to 24,83,Premium Apartment,2016,94.25,835000,Feb 2021
+91,Dawson Rd,34 to 36,83,Premium Apartment,2016,94.17,870000,Feb 2021
+92,Dawson Rd,10 to 12,97,Premium Apartment Loft,2016,94.17,880000,Feb 2021
+19,Dover Cres,04 to 06,92,Model A,2003,81.58,600000,Feb 2021
+28B,Dover Cres,04 to 06,88,Model A,2012,90.08,654000,Feb 2021
+23,Ghim Moh Link,25 to 27,92,Model A,2013,91.25,825000,Feb 2021
+30A,Holland Cl,04 to 06,106,Model A,1997,75.75,700000,Feb 2021
+13,Holland Dr,04 to 06,88,Improved,1975,53,502888,Feb 2021
+18A,Holland Dr,19 to 21,92,Model A,2012,90.67,881000,Feb 2021
+18B,Holland Dr,31 to 33,92,Model A,2012,90.67,882888,Feb 2021
+18C,Holland Dr,22 to 24,92,Model A,2012,90.67,875000,Feb 2021
+161,Mei Ling St,16 to 18,85,Improved,1970,48.42,350000,Feb 2021
+19,Queen's Cl,10 to 12,107,Model A,1996,74.75,655000,Feb 2021
+46,Stirling Rd,01 to 03,134,Terrace,1968,46.92,975000,Feb 2021
+51,Strathmore Ave,04 to 06,90,Model A,2006,84.75,708888,Feb 2021
+61C,Strathmore Ave,22 to 24,94,Model A,2011,89.58,790000,Feb 2021
+61C,Strathmore Ave,25 to 27,98,Model A,2011,89.5,838000,Feb 2021
+80,Strathmore Ave,10 to 12,105,Model A,1993,71.42,738000,Feb 2021
+90,Tanglin Halt Rd,13 to 15,90,Model A,2008,86.58,720000,Feb 2021
+91,Tanglin Halt Rd,25 to 27,90,Model A,2008,86.5,798000,Feb 2021
+53,C'wealth Dr,07 to 09,93,Model A,2015,93.08,780000,Jan 2021
+86,Dawson Rd,25 to 27,83,Premium Apartment,2016,94.67,828888,Jan 2021
+86,Dawson Rd,28 to 30,83,Premium Apartment,2016,94.67,840000,Jan 2021
+87,Dawson Rd,07 to 09,87,Premium Apartment,2016,94.67,808000,Jan 2021
+87,Dawson Rd,34 to 36,83,Premium Apartment,2016,94.67,846888,Jan 2021
+88,Dawson Rd,10 to 12,83,Premium Apartment,2016,94.67,780000,Jan 2021
+88,Dawson Rd,22 to 24,83,Premium Apartment,2016,94.67,823888,Jan 2021
+88,Dawson Rd,31 to 33,83,Premium Apartment,2016,94.67,838000,Jan 2021
+89,Dawson Rd,37 to 39,87,Premium Apartment,2016,94.33,861888,Jan 2021
+90,Dawson Rd,31 to 33,95,Premium Apartment Loft,2016,94.33,902000,Jan 2021
+91,Dawson Rd,13 to 15,83,Premium Apartment,2016,94.25,810000,Jan 2021
+91,Dawson Rd,28 to 30,109,Premium Apartment Loft,2016,94.25,975000,Jan 2021
+92,Dawson Rd,10 to 12,87,Premium Apartment,2016,94.25,830000,Jan 2021
+92,Dawson Rd,28 to 30,87,Premium Apartment,2016,94.33,840000,Jan 2021
+92,Dawson Rd,34 to 36,83,Premium Apartment,2016,94.25,840000,Jan 2021
+92,Dawson Rd,43 to 45,87,Premium Apartment,2016,94.25,888000,Jan 2021
+93,Dawson Rd,34 to 36,95,Premium Apartment Loft,2016,94.33,938888,Jan 2021
+28C,Dover Cres,04 to 06,95,Model A,2012,90.17,700000,Jan 2021
+28C,Dover Cres,25 to 27,95,Model A,2012,90.17,782000,Jan 2021
+10,Holland Ave,04 to 06,88,Improved,1975,53,495000,Jan 2021
+10,Holland Ave,13 to 15,88,Improved,1975,53.08,550000,Jan 2021
+11,Holland Dr,10 to 12,88,Improved,1975,53,504000,Jan 2021
+13,Holland Dr,13 to 15,88,Improved,1975,53.08,530000,Jan 2021
+21,Queen's Cl,04 to 06,108,Model A,1996,74.75,625000,Jan 2021
+48,Strathmore Ave,13 to 15,85,Model A,2006,84.92,760000,Jan 2021
+50,Strathmore Ave,28 to 30,90,Model A,2006,84.67,782000,Jan 2021
+51,Strathmore Ave,07 to 09,90,Model A,2006,84.83,740000,Jan 2021
+51,Strathmore Ave,28 to 30,90,Model A,2006,84.83,780000,Jan 2021
+52,Strathmore Ave,07 to 09,90,Model A,2006,85,718888,Jan 2021
+55,Strathmore Ave,13 to 15,95,Model A,2002,80.5,705000,Jan 2021
+58,Strathmore Ave,01 to 03,96,Model A,2000,78.83,680000,Jan 2021
+61A,Strathmore Ave,07 to 09,96,Model A,2011,89.67,755888,Jan 2021
+89,Tanglin Halt Rd,28 to 30,90,Model A,2008,86.58,803800,Jan 2021
+90,Tanglin Halt Rd,07 to 09,90,Model A,2008,86.67,720000,Jan 2021
+90,Tanglin Halt Rd,31 to 33,90,Model A,2008,86.67,825000,Jan 2021
+91,Tanglin Halt Rd,01 to 03,90,Model A,2008,86.58,648000,Jan 2021
+86,Dawson Rd,07 to 09,87,Premium Apartment,2016,94.75,790000,Dec 2020
+86,Dawson Rd,28 to 30,87,Premium Apartment,2016,94.75,828000,Dec 2020
+86,Dawson Rd,31 to 33,83,Premium Apartment,2016,94.75,860000,Dec 2020
+87,Dawson Rd,07 to 09,87,Premium Apartment,2016,94.75,760000,Dec 2020
+87,Dawson Rd,37 to 39,83,Premium Apartment,2016,94.67,858800,Dec 2020
+87,Dawson Rd,43 to 45,87,Premium Apartment,2016,94.75,890000,Dec 2020
+88,Dawson Rd,22 to 24,87,Premium Apartment,2016,94.67,795000,Dec 2020
+88,Dawson Rd,28 to 30,83,Premium Apartment,2016,94.75,835000,Dec 2020
+88,Dawson Rd,43 to 45,87,Premium Apartment,2016,94.75,840000,Dec 2020
+88,Dawson Rd,40 to 42,83,Premium Apartment,2016,94.75,840000,Dec 2020
+88,Dawson Rd,22 to 24,87,Premium Apartment,2016,94.75,848888,Dec 2020
+88,Dawson Rd,28 to 30,87,Premium Apartment,2016,94.75,860000,Dec 2020
+88,Dawson Rd,37 to 39,83,Premium Apartment,2016,94.75,875000,Dec 2020
+89,Dawson Rd,13 to 15,83,Premium Apartment,2016,94.42,782000,Dec 2020
+89,Dawson Rd,19 to 21,83,Premium Apartment,2016,94.42,788000,Dec 2020
+89,Dawson Rd,34 to 36,87,Premium Apartment,2016,94.33,828000,Dec 2020
+90,Dawson Rd,07 to 09,97,Premium Apartment Loft,2016,94.42,855000,Dec 2020
+91,Dawson Rd,07 to 09,83,Premium Apartment,2016,94.33,660000,Dec 2020
+91,Dawson Rd,37 to 39,83,Premium Apartment,2016,94.42,860000,Dec 2020
+92,Dawson Rd,07 to 09,87,Premium Apartment,2016,94.42,790000,Dec 2020
+93,Dawson Rd,16 to 18,83,Premium Apartment,2016,94.42,820000,Dec 2020
+93,Dawson Rd,28 to 30,83,Premium Apartment,2016,94.42,830000,Dec 2020
+93,Dawson Rd,37 to 39,97,Premium Apartment Loft,2016,94.42,920000,Dec 2020
+28A,Dover Cres,04 to 06,95,Model A,2012,90.33,677000,Dec 2020
+28D,Dover Cres,07 to 09,95,Model A,2012,90.33,605000,Dec 2020
+28D,Dover Cres,19 to 21,95,Model A,2012,90.33,730000,Dec 2020
+9,Holland Ave,04 to 06,86,Improved,1974,52.5,518000,Dec 2020
+10,Holland Ave,04 to 06,88,Improved,1975,53.08,485000,Dec 2020
+3A,Holland Cl,07 to 09,104,Model A,1998,77,768000,Dec 2020
+48,Strathmore Ave,10 to 12,90,Model A,2006,85.08,680000,Dec 2020
+48,Strathmore Ave,04 to 06,90,Model A,2006,85.08,725000,Dec 2020
+50,Strathmore Ave,13 to 15,90,Model A,2006,84.83,716000,Dec 2020
+55,Strathmore Ave,01 to 03,95,Model A,2002,80.5,625000,Dec 2020
+58,Strathmore Ave,10 to 12,96,Model A,2000,78.92,700000,Dec 2020
+61C,Strathmore Ave,01 to 03,94,Model A,2011,89.75,700000,Dec 2020
+53,C'wealth Dr,07 to 09,93,Model A,2015,93.25,780000,Nov 2020
+86,Dawson Rd,04 to 06,87,Premium Apartment,2016,94.75,765000,Nov 2020
+86,Dawson Rd,22 to 24,83,Premium Apartment,2016,94.83,796888,Nov 2020
+86,Dawson Rd,28 to 30,83,Premium Apartment,2016,94.83,828000,Nov 2020
+86,Dawson Rd,43 to 45,83,Premium Apartment,2016,94.83,850000,Nov 2020
+87,Dawson Rd,19 to 21,83,Premium Apartment,2016,94.75,815000,Nov 2020
+87,Dawson Rd,37 to 39,83,Premium Apartment,2016,94.75,845000,Nov 2020
+87,Dawson Rd,22 to 24,87,Premium Apartment,2016,94.75,865000,Nov 2020
+87,Dawson Rd,37 to 39,87,Premium Apartment,2016,94.75,885000,Nov 2020
+88,Dawson Rd,13 to 15,83,Premium Apartment,2016,94.83,785000,Nov 2020
+88,Dawson Rd,19 to 21,87,Premium Apartment,2016,94.83,810888,Nov 2020
+88,Dawson Rd,28 to 30,87,Premium Apartment,2016,94.75,845000,Nov 2020
+88,Dawson Rd,25 to 27,87,Premium Apartment,2016,94.75,865000,Nov 2020
+88,Dawson Rd,25 to 27,87,Premium Apartment,2016,94.75,880000,Nov 2020
+89,Dawson Rd,10 to 12,97,Premium Apartment Loft,2016,94.5,800000,Nov 2020
+90,Dawson Rd,25 to 27,97,Premium Apartment Loft,2016,94.42,918000,Nov 2020
+93,Dawson Rd,07 to 09,87,Premium Apartment,2016,94.5,720000,Nov 2020
+93,Dawson Rd,25 to 27,83,Premium Apartment,2016,94.42,816888,Nov 2020
+18,Dover Cres,10 to 12,92,Model A,2003,81.92,650000,Nov 2020
+19,Dover Cres,04 to 06,92,Model A,2003,81.83,620000,Nov 2020
+23,Dover Cres,04 to 06,88,Improved,1976,54.75,440000,Nov 2020
+28B,Dover Cres,28 to 30,95,Model A,2012,90.42,780000,Nov 2020
+28C,Dover Cres,01 to 03,95,Model A,2012,90.33,620000,Nov 2020
+23,Ghim Moh Link,13 to 15,92,Model A,2013,91.42,750000,Nov 2020
+13,Holland Dr,22 to 24,88,Improved,1975,53.25,560000,Nov 2020
+55,Strathmore Ave,16 to 18,85,Model A,2002,80.5,662000,Nov 2020
+60,Strathmore Ave,04 to 06,85,Model A,2000,79,650000,Nov 2020
+60,Strathmore Ave,10 to 12,85,Model A,2000,79,668000,Nov 2020
+61B,Strathmore Ave,10 to 12,98,Model A,2011,89.83,788800,Nov 2020
+91,Tanglin Halt Rd,04 to 06,90,Model A,2008,86.75,678000,Nov 2020
+91,Tanglin Halt Rd,28 to 30,85,Model A,2008,86.83,755888,Nov 2020
+86,Dawson Rd,19 to 21,83,Premium Apartment,2016,93.83,848000,Nov 2021
+86,Dawson Rd,22 to 24,87,Premium Apartment,2016,93.83,898000,Nov 2021
+92,Dawson Rd,34 to 36,87,Premium Apartment,2016,93.5,885000,Nov 2021
+28B,Dover Cres,04 to 06,95,Model A,2012,89.42,708888,Nov 2021
+51,Strathmore Ave,13 to 15,90,Model A,2006,84.17,718000,Nov 2021
+86,Dawson Rd,13 to 15,83,Premium Apartment,2016,93.83,800000,Oct 2021
+86,Dawson Rd,10 to 12,83,Premium Apartment,2016,93.83,808000,Oct 2021
+86,Dawson Rd,25 to 27,83,Premium Apartment,2016,93.92,838000,Oct 2021
+87,Dawson Rd,07 to 09,83,Premium Apartment,2016,93.92,705000,Oct 2021
+87,Dawson Rd,04 to 06,83,Premium Apartment,2016,93.92,725000,Oct 2021
+87,Dawson Rd,19 to 21,83,Premium Apartment,2016,93.92,800000,Oct 2021
+87,Dawson Rd,19 to 21,83,Premium Apartment,2016,93.92,823000,Oct 2021
+87,Dawson Rd,28 to 30,83,Premium Apartment,2016,93.92,830000,Oct 2021
+87,Dawson Rd,34 to 36,83,Premium Apartment,2016,93.92,835000,Oct 2021
+87,Dawson Rd,43 to 45,83,Premium Apartment,2016,93.83,888000,Oct 2021
+88,Dawson Rd,25 to 27,83,Premium Apartment,2016,93.92,790000,Oct 2021
+88,Dawson Rd,10 to 12,83,Premium Apartment,2016,93.92,795000,Oct 2021
+88,Dawson Rd,10 to 12,83,Premium Apartment,2016,93.83,808808,Oct 2021
+88,Dawson Rd,40 to 42,83,Premium Apartment,2016,93.92,865000,Oct 2021
+89,Dawson Rd,10 to 12,83,Premium Apartment,2016,93.58,800000,Oct 2021
+91,Dawson Rd,16 to 18,83,Premium Apartment,2016,93.58,818000,Oct 2021
+92,Dawson Rd,13 to 15,97,Premium Apartment Loft,2016,93.5,958000,Oct 2021
+17,Dover Cres,13 to 15,92,Model A,2003,81,675000,Oct 2021
+19,Dover Cres,13 to 15,92,Model A,2003,80.92,695000,Oct 2021
+23,Dover Cres,04 to 06,88,Improved,1976,53.83,440000,Oct 2021
+28B,Dover Cres,01 to 03,95,Model A,2012,89.5,620000,Oct 2021
+28D,Dover Cres,10 to 12,95,Model A,2012,89.5,735000,Oct 2021
+27,Ghim Moh Link,31 to 33,87,Model A,2013,90.58,815000,Oct 2021
+12,Holland Ave,10 to 12,88,Improved,1975,52.33,510000,Oct 2021
+11,Holland Dr,13 to 15,88,Improved,1975,52.33,538000,Oct 2021
+145,Mei Ling St,07 to 09,109,Model A,1995,72.92,740000,Oct 2021
+23B,Queen's Cl,07 to 09,89,Improved,1973,50.67,435000,Oct 2021
+168A,Queensway,01 to 03,84,Improved,1974,51.83,360000,Oct 2021
+183,Stirling Rd,01 to 03,95,Model A,2000,78.17,646888,Oct 2021
+184,Stirling Rd,01 to 03,95,Model A,2000,78.17,702000,Oct 2021
+48,Strathmore Ave,13 to 15,85,Model A,2006,84.25,751000,Oct 2021
+48,Strathmore Ave,07 to 09,85,Model A,2006,84.17,778000,Oct 2021
+49,Strathmore Ave,01 to 03,90,Model A,2006,83.75,660000,Oct 2021
+60,Strathmore Ave,19 to 21,85,Model A,2000,78,750000,Oct 2021
+60,Strathmore Ave,19 to 21,96,Model A,2000,78.08,780000,Oct 2021
+61B,Strathmore Ave,07 to 09,96,Model A,2011,88.92,775000,Oct 2021
+82,Strathmore Ave,07 to 09,104,Model A,1997,75.08,715000,Oct 2021
+91,Tanglin Halt Rd,13 to 15,90,Model A,2008,85.92,780000,Oct 2021
+7,C'wealth Ave,13 to 15,105,Model A,1996,74.08,770000,Sep 2021
+50,C'wealth Dr,25 to 27,96,Model A,2015,92.42,860000,Sep 2021
+86,Dawson Rd,16 to 18,83,Premium Apartment,2016,94,730000,Sep 2021
+86,Dawson Rd,28 to 30,83,Premium Apartment,2016,94,828000,Sep 2021
+86,Dawson Rd,31 to 33,83,Premium Apartment,2016,94,860000,Sep 2021
+86,Dawson Rd,43 to 45,83,Premium Apartment,2016,94,877000,Sep 2021
+88,Dawson Rd,01 to 03,83,Premium Apartment,2016,94,650000,Sep 2021
+88,Dawson Rd,04 to 06,83,Premium Apartment,2016,94,755000,Sep 2021
+88,Dawson Rd,25 to 27,83,Premium Apartment,2016,94,820000,Sep 2021
+88,Dawson Rd,22 to 24,87,Premium Apartment,2016,94,830888,Sep 2021
+88,Dawson Rd,37 to 39,83,Premium Apartment,2016,94,845000,Sep 2021
+89,Dawson Rd,10 to 12,83,Premium Apartment,2016,93.67,798000,Sep 2021
+90,Dawson Rd,28 to 30,87,Premium Apartment,2016,93.67,852000,Sep 2021
+90,Dawson Rd,10 to 12,97,Premium Apartment Loft,2016,93.58,900000,Sep 2021
+90,Dawson Rd,31 to 33,97,Premium Apartment Loft,2016,93.58,971118,Sep 2021
+91,Dawson Rd,22 to 24,87,Premium Apartment,2016,93.67,850000,Sep 2021
+91,Dawson Rd,25 to 27,97,Premium Apartment Loft,2016,93.67,968800,Sep 2021
+92,Dawson Rd,10 to 12,83,Premium Apartment,2016,93.67,795000,Sep 2021
+28B,Dover Cres,04 to 06,88,Model A,2012,89.5,620000,Sep 2021
+28B,Dover Cres,28 to 30,88,Model A,2012,89.5,788000,Sep 2021
+28C,Dover Cres,16 to 18,95,Model A,2012,89.5,720000,Sep 2021
+22,Ghim Moh Link,04 to 06,92,Model A,2013,90.67,720000,Sep 2021
+27,Ghim Moh Link,37 to 39,87,Model A,2013,90.67,838000,Sep 2021
+28,Ghim Moh Link,04 to 06,92,Model A,2013,90.58,760000,Sep 2021
+28,Ghim Moh Link,19 to 21,92,Model A,2013,90.67,855000,Sep 2021
+15,Ghim Moh Rd,07 to 09,82,Improved,1977,54.33,568000,Sep 2021
+10,Holland Ave,07 to 09,88,Improved,1975,52.33,600000,Sep 2021
+11,Holland Dr,07 to 09,88,Improved,1975,52.42,565000,Sep 2021
+13,Holland Dr,19 to 21,88,Improved,1975,52.33,550000,Sep 2021
+18A,Holland Dr,19 to 21,92,Model A,2012,90.08,888000,Sep 2021
+18C,Holland Dr,10 to 12,92,Model A,2012,90.08,780000,Sep 2021
+49,Strathmore Ave,22 to 24,90,Model A,2006,83.92,800000,Sep 2021
+52,Strathmore Ave,04 to 06,90,Model A,2006,84.33,740000,Sep 2021
+55,Strathmore Ave,01 to 03,95,Model A,2002,79.75,603000,Sep 2021
+55,Strathmore Ave,04 to 06,95,Model A,2002,79.75,665000,Sep 2021
+56,Strathmore Ave,16 to 18,85,Model A,2002,79.75,595000,Sep 2021
+58,Strathmore Ave,13 to 15,85,Model A,2000,78.17,710000,Sep 2021
+61A,Strathmore Ave,16 to 18,96,Model A,2011,88.92,808000,Sep 2021
+61B,Strathmore Ave,04 to 06,93,Model A,2011,88.92,706800,Sep 2021
+61B,Strathmore Ave,10 to 12,94,Model A,2011,89,790000,Sep 2021
+61B,Strathmore Ave,13 to 15,93,Model A,2011,89.08,805000,Sep 2021
+61C,Strathmore Ave,07 to 09,93,Model A,2011,88.92,750000,Sep 2021
+62B,Strathmore Ave,04 to 06,96,Model A,2011,89,720000,Sep 2021
+89,Tanglin Halt Rd,04 to 06,90,Model A,2008,86,710888,Sep 2021
+90,Tanglin Halt Rd,22 to 24,90,Model A,2008,85.92,770000,Sep 2021
+90,Tanglin Halt Rd,31 to 33,90,Model A,2008,86,780000,Sep 2021
+91,Tanglin Halt Rd,01 to 03,90,Model A,2008,86,670000,Sep 2021
+52,C'wealth Dr,07 to 09,95,Model A,2015,92.58,790000,Aug 2021
+91,C'wealth Dr,07 to 09,138,Adjoined Flat,1967,44.5,695000,Aug 2021
+86,Dawson Rd,01 to 03,83,Premium Apartment,2016,94,660000,Aug 2021
+86,Dawson Rd,13 to 15,83,Premium Apartment,2016,94,818000,Aug 2021
+86,Dawson Rd,43 to 45,87,Premium Apartment,2016,94,888000,Aug 2021
+86,Dawson Rd,43 to 45,83,Premium Apartment,2016,94,908000,Aug 2021
+88,Dawson Rd,04 to 06,83,Premium Apartment,2016,94.08,728000,Aug 2021
+88,Dawson Rd,25 to 27,83,Premium Apartment,2016,94,800000,Aug 2021
+88,Dawson Rd,31 to 33,83,Premium Apartment,2016,94.08,810000,Aug 2021
+88,Dawson Rd,34 to 36,87,Premium Apartment,2016,94,860000,Aug 2021
+89,Dawson Rd,25 to 27,97,Premium Apartment Loft,2016,93.75,850000,Aug 2021
+91,Dawson Rd,04 to 06,83,Premium Apartment,2016,93.75,775000,Aug 2021
+92,Dawson Rd,19 to 21,83,Premium Apartment,2016,93.75,810000,Aug 2021
+93,Dawson Rd,07 to 09,83,Premium Apartment,2016,93.75,808000,Aug 2021
+93,Dawson Rd,13 to 15,87,Premium Apartment,2016,93.67,838000,Aug 2021
+93,Dawson Rd,19 to 21,87,Premium Apartment,2016,93.75,845000,Aug 2021
+93,Dawson Rd,40 to 42,95,Premium Apartment Loft,2016,93.75,986000,Aug 2021
+28A,Dover Cres,22 to 24,95,Model A,2012,89.58,770000,Aug 2021
+28C,Dover Cres,04 to 06,95,Model A,2012,89.67,725000,Aug 2021
+15,Ghim Moh Rd,10 to 12,82,Improved,1977,54.5,523000,Aug 2021
+10,Holland Ave,13 to 15,88,Improved,1975,52.5,550000,Aug 2021
+4,Holland Cl,04 to 06,88,Improved,1974,51.75,538000,Aug 2021
+4,Holland Cl,13 to 15,88,Improved,1974,51.83,585000,Aug 2021
+6,Holland Cl,01 to 03,86,Improved,1974,51.75,555000,Aug 2021
+18C,Holland Dr,04 to 06,92,Model A,2012,90.17,782000,Aug 2021
+18D,Holland Dr,34 to 36,92,Model A,2012,90.17,930000,Aug 2021
+145,Mei Ling St,01 to 03,109,Model A,1995,73.08,665000,Aug 2021
+145,Mei Ling St,04 to 06,109,Model A,1995,73.08,686000,Aug 2021
+161,Mei Ling St,01 to 03,85,Improved,1970,48.08,375000,Aug 2021
+42,Stirling Rd,01 to 03,120,Terrace,1968,46.42,930000,Aug 2021
+182,Stirling Rd,01 to 03,96,Model A,2000,78.08,723000,Aug 2021
+49,Strathmore Ave,04 to 06,85,Model A,2006,84,705000,Aug 2021
+59,Strathmore Ave,10 to 12,85,Model A,2000,78.25,710000,Aug 2021
+60,Strathmore Ave,04 to 06,86,Model A,2000,78.25,620000,Aug 2021
+61B,Strathmore Ave,16 to 18,93,Model A,2011,89,818000,Aug 2021
+89,Tanglin Halt Rd,13 to 15,90,Model A,2008,86.08,730000,Aug 2021
+89,Tanglin Halt Rd,34 to 36,85,Model A,2008,86.08,810000,Aug 2021
+89,Tanglin Halt Rd,40 to 42,90,Model A,2008,86.08,845000,Aug 2021
+91,Tanglin Halt Rd,04 to 06,85,Model A,2008,86,700000,Aug 2021
+50,C'wealth Dr,22 to 24,96,Model A,2015,92.67,858000,Jul 2021
+50,C'wealth Dr,31 to 33,96,Model A,2015,92.67,870000,Jul 2021
+129,Clarence Lane,10 to 12,104,Model A,1996,74.17,808000,Jul 2021
+130,Clarence Lane,10 to 12,105,Model A,1996,74.17,850000,Jul 2021
+86,Dawson Rd,43 to 45,83,Premium Apartment,2016,94.08,880000,Jul 2021
+87,Dawson Rd,16 to 18,87,Premium Apartment,2016,94.17,775000,Jul 2021
+87,Dawson Rd,10 to 12,87,Premium Apartment,2016,94.08,855000,Jul 2021
+88,Dawson Rd,07 to 09,83,Premium Apartment,2016,94.17,775000,Jul 2021
+88,Dawson Rd,22 to 24,83,Premium Apartment,2016,94.17,818000,Jul 2021
+88,Dawson Rd,16 to 18,87,Premium Apartment,2016,94.17,823000,Jul 2021
+88,Dawson Rd,43 to 45,83,Premium Apartment,2016,94.17,838000,Jul 2021
+88,Dawson Rd,31 to 33,83,Premium Apartment,2016,94.25,855000,Jul 2021
+89,Dawson Rd,40 to 42,97,Premium Apartment Loft,2016,93.75,920000,Jul 2021
+90,Dawson Rd,22 to 24,97,Premium Apartment Loft,2016,93.83,915000,Jul 2021
+91,Dawson Rd,34 to 36,97,Premium Apartment Loft,2016,93.83,988000,Jul 2021
+92,Dawson Rd,07 to 09,83,Premium Apartment,2016,93.75,762000,Jul 2021
+93,Dawson Rd,19 to 21,87,Premium Apartment,2016,93.75,840000,Jul 2021
+23,Dover Cres,07 to 09,88,Improved,1976,54.08,450000,Jul 2021
+28C,Dover Cres,07 to 09,95,Model A,2012,89.75,730000,Jul 2021
+27,Ghim Moh Link,34 to 36,87,Model A,2013,90.83,830000,Jul 2021
+28,Ghim Moh Link,07 to 09,92,Model A,2013,90.83,810000,Jul 2021
+28,Ghim Moh Link,19 to 21,93,Model A,2013,90.83,818000,Jul 2021
+28,Ghim Moh Link,31 to 33,92,Model A,2013,90.83,840000,Jul 2021
+8,Holland Ave,13 to 15,82,Improved,1974,51.92,452000,Jul 2021
+12,Holland Ave,07 to 09,88,Improved,1975,52.5,535000,Jul 2021
+5,Holland Cl,07 to 09,105,Model A,1998,76.42,785000,Jul 2021
+6,Holland Cl,16 to 18,86,Improved,1974,51.92,535000,Jul 2021
+6,Holland Cl,22 to 24,86,Improved,1974,51.92,565000,Jul 2021
+11,Holland Dr,19 to 21,88,Improved,1975,52.58,540000,Jul 2021
+161,Mei Ling St,07 to 09,85,Improved,1970,48.08,405000,Jul 2021
+50,Strathmore Ave,04 to 06,85,Model A,2006,84.25,660000,Jul 2021
+52,Strathmore Ave,16 to 18,90,Model A,2006,84.5,720000,Jul 2021
+61A,Strathmore Ave,22 to 24,98,Model A,2011,89.08,850000,Jul 2021
+61C,Strathmore Ave,01 to 03,93,Model A,2011,89.17,683888,Jul 2021
+89,Tanglin Halt Rd,31 to 33,85,Model A,2008,86.17,748000,Jul 2021
+89,Tanglin Halt Rd,25 to 27,85,Model A,2008,86.17,750000,Jul 2021
+90,Tanglin Halt Rd,10 to 12,85,Model A,2008,86.08,738500,Jul 2021
+90,Tanglin Halt Rd,37 to 39,90,Model A,2008,86.17,825000,Jul 2021
+52,C'wealth Dr,13 to 15,88,Model A,2015,92.75,802888,Jun 2021
+86,Dawson Rd,25 to 27,83,Premium Apartment,2016,94.25,805000,Jun 2021
+86,Dawson Rd,10 to 12,87,Premium Apartment,2016,94.25,815000,Jun 2021
+87,Dawson Rd,07 to 09,83,Premium Apartment,2016,94.25,680000,Jun 2021
+87,Dawson Rd,04 to 06,87,Premium Apartment,2016,94.25,785000,Jun 2021
+87,Dawson Rd,13 to 15,83,Premium Apartment,2016,94.25,798000,Jun 2021
+87,Dawson Rd,31 to 33,87,Premium Apartment,2016,94.25,838888,Jun 2021
+88,Dawson Rd,16 to 18,87,Premium Apartment,2016,94.17,735000,Jun 2021
+88,Dawson Rd,04 to 06,83,Premium Apartment,2016,94.25,763000,Jun 2021
+88,Dawson Rd,10 to 12,83,Premium Apartment,2016,94.25,775000,Jun 2021
+88,Dawson Rd,22 to 24,83,Premium Apartment,2016,94.25,795000,Jun 2021
+88,Dawson Rd,16 to 18,83,Premium Apartment,2016,94.25,800000,Jun 2021
+88,Dawson Rd,13 to 15,83,Premium Apartment,2016,94.25,808000,Jun 2021
+88,Dawson Rd,31 to 33,83,Premium Apartment,2016,94.25,835000,Jun 2021
+88,Dawson Rd,46 to 48,83,Premium Apartment,2016,94.25,840000,Jun 2021
+88,Dawson Rd,40 to 42,87,Premium Apartment,2016,94.25,875000,Jun 2021
+89,Dawson Rd,25 to 27,83,Premium Apartment,2016,93.92,815000,Jun 2021
+89,Dawson Rd,34 to 36,83,Premium Apartment,2016,93.92,848000,Jun 2021
+89,Dawson Rd,10 to 12,109,Premium Apartment Loft,2016,93.92,950000,Jun 2021
+91,Dawson Rd,37 to 39,83,Premium Apartment,2016,93.92,880000,Jun 2021
+91,Dawson Rd,07 to 09,97,Premium Apartment Loft,2016,93.92,930000,Jun 2021
+91,Dawson Rd,31 to 33,109,Premium Apartment Loft,2016,93.92,1032888,Jun 2021
+92,Dawson Rd,19 to 21,87,Premium Apartment,2016,93.92,825000,Jun 2021
+92,Dawson Rd,34 to 36,83,Premium Apartment,2016,93.92,860000,Jun 2021
+93,Dawson Rd,19 to 21,83,Premium Apartment,2016,93.92,785000,Jun 2021
+93,Dawson Rd,31 to 33,83,Premium Apartment,2016,93.92,840000,Jun 2021
+18,Dover Cres,07 to 09,92,Model A,2003,81.33,680000,Jun 2021
+10,Holland Ave,10 to 12,88,Improved,1975,52.67,510000,Jun 2021
+168A,Queensway,16 to 18,84,Improved,1974,52.08,445000,Jun 2021
+48,Strathmore Ave,34 to 36,90,Model A,2006,84.58,800000,Jun 2021
+58,Strathmore Ave,13 to 15,96,Model A,2000,78.42,710000,Jun 2021
+61A,Strathmore Ave,04 to 06,96,Model A,2011,89.25,685000,Jun 2021
+61C,Strathmore Ave,16 to 18,93,Model A,2011,89.25,782000,Jun 2021
+91,Tanglin Halt Rd,19 to 21,90,Model A,2008,86.25,790000,Jun 2021
+7,C'wealth Ave,10 to 12,106,Model A,1996,74.33,740000,May 2021
+50,C'wealth Dr,07 to 09,96,Model A,2015,92.83,790000,May 2021
+52,C'wealth Dr,13 to 15,95,Model A,2015,92.83,800000,May 2021
+53,C'wealth Dr,22 to 24,93,Model A,2015,92.83,832000,May 2021
+86,Dawson Rd,28 to 30,83,Premium Apartment,2016,94.25,800000,May 2021
+86,Dawson Rd,22 to 24,83,Premium Apartment,2016,94.33,825000,May 2021
+86,Dawson Rd,37 to 39,87,Premium Apartment,2016,94.25,830000,May 2021
+86,Dawson Rd,34 to 36,87,Premium Apartment,2016,94.33,855000,May 2021
+86,Dawson Rd,43 to 45,87,Premium Apartment,2016,94.33,878888,May 2021
+87,Dawson Rd,31 to 33,83,Premium Apartment,2016,94.33,815000,May 2021
+87,Dawson Rd,16 to 18,87,Premium Apartment,2016,94.33,827000,May 2021
+87,Dawson Rd,37 to 39,87,Premium Apartment,2016,94.33,850000,May 2021
+88,Dawson Rd,04 to 06,83,Premium Apartment,2016,94.33,670000,May 2021
+88,Dawson Rd,22 to 24,87,Premium Apartment,2016,94.33,790000,May 2021
+88,Dawson Rd,22 to 24,87,Premium Apartment,2016,94.33,805000,May 2021
+88,Dawson Rd,28 to 30,83,Premium Apartment,2016,94.33,810000,May 2021
+88,Dawson Rd,40 to 42,83,Premium Apartment,2016,94.25,825000,May 2021
+88,Dawson Rd,40 to 42,83,Premium Apartment,2016,94.33,830000,May 2021
+88,Dawson Rd,43 to 45,83,Premium Apartment,2016,94.33,868800,May 2021
+88,Dawson Rd,37 to 39,87,Premium Apartment,2016,94.33,908000,May 2021
+89,Dawson Rd,07 to 09,87,Premium Apartment,2016,93.92,766800,May 2021
+89,Dawson Rd,37 to 39,83,Premium Apartment,2016,93.92,832000,May 2021
+91,Dawson Rd,31 to 33,97,Premium Apartment Loft,2016,93.92,930888,May 2021
+91,Dawson Rd,40 to 42,97,Premium Apartment Loft,2016,94,978000,May 2021
+92,Dawson Rd,25 to 27,83,Premium Apartment,2016,94,788000,May 2021
+93,Dawson Rd,13 to 15,87,Premium Apartment,2016,94,816800,May 2021
+17,Dover Cres,10 to 12,92,Model A,2003,81.33,615000,May 2021
+18,Dover Cres,10 to 12,92,Model A,2003,81.42,668000,May 2021
+23,Dover Cres,10 to 12,88,Improved,1976,54.25,450000,May 2021
+28C,Dover Cres,28 to 30,95,Model A,2012,89.92,750000,May 2021
+3,Holland Cl,04 to 06,105,Model A,1998,76.5,740000,May 2021
+5,Holland Cl,01 to 03,105,Model A,1998,76.58,750000,May 2021
+18A,Holland Dr,37 to 39,92,Model A,2012,90.33,940000,May 2021
+18C,Holland Dr,01 to 03,92,Model A,2012,90.42,680000,May 2021
+18C,Holland Dr,16 to 18,92,Model A,2012,90.33,770000,May 2021
+18D,Holland Dr,16 to 18,92,Model A,2012,90.42,895000,May 2021
+23B,Queen's Cl,04 to 06,89,Improved,1973,51.08,408000,May 2021
+48,Strathmore Ave,22 to 24,85,Model A,2006,84.67,775000,May 2021
+49,Strathmore Ave,28 to 30,90,Model A,2006,84.25,785000,May 2021
+50,Strathmore Ave,07 to 09,90,Model A,2006,84.42,760000,May 2021
+51,Strathmore Ave,01 to 03,90,Model A,2006,84.5,705000,May 2021
+51,Strathmore Ave,25 to 27,90,Model A,2006,84.42,790000,May 2021
+55,Strathmore Ave,16 to 18,95,Model A,2002,80.08,722000,May 2021
+61B,Strathmore Ave,01 to 03,96,Model A,2011,89.33,680000,May 2021
+81,Strathmore Ave,04 to 06,105,Model A,1993,71.17,708000,May 2021
+89,Tanglin Halt Rd,04 to 06,90,Model A,2008,86.25,688888,May 2021
+89,Tanglin Halt Rd,16 to 18,85,Model A,2008,86.33,738000,May 2021
+91,Tanglin Halt Rd,19 to 21,90,Model A,2008,86.33,760000,May 2021
+91,Tanglin Halt Rd,37 to 39,90,Model A,2008,86.33,850000,May 2021
+53,C'wealth Dr,34 to 36,93,Model A,2015,92.83,875000,Apr 2021
+129,Clarence Lane,07 to 09,104,Model A,1996,74.5,835000,Apr 2021
+86,Dawson Rd,04 to 06,83,Premium Apartment,2016,94.42,690000,Apr 2021
+86,Dawson Rd,10 to 12,87,Premium Apartment,2016,94.33,808000,Apr 2021
+87,Dawson Rd,07 to 09,83,Premium Apartment,2016,94.42,715000,Apr 2021
+87,Dawson Rd,16 to 18,87,Premium Apartment,2016,94.33,840000,Apr 2021
+87,Dawson Rd,43 to 45,83,Premium Apartment,2016,94.33,870000,Apr 2021
+88,Dawson Rd,07 to 09,83,Premium Apartment,2016,94.42,753888,Apr 2021
+88,Dawson Rd,19 to 21,83,Premium Apartment,2016,94.33,808000,Apr 2021
+88,Dawson Rd,19 to 21,87,Premium Apartment,2016,94.33,825000,Apr 2021
+90,Dawson Rd,31 to 33,109,Premium Apartment Loft,2016,94.08,975000,Apr 2021
+91,Dawson Rd,16 to 18,83,Premium Apartment,2016,94,800000,Apr 2021
+91,Dawson Rd,07 to 09,97,Premium Apartment Loft,2016,94.08,878000,Apr 2021
+91,Dawson Rd,40 to 42,83,Premium Apartment,2016,94,890000,Apr 2021
+92,Dawson Rd,16 to 18,95,Premium Apartment Loft,2016,94,825000,Apr 2021
+92,Dawson Rd,16 to 18,97,Premium Apartment Loft,2016,94.08,928000,Apr 2021
+28A,Dover Cres,01 to 03,95,Model A,2012,89.92,660000,Apr 2021
+28C,Dover Cres,07 to 09,95,Model A,2012,89.92,725000,Apr 2021
+22,Ghim Moh Link,07 to 09,92,Model A,2013,91,808000,Apr 2021
+28,Ghim Moh Link,01 to 03,92,Model A,2013,91.08,638888,Apr 2021
+4,Holland Cl,16 to 18,88,Improved,1974,52.08,590000,Apr 2021
+143,Mei Ling St,07 to 09,109,Model A,1995,73.42,663000,Apr 2021
+160,Mei Ling St,04 to 06,85,Improved,1970,48.25,380000,Apr 2021
+19,Queen's Cl,07 to 09,107,Model A,1996,74.58,640000,Apr 2021
+168A,Queensway,04 to 06,84,Improved,1974,52.25,360000,Apr 2021
+51,Strathmore Ave,19 to 21,90,Model A,2006,84.58,750000,Apr 2021
+52,Strathmore Ave,10 to 12,90,Model A,2006,84.67,650000,Apr 2021
+58,Strathmore Ave,10 to 12,85,Model A,2000,78.58,675000,Apr 2021
+59,Strathmore Ave,01 to 03,96,Model A,2000,78.5,602888,Apr 2021
+89,Tanglin Halt Rd,31 to 33,90,Model A,2008,86.42,780000,Apr 2021
+89,Tanglin Halt Rd,31 to 33,90,Model A,2008,86.33,818000,Apr 2021
+91,Tanglin Halt Rd,19 to 21,90,Model A,2008,86.42,736800,Apr 2021
+50,C'wealth Dr,34 to 36,96,Model A,2015,92.92,860888,Mar 2021
+53,C'wealth Dr,31 to 33,88,Model A,2015,93.08,818000,Mar 2021
+129,Clarence Lane,13 to 15,105,Model A,1996,74.42,790000,Mar 2021
+130,Clarence Lane,04 to 06,104,Model A,1996,74.42,780000,Mar 2021
+86,Dawson Rd,07 to 09,83,Premium Apartment,2016,94.42,715000,Mar 2021
+86,Dawson Rd,19 to 21,83,Premium Apartment,2016,94.42,830000,Mar 2021
+87,Dawson Rd,22 to 24,83,Premium Apartment,2016,94.42,760000,Mar 2021
+88,Dawson Rd,10 to 12,83,Premium Apartment,2016,94.5,775000,Mar 2021
+88,Dawson Rd,16 to 18,83,Premium Apartment,2016,94.42,808000,Mar 2021
+88,Dawson Rd,34 to 36,83,Premium Apartment,2016,94.42,848000,Mar 2021
+88,Dawson Rd,43 to 45,87,Premium Apartment,2016,94.5,855000,Mar 2021
+89,Dawson Rd,07 to 09,97,Premium Apartment Loft,2016,94.17,795000,Mar 2021
+89,Dawson Rd,22 to 24,97,Premium Apartment Loft,2016,94.17,890000,Mar 2021
+89,Dawson Rd,25 to 27,97,Premium Apartment Loft,2016,94.17,920000,Mar 2021
+90,Dawson Rd,37 to 39,83,Premium Apartment,2016,94.17,808888,Mar 2021
+90,Dawson Rd,13 to 15,97,Premium Apartment Loft,2016,94.17,888000,Mar 2021
+90,Dawson Rd,10 to 12,109,Premium Apartment Loft,2016,94.08,900000,Mar 2021
+90,Dawson Rd,10 to 12,95,Premium Apartment Loft,2016,94.17,920000,Mar 2021
+91,Dawson Rd,10 to 12,83,Premium Apartment,2016,94.08,775000,Mar 2021
+91,Dawson Rd,10 to 12,95,Premium Apartment Loft,2016,94.08,844000,Mar 2021
+92,Dawson Rd,16 to 18,83,Premium Apartment,2016,94.17,772500,Mar 2021
+92,Dawson Rd,07 to 09,97,Premium Apartment Loft,2016,94.17,858000,Mar 2021
+92,Dawson Rd,25 to 27,97,Premium Apartment Loft,2016,94.08,938000,Mar 2021
+93,Dawson Rd,34 to 36,97,Premium Apartment Loft,2016,94.17,905000,Mar 2021
+18,Dover Cres,04 to 06,87,Model A,2003,81.5,578000,Mar 2021
+28A,Dover Cres,25 to 27,95,Model A,2012,90.08,768000,Mar 2021
+28B,Dover Cres,10 to 12,88,Model A,2012,90.08,693000,Mar 2021
+28B,Dover Cres,07 to 09,95,Model A,2012,90,700000,Mar 2021
+28B,Dover Cres,01 to 03,95,Model A,2012,90,718000,Mar 2021
+28C,Dover Cres,13 to 15,95,Model A,2012,90,738000,Mar 2021
+22,Ghim Moh Link,13 to 15,93,Model A,2013,91.08,820000,Mar 2021
+27,Ghim Moh Link,04 to 06,87,Model A,2013,91.17,755000,Mar 2021
+28,Ghim Moh Link,13 to 15,93,Model A,2013,91.08,850000,Mar 2021
+8,Holland Ave,10 to 12,82,Improved,1974,52.17,520000,Mar 2021
+9,Holland Ave,07 to 09,86,Improved,1974,52.17,590000,Mar 2021
+10,Holland Ave,07 to 09,88,Improved,1975,52.83,500000,Mar 2021
+20,Queen's Cl,16 to 18,107,Model A,1996,74.58,662000,Mar 2021
+22,Queen's Cl,04 to 06,107,Model A,1996,74.58,610000,Mar 2021
+184,Stirling Rd,10 to 12,94,Model A,2000,78.75,698000,Mar 2021
+51,Strathmore Ave,10 to 12,85,Model A,2006,84.58,740000,Mar 2021
+59,Strathmore Ave,04 to 06,85,Model A,2000,78.67,620000,Mar 2021
+61C,Strathmore Ave,19 to 21,98,Model A,2011,89.42,788000,Mar 2021
+62B,Strathmore Ave,22 to 24,93,Model A,2011,89.5,783000,Mar 2021
+90,Tanglin Halt Rd,13 to 15,90,Model A,2008,86.42,735000,Mar 2021
+91,Tanglin Halt Rd,10 to 12,90,Model A,2008,86.42,725000,Mar 2021
+91,Tanglin Halt Rd,16 to 18,90,Model A,2008,86.42,732000,Mar 2021
+7,C'wealth Ave,01 to 03,106,Model A,1996,74.58,689000,Feb 2021
+129,Clarence Lane,01 to 03,103,Model A,1996,74.58,780000,Feb 2021
+86,Dawson Rd,22 to 24,83,Premium Apartment,2016,94.5,780000,Feb 2021
+86,Dawson Rd,16 to 18,83,Premium Apartment,2016,94.58,800000,Feb 2021
+86,Dawson Rd,40 to 42,87,Premium Apartment,2016,94.5,890000,Feb 2021
+87,Dawson Rd,10 to 12,83,Premium Apartment,2016,94.5,825000,Feb 2021
+87,Dawson Rd,31 to 33,83,Premium Apartment,2016,94.58,855000,Feb 2021
+87,Dawson Rd,19 to 21,87,Premium Apartment,2016,94.58,875000,Feb 2021
+88,Dawson Rd,16 to 18,83,Premium Apartment,2016,94.58,788000,Feb 2021
+88,Dawson Rd,40 to 42,83,Premium Apartment,2016,94.5,870000,Feb 2021
+89,Dawson Rd,13 to 15,97,Premium Apartment Loft,2016,94.17,820000,Feb 2021
+90,Dawson Rd,37 to 39,95,Premium Apartment Loft,2016,94.25,948888,Feb 2021
+90,Dawson Rd,37 to 39,109,Premium Apartment Loft,2016,94.25,988000,Feb 2021
+91,Dawson Rd,22 to 24,83,Premium Apartment,2016,94.25,835000,Feb 2021
+91,Dawson Rd,34 to 36,83,Premium Apartment,2016,94.17,870000,Feb 2021
+92,Dawson Rd,10 to 12,97,Premium Apartment Loft,2016,94.17,880000,Feb 2021
+19,Dover Cres,04 to 06,92,Model A,2003,81.58,600000,Feb 2021
+28B,Dover Cres,04 to 06,88,Model A,2012,90.08,654000,Feb 2021
+23,Ghim Moh Link,25 to 27,92,Model A,2013,91.25,825000,Feb 2021
+30A,Holland Cl,04 to 06,106,Model A,1997,75.75,700000,Feb 2021
+13,Holland Dr,04 to 06,88,Improved,1975,53,502888,Feb 2021
+18A,Holland Dr,19 to 21,92,Model A,2012,90.67,881000,Feb 2021
+18B,Holland Dr,31 to 33,92,Model A,2012,90.67,882888,Feb 2021
+18C,Holland Dr,22 to 24,92,Model A,2012,90.67,875000,Feb 2021
+161,Mei Ling St,16 to 18,85,Improved,1970,48.42,350000,Feb 2021
+19,Queen's Cl,10 to 12,107,Model A,1996,74.75,655000,Feb 2021
+46,Stirling Rd,01 to 03,134,Terrace,1968,46.92,975000,Feb 2021
+51,Strathmore Ave,04 to 06,90,Model A,2006,84.75,708888,Feb 2021
+61C,Strathmore Ave,22 to 24,94,Model A,2011,89.58,790000,Feb 2021
+61C,Strathmore Ave,25 to 27,98,Model A,2011,89.5,838000,Feb 2021
+80,Strathmore Ave,10 to 12,105,Model A,1993,71.42,738000,Feb 2021
+90,Tanglin Halt Rd,13 to 15,90,Model A,2008,86.58,720000,Feb 2021
+91,Tanglin Halt Rd,25 to 27,90,Model A,2008,86.5,798000,Feb 2021
+53,C'wealth Dr,07 to 09,93,Model A,2015,93.08,780000,Jan 2021
+86,Dawson Rd,25 to 27,83,Premium Apartment,2016,94.67,828888,Jan 2021
+86,Dawson Rd,28 to 30,83,Premium Apartment,2016,94.67,840000,Jan 2021
+87,Dawson Rd,07 to 09,87,Premium Apartment,2016,94.67,808000,Jan 2021
+87,Dawson Rd,34 to 36,83,Premium Apartment,2016,94.67,846888,Jan 2021
+88,Dawson Rd,10 to 12,83,Premium Apartment,2016,94.67,780000,Jan 2021
+88,Dawson Rd,22 to 24,83,Premium Apartment,2016,94.67,823888,Jan 2021
+88,Dawson Rd,31 to 33,83,Premium Apartment,2016,94.67,838000,Jan 2021
+89,Dawson Rd,37 to 39,87,Premium Apartment,2016,94.33,861888,Jan 2021
+90,Dawson Rd,31 to 33,95,Premium Apartment Loft,2016,94.33,902000,Jan 2021
+91,Dawson Rd,13 to 15,83,Premium Apartment,2016,94.25,810000,Jan 2021
+91,Dawson Rd,28 to 30,109,Premium Apartment Loft,2016,94.25,975000,Jan 2021
+92,Dawson Rd,10 to 12,87,Premium Apartment,2016,94.25,830000,Jan 2021
+92,Dawson Rd,28 to 30,87,Premium Apartment,2016,94.33,840000,Jan 2021
+92,Dawson Rd,34 to 36,83,Premium Apartment,2016,94.25,840000,Jan 2021
+92,Dawson Rd,43 to 45,87,Premium Apartment,2016,94.25,888000,Jan 2021
+93,Dawson Rd,34 to 36,95,Premium Apartment Loft,2016,94.33,938888,Jan 2021
+28C,Dover Cres,04 to 06,95,Model A,2012,90.17,700000,Jan 2021
+28C,Dover Cres,25 to 27,95,Model A,2012,90.17,782000,Jan 2021
+10,Holland Ave,04 to 06,88,Improved,1975,53,495000,Jan 2021
+10,Holland Ave,13 to 15,88,Improved,1975,53.08,550000,Jan 2021
+11,Holland Dr,10 to 12,88,Improved,1975,53,504000,Jan 2021
+13,Holland Dr,13 to 15,88,Improved,1975,53.08,530000,Jan 2021
+21,Queen's Cl,04 to 06,108,Model A,1996,74.75,625000,Jan 2021
+48,Strathmore Ave,13 to 15,85,Model A,2006,84.92,760000,Jan 2021
+50,Strathmore Ave,28 to 30,90,Model A,2006,84.67,782000,Jan 2021
+51,Strathmore Ave,07 to 09,90,Model A,2006,84.83,740000,Jan 2021
+51,Strathmore Ave,28 to 30,90,Model A,2006,84.83,780000,Jan 2021
+52,Strathmore Ave,07 to 09,90,Model A,2006,85,718888,Jan 2021
+55,Strathmore Ave,13 to 15,95,Model A,2002,80.5,705000,Jan 2021
+58,Strathmore Ave,01 to 03,96,Model A,2000,78.83,680000,Jan 2021
+61A,Strathmore Ave,07 to 09,96,Model A,2011,89.67,755888,Jan 2021
+89,Tanglin Halt Rd,28 to 30,90,Model A,2008,86.58,803800,Jan 2021
+90,Tanglin Halt Rd,07 to 09,90,Model A,2008,86.67,720000,Jan 2021
+90,Tanglin Halt Rd,31 to 33,90,Model A,2008,86.67,825000,Jan 2021
+91,Tanglin Halt Rd,01 to 03,90,Model A,2008,86.58,648000,Jan 2021
+86,Dawson Rd,07 to 09,87,Premium Apartment,2016,94.75,790000,Dec 2020
+86,Dawson Rd,28 to 30,87,Premium Apartment,2016,94.75,828000,Dec 2020
+86,Dawson Rd,31 to 33,83,Premium Apartment,2016,94.75,860000,Dec 2020
+87,Dawson Rd,07 to 09,87,Premium Apartment,2016,94.75,760000,Dec 2020
+87,Dawson Rd,37 to 39,83,Premium Apartment,2016,94.67,858800,Dec 2020
+87,Dawson Rd,43 to 45,87,Premium Apartment,2016,94.75,890000,Dec 2020
+88,Dawson Rd,22 to 24,87,Premium Apartment,2016,94.67,795000,Dec 2020
+88,Dawson Rd,28 to 30,83,Premium Apartment,2016,94.75,835000,Dec 2020
+88,Dawson Rd,43 to 45,87,Premium Apartment,2016,94.75,840000,Dec 2020
+88,Dawson Rd,40 to 42,83,Premium Apartment,2016,94.75,840000,Dec 2020
+88,Dawson Rd,22 to 24,87,Premium Apartment,2016,94.75,848888,Dec 2020
+88,Dawson Rd,28 to 30,87,Premium Apartment,2016,94.75,860000,Dec 2020
+88,Dawson Rd,37 to 39,83,Premium Apartment,2016,94.75,875000,Dec 2020
+89,Dawson Rd,13 to 15,83,Premium Apartment,2016,94.42,782000,Dec 2020
+89,Dawson Rd,19 to 21,83,Premium Apartment,2016,94.42,788000,Dec 2020
+89,Dawson Rd,34 to 36,87,Premium Apartment,2016,94.33,828000,Dec 2020
+90,Dawson Rd,07 to 09,97,Premium Apartment Loft,2016,94.42,855000,Dec 2020
+91,Dawson Rd,07 to 09,83,Premium Apartment,2016,94.33,660000,Dec 2020
+91,Dawson Rd,37 to 39,83,Premium Apartment,2016,94.42,860000,Dec 2020
+92,Dawson Rd,07 to 09,87,Premium Apartment,2016,94.42,790000,Dec 2020
+93,Dawson Rd,16 to 18,83,Premium Apartment,2016,94.42,820000,Dec 2020
+93,Dawson Rd,28 to 30,83,Premium Apartment,2016,94.42,830000,Dec 2020
+93,Dawson Rd,37 to 39,97,Premium Apartment Loft,2016,94.42,920000,Dec 2020
+28A,Dover Cres,04 to 06,95,Model A,2012,90.33,677000,Dec 2020
+28D,Dover Cres,07 to 09,95,Model A,2012,90.33,605000,Dec 2020
+28D,Dover Cres,19 to 21,95,Model A,2012,90.33,730000,Dec 2020
+9,Holland Ave,04 to 06,86,Improved,1974,52.5,518000,Dec 2020
+10,Holland Ave,04 to 06,88,Improved,1975,53.08,485000,Dec 2020
+3A,Holland Cl,07 to 09,104,Model A,1998,77,768000,Dec 2020
+48,Strathmore Ave,10 to 12,90,Model A,2006,85.08,680000,Dec 2020
+48,Strathmore Ave,04 to 06,90,Model A,2006,85.08,725000,Dec 2020
+50,Strathmore Ave,13 to 15,90,Model A,2006,84.83,716000,Dec 2020
+55,Strathmore Ave,01 to 03,95,Model A,2002,80.5,625000,Dec 2020
+58,Strathmore Ave,10 to 12,96,Model A,2000,78.92,700000,Dec 2020
+61C,Strathmore Ave,01 to 03,94,Model A,2011,89.75,700000,Dec 2020
+53,C'wealth Dr,07 to 09,93,Model A,2015,93.25,780000,Nov 2020
+86,Dawson Rd,04 to 06,87,Premium Apartment,2016,94.75,765000,Nov 2020
+86,Dawson Rd,22 to 24,83,Premium Apartment,2016,94.83,796888,Nov 2020
+86,Dawson Rd,28 to 30,83,Premium Apartment,2016,94.83,828000,Nov 2020
+86,Dawson Rd,43 to 45,83,Premium Apartment,2016,94.83,850000,Nov 2020
+87,Dawson Rd,19 to 21,83,Premium Apartment,2016,94.75,815000,Nov 2020
+87,Dawson Rd,37 to 39,83,Premium Apartment,2016,94.75,845000,Nov 2020
+87,Dawson Rd,22 to 24,87,Premium Apartment,2016,94.75,865000,Nov 2020
+87,Dawson Rd,37 to 39,87,Premium Apartment,2016,94.75,885000,Nov 2020
+88,Dawson Rd,13 to 15,83,Premium Apartment,2016,94.83,785000,Nov 2020
+88,Dawson Rd,19 to 21,87,Premium Apartment,2016,94.83,810888,Nov 2020
+88,Dawson Rd,28 to 30,87,Premium Apartment,2016,94.75,845000,Nov 2020
+88,Dawson Rd,25 to 27,87,Premium Apartment,2016,94.75,865000,Nov 2020
+88,Dawson Rd,25 to 27,87,Premium Apartment,2016,94.75,880000,Nov 2020
+89,Dawson Rd,10 to 12,97,Premium Apartment Loft,2016,94.5,800000,Nov 2020
+90,Dawson Rd,25 to 27,97,Premium Apartment Loft,2016,94.42,918000,Nov 2020
+93,Dawson Rd,07 to 09,87,Premium Apartment,2016,94.5,720000,Nov 2020
+93,Dawson Rd,25 to 27,83,Premium Apartment,2016,94.42,816888,Nov 2020
+18,Dover Cres,10 to 12,92,Model A,2003,81.92,650000,Nov 2020
+19,Dover Cres,04 to 06,92,Model A,2003,81.83,620000,Nov 2020
+23,Dover Cres,04 to 06,88,Improved,1976,54.75,440000,Nov 2020
+28B,Dover Cres,28 to 30,95,Model A,2012,90.42,780000,Nov 2020
+28C,Dover Cres,01 to 03,95,Model A,2012,90.33,620000,Nov 2020
+23,Ghim Moh Link,13 to 15,92,Model A,2013,91.42,750000,Nov 2020
+13,Holland Dr,22 to 24,88,Improved,1975,53.25,560000,Nov 2020
+55,Strathmore Ave,16 to 18,85,Model A,2002,80.5,662000,Nov 2020
+60,Strathmore Ave,04 to 06,85,Model A,2000,79,650000,Nov 2020
+60,Strathmore Ave,10 to 12,85,Model A,2000,79,668000,Nov 2020
+61B,Strathmore Ave,10 to 12,98,Model A,2011,89.83,788800,Nov 2020
+91,Tanglin Halt Rd,04 to 06,90,Model A,2008,86.75,678000,Nov 2020
+91,Tanglin Halt Rd,28 to 30,85,Model A,2008,86.83,755888,Nov 2020

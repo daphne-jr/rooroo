@@ -1,0 +1,443 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date
+238,Serangoon Ave 2,07 to 09,84,Simplified,1985,62.67,532000,Nov 2021
+255,Serangoon Ctrl Dr,04 to 06,99,Model A,1999,76.58,700000,Nov 2021
+151,Serangoon Nth Ave 2,01 to 03,86,Simplified,1986,63.75,398000,Nov 2021
+233,Serangoon Ave 3,07 to 09,84,Simplified,1985,62.75,488000,Oct 2021
+236,Serangoon Ave 3,01 to 03,84,Simplified,1985,62.75,440000,Oct 2021
+236,Serangoon Ave 3,04 to 06,105,Model A,1985,62.75,610000,Oct 2021
+324,Serangoon Ave 3,04 to 06,104,Model A,1986,63.5,647000,Oct 2021
+329,Serangoon Ave 3,04 to 06,103,Model A,1986,63.83,551000,Oct 2021
+226,Serangoon Ave 4,10 to 12,91,New Generation,1984,61.83,503000,Oct 2021
+226,Serangoon Ave 4,13 to 15,91,New Generation,1984,61.83,510000,Oct 2021
+228,Serangoon Ave 4,10 to 12,91,New Generation,1984,61.75,558000,Oct 2021
+416,Serangoon Ctrl,04 to 06,105,Model A,1989,66.67,658000,Oct 2021
+419,Serangoon Ctrl,01 to 03,105,Model A,1989,66.58,590000,Oct 2021
+101,Serangoon Nth Ave 1,07 to 09,93,New Generation,1985,62.5,440000,Oct 2021
+101,Serangoon Nth Ave 1,07 to 09,93,New Generation,1985,62.42,464000,Oct 2021
+535A,Serangoon Nth Ave 4,10 to 12,104,Model A,1992,70.08,481000,Oct 2021
+540,Serangoon Nth Ave 4,07 to 09,104,Model A,1992,70.17,451888,Oct 2021
+239,Serangoon Ave 2,10 to 12,105,Model A,1985,62.83,650000,Sep 2021
+307,Serangoon Ave 2,07 to 09,95,New Generation,1985,63.17,470000,Sep 2021
+315,Serangoon Ave 2,10 to 12,93,New Generation,1985,62.75,550000,Sep 2021
+233,Serangoon Ave 3,04 to 06,84,Simplified,1985,62.83,500000,Sep 2021
+334,Serangoon Ave 3,10 to 12,84,Simplified,1987,64.67,590000,Sep 2021
+229,Serangoon Ave 4,01 to 03,91,New Generation,1984,61.92,514000,Sep 2021
+412,Serangoon Ctrl,07 to 09,113,Model A,1989,66.5,670000,Sep 2021
+421,Serangoon Ctrl,07 to 09,103,Model A,1989,66.75,678000,Sep 2021
+427,Serangoon Ctrl,04 to 06,113,Model A,1989,66.42,680000,Sep 2021
+257,Serangoon Ctrl Dr,10 to 12,100,Model A,1999,76.75,650000,Sep 2021
+126,Serangoon Nth Ave 1,13 to 15,91,New Generation,1985,62.83,390000,Sep 2021
+144,Serangoon Nth Ave 1,04 to 06,83,Simplified,1987,64.92,378000,Sep 2021
+145,Serangoon Nth Ave 1,01 to 03,83,Simplified,1986,64.08,398000,Sep 2021
+547,Serangoon Nth Ave 3,13 to 15,100,Model A,1997,75.25,472000,Sep 2021
+548,Serangoon Nth Ave 3,10 to 12,100,Model A,1998,75.42,480000,Sep 2021
+511,Serangoon Nth Ave 4,04 to 06,100,Model A,1997,74.75,460000,Sep 2021
+528,Serangoon Nth Ave 4,01 to 03,110,Model A,1992,70.25,435000,Sep 2021
+530,Serangoon Nth Ave 4,07 to 09,103,Model A,1992,70.25,480000,Sep 2021
+538,Serangoon Nth Ave 4,04 to 06,103,Model A,1992,70.25,400000,Sep 2021
+538,Serangoon Nth Ave 4,01 to 03,103,Model A,1992,70.25,427000,Sep 2021
+7,Lor Lew Lian,01 to 03,98,New Generation,1978,55.75,460000,Aug 2021
+301,Serangoon Ave 2,04 to 06,93,New Generation,1985,62.5,558000,Aug 2021
+307,Serangoon Ave 2,07 to 09,93,New Generation,1985,63.25,500000,Aug 2021
+236,Serangoon Ave 3,07 to 09,105,Model A,1985,63,608000,Aug 2021
+332,Serangoon Ave 3,10 to 12,103,Model A,1986,63.58,650000,Aug 2021
+334,Serangoon Ave 3,04 to 06,84,Simplified,1987,64.67,525000,Aug 2021
+218,Serangoon Ave 4,07 to 09,91,New Generation,1985,62.5,488000,Aug 2021
+221,Serangoon Ave 4,04 to 06,92,New Generation,1984,62.42,425000,Aug 2021
+225,Serangoon Ave 4,01 to 03,92,New Generation,1985,62.67,445000,Aug 2021
+226,Serangoon Ave 4,04 to 06,93,New Generation,1984,62,450000,Aug 2021
+255,Serangoon Ctrl Dr,13 to 15,99,Model A,1999,76.75,682000,Aug 2021
+143,Serangoon Nth Ave 1,07 to 09,103,Model A,1987,65.17,450000,Aug 2021
+147,Serangoon Nth Ave 1,07 to 09,83,Simplified,1988,66.08,395000,Aug 2021
+152,Serangoon Nth Ave 1,04 to 06,83,Simplified,1986,64.42,388000,Aug 2021
+154,Serangoon Nth Ave 1,04 to 06,86,Simplified,1986,63.92,390000,Aug 2021
+546,Serangoon Nth Ave 3,04 to 06,100,Model A,1998,75.5,428000,Aug 2021
+547,Serangoon Nth Ave 3,07 to 09,100,Model A,1997,75.33,455000,Aug 2021
+549,Serangoon Nth Ave 3,01 to 03,100,Model A,1997,75.33,425000,Aug 2021
+551,Serangoon Nth Ave 3,10 to 12,100,Model A,1997,75.33,445000,Aug 2021
+515,Serangoon Nth Ave 4,01 to 03,104,Model A,1992,70.33,430000,Aug 2021
+517,Serangoon Nth Ave 4,10 to 12,104,Model A,1992,70.25,462000,Aug 2021
+531,Serangoon Nth Ave 4,01 to 03,103,Model A,1992,70.42,400000,Aug 2021
+531,Serangoon Nth Ave 4,07 to 09,103,Model A,1992,70.25,452000,Aug 2021
+6,Lor Lew Lian,01 to 03,98,New Generation,1978,55.83,480000,Jul 2021
+7,Lor Lew Lian,07 to 09,98,New Generation,1978,55.92,498000,Jul 2021
+243,Serangoon Ave 2,10 to 12,89,Simplified,1985,63.42,595000,Jul 2021
+309,Serangoon Ave 2,01 to 03,91,New Generation,1985,62.83,508000,Jul 2021
+236,Serangoon Ave 3,07 to 09,84,Simplified,1985,63,495000,Jul 2021
+328,Serangoon Ave 3,07 to 09,84,Simplified,1986,63.83,545000,Jul 2021
+224,Serangoon Ave 4,10 to 12,91,New Generation,1984,62.08,480000,Jul 2021
+228,Serangoon Ave 4,10 to 12,93,New Generation,1984,62.08,490000,Jul 2021
+409,Serangoon Ctrl,01 to 03,105,Model A,1989,66.58,635000,Jul 2021
+421,Serangoon Ctrl,10 to 12,105,Model A,1989,66.92,640000,Jul 2021
+427,Serangoon Ctrl,04 to 06,111,Model A,1989,66.58,618000,Jul 2021
+122,Serangoon Nth Ave 1,01 to 03,99,New Generation,1985,62.58,310000,Jul 2021
+127,Serangoon Nth Ave 1,01 to 03,91,New Generation,1985,62.58,386000,Jul 2021
+127,Serangoon Nth Ave 1,10 to 12,96,New Generation,1985,62.58,500000,Jul 2021
+147,Serangoon Nth Ave 1,04 to 06,83,Simplified,1988,66.08,392000,Jul 2021
+548,Serangoon Nth Ave 3,07 to 09,100,Model A,1998,75.58,420000,Jul 2021
+533,Serangoon Nth Ave 4,04 to 06,104,Model A,1992,70.33,440000,Jul 2021
+7,Lor Lew Lian,10 to 12,98,New Generation,1978,56,488000,Jun 2021
+401,Serangoon Ave 1,04 to 06,93,New Generation,1989,66.75,560000,Jun 2021
+238,Serangoon Ave 2,10 to 12,84,Simplified,1985,63.08,490000,Jun 2021
+240,Serangoon Ave 2,10 to 12,84,Simplified,1985,63.17,505000,Jun 2021
+307,Serangoon Ave 2,04 to 06,93,New Generation,1985,63.42,438000,Jun 2021
+236,Serangoon Ave 3,07 to 09,84,Simplified,1985,63.08,490000,Jun 2021
+335,Serangoon Ave 3,10 to 12,84,Simplified,1986,64,560000,Jun 2021
+201,Serangoon Ctrl,07 to 09,89,Simplified,1985,63.5,588000,Jun 2021
+204,Serangoon Ctrl,04 to 06,84,Simplified,1985,63.42,530000,Jun 2021
+204,Serangoon Ctrl,01 to 03,84,Simplified,1985,63.42,540000,Jun 2021
+126,Serangoon Nth Ave 1,04 to 06,91,New Generation,1985,63.08,388000,Jun 2021
+136,Serangoon Nth Ave 2,04 to 06,113,Model A,1989,67,472000,Jun 2021
+511,Serangoon Nth Ave 4,07 to 09,100,Model A,1997,75,458000,Jun 2021
+521,Serangoon Nth Ave 4,10 to 12,106,Model A,1992,70.42,480000,Jun 2021
+401,Serangoon Ave 1,07 to 09,109,Model A,1989,66.83,632000,May 2021
+405,Serangoon Ave 1,04 to 06,111,Model A,1989,66.83,623888,May 2021
+309,Serangoon Ave 2,04 to 06,91,New Generation,1985,62.92,470000,May 2021
+231,Serangoon Ave 3,10 to 12,84,Simplified,1985,63.25,475000,May 2021
+332,Serangoon Ave 3,01 to 03,103,Model A,1986,63.83,520000,May 2021
+223,Serangoon Ave 4,01 to 03,92,New Generation,1984,62.67,418000,May 2021
+229,Serangoon Ave 4,04 to 06,91,New Generation,1984,62.25,450000,May 2021
+109,Serangoon Nth Ave 1,07 to 09,91,New Generation,1985,63.08,410000,May 2021
+118,Serangoon Nth Ave 1,04 to 06,91,New Generation,1986,63.67,375000,May 2021
+154,Serangoon Nth Ave 1,01 to 03,86,Simplified,1986,64.17,350000,May 2021
+545,Serangoon Nth Ave 3,01 to 03,101,Model A,1997,75.33,450000,May 2021
+549,Serangoon Nth Ave 3,07 to 09,100,Model A,1997,75.5,445000,May 2021
+511,Serangoon Nth Ave 4,01 to 03,100,Model A,1997,75.08,418000,May 2021
+540,Serangoon Nth Ave 4,04 to 06,104,Model A,1992,70.58,415000,May 2021
+425,Serangoon Ave 1,10 to 12,103,Model A,1989,67.17,600000,Apr 2021
+239,Serangoon Ave 2,01 to 03,84,Simplified,1985,63.17,450000,Apr 2021
+239,Serangoon Ave 2,04 to 06,84,Simplified,1985,63.25,460000,Apr 2021
+324,Serangoon Ave 3,04 to 06,84,Simplified,1986,64,490000,Apr 2021
+328,Serangoon Ave 3,10 to 12,84,Simplified,1986,64.17,520000,Apr 2021
+331,Serangoon Ave 3,07 to 09,84,Simplified,1986,64.17,575000,Apr 2021
+332,Serangoon Ave 3,04 to 06,84,Simplified,1986,64,570000,Apr 2021
+212,Serangoon Ave 4,13 to 15,99,New Generation,1985,63.25,490000,Apr 2021
+209,Serangoon Ctrl,01 to 03,83,Simplified,1985,63.58,380000,Apr 2021
+209,Serangoon Ctrl,01 to 03,90,Simplified,1985,63.5,529000,Apr 2021
+422,Serangoon Ctrl,04 to 06,106,Model A,1989,67,605000,Apr 2021
+101,Serangoon Nth Ave 1,01 to 03,91,New Generation,1985,62.92,380000,Apr 2021
+118,Serangoon Nth Ave 1,01 to 03,91,New Generation,1986,63.83,370000,Apr 2021
+126,Serangoon Nth Ave 1,10 to 12,106,New Generation,1985,63.25,428000,Apr 2021
+144,Serangoon Nth Ave 1,04 to 06,83,Simplified,1987,65.33,375000,Apr 2021
+144,Serangoon Nth Ave 1,07 to 09,103,Model A,1987,65.25,450000,Apr 2021
+152,Serangoon Nth Ave 1,04 to 06,86,Simplified,1986,64.67,365000,Apr 2021
+510,Serangoon Nth Ave 4,04 to 06,101,Model A,1997,75.17,429000,Apr 2021
+521,Serangoon Nth Ave 4,04 to 06,106,Model A,1992,70.58,410000,Apr 2021
+523,Serangoon Nth Ave 4,04 to 06,104,Model A,1992,70.58,475000,Apr 2021
+524,Serangoon Nth Ave 4,01 to 03,104,Model A,1992,70.58,373000,Apr 2021
+307,Serangoon Ave 2,01 to 03,95,New Generation,1985,63.67,410000,Mar 2021
+307,Serangoon Ave 2,10 to 12,95,New Generation,1985,63.67,495000,Mar 2021
+233,Serangoon Ave 3,01 to 03,84,Simplified,1985,63.33,410000,Mar 2021
+235,Serangoon Ave 3,07 to 09,84,Simplified,1985,63.25,490000,Mar 2021
+334,Serangoon Ave 3,10 to 12,84,Simplified,1987,65.17,538888,Mar 2021
+211,Serangoon Ave 4,04 to 06,91,New Generation,1985,63.58,438000,Mar 2021
+211,Serangoon Ave 4,10 to 12,94,New Generation,1985,63.58,448000,Mar 2021
+221,Serangoon Ave 4,01 to 03,96,New Generation,1984,62.75,404500,Mar 2021
+229,Serangoon Ave 4,07 to 09,91,New Generation,1984,62.33,480000,Mar 2021
+420,Serangoon Ctrl,07 to 09,105,Model A,1989,67.67,605000,Mar 2021
+255,Serangoon Ctrl Dr,04 to 06,99,Model A,1999,77.17,620000,Mar 2021
+144,Serangoon Nth Ave 1,07 to 09,103,Model A,1987,65.33,435000,Mar 2021
+152,Serangoon Nth Ave 1,01 to 03,83,Simplified,1986,64.75,360000,Mar 2021
+518,Serangoon Nth Ave 4,10 to 12,104,Model A,1992,70.58,435000,Mar 2021
+540,Serangoon Nth Ave 4,04 to 06,104,Model A,1992,70.67,440000,Mar 2021
+404,Serangoon Ave 1,10 to 12,103,Model A,1989,67,618000,Feb 2021
+408,Serangoon Ave 1,01 to 03,105,Model A,1989,66.92,570000,Feb 2021
+323,Serangoon Ave 3,01 to 03,89,Simplified,1985,63.92,488000,Feb 2021
+325,Serangoon Ave 3,10 to 12,84,Simplified,1986,64.25,531000,Feb 2021
+334,Serangoon Ave 3,04 to 06,84,Simplified,1987,65.17,520000,Feb 2021
+208,Serangoon Ctrl,01 to 03,83,Simplified,1985,63.75,410000,Feb 2021
+409,Serangoon Ctrl,04 to 06,111,Model A,1989,67,650000,Feb 2021
+413,Serangoon Ctrl,10 to 12,103,Model A,1989,67.25,550000,Feb 2021
+422,Serangoon Ctrl,04 to 06,113,Model A,1989,67.08,668000,Feb 2021
+101,Serangoon Nth Ave 1,07 to 09,91,New Generation,1985,63.08,400000,Feb 2021
+111,Serangoon Nth Ave 1,10 to 12,91,New Generation,1985,63.58,375000,Feb 2021
+118,Serangoon Nth Ave 1,04 to 06,91,New Generation,1986,63.92,380000,Feb 2021
+146,Serangoon Nth Ave 1,04 to 06,83,Simplified,1987,65.5,358000,Feb 2021
+535A,Serangoon Nth Ave 4,01 to 03,104,Model A,1992,70.75,405000,Feb 2021
+540,Serangoon Nth Ave 4,10 to 12,104,Model A,1992,70.75,420000,Feb 2021
+6,Lor Lew Lian,04 to 06,98,New Generation,1978,56.42,452800,Jan 2021
+6,Lor Lew Lian,04 to 06,97,New Generation,1978,56.42,458000,Jan 2021
+6,Lor Lew Lian,07 to 09,98,New Generation,1978,56.42,470000,Jan 2021
+401,Serangoon Ave 1,04 to 06,105,Model A,1989,67.17,580000,Jan 2021
+402,Serangoon Ave 1,01 to 03,105,Model A,1989,67.25,525000,Jan 2021
+404,Serangoon Ave 1,04 to 06,105,Model A,1989,67.17,520000,Jan 2021
+426,Serangoon Ave 1,13 to 15,113,Model A,1988,67,640000,Jan 2021
+239,Serangoon Ave 2,04 to 06,90,Simplified,1985,63.5,505000,Jan 2021
+309,Serangoon Ave 2,04 to 06,91,New Generation,1985,63.33,448000,Jan 2021
+233,Serangoon Ave 3,10 to 12,84,Simplified,1985,63.42,463888,Jan 2021
+233,Serangoon Ave 3,07 to 09,84,Simplified,1985,63.42,485000,Jan 2021
+324,Serangoon Ave 3,04 to 06,84,Simplified,1986,64.25,475000,Jan 2021
+330,Serangoon Ave 3,10 to 12,84,Simplified,1986,64.5,590000,Jan 2021
+215,Serangoon Ave 4,07 to 09,95,New Generation,1985,63.42,430000,Jan 2021
+224,Serangoon Ave 4,01 to 03,91,New Generation,1984,62.58,395000,Jan 2021
+226,Serangoon Ave 4,04 to 06,91,New Generation,1984,62.58,418000,Jan 2021
+228,Serangoon Ave 4,01 to 03,91,New Generation,1984,62.58,415000,Jan 2021
+204,Serangoon Ctrl,10 to 12,89,Simplified,1985,63.75,610000,Jan 2021
+206,Serangoon Ctrl,01 to 03,89,Simplified,1985,64,455000,Jan 2021
+255,Serangoon Ctrl Dr,07 to 09,99,Model A,1999,77.33,605000,Jan 2021
+258,Serangoon Ctrl Dr,07 to 09,99,Model A,1999,77.33,602000,Jan 2021
+103,Serangoon Nth Ave 1,01 to 03,91,New Generation,1985,63.67,388000,Jan 2021
+113,Serangoon Nth Ave 1,01 to 03,97,New Generation,1985,63.17,378000,Jan 2021
+120,Serangoon Nth Ave 1,10 to 12,91,New Generation,1985,63.42,388000,Jan 2021
+136,Serangoon Nth Ave 2,01 to 03,103,Model A,1989,67.42,380000,Jan 2021
+139,Serangoon Nth Ave 2,01 to 03,103,Model A,1989,67.33,408000,Jan 2021
+550,Serangoon Nth Ave 3,13 to 15,100,Model A,1997,75.92,446000,Jan 2021
+551,Serangoon Nth Ave 3,16 to 18,100,Model A,1997,75.92,448000,Jan 2021
+524,Serangoon Nth Ave 4,10 to 12,104,Model A,1992,70.92,408000,Jan 2021
+528,Serangoon Nth Ave 4,04 to 06,110,Model A,1992,70.92,409500,Jan 2021
+330,Serangoon Ave 3,07 to 09,84,Simplified,1986,64.67,547000,Dec 2020
+211,Serangoon Ave 4,07 to 09,91,New Generation,1985,63.83,480000,Dec 2020
+211,Serangoon Ave 4,07 to 09,93,New Generation,1985,63.83,525000,Dec 2020
+214,Serangoon Ave 4,01 to 03,93,New Generation,1985,63.25,370000,Dec 2020
+222,Serangoon Ave 4,04 to 06,99,New Generation,1985,63.83,435000,Dec 2020
+226,Serangoon Ave 4,04 to 06,93,New Generation,1984,62.67,442000,Dec 2020
+202,Serangoon Ctrl,04 to 06,103,Model A,1985,64.08,570000,Dec 2020
+427,Serangoon Ctrl,01 to 03,105,Model A,1989,67.08,588000,Dec 2020
+258,Serangoon Ctrl Dr,07 to 09,100,Model A,1999,77.42,605000,Dec 2020
+126,Serangoon Nth Ave 1,01 to 03,91,New Generation,1985,63.5,370000,Dec 2020
+140,Serangoon Nth Ave 2,10 to 12,105,Model A,1989,67.58,465000,Dec 2020
+551,Serangoon Nth Ave 3,10 to 12,100,Model A,1997,76,433000,Dec 2020
+553,Serangoon Nth Ave 3,01 to 03,101,Model A,1997,75.75,394000,Dec 2020
+522,Serangoon Nth Ave 4,01 to 03,103,Model A,1992,70.92,375000,Dec 2020
+532,Serangoon Nth Ave 4,01 to 03,103,Model A,1992,70.92,400000,Dec 2020
+6,Lor Lew Lian,01 to 03,98,New Generation,1978,56.5,426000,Nov 2020
+407,Serangoon Ave 1,10 to 12,105,Model A,1989,67.42,560000,Nov 2020
+407,Serangoon Ave 1,04 to 06,103,Model A,1989,67.42,560000,Nov 2020
+425,Serangoon Ave 1,13 to 15,106,Model A,1989,67.67,640088,Nov 2020
+308,Serangoon Ave 2,04 to 06,91,New Generation,1985,63.58,428888,Nov 2020
+237,Serangoon Ave 3,01 to 03,84,Simplified,1985,64.08,475000,Nov 2020
+324,Serangoon Ave 3,07 to 09,104,Model A,1986,64.42,580000,Nov 2020
+328,Serangoon Ave 3,01 to 03,84,Simplified,1986,64.58,450000,Nov 2020
+333,Serangoon Ave 3,07 to 09,84,Simplified,1986,64.83,550000,Nov 2020
+219,Serangoon Ave 4,04 to 06,91,New Generation,1984,63.17,438000,Nov 2020
+225,Serangoon Ave 4,04 to 06,92,New Generation,1985,63.33,448000,Nov 2020
+228,Serangoon Ave 4,04 to 06,93,New Generation,1984,62.67,442000,Nov 2020
+201,Serangoon Ctrl,04 to 06,84,Simplified,1985,64.08,380000,Nov 2020
+414,Serangoon Ctrl,01 to 03,108,Model A,1989,67.17,552000,Nov 2020
+146,Serangoon Nth Ave 1,01 to 03,83,Simplified,1987,65.67,330000,Nov 2020
+553,Serangoon Nth Ave 3,07 to 09,101,Model A,1997,75.83,415000,Nov 2020
+510,Serangoon Nth Ave 4,01 to 03,101,Model A,1997,75.67,410000,Nov 2020
+532,Serangoon Nth Ave 4,01 to 03,103,Model A,1992,71,360000,Nov 2020
+534,Serangoon Nth Ave 4,04 to 06,104,Model A,1992,71,398000,Nov 2020
+541,Serangoon Nth Ave 4,01 to 03,104,Model A,1992,71,385000,Nov 2020
+238,Serangoon Ave 2,07 to 09,84,Simplified,1985,62.67,532000,Nov 2021
+255,Serangoon Ctrl Dr,04 to 06,99,Model A,1999,76.58,700000,Nov 2021
+151,Serangoon Nth Ave 2,01 to 03,86,Simplified,1986,63.75,398000,Nov 2021
+233,Serangoon Ave 3,07 to 09,84,Simplified,1985,62.75,488000,Oct 2021
+236,Serangoon Ave 3,01 to 03,84,Simplified,1985,62.75,440000,Oct 2021
+236,Serangoon Ave 3,04 to 06,105,Model A,1985,62.75,610000,Oct 2021
+324,Serangoon Ave 3,04 to 06,104,Model A,1986,63.5,647000,Oct 2021
+329,Serangoon Ave 3,04 to 06,103,Model A,1986,63.83,551000,Oct 2021
+226,Serangoon Ave 4,10 to 12,91,New Generation,1984,61.83,503000,Oct 2021
+226,Serangoon Ave 4,13 to 15,91,New Generation,1984,61.83,510000,Oct 2021
+228,Serangoon Ave 4,10 to 12,91,New Generation,1984,61.75,558000,Oct 2021
+416,Serangoon Ctrl,04 to 06,105,Model A,1989,66.67,658000,Oct 2021
+419,Serangoon Ctrl,01 to 03,105,Model A,1989,66.58,590000,Oct 2021
+101,Serangoon Nth Ave 1,07 to 09,93,New Generation,1985,62.5,440000,Oct 2021
+101,Serangoon Nth Ave 1,07 to 09,93,New Generation,1985,62.42,464000,Oct 2021
+535A,Serangoon Nth Ave 4,10 to 12,104,Model A,1992,70.08,481000,Oct 2021
+540,Serangoon Nth Ave 4,07 to 09,104,Model A,1992,70.17,451888,Oct 2021
+239,Serangoon Ave 2,10 to 12,105,Model A,1985,62.83,650000,Sep 2021
+307,Serangoon Ave 2,07 to 09,95,New Generation,1985,63.17,470000,Sep 2021
+315,Serangoon Ave 2,10 to 12,93,New Generation,1985,62.75,550000,Sep 2021
+233,Serangoon Ave 3,04 to 06,84,Simplified,1985,62.83,500000,Sep 2021
+334,Serangoon Ave 3,10 to 12,84,Simplified,1987,64.67,590000,Sep 2021
+229,Serangoon Ave 4,01 to 03,91,New Generation,1984,61.92,514000,Sep 2021
+412,Serangoon Ctrl,07 to 09,113,Model A,1989,66.5,670000,Sep 2021
+421,Serangoon Ctrl,07 to 09,103,Model A,1989,66.75,678000,Sep 2021
+427,Serangoon Ctrl,04 to 06,113,Model A,1989,66.42,680000,Sep 2021
+257,Serangoon Ctrl Dr,10 to 12,100,Model A,1999,76.75,650000,Sep 2021
+126,Serangoon Nth Ave 1,13 to 15,91,New Generation,1985,62.83,390000,Sep 2021
+144,Serangoon Nth Ave 1,04 to 06,83,Simplified,1987,64.92,378000,Sep 2021
+145,Serangoon Nth Ave 1,01 to 03,83,Simplified,1986,64.08,398000,Sep 2021
+547,Serangoon Nth Ave 3,13 to 15,100,Model A,1997,75.25,472000,Sep 2021
+548,Serangoon Nth Ave 3,10 to 12,100,Model A,1998,75.42,480000,Sep 2021
+511,Serangoon Nth Ave 4,04 to 06,100,Model A,1997,74.75,460000,Sep 2021
+528,Serangoon Nth Ave 4,01 to 03,110,Model A,1992,70.25,435000,Sep 2021
+530,Serangoon Nth Ave 4,07 to 09,103,Model A,1992,70.25,480000,Sep 2021
+538,Serangoon Nth Ave 4,04 to 06,103,Model A,1992,70.25,400000,Sep 2021
+538,Serangoon Nth Ave 4,01 to 03,103,Model A,1992,70.25,427000,Sep 2021
+7,Lor Lew Lian,01 to 03,98,New Generation,1978,55.75,460000,Aug 2021
+301,Serangoon Ave 2,04 to 06,93,New Generation,1985,62.5,558000,Aug 2021
+307,Serangoon Ave 2,07 to 09,93,New Generation,1985,63.25,500000,Aug 2021
+236,Serangoon Ave 3,07 to 09,105,Model A,1985,63,608000,Aug 2021
+332,Serangoon Ave 3,10 to 12,103,Model A,1986,63.58,650000,Aug 2021
+334,Serangoon Ave 3,04 to 06,84,Simplified,1987,64.67,525000,Aug 2021
+218,Serangoon Ave 4,07 to 09,91,New Generation,1985,62.5,488000,Aug 2021
+221,Serangoon Ave 4,04 to 06,92,New Generation,1984,62.42,425000,Aug 2021
+225,Serangoon Ave 4,01 to 03,92,New Generation,1985,62.67,445000,Aug 2021
+226,Serangoon Ave 4,04 to 06,93,New Generation,1984,62,450000,Aug 2021
+255,Serangoon Ctrl Dr,13 to 15,99,Model A,1999,76.75,682000,Aug 2021
+143,Serangoon Nth Ave 1,07 to 09,103,Model A,1987,65.17,450000,Aug 2021
+147,Serangoon Nth Ave 1,07 to 09,83,Simplified,1988,66.08,395000,Aug 2021
+152,Serangoon Nth Ave 1,04 to 06,83,Simplified,1986,64.42,388000,Aug 2021
+154,Serangoon Nth Ave 1,04 to 06,86,Simplified,1986,63.92,390000,Aug 2021
+546,Serangoon Nth Ave 3,04 to 06,100,Model A,1998,75.5,428000,Aug 2021
+547,Serangoon Nth Ave 3,07 to 09,100,Model A,1997,75.33,455000,Aug 2021
+549,Serangoon Nth Ave 3,01 to 03,100,Model A,1997,75.33,425000,Aug 2021
+551,Serangoon Nth Ave 3,10 to 12,100,Model A,1997,75.33,445000,Aug 2021
+515,Serangoon Nth Ave 4,01 to 03,104,Model A,1992,70.33,430000,Aug 2021
+517,Serangoon Nth Ave 4,10 to 12,104,Model A,1992,70.25,462000,Aug 2021
+531,Serangoon Nth Ave 4,01 to 03,103,Model A,1992,70.42,400000,Aug 2021
+531,Serangoon Nth Ave 4,07 to 09,103,Model A,1992,70.25,452000,Aug 2021
+6,Lor Lew Lian,01 to 03,98,New Generation,1978,55.83,480000,Jul 2021
+7,Lor Lew Lian,07 to 09,98,New Generation,1978,55.92,498000,Jul 2021
+243,Serangoon Ave 2,10 to 12,89,Simplified,1985,63.42,595000,Jul 2021
+309,Serangoon Ave 2,01 to 03,91,New Generation,1985,62.83,508000,Jul 2021
+236,Serangoon Ave 3,07 to 09,84,Simplified,1985,63,495000,Jul 2021
+328,Serangoon Ave 3,07 to 09,84,Simplified,1986,63.83,545000,Jul 2021
+224,Serangoon Ave 4,10 to 12,91,New Generation,1984,62.08,480000,Jul 2021
+228,Serangoon Ave 4,10 to 12,93,New Generation,1984,62.08,490000,Jul 2021
+409,Serangoon Ctrl,01 to 03,105,Model A,1989,66.58,635000,Jul 2021
+421,Serangoon Ctrl,10 to 12,105,Model A,1989,66.92,640000,Jul 2021
+427,Serangoon Ctrl,04 to 06,111,Model A,1989,66.58,618000,Jul 2021
+122,Serangoon Nth Ave 1,01 to 03,99,New Generation,1985,62.58,310000,Jul 2021
+127,Serangoon Nth Ave 1,01 to 03,91,New Generation,1985,62.58,386000,Jul 2021
+127,Serangoon Nth Ave 1,10 to 12,96,New Generation,1985,62.58,500000,Jul 2021
+147,Serangoon Nth Ave 1,04 to 06,83,Simplified,1988,66.08,392000,Jul 2021
+548,Serangoon Nth Ave 3,07 to 09,100,Model A,1998,75.58,420000,Jul 2021
+533,Serangoon Nth Ave 4,04 to 06,104,Model A,1992,70.33,440000,Jul 2021
+7,Lor Lew Lian,10 to 12,98,New Generation,1978,56,488000,Jun 2021
+401,Serangoon Ave 1,04 to 06,93,New Generation,1989,66.75,560000,Jun 2021
+238,Serangoon Ave 2,10 to 12,84,Simplified,1985,63.08,490000,Jun 2021
+240,Serangoon Ave 2,10 to 12,84,Simplified,1985,63.17,505000,Jun 2021
+307,Serangoon Ave 2,04 to 06,93,New Generation,1985,63.42,438000,Jun 2021
+236,Serangoon Ave 3,07 to 09,84,Simplified,1985,63.08,490000,Jun 2021
+335,Serangoon Ave 3,10 to 12,84,Simplified,1986,64,560000,Jun 2021
+201,Serangoon Ctrl,07 to 09,89,Simplified,1985,63.5,588000,Jun 2021
+204,Serangoon Ctrl,04 to 06,84,Simplified,1985,63.42,530000,Jun 2021
+204,Serangoon Ctrl,01 to 03,84,Simplified,1985,63.42,540000,Jun 2021
+126,Serangoon Nth Ave 1,04 to 06,91,New Generation,1985,63.08,388000,Jun 2021
+136,Serangoon Nth Ave 2,04 to 06,113,Model A,1989,67,472000,Jun 2021
+511,Serangoon Nth Ave 4,07 to 09,100,Model A,1997,75,458000,Jun 2021
+521,Serangoon Nth Ave 4,10 to 12,106,Model A,1992,70.42,480000,Jun 2021
+401,Serangoon Ave 1,07 to 09,109,Model A,1989,66.83,632000,May 2021
+405,Serangoon Ave 1,04 to 06,111,Model A,1989,66.83,623888,May 2021
+309,Serangoon Ave 2,04 to 06,91,New Generation,1985,62.92,470000,May 2021
+231,Serangoon Ave 3,10 to 12,84,Simplified,1985,63.25,475000,May 2021
+332,Serangoon Ave 3,01 to 03,103,Model A,1986,63.83,520000,May 2021
+223,Serangoon Ave 4,01 to 03,92,New Generation,1984,62.67,418000,May 2021
+229,Serangoon Ave 4,04 to 06,91,New Generation,1984,62.25,450000,May 2021
+109,Serangoon Nth Ave 1,07 to 09,91,New Generation,1985,63.08,410000,May 2021
+118,Serangoon Nth Ave 1,04 to 06,91,New Generation,1986,63.67,375000,May 2021
+154,Serangoon Nth Ave 1,01 to 03,86,Simplified,1986,64.17,350000,May 2021
+545,Serangoon Nth Ave 3,01 to 03,101,Model A,1997,75.33,450000,May 2021
+549,Serangoon Nth Ave 3,07 to 09,100,Model A,1997,75.5,445000,May 2021
+511,Serangoon Nth Ave 4,01 to 03,100,Model A,1997,75.08,418000,May 2021
+540,Serangoon Nth Ave 4,04 to 06,104,Model A,1992,70.58,415000,May 2021
+425,Serangoon Ave 1,10 to 12,103,Model A,1989,67.17,600000,Apr 2021
+239,Serangoon Ave 2,01 to 03,84,Simplified,1985,63.17,450000,Apr 2021
+239,Serangoon Ave 2,04 to 06,84,Simplified,1985,63.25,460000,Apr 2021
+324,Serangoon Ave 3,04 to 06,84,Simplified,1986,64,490000,Apr 2021
+328,Serangoon Ave 3,10 to 12,84,Simplified,1986,64.17,520000,Apr 2021
+331,Serangoon Ave 3,07 to 09,84,Simplified,1986,64.17,575000,Apr 2021
+332,Serangoon Ave 3,04 to 06,84,Simplified,1986,64,570000,Apr 2021
+212,Serangoon Ave 4,13 to 15,99,New Generation,1985,63.25,490000,Apr 2021
+209,Serangoon Ctrl,01 to 03,83,Simplified,1985,63.58,380000,Apr 2021
+209,Serangoon Ctrl,01 to 03,90,Simplified,1985,63.5,529000,Apr 2021
+422,Serangoon Ctrl,04 to 06,106,Model A,1989,67,605000,Apr 2021
+101,Serangoon Nth Ave 1,01 to 03,91,New Generation,1985,62.92,380000,Apr 2021
+118,Serangoon Nth Ave 1,01 to 03,91,New Generation,1986,63.83,370000,Apr 2021
+126,Serangoon Nth Ave 1,10 to 12,106,New Generation,1985,63.25,428000,Apr 2021
+144,Serangoon Nth Ave 1,04 to 06,83,Simplified,1987,65.33,375000,Apr 2021
+144,Serangoon Nth Ave 1,07 to 09,103,Model A,1987,65.25,450000,Apr 2021
+152,Serangoon Nth Ave 1,04 to 06,86,Simplified,1986,64.67,365000,Apr 2021
+510,Serangoon Nth Ave 4,04 to 06,101,Model A,1997,75.17,429000,Apr 2021
+521,Serangoon Nth Ave 4,04 to 06,106,Model A,1992,70.58,410000,Apr 2021
+523,Serangoon Nth Ave 4,04 to 06,104,Model A,1992,70.58,475000,Apr 2021
+524,Serangoon Nth Ave 4,01 to 03,104,Model A,1992,70.58,373000,Apr 2021
+307,Serangoon Ave 2,01 to 03,95,New Generation,1985,63.67,410000,Mar 2021
+307,Serangoon Ave 2,10 to 12,95,New Generation,1985,63.67,495000,Mar 2021
+233,Serangoon Ave 3,01 to 03,84,Simplified,1985,63.33,410000,Mar 2021
+235,Serangoon Ave 3,07 to 09,84,Simplified,1985,63.25,490000,Mar 2021
+334,Serangoon Ave 3,10 to 12,84,Simplified,1987,65.17,538888,Mar 2021
+211,Serangoon Ave 4,04 to 06,91,New Generation,1985,63.58,438000,Mar 2021
+211,Serangoon Ave 4,10 to 12,94,New Generation,1985,63.58,448000,Mar 2021
+221,Serangoon Ave 4,01 to 03,96,New Generation,1984,62.75,404500,Mar 2021
+229,Serangoon Ave 4,07 to 09,91,New Generation,1984,62.33,480000,Mar 2021
+420,Serangoon Ctrl,07 to 09,105,Model A,1989,67.67,605000,Mar 2021
+255,Serangoon Ctrl Dr,04 to 06,99,Model A,1999,77.17,620000,Mar 2021
+144,Serangoon Nth Ave 1,07 to 09,103,Model A,1987,65.33,435000,Mar 2021
+152,Serangoon Nth Ave 1,01 to 03,83,Simplified,1986,64.75,360000,Mar 2021
+518,Serangoon Nth Ave 4,10 to 12,104,Model A,1992,70.58,435000,Mar 2021
+540,Serangoon Nth Ave 4,04 to 06,104,Model A,1992,70.67,440000,Mar 2021
+404,Serangoon Ave 1,10 to 12,103,Model A,1989,67,618000,Feb 2021
+408,Serangoon Ave 1,01 to 03,105,Model A,1989,66.92,570000,Feb 2021
+323,Serangoon Ave 3,01 to 03,89,Simplified,1985,63.92,488000,Feb 2021
+325,Serangoon Ave 3,10 to 12,84,Simplified,1986,64.25,531000,Feb 2021
+334,Serangoon Ave 3,04 to 06,84,Simplified,1987,65.17,520000,Feb 2021
+208,Serangoon Ctrl,01 to 03,83,Simplified,1985,63.75,410000,Feb 2021
+409,Serangoon Ctrl,04 to 06,111,Model A,1989,67,650000,Feb 2021
+413,Serangoon Ctrl,10 to 12,103,Model A,1989,67.25,550000,Feb 2021
+422,Serangoon Ctrl,04 to 06,113,Model A,1989,67.08,668000,Feb 2021
+101,Serangoon Nth Ave 1,07 to 09,91,New Generation,1985,63.08,400000,Feb 2021
+111,Serangoon Nth Ave 1,10 to 12,91,New Generation,1985,63.58,375000,Feb 2021
+118,Serangoon Nth Ave 1,04 to 06,91,New Generation,1986,63.92,380000,Feb 2021
+146,Serangoon Nth Ave 1,04 to 06,83,Simplified,1987,65.5,358000,Feb 2021
+535A,Serangoon Nth Ave 4,01 to 03,104,Model A,1992,70.75,405000,Feb 2021
+540,Serangoon Nth Ave 4,10 to 12,104,Model A,1992,70.75,420000,Feb 2021
+6,Lor Lew Lian,04 to 06,98,New Generation,1978,56.42,452800,Jan 2021
+6,Lor Lew Lian,04 to 06,97,New Generation,1978,56.42,458000,Jan 2021
+6,Lor Lew Lian,07 to 09,98,New Generation,1978,56.42,470000,Jan 2021
+401,Serangoon Ave 1,04 to 06,105,Model A,1989,67.17,580000,Jan 2021
+402,Serangoon Ave 1,01 to 03,105,Model A,1989,67.25,525000,Jan 2021
+404,Serangoon Ave 1,04 to 06,105,Model A,1989,67.17,520000,Jan 2021
+426,Serangoon Ave 1,13 to 15,113,Model A,1988,67,640000,Jan 2021
+239,Serangoon Ave 2,04 to 06,90,Simplified,1985,63.5,505000,Jan 2021
+309,Serangoon Ave 2,04 to 06,91,New Generation,1985,63.33,448000,Jan 2021
+233,Serangoon Ave 3,10 to 12,84,Simplified,1985,63.42,463888,Jan 2021
+233,Serangoon Ave 3,07 to 09,84,Simplified,1985,63.42,485000,Jan 2021
+324,Serangoon Ave 3,04 to 06,84,Simplified,1986,64.25,475000,Jan 2021
+330,Serangoon Ave 3,10 to 12,84,Simplified,1986,64.5,590000,Jan 2021
+215,Serangoon Ave 4,07 to 09,95,New Generation,1985,63.42,430000,Jan 2021
+224,Serangoon Ave 4,01 to 03,91,New Generation,1984,62.58,395000,Jan 2021
+226,Serangoon Ave 4,04 to 06,91,New Generation,1984,62.58,418000,Jan 2021
+228,Serangoon Ave 4,01 to 03,91,New Generation,1984,62.58,415000,Jan 2021
+204,Serangoon Ctrl,10 to 12,89,Simplified,1985,63.75,610000,Jan 2021
+206,Serangoon Ctrl,01 to 03,89,Simplified,1985,64,455000,Jan 2021
+255,Serangoon Ctrl Dr,07 to 09,99,Model A,1999,77.33,605000,Jan 2021
+258,Serangoon Ctrl Dr,07 to 09,99,Model A,1999,77.33,602000,Jan 2021
+103,Serangoon Nth Ave 1,01 to 03,91,New Generation,1985,63.67,388000,Jan 2021
+113,Serangoon Nth Ave 1,01 to 03,97,New Generation,1985,63.17,378000,Jan 2021
+120,Serangoon Nth Ave 1,10 to 12,91,New Generation,1985,63.42,388000,Jan 2021
+136,Serangoon Nth Ave 2,01 to 03,103,Model A,1989,67.42,380000,Jan 2021
+139,Serangoon Nth Ave 2,01 to 03,103,Model A,1989,67.33,408000,Jan 2021
+550,Serangoon Nth Ave 3,13 to 15,100,Model A,1997,75.92,446000,Jan 2021
+551,Serangoon Nth Ave 3,16 to 18,100,Model A,1997,75.92,448000,Jan 2021
+524,Serangoon Nth Ave 4,10 to 12,104,Model A,1992,70.92,408000,Jan 2021
+528,Serangoon Nth Ave 4,04 to 06,110,Model A,1992,70.92,409500,Jan 2021
+330,Serangoon Ave 3,07 to 09,84,Simplified,1986,64.67,547000,Dec 2020
+211,Serangoon Ave 4,07 to 09,91,New Generation,1985,63.83,480000,Dec 2020
+211,Serangoon Ave 4,07 to 09,93,New Generation,1985,63.83,525000,Dec 2020
+214,Serangoon Ave 4,01 to 03,93,New Generation,1985,63.25,370000,Dec 2020
+222,Serangoon Ave 4,04 to 06,99,New Generation,1985,63.83,435000,Dec 2020
+226,Serangoon Ave 4,04 to 06,93,New Generation,1984,62.67,442000,Dec 2020
+202,Serangoon Ctrl,04 to 06,103,Model A,1985,64.08,570000,Dec 2020
+427,Serangoon Ctrl,01 to 03,105,Model A,1989,67.08,588000,Dec 2020
+258,Serangoon Ctrl Dr,07 to 09,100,Model A,1999,77.42,605000,Dec 2020
+126,Serangoon Nth Ave 1,01 to 03,91,New Generation,1985,63.5,370000,Dec 2020
+140,Serangoon Nth Ave 2,10 to 12,105,Model A,1989,67.58,465000,Dec 2020
+551,Serangoon Nth Ave 3,10 to 12,100,Model A,1997,76,433000,Dec 2020
+553,Serangoon Nth Ave 3,01 to 03,101,Model A,1997,75.75,394000,Dec 2020
+522,Serangoon Nth Ave 4,01 to 03,103,Model A,1992,70.92,375000,Dec 2020
+532,Serangoon Nth Ave 4,01 to 03,103,Model A,1992,70.92,400000,Dec 2020
+6,Lor Lew Lian,01 to 03,98,New Generation,1978,56.5,426000,Nov 2020
+407,Serangoon Ave 1,10 to 12,105,Model A,1989,67.42,560000,Nov 2020
+407,Serangoon Ave 1,04 to 06,103,Model A,1989,67.42,560000,Nov 2020
+425,Serangoon Ave 1,13 to 15,106,Model A,1989,67.67,640088,Nov 2020
+308,Serangoon Ave 2,04 to 06,91,New Generation,1985,63.58,428888,Nov 2020
+237,Serangoon Ave 3,01 to 03,84,Simplified,1985,64.08,475000,Nov 2020
+324,Serangoon Ave 3,07 to 09,104,Model A,1986,64.42,580000,Nov 2020
+328,Serangoon Ave 3,01 to 03,84,Simplified,1986,64.58,450000,Nov 2020
+333,Serangoon Ave 3,07 to 09,84,Simplified,1986,64.83,550000,Nov 2020
+219,Serangoon Ave 4,04 to 06,91,New Generation,1984,63.17,438000,Nov 2020
+225,Serangoon Ave 4,04 to 06,92,New Generation,1985,63.33,448000,Nov 2020
+228,Serangoon Ave 4,04 to 06,93,New Generation,1984,62.67,442000,Nov 2020
+201,Serangoon Ctrl,04 to 06,84,Simplified,1985,64.08,380000,Nov 2020
+414,Serangoon Ctrl,01 to 03,108,Model A,1989,67.17,552000,Nov 2020
+146,Serangoon Nth Ave 1,01 to 03,83,Simplified,1987,65.67,330000,Nov 2020
+553,Serangoon Nth Ave 3,07 to 09,101,Model A,1997,75.83,415000,Nov 2020
+510,Serangoon Nth Ave 4,01 to 03,101,Model A,1997,75.67,410000,Nov 2020
+532,Serangoon Nth Ave 4,01 to 03,103,Model A,1992,71,360000,Nov 2020
+534,Serangoon Nth Ave 4,04 to 06,104,Model A,1992,71,398000,Nov 2020
+541,Serangoon Nth Ave 4,01 to 03,104,Model A,1992,71,385000,Nov 2020

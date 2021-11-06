@@ -1,0 +1,1215 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date
+131,Bedok Nth Ave 3,07 to 09,92,New Generation,1978,55.5,477500,Nov 2021
+185,Bedok Nth Rd,19 to 21,92,Model A,2005,83.17,628888,Nov 2021
+132,Bedok Nth St 2,13 to 15,92,New Generation,1978,55.5,490000,Nov 2021
+524,Bedok Nth St 3,04 to 06,92,New Generation,1979,56.75,380000,Nov 2021
+125,Bedok Reservoir Rd,01 to 03,84,Simplified,1987,64.75,468000,Nov 2021
+608,Bedok Reservoir Rd,04 to 06,94,New Generation,1982,59.75,405000,Nov 2021
+628,Bedok Reservoir Rd,10 to 12,95,New Generation,1983,60.25,505000,Nov 2021
+702,Bedok Reservoir Rd,01 to 03,93,New Generation,1980,58.08,415000,Nov 2021
+769,Bedok Reservoir View,04 to 06,105,Premium Apartment,2000,78.17,520000,Nov 2021
+15,Bedok Sth Rd,07 to 09,88,Improved,1976,53.25,410000,Nov 2021
+15,Bedok Sth Rd,10 to 12,88,Improved,1976,53.25,425000,Nov 2021
+50,Chai Chee St,04 to 06,91,New Generation,1981,58.75,392500,Nov 2021
+54,Chai Chee St,10 to 12,100,New Generation,1981,58.58,435000,Nov 2021
+102,Lengkong Tiga,10 to 12,104,Model A,1989,66.83,625000,Nov 2021
+220B,Bedok Ctrl,16 to 18,97,Model A,2010,87.67,791000,Oct 2021
+221B,Bedok Ctrl,13 to 15,94,Model A,2010,87.67,735000,Oct 2021
+423,Bedok Nth Ave 1,04 to 06,91,New Generation,1979,56.33,405000,Oct 2021
+513,Bedok Nth Ave 2,01 to 03,92,New Generation,1979,56.83,393000,Oct 2021
+131,Bedok Nth Ave 3,10 to 12,92,New Generation,1978,55.58,460000,Oct 2021
+105,Bedok Nth Ave 4,10 to 12,91,New Generation,1977,54.83,420000,Oct 2021
+78,Bedok Nth Rd,10 to 12,91,New Generation,1978,55.67,450888,Oct 2021
+79,Bedok Nth Rd,13 to 15,91,New Generation,1978,55.75,425000,Oct 2021
+125,Bedok Nth Rd,04 to 06,83,New Generation,1978,55.58,383000,Oct 2021
+180,Bedok Nth Rd,01 to 03,92,Model A,2006,83.25,530000,Oct 2021
+180,Bedok Nth Rd,10 to 12,92,Model A,2006,83.33,645000,Oct 2021
+181,Bedok Nth Rd,04 to 06,92,Model A,2006,83.33,535000,Oct 2021
+185,Bedok Nth Rd,10 to 12,92,Model A,2005,83.25,610000,Oct 2021
+427,Bedok Nth Rd,04 to 06,92,New Generation,1979,56.33,408000,Oct 2021
+706,Bedok Nth Rd,04 to 06,91,New Generation,1980,58.08,431889,Oct 2021
+526,Bedok Nth St 3,07 to 09,92,New Generation,1979,56.83,418000,Oct 2021
+532,Bedok Nth St 3,04 to 06,92,New Generation,1980,57.33,388000,Oct 2021
+536,Bedok Nth St 3,04 to 06,95,New Generation,1980,57.25,390000,Oct 2021
+101,Bedok Reservoir Rd,04 to 06,98,New Generation,1985,62.83,400000,Oct 2021
+709,Bedok Reservoir Rd,04 to 06,102,New Generation,1981,58.83,500000,Oct 2021
+718,Bedok Reservoir Rd,04 to 06,104,Model A,1984,61.33,445000,Oct 2021
+718,Bedok Reservoir Rd,10 to 12,104,Model A,1984,61.33,460000,Oct 2021
+761,Bedok Reservoir View,07 to 09,105,Premium Apartment,2000,78.25,600000,Oct 2021
+769,Bedok Reservoir View,07 to 09,105,Premium Apartment,2000,78.25,570000,Oct 2021
+771,Bedok Reservoir View,10 to 12,105,Premium Apartment,2000,78.25,562000,Oct 2021
+773,Bedok Reservoir View,04 to 06,107,Premium Apartment,2000,78.25,526000,Oct 2021
+35,Bedok Sth Ave 2,10 to 12,90,Improved,1977,55,396888,Oct 2021
+15,Bedok Sth Rd,01 to 03,88,Improved,1976,53.25,395000,Oct 2021
+41,Bedok Sth Rd,07 to 09,84,Improved,1977,54.92,395000,Oct 2021
+42,Bedok Sth Rd,07 to 09,84,Improved,1977,55,380000,Oct 2021
+43,Bedok Sth Rd,13 to 15,84,Improved,1977,55,388000,Oct 2021
+71,Bedok Sth Rd,10 to 12,92,New Generation,1978,55.25,455000,Oct 2021
+164,Bedok Sth Rd,07 to 09,84,Simplified,1986,63.42,460000,Oct 2021
+56,Chai Chee Dr,04 to 06,91,New Generation,1983,60.33,372000,Oct 2021
+26,Chai Chee Rd,13 to 15,104,Model A,1993,70.67,584000,Oct 2021
+807A,Chai Chee Rd,13 to 15,93,Model A,2016,94.08,668888,Oct 2021
+807A,Chai Chee Rd,13 to 15,93,Model A,2016,94.17,670000,Oct 2021
+808A,Chai Chee Rd,13 to 15,93,Model A,2016,94.17,660000,Oct 2021
+808A,Chai Chee Rd,10 to 12,93,Model A,2016,94.17,660000,Oct 2021
+808B,Chai Chee Rd,10 to 12,93,Model A,2016,94.17,632000,Oct 2021
+808C,Chai Chee Rd,04 to 06,88,Model A,2016,94.17,620000,Oct 2021
+650,Jln Tenaga,07 to 09,108,Model A,1996,73.83,510000,Oct 2021
+651,Jln Tenaga,10 to 12,108,Model A,1996,74.08,570000,Oct 2021
+655,Jln Tenaga,07 to 09,108,Model A,1996,74.17,520000,Oct 2021
+656,Jln Tenaga,07 to 09,104,Model A,1996,74.17,572000,Oct 2021
+219A,Bedok Ctrl,01 to 03,97,Model A,2010,87.75,660000,Sep 2021
+220C,Bedok Ctrl,07 to 09,87,Model A,2010,87.67,650000,Sep 2021
+221A,Bedok Ctrl,10 to 12,94,Model A,2010,87.75,741000,Sep 2021
+221B,Bedok Ctrl,13 to 15,94,Model A,2010,87.75,730000,Sep 2021
+408,Bedok Nth Ave 2,01 to 03,92,New Generation,1980,57.75,415000,Sep 2021
+517,Bedok Nth Ave 2,01 to 03,92,New Generation,1979,57,401000,Sep 2021
+518,Bedok Nth Ave 2,04 to 06,92,New Generation,1979,57,380000,Sep 2021
+131,Bedok Nth Ave 3,04 to 06,92,New Generation,1978,55.67,430000,Sep 2021
+95,Bedok Nth Ave 4,01 to 03,92,New Generation,1979,56.75,410000,Sep 2021
+79,Bedok Nth Rd,04 to 06,92,New Generation,1978,55.83,418000,Sep 2021
+180,Bedok Nth Rd,01 to 03,85,Model A,2006,83.42,525000,Sep 2021
+181,Bedok Nth Rd,16 to 18,92,Model A,2006,83.33,652000,Sep 2021
+185,Bedok Nth Rd,16 to 18,92,Model A,2005,83.42,640000,Sep 2021
+422,Bedok Nth Rd,07 to 09,92,New Generation,1979,56.42,435000,Sep 2021
+128,Bedok Nth St 2,04 to 06,92,New Generation,1978,55.67,392000,Sep 2021
+528,Bedok Nth St 3,13 to 15,101,New Generation,1979,57.08,383000,Sep 2021
+747B,Bedok Reservoir Cres,10 to 12,87,Dbss,2014,92,720000,Sep 2021
+748C,Bedok Reservoir Cres,01 to 03,87,Dbss,2014,91.92,630000,Sep 2021
+106,Bedok Reservoir Rd,07 to 09,91,New Generation,1985,63,400000,Sep 2021
+106,Bedok Reservoir Rd,10 to 12,91,New Generation,1985,62.92,415000,Sep 2021
+110,Bedok Reservoir Rd,04 to 06,91,New Generation,1985,62.92,395000,Sep 2021
+110,Bedok Reservoir Rd,01 to 03,91,New Generation,1985,62.83,420000,Sep 2021
+124,Bedok Reservoir Rd,01 to 03,84,Simplified,1987,64.67,410000,Sep 2021
+132,Bedok Reservoir Rd,10 to 12,103,Model A,1987,64.5,440000,Sep 2021
+133,Bedok Reservoir Rd,04 to 06,103,Model A,1987,64.42,445000,Sep 2021
+141,Bedok Reservoir Rd,04 to 06,84,Simplified,1986,64.25,405000,Sep 2021
+147,Bedok Reservoir Rd,07 to 09,84,Simplified,1987,64.5,410000,Sep 2021
+601,Bedok Reservoir Rd,04 to 06,98,New Generation,1982,59.75,415000,Sep 2021
+601,Bedok Reservoir Rd,10 to 12,98,New Generation,1982,59.75,425000,Sep 2021
+613B,Bedok Reservoir Rd,04 to 06,102,Model A,1998,75.5,500000,Sep 2021
+623,Bedok Reservoir Rd,10 to 12,91,New Generation,1981,58.58,422000,Sep 2021
+711,Bedok Reservoir Rd,04 to 06,98,New Generation,1980,58.25,410000,Sep 2021
+720,Bedok Reservoir Rd,07 to 09,104,Model A,1984,61.42,478000,Sep 2021
+722,Bedok Reservoir Rd,10 to 12,103,Model A,1984,61.92,505000,Sep 2021
+724,Bedok Reservoir Rd,01 to 03,103,Model A,1984,61.92,412500,Sep 2021
+770,Bedok Reservoir View,01 to 03,105,Premium Apartment,2000,78.33,488000,Sep 2021
+770,Bedok Reservoir View,10 to 12,105,Premium Apartment,2000,78.33,562000,Sep 2021
+772,Bedok Reservoir View,13 to 15,105,Premium Apartment,2000,78.33,550000,Sep 2021
+773,Bedok Reservoir View,19 to 21,105,Premium Apartment,2000,78.33,598000,Sep 2021
+33,Bedok Sth Ave 2,13 to 15,98,New Generation,1978,55.58,395000,Sep 2021
+36,Bedok Sth Ave 2,04 to 06,84,Improved,1977,55.08,380000,Sep 2021
+36,Bedok Sth Ave 2,10 to 12,84,Improved,1977,55.08,385000,Sep 2021
+37,Bedok Sth Ave 2,10 to 12,84,Improved,1977,55.08,365500,Sep 2021
+159,Bedok Sth Ave 3,07 to 09,105,Model A,1985,62.58,500000,Sep 2021
+15,Bedok Sth Rd,04 to 06,88,Improved,1976,53.42,392000,Sep 2021
+10,Chai Chee Rd,04 to 06,90,Model A,2001,78.5,490000,Sep 2021
+807C,Chai Chee Rd,07 to 09,93,Model A,2016,94.17,640000,Sep 2021
+808A,Chai Chee Rd,04 to 06,93,Model A,2016,94.25,592000,Sep 2021
+808A,Chai Chee Rd,04 to 06,93,Model A,2016,94.25,610000,Sep 2021
+650,Jln Tenaga,01 to 03,108,Model A,1996,73.92,480000,Sep 2021
+110,Lengkong Tiga,04 to 06,106,Model A,1989,66.42,655000,Sep 2021
+24,New Upp Changi Rd,07 to 09,98,New Generation,1978,56.08,498000,Sep 2021
+52,New Upp Changi Rd,07 to 09,84,Improved,1977,55.08,402000,Sep 2021
+219D,Bedok Ctrl,04 to 06,94,Model A,2010,87.83,710000,Aug 2021
+220C,Bedok Ctrl,10 to 12,97,Model A,2010,87.83,738000,Aug 2021
+221A,Bedok Ctrl,04 to 06,94,Model A,2010,87.83,706000,Aug 2021
+221A,Bedok Ctrl,10 to 12,94,Model A,2010,87.75,742888,Aug 2021
+508,Bedok Nth Ave 3,13 to 15,92,New Generation,1978,56.25,385000,Aug 2021
+81,Bedok Nth Rd,01 to 03,91,New Generation,1978,55.92,395000,Aug 2021
+181,Bedok Nth Rd,10 to 12,92,Model A,2006,83.5,595000,Aug 2021
+183,Bedok Nth Rd,13 to 15,92,Model A,2005,83.33,620000,Aug 2021
+421,Bedok Nth Rd,10 to 12,92,New Generation,1979,56.42,438000,Aug 2021
+421,Bedok Nth Rd,13 to 15,92,New Generation,1979,56.5,461000,Aug 2021
+422,Bedok Nth Rd,04 to 06,92,New Generation,1979,56.42,430000,Aug 2021
+708,Bedok Nth Rd,07 to 09,91,New Generation,1980,58.33,430000,Aug 2021
+135,Bedok Nth St 2,10 to 12,83,New Generation,1978,55.83,420000,Aug 2021
+545,Bedok Nth St 3,10 to 12,93,New Generation,1980,57.83,398000,Aug 2021
+547,Bedok Nth St 3,07 to 09,92,New Generation,1980,57.83,400000,Aug 2021
+747A,Bedok Reservoir Cres,04 to 06,87,Dbss,2014,92.08,643000,Aug 2021
+747B,Bedok Reservoir Cres,01 to 03,87,Dbss,2014,92.08,663000,Aug 2021
+747B,Bedok Reservoir Cres,13 to 15,85,Dbss,2014,91.92,738000,Aug 2021
+747C,Bedok Reservoir Cres,01 to 03,87,Dbss,2014,91.92,659800,Aug 2021
+132,Bedok Reservoir Rd,10 to 12,84,Simplified,1987,64.58,388000,Aug 2021
+147,Bedok Reservoir Rd,01 to 03,84,Simplified,1987,64.58,380000,Aug 2021
+623,Bedok Reservoir Rd,07 to 09,91,New Generation,1981,58.58,420000,Aug 2021
+623,Bedok Reservoir Rd,10 to 12,91,New Generation,1981,58.67,430000,Aug 2021
+718,Bedok Reservoir Rd,07 to 09,104,Model A,1984,61.5,458888,Aug 2021
+763,Bedok Reservoir View,16 to 18,105,Premium Apartment,2000,78.42,620000,Aug 2021
+766,Bedok Reservoir View,16 to 18,107,Premium Apartment,2000,78.42,585000,Aug 2021
+771,Bedok Reservoir View,16 to 18,107,Premium Apartment,2000,78.33,600000,Aug 2021
+5,Bedok Sth Ave 2,13 to 15,82,Improved,1976,53.5,380000,Aug 2021
+7,Bedok Sth Ave 2,07 to 09,82,Improved,1976,53.42,428000,Aug 2021
+36,Bedok Sth Ave 2,07 to 09,84,Improved,1977,55.08,375000,Aug 2021
+37,Bedok Sth Ave 2,01 to 03,84,Improved,1977,55.17,328000,Aug 2021
+166,Bedok Sth Ave 3,04 to 06,104,Model A,1985,62.67,488000,Aug 2021
+166,Bedok Sth Ave 3,07 to 09,105,Model A,1985,62.67,508888,Aug 2021
+71,Bedok Sth Rd,04 to 06,92,New Generation,1978,55.5,396000,Aug 2021
+164,Bedok Sth Rd,04 to 06,84,Simplified,1986,63.5,432888,Aug 2021
+10,Chai Chee Rd,04 to 06,90,Model A,2001,78.58,512000,Aug 2021
+59,Chai Chee Rd,04 to 06,104,Model A,1984,61.42,478000,Aug 2021
+807A,Chai Chee Rd,01 to 03,93,Model A,2016,94.42,580000,Aug 2021
+807B,Chai Chee Rd,04 to 06,93,Model A,2016,94.25,585000,Aug 2021
+807B,Chai Chee Rd,07 to 09,93,Model A,2016,94.25,640000,Aug 2021
+807C,Chai Chee Rd,04 to 06,93,Model A,2016,94.33,602000,Aug 2021
+808A,Chai Chee Rd,04 to 06,93,Model A,2016,94.25,600000,Aug 2021
+808C,Chai Chee Rd,04 to 06,88,Model A,2016,94.25,585000,Aug 2021
+808C,Chai Chee Rd,04 to 06,93,Model A,2016,94.33,609000,Aug 2021
+45,Chai Chee St,01 to 03,92,New Generation,1980,57.83,401000,Aug 2021
+671,Jln Damai,07 to 09,107,Model A,1996,74,565000,Aug 2021
+650,Jln Tenaga,07 to 09,108,Model A,1996,74.08,505000,Aug 2021
+651,Jln Tenaga,10 to 12,106,Model A,1996,74.17,550000,Aug 2021
+654,Jln Tenaga,01 to 03,108,Model A,1996,74.33,498000,Aug 2021
+655,Jln Tenaga,10 to 12,108,Model A,1996,74.25,512000,Aug 2021
+116,Lengkong Tiga,04 to 06,104,Model A,1989,66.5,660000,Aug 2021
+64,New Upp Changi Rd,07 to 09,92,New Generation,1978,55.75,450000,Aug 2021
+219A,Bedok Ctrl,13 to 15,97,Model A,2010,87.92,720000,Jul 2021
+221B,Bedok Ctrl,04 to 06,94,Model A,2010,87.83,670000,Jul 2021
+408,Bedok Nth Ave 2,10 to 12,92,New Generation,1980,57.83,438000,Jul 2021
+517,Bedok Nth Ave 2,07 to 09,92,New Generation,1979,57.17,418000,Jul 2021
+133,Bedok Nth Ave 3,04 to 06,92,New Generation,1978,55.83,438000,Jul 2021
+133,Bedok Nth Ave 3,10 to 12,92,New Generation,1978,55.83,440000,Jul 2021
+93,Bedok Nth Ave 4,13 to 15,92,New Generation,1979,57,408000,Jul 2021
+78,Bedok Nth Rd,10 to 12,91,New Generation,1978,56,410000,Jul 2021
+79,Bedok Nth Rd,01 to 03,91,New Generation,1978,55.92,385000,Jul 2021
+79,Bedok Nth Rd,07 to 09,92,New Generation,1978,56,420000,Jul 2021
+81,Bedok Nth Rd,07 to 09,92,New Generation,1978,56,391800,Jul 2021
+81,Bedok Nth Rd,10 to 12,91,New Generation,1978,56,402500,Jul 2021
+115,Bedok Nth Rd,07 to 09,98,New Generation,1978,55.83,435000,Jul 2021
+180,Bedok Nth Rd,04 to 06,85,Model A,2006,83.58,580000,Jul 2021
+182,Bedok Nth Rd,13 to 15,85,Model A,2006,83.67,625888,Jul 2021
+183,Bedok Nth Rd,01 to 03,92,Model A,2005,83.42,535000,Jul 2021
+183,Bedok Nth Rd,04 to 06,92,Model A,2005,83.42,575000,Jul 2021
+183,Bedok Nth Rd,13 to 15,92,Model A,2005,83.5,625000,Jul 2021
+705,Bedok Nth Rd,10 to 12,91,New Generation,1980,58.42,465000,Jul 2021
+707,Bedok Nth Rd,10 to 12,91,New Generation,1980,58.42,455000,Jul 2021
+708,Bedok Nth Rd,07 to 09,91,New Generation,1980,58.42,455000,Jul 2021
+130,Bedok Nth St 2,07 to 09,92,New Generation,1978,55.83,415000,Jul 2021
+130,Bedok Nth St 2,10 to 12,92,New Generation,1978,55.83,425500,Jul 2021
+747C,Bedok Reservoir Cres,04 to 06,87,Dbss,2014,92.25,650000,Jul 2021
+125,Bedok Reservoir Rd,10 to 12,84,Simplified,1987,65,410000,Jul 2021
+135,Bedok Reservoir Rd,07 to 09,103,Model A,1987,64.75,445000,Jul 2021
+148,Bedok Reservoir Rd,13 to 15,104,Model A,1987,64.75,500000,Jul 2021
+763,Bedok Reservoir View,07 to 09,105,Premium Apartment,2000,78.42,580000,Jul 2021
+765,Bedok Reservoir View,01 to 03,105,Premium Apartment,2000,78.58,500000,Jul 2021
+765,Bedok Reservoir View,07 to 09,105,Premium Apartment,2000,78.42,580000,Jul 2021
+767,Bedok Reservoir View,10 to 12,105,Premium Apartment,2000,78.5,548000,Jul 2021
+772,Bedok Reservoir View,13 to 15,105,Premium Apartment,2000,78.5,580000,Jul 2021
+774,Bedok Reservoir View,19 to 21,107,Premium Apartment,2000,78.5,618888,Jul 2021
+5,Bedok Sth Ave 2,04 to 06,82,Improved,1976,53.67,358000,Jul 2021
+5,Bedok Sth Ave 2,10 to 12,82,Improved,1976,53.58,386000,Jul 2021
+6,Bedok Sth Ave 2,01 to 03,82,Improved,1976,53.58,335000,Jul 2021
+8,Bedok Sth Ave 2,04 to 06,82,Improved,1976,53.58,345000,Jul 2021
+34,Bedok Sth Ave 2,01 to 03,90,Improved,1977,55.25,355000,Jul 2021
+159,Bedok Sth Ave 3,04 to 06,83,Simplified,1985,62.75,375000,Jul 2021
+166,Bedok Sth Ave 3,10 to 12,83,Simplified,1985,62.75,435000,Jul 2021
+15,Bedok Sth Rd,04 to 06,88,Improved,1976,53.58,360000,Jul 2021
+40,Bedok Sth Rd,07 to 09,92,New Generation,1978,56.25,430000,Jul 2021
+42,Bedok Sth Rd,01 to 03,84,Improved,1977,55.25,361000,Jul 2021
+44,Bedok Sth Rd,10 to 12,84,Improved,1977,55.25,420000,Jul 2021
+163,Bedok Sth Rd,01 to 03,83,Simplified,1985,62.83,405000,Jul 2021
+171,Bedok Sth Rd,07 to 09,84,Simplified,1985,63.5,415000,Jul 2021
+35,Chai Chee Ave,04 to 06,82,Improved,1975,52.58,350000,Jul 2021
+26,Chai Chee Rd,07 to 09,104,Model A,1993,70.83,565000,Jul 2021
+27,Chai Chee Rd,16 to 18,104,Model A,1993,70.92,575000,Jul 2021
+61,Chai Chee Rd,10 to 12,91,New Generation,1982,60.25,410000,Jul 2021
+807A,Chai Chee Rd,10 to 12,93,Model A,2016,94.33,635000,Jul 2021
+807A,Chai Chee Rd,07 to 09,93,Model A,2016,94.33,638000,Jul 2021
+807A,Chai Chee Rd,13 to 15,93,Model A,2016,94.33,650000,Jul 2021
+808A,Chai Chee Rd,04 to 06,93,Model A,2016,94.42,620000,Jul 2021
+808C,Chai Chee Rd,01 to 03,88,Model A,2016,94.42,573888,Jul 2021
+808C,Chai Chee Rd,13 to 15,93,Model A,2016,94.33,660000,Jul 2021
+43,Chai Chee St,10 to 12,92,New Generation,1980,57.92,408000,Jul 2021
+103,Lengkong Tiga,07 to 09,104,Model A,1989,66.58,625000,Jul 2021
+109,Lengkong Tiga,07 to 09,104,Model A,1989,66.58,628000,Jul 2021
+116,Lengkong Tiga,07 to 09,104,Model A,1989,66.67,660000,Jul 2021
+51,New Upp Changi Rd,04 to 06,84,Improved,1977,55.25,355000,Jul 2021
+52,New Upp Changi Rd,01 to 03,84,Improved,1977,55.25,360000,Jul 2021
+53,New Upp Changi Rd,10 to 12,84,Improved,1977,55.17,438000,Jul 2021
+63,New Upp Changi Rd,01 to 03,92,New Generation,1978,55.92,383000,Jul 2021
+64,New Upp Changi Rd,13 to 15,92,New Generation,1978,55.83,430000,Jul 2021
+520,Bedok Nth Ave 1,10 to 12,92,New Generation,1979,57.17,470000,Jun 2021
+411,Bedok Nth Ave 2,04 to 06,92,New Generation,1980,57.92,460000,Jun 2021
+517,Bedok Nth Ave 2,07 to 09,92,New Generation,1979,57.25,400000,Jun 2021
+403,Bedok Nth Ave 3,07 to 09,92,New Generation,1980,57.92,460000,Jun 2021
+404,Bedok Nth Ave 3,04 to 06,92,New Generation,1980,57.83,405000,Jun 2021
+121,Bedok Nth Rd,01 to 03,92,New Generation,1978,55.83,415000,Jun 2021
+180,Bedok Nth Rd,10 to 12,92,Model A,2006,83.67,591000,Jun 2021
+183,Bedok Nth Rd,13 to 15,85,Model A,2005,83.58,540000,Jun 2021
+185,Bedok Nth Rd,01 to 03,92,Model A,2005,83.58,515000,Jun 2021
+185,Bedok Nth Rd,13 to 15,92,Model A,2005,83.58,608000,Jun 2021
+529,Bedok Nth St 3,01 to 03,92,New Generation,1979,57.25,350000,Jun 2021
+547,Bedok Nth St 3,07 to 09,92,New Generation,1980,58,410000,Jun 2021
+748B,Bedok Reservoir Cres,04 to 06,87,Dbss,2014,92.33,640000,Jun 2021
+128,Bedok Reservoir Rd,01 to 03,84,Simplified,1986,64.5,380000,Jun 2021
+131,Bedok Reservoir Rd,01 to 03,83,Simplified,1987,64.67,366000,Jun 2021
+134,Bedok Reservoir Rd,07 to 09,84,Simplified,1987,65,393000,Jun 2021
+141,Bedok Reservoir Rd,13 to 15,84,Simplified,1986,64.5,406000,Jun 2021
+613B,Bedok Reservoir Rd,04 to 06,101,Model A,1998,75.75,490000,Jun 2021
+625,Bedok Reservoir Rd,01 to 03,104,New Generation,1981,58.83,453000,Jun 2021
+715,Bedok Reservoir Rd,04 to 06,98,New Generation,1980,58.5,455000,Jun 2021
+718,Bedok Reservoir Rd,01 to 03,104,Model A,1984,61.67,445000,Jun 2021
+774,Bedok Reservoir View,04 to 06,107,Premium Apartment,2000,78.58,499999,Jun 2021
+22,Bedok Sth Ave 1,01 to 03,98,New Generation,1977,55,425000,Jun 2021
+7,Bedok Sth Ave 2,01 to 03,82,Improved,1976,53.67,385000,Jun 2021
+35,Bedok Sth Ave 2,13 to 15,90,Improved,1977,55.33,365000,Jun 2021
+157,Bedok Sth Ave 3,10 to 12,83,Simplified,1985,62.92,405000,Jun 2021
+169,Bedok Sth Ave 3,13 to 15,105,Model A,1985,62.83,495000,Jun 2021
+40,Bedok Sth Rd,01 to 03,92,New Generation,1978,56.33,400000,Jun 2021
+40,Bedok Sth Rd,10 to 12,92,New Generation,1978,56.33,430000,Jun 2021
+163,Bedok Sth Rd,13 to 15,83,Simplified,1985,63,420000,Jun 2021
+171,Bedok Sth Rd,10 to 12,84,Simplified,1985,63.5,408000,Jun 2021
+56,Chai Chee Dr,04 to 06,91,New Generation,1983,60.67,400000,Jun 2021
+11,Chai Chee Rd,07 to 09,101,Model A,2001,78.75,525000,Jun 2021
+807A,Chai Chee Rd,01 to 03,93,Model A,2016,94.5,568000,Jun 2021
+807A,Chai Chee Rd,13 to 15,93,Model A,2016,94.5,670000,Jun 2021
+808A,Chai Chee Rd,10 to 12,93,Model A,2016,94.5,668000,Jun 2021
+41,Chai Chee St,07 to 09,91,New Generation,1985,63.08,410000,Jun 2021
+51,New Upp Changi Rd,10 to 12,84,Improved,1977,55.33,384000,Jun 2021
+53,New Upp Changi Rd,07 to 09,84,Improved,1977,55.25,430000,Jun 2021
+62,New Upp Changi Rd,04 to 06,92,New Generation,1978,56,438000,Jun 2021
+408,Bedok Nth Ave 2,04 to 06,92,New Generation,1980,58,425000,May 2021
+131,Bedok Nth Ave 3,10 to 12,92,New Generation,1978,56,430000,May 2021
+95,Bedok Nth Ave 4,13 to 15,92,New Generation,1979,57.17,430000,May 2021
+121,Bedok Nth Rd,10 to 12,92,New Generation,1978,55.83,405000,May 2021
+125,Bedok Nth Rd,01 to 03,83,New Generation,1978,56.08,337000,May 2021
+183,Bedok Nth Rd,10 to 12,92,Model A,2005,83.67,608000,May 2021
+421,Bedok Nth Rd,04 to 06,92,New Generation,1979,56.75,438000,May 2021
+427,Bedok Nth Rd,04 to 06,92,New Generation,1979,56.67,400000,May 2021
+118,Bedok Nth St 2,13 to 15,97,New Generation,1978,55.92,452000,May 2021
+122,Bedok Nth St 2,10 to 12,92,New Generation,1978,55.92,425000,May 2021
+127,Bedok Nth St 2,10 to 12,92,New Generation,1978,56.08,415000,May 2021
+128,Bedok Nth St 2,10 to 12,83,New Generation,1978,56.08,380000,May 2021
+532,Bedok Nth St 3,13 to 15,92,New Generation,1980,57.75,400000,May 2021
+543,Bedok Nth St 3,04 to 06,92,New Generation,1980,58.17,385000,May 2021
+747B,Bedok Reservoir Cres,10 to 12,85,Dbss,2014,92.33,695000,May 2021
+747B,Bedok Reservoir Cres,13 to 15,85,Dbss,2014,92.33,695000,May 2021
+747C,Bedok Reservoir Cres,13 to 15,87,Dbss,2014,92.33,760000,May 2021
+748C,Bedok Reservoir Cres,13 to 15,87,Dbss,2014,92.42,690000,May 2021
+106,Bedok Reservoir Rd,04 to 06,91,New Generation,1985,63.33,380000,May 2021
+128,Bedok Reservoir Rd,01 to 03,84,Simplified,1986,64.58,385000,May 2021
+149,Bedok Reservoir Rd,10 to 12,104,Model A,1987,65.08,458000,May 2021
+622,Bedok Reservoir Rd,01 to 03,91,New Generation,1981,58.83,395000,May 2021
+623,Bedok Reservoir Rd,07 to 09,91,New Generation,1981,58.92,415000,May 2021
+626,Bedok Reservoir Rd,07 to 09,91,New Generation,1981,58.92,426000,May 2021
+703,Bedok Reservoir Rd,07 to 09,93,New Generation,1980,58.58,406000,May 2021
+766,Bedok Reservoir View,16 to 18,105,Premium Apartment,2000,78.67,574000,May 2021
+768,Bedok Reservoir View,04 to 06,104,Premium Apartment,2000,78.67,516888,May 2021
+774,Bedok Reservoir View,01 to 03,105,Premium Apartment,2000,78.58,505000,May 2021
+166,Bedok Sth Ave 3,01 to 03,104,Model A,1985,62.92,438000,May 2021
+169,Bedok Sth Ave 3,07 to 09,83,Simplified,1985,62.83,430000,May 2021
+41,Bedok Sth Rd,01 to 03,84,Improved,1977,55.42,330000,May 2021
+43,Bedok Sth Rd,13 to 15,84,Improved,1977,55.42,369000,May 2021
+165,Bedok Sth Rd,01 to 03,83,Simplified,1985,62.83,368000,May 2021
+35,Chai Chee Ave,13 to 15,82,Improved,1975,52.67,410000,May 2021
+55,Chai Chee Dr,07 to 09,104,Model A,1984,62,478000,May 2021
+807A,Chai Chee Rd,13 to 15,93,Model A,2016,94.58,648000,May 2021
+808A,Chai Chee Rd,10 to 12,93,Model A,2016,94.58,623000,May 2021
+808A,Chai Chee Rd,13 to 15,93,Model A,2016,94.5,628888,May 2021
+808A,Chai Chee Rd,07 to 09,93,Model A,2016,94.58,640000,May 2021
+808C,Chai Chee Rd,07 to 09,88,Model A,2016,94.58,624000,May 2021
+50,Chai Chee St,10 to 12,91,New Generation,1981,59.25,390000,May 2021
+659,Jln Tenaga,13 to 15,105,Model A,1996,74.42,518888,May 2021
+110,Lengkong Tiga,04 to 06,106,Model A,1989,66.75,660000,May 2021
+115,Lengkong Tiga,01 to 03,108,Model A,1989,67,630000,May 2021
+53,New Upp Changi Rd,04 to 06,84,Improved,1977,55.42,350000,May 2021
+220A,Bedok Ctrl,01 to 03,97,Model A,2010,88.08,580000,Apr 2021
+221C,Bedok Ctrl,16 to 18,94,Model A,2010,88.08,726000,Apr 2021
+411,Bedok Nth Ave 2,10 to 12,92,New Generation,1980,58,468000,Apr 2021
+513,Bedok Nth Ave 2,04 to 06,92,New Generation,1979,57.25,368800,Apr 2021
+404,Bedok Nth Ave 3,07 to 09,92,New Generation,1980,58.08,418000,Apr 2021
+82,Bedok Nth Rd,07 to 09,92,New Generation,1978,56.17,370000,Apr 2021
+82,Bedok Nth Rd,01 to 03,92,New Generation,1978,56.25,375000,Apr 2021
+82,Bedok Nth Rd,07 to 09,92,New Generation,1978,56.25,382000,Apr 2021
+180,Bedok Nth Rd,04 to 06,85,Model A,2006,83.75,550000,Apr 2021
+183,Bedok Nth Rd,10 to 12,92,Model A,2005,83.75,602888,Apr 2021
+185,Bedok Nth Rd,16 to 18,92,Model A,2005,83.67,610000,Apr 2021
+185,Bedok Nth Rd,10 to 12,92,Model A,2005,83.83,620000,Apr 2021
+706,Bedok Nth Rd,01 to 03,91,New Generation,1980,58.58,390000,Apr 2021
+128,Bedok Nth St 2,04 to 06,83,New Generation,1978,56.17,360000,Apr 2021
+130,Bedok Nth St 2,01 to 03,92,New Generation,1978,56,395000,Apr 2021
+523,Bedok Nth St 3,07 to 09,92,New Generation,1979,57.33,365000,Apr 2021
+536,Bedok Nth St 3,04 to 06,101,New Generation,1980,57.83,383000,Apr 2021
+747B,Bedok Reservoir Cres,04 to 06,85,Dbss,2014,92.42,665000,Apr 2021
+747B,Bedok Reservoir Cres,10 to 12,87,Dbss,2014,92.42,680000,Apr 2021
+748C,Bedok Reservoir Cres,04 to 06,87,Dbss,2014,92.5,655000,Apr 2021
+748C,Bedok Reservoir Cres,10 to 12,87,Dbss,2014,92.42,690000,Apr 2021
+105,Bedok Reservoir Rd,04 to 06,96,New Generation,1985,63.33,384000,Apr 2021
+132,Bedok Reservoir Rd,10 to 12,84,Simplified,1987,64.92,380000,Apr 2021
+148,Bedok Reservoir Rd,04 to 06,84,Simplified,1987,65,408000,Apr 2021
+609,Bedok Reservoir Rd,01 to 03,97,New Generation,1982,60.33,375000,Apr 2021
+619,Bedok Reservoir Rd,07 to 09,103,New Generation,1981,58.92,445000,Apr 2021
+766,Bedok Reservoir View,10 to 12,107,Premium Apartment,2000,78.67,550000,Apr 2021
+767,Bedok Reservoir View,04 to 06,105,Premium Apartment,2000,78.83,512000,Apr 2021
+34,Bedok Sth Ave 2,07 to 09,90,Improved,1977,55.5,340000,Apr 2021
+34,Bedok Sth Ave 2,04 to 06,90,Improved,1977,55.42,350000,Apr 2021
+36,Bedok Sth Ave 2,04 to 06,84,Improved,1977,55.42,350000,Apr 2021
+37,Bedok Sth Ave 2,10 to 12,84,Improved,1977,55.5,367588,Apr 2021
+157,Bedok Sth Ave 3,04 to 06,83,Simplified,1985,63.08,375000,Apr 2021
+169,Bedok Sth Ave 3,07 to 09,104,Model A,1985,62.92,470000,Apr 2021
+169,Bedok Sth Ave 3,10 to 12,104,Model A,1985,63,485000,Apr 2021
+39,Bedok Sth Rd,13 to 15,92,New Generation,1978,56.42,413000,Apr 2021
+42,Bedok Sth Rd,16 to 18,84,Improved,1977,55.42,380000,Apr 2021
+170,Bedok Sth Rd,04 to 06,84,Simplified,1986,63.83,380000,Apr 2021
+35,Chai Chee Ave,04 to 06,82,Improved,1975,52.83,375000,Apr 2021
+55,Chai Chee Dr,01 to 03,105,Model A,1984,62,428000,Apr 2021
+807A,Chai Chee Rd,01 to 03,93,Model A,2016,94.58,585000,Apr 2021
+807A,Chai Chee Rd,10 to 12,93,Model A,2016,94.58,610000,Apr 2021
+807A,Chai Chee Rd,07 to 09,93,Model A,2016,94.67,615000,Apr 2021
+807A,Chai Chee Rd,07 to 09,93,Model A,2016,94.58,633000,Apr 2021
+807C,Chai Chee Rd,13 to 15,93,Model A,2016,94.58,642000,Apr 2021
+808A,Chai Chee Rd,04 to 06,93,Model A,2016,94.67,605000,Apr 2021
+808A,Chai Chee Rd,10 to 12,93,Model A,2016,94.58,635000,Apr 2021
+808B,Chai Chee Rd,10 to 12,93,Model A,2016,94.58,630000,Apr 2021
+808C,Chai Chee Rd,07 to 09,88,Model A,2016,94.67,580000,Apr 2021
+808C,Chai Chee Rd,07 to 09,93,Model A,2016,94.67,625000,Apr 2021
+808C,Chai Chee Rd,10 to 12,93,Model A,2016,94.58,648000,Apr 2021
+51,Chai Chee St,07 to 09,98,New Generation,1981,59.25,410000,Apr 2021
+660,Jln Tenaga,04 to 06,107,Model A,1997,74.75,465000,Apr 2021
+103,Lengkong Tiga,07 to 09,104,Model A,1989,66.83,630000,Apr 2021
+63,New Upp Changi Rd,01 to 03,92,New Generation,1978,56.08,386888,Apr 2021
+65,New Upp Changi Rd,07 to 09,92,New Generation,1978,56.17,430000,Apr 2021
+219B,Bedok Ctrl,01 to 03,87,Model A,2010,88.25,628000,Mar 2021
+219C,Bedok Ctrl,04 to 06,97,Model A,2010,88.17,570000,Mar 2021
+220B,Bedok Ctrl,01 to 03,94,Model A,2010,88.17,655000,Mar 2021
+221B,Bedok Ctrl,07 to 09,94,Model A,2010,88.17,710000,Mar 2021
+522,Bedok Nth Ave 1,07 to 09,92,New Generation,1979,57.5,405000,Mar 2021
+408,Bedok Nth Ave 2,10 to 12,92,New Generation,1980,58.17,425000,Mar 2021
+131,Bedok Nth Ave 3,10 to 12,92,New Generation,1978,56.08,435000,Mar 2021
+133,Bedok Nth Ave 3,13 to 15,92,New Generation,1978,56.08,452000,Mar 2021
+401,Bedok Nth Ave 3,07 to 09,92,New Generation,1979,57.25,400000,Mar 2021
+95,Bedok Nth Ave 4,07 to 09,92,New Generation,1979,57.33,368000,Mar 2021
+104,Bedok Nth Ave 4,04 to 06,91,New Generation,1977,55.33,380000,Mar 2021
+79,Bedok Nth Rd,01 to 03,91,New Generation,1978,56.33,355000,Mar 2021
+80,Bedok Nth Rd,07 to 09,91,New Generation,1978,56.25,365000,Mar 2021
+180,Bedok Nth Rd,01 to 03,85,Model A,2006,83.92,525000,Mar 2021
+180,Bedok Nth Rd,13 to 15,92,Model A,2006,83.83,624000,Mar 2021
+182,Bedok Nth Rd,10 to 12,92,Model A,2006,83.92,582500,Mar 2021
+182,Bedok Nth Rd,13 to 15,85,Model A,2006,83.92,595000,Mar 2021
+183,Bedok Nth Rd,16 to 18,85,Model A,2005,83.75,625000,Mar 2021
+185,Bedok Nth Rd,04 to 06,92,Model A,2005,83.75,588000,Mar 2021
+185,Bedok Nth Rd,19 to 21,92,Model A,2005,83.75,660000,Mar 2021
+708,Bedok Nth Rd,07 to 09,91,New Generation,1980,58.75,455000,Mar 2021
+126,Bedok Nth St 2,07 to 09,92,New Generation,1978,56.17,363000,Mar 2021
+747B,Bedok Reservoir Cres,07 to 09,86,Dbss,2014,92.5,680000,Mar 2021
+747C,Bedok Reservoir Cres,01 to 03,87,Dbss,2014,92.5,608000,Mar 2021
+748B,Bedok Reservoir Cres,01 to 03,87,Dbss,2014,92.5,598000,Mar 2021
+748B,Bedok Reservoir Cres,10 to 12,87,Dbss,2014,92.5,630000,Mar 2021
+748C,Bedok Reservoir Cres,07 to 09,87,Dbss,2014,92.5,650000,Mar 2021
+103,Bedok Reservoir Rd,10 to 12,91,New Generation,1985,63.33,385000,Mar 2021
+110,Bedok Reservoir Rd,04 to 06,91,New Generation,1985,63.33,378000,Mar 2021
+113,Bedok Reservoir Rd,01 to 03,95,New Generation,1985,63.33,390000,Mar 2021
+123,Bedok Reservoir Rd,01 to 03,103,Model A,1987,65.67,405100,Mar 2021
+126,Bedok Reservoir Rd,01 to 03,104,Model A,1987,65.08,420000,Mar 2021
+140,Bedok Reservoir Rd,10 to 12,84,Simplified,1986,64.58,388000,Mar 2021
+701,Bedok Reservoir Rd,10 to 12,93,New Generation,1980,58.75,385000,Mar 2021
+724,Bedok Reservoir Rd,04 to 06,103,Model A,1984,62.33,425000,Mar 2021
+761,Bedok Reservoir View,04 to 06,105,Premium Apartment,2000,78.83,528000,Mar 2021
+767,Bedok Reservoir View,16 to 18,107,Premium Apartment,2000,78.83,560000,Mar 2021
+769,Bedok Reservoir View,04 to 06,105,Premium Apartment,2000,78.75,475000,Mar 2021
+774,Bedok Reservoir View,13 to 15,105,Premium Apartment,2000,78.83,555000,Mar 2021
+774,Bedok Reservoir View,16 to 18,105,Premium Apartment,2000,78.75,570000,Mar 2021
+5,Bedok Sth Ave 2,01 to 03,82,Improved,1976,53.92,340000,Mar 2021
+35,Bedok Sth Ave 2,13 to 15,90,Improved,1977,55.5,343888,Mar 2021
+170,Bedok Sth Rd,04 to 06,103,Model A,1986,63.83,435000,Mar 2021
+10,Chai Chee Rd,01 to 03,96,Model A,2001,79,480000,Mar 2021
+11,Chai Chee Rd,04 to 06,101,Model A,2001,79,510000,Mar 2021
+807A,Chai Chee Rd,01 to 03,93,Model A,2016,94.67,572000,Mar 2021
+807A,Chai Chee Rd,10 to 12,93,Model A,2016,94.67,635000,Mar 2021
+807B,Chai Chee Rd,04 to 06,93,Model A,2016,94.67,575000,Mar 2021
+807B,Chai Chee Rd,07 to 09,93,Model A,2016,94.75,642000,Mar 2021
+807B,Chai Chee Rd,07 to 09,93,Model A,2016,94.67,650000,Mar 2021
+807C,Chai Chee Rd,04 to 06,93,Model A,2016,94.83,635000,Mar 2021
+808A,Chai Chee Rd,13 to 15,93,Model A,2016,94.75,620000,Mar 2021
+42,Chai Chee St,13 to 15,92,New Generation,1985,63.42,428000,Mar 2021
+221C,Bedok Ctrl,01 to 03,94,Model A,2010,88.33,668000,Feb 2021
+411,Bedok Nth Ave 2,04 to 06,92,New Generation,1980,58.25,405000,Feb 2021
+518,Bedok Nth Ave 2,04 to 06,92,New Generation,1979,57.58,373000,Feb 2021
+133,Bedok Nth Ave 3,04 to 06,92,New Generation,1978,56.25,420000,Feb 2021
+403,Bedok Nth Ave 3,10 to 12,92,New Generation,1980,58.17,446000,Feb 2021
+93,Bedok Nth Ave 4,10 to 12,92,New Generation,1979,57.33,393000,Feb 2021
+81,Bedok Nth Rd,01 to 03,91,New Generation,1978,56.42,356000,Feb 2021
+180,Bedok Nth Rd,07 to 09,85,Model A,2006,84,570000,Feb 2021
+182,Bedok Nth Rd,19 to 21,92,Model A,2006,84.17,608888,Feb 2021
+428,Bedok Nth Rd,07 to 09,92,New Generation,1979,56.92,410000,Feb 2021
+130,Bedok Nth St 2,01 to 03,92,New Generation,1978,56.25,375000,Feb 2021
+523,Bedok Nth St 3,13 to 15,92,New Generation,1979,57.42,380000,Feb 2021
+524,Bedok Nth St 3,01 to 03,92,New Generation,1979,57.5,340000,Feb 2021
+524,Bedok Nth St 3,13 to 15,92,New Generation,1979,57.5,380888,Feb 2021
+748B,Bedok Reservoir Cres,04 to 06,87,Dbss,2014,92.58,650000,Feb 2021
+106,Bedok Reservoir Rd,01 to 03,93,New Generation,1985,63.58,367000,Feb 2021
+124,Bedok Reservoir Rd,04 to 06,84,Simplified,1987,65.17,358888,Feb 2021
+621,Bedok Reservoir Rd,10 to 12,98,New Generation,1983,61,433000,Feb 2021
+627,Bedok Reservoir Rd,10 to 12,91,New Generation,1981,59.08,412500,Feb 2021
+713,Bedok Reservoir Rd,07 to 09,92,New Generation,1981,59.42,430000,Feb 2021
+714,Bedok Reservoir Rd,10 to 12,98,New Generation,1980,58.75,425000,Feb 2021
+770,Bedok Reservoir View,07 to 09,105,Premium Apartment,2000,78.92,505000,Feb 2021
+773,Bedok Reservoir View,07 to 09,105,Premium Apartment,2000,78.92,492000,Feb 2021
+34,Bedok Sth Ave 2,01 to 03,90,Improved,1977,55.67,345000,Feb 2021
+34,Bedok Sth Ave 2,04 to 06,90,Improved,1977,55.67,360000,Feb 2021
+159,Bedok Sth Ave 3,01 to 03,83,Simplified,1985,63.08,385000,Feb 2021
+165,Bedok Sth Rd,07 to 09,83,Simplified,1985,63.08,400000,Feb 2021
+807C,Chai Chee Rd,10 to 12,93,Model A,2016,94.75,630000,Feb 2021
+808B,Chai Chee Rd,04 to 06,93,Model A,2016,94.83,600888,Feb 2021
+808C,Chai Chee Rd,01 to 03,93,Model A,2016,94.75,576000,Feb 2021
+666,Jln Damai,10 to 12,104,Model A,1996,74.83,488000,Feb 2021
+115,Lengkong Tiga,04 to 06,106,Model A,1989,67.33,650000,Feb 2021
+51,New Upp Changi Rd,07 to 09,84,Improved,1977,55.58,355000,Feb 2021
+219B,Bedok Ctrl,01 to 03,97,Model A,2010,88.42,618000,Jan 2021
+219B,Bedok Ctrl,04 to 06,87,Model A,2010,88.33,668000,Jan 2021
+220B,Bedok Ctrl,04 to 06,97,Model A,2010,88.42,670000,Jan 2021
+221A,Bedok Ctrl,04 to 06,94,Model A,2010,88.42,588000,Jan 2021
+221A,Bedok Ctrl,13 to 15,97,Model A,2010,88.42,700000,Jan 2021
+424,Bedok Nth Ave 1,01 to 03,91,New Generation,1979,57.08,380000,Jan 2021
+512,Bedok Nth Ave 2,01 to 03,92,New Generation,1979,57.5,340000,Jan 2021
+131,Bedok Nth Ave 3,10 to 12,92,New Generation,1978,56.33,428000,Jan 2021
+131,Bedok Nth Ave 3,13 to 15,92,New Generation,1978,56.33,455000,Jan 2021
+403,Bedok Nth Ave 3,10 to 12,92,New Generation,1980,58.33,410000,Jan 2021
+93,Bedok Nth Ave 4,07 to 09,92,New Generation,1979,57.5,360000,Jan 2021
+95,Bedok Nth Ave 4,04 to 06,92,New Generation,1979,57.5,340000,Jan 2021
+183,Bedok Nth Rd,01 to 03,92,Model A,2005,84,530000,Jan 2021
+183,Bedok Nth Rd,07 to 09,92,Model A,2005,83.92,560000,Jan 2021
+422,Bedok Nth Rd,04 to 06,92,New Generation,1979,57.08,418888,Jan 2021
+130,Bedok Nth St 2,10 to 12,92,New Generation,1978,56.42,440000,Jan 2021
+547,Bedok Nth St 3,01 to 03,92,New Generation,1980,58.5,355000,Jan 2021
+547,Bedok Nth St 3,10 to 12,92,New Generation,1980,58.33,389500,Jan 2021
+747C,Bedok Reservoir Cres,04 to 06,87,Dbss,2014,92.67,650000,Jan 2021
+748A,Bedok Reservoir Cres,10 to 12,87,Dbss,2014,92.75,680000,Jan 2021
+108,Bedok Reservoir Rd,10 to 12,91,New Generation,1985,63.75,385000,Jan 2021
+122,Bedok Reservoir Rd,07 to 09,84,Simplified,1987,65.5,360000,Jan 2021
+125,Bedok Reservoir Rd,07 to 09,84,Simplified,1987,65.5,368888,Jan 2021
+125,Bedok Reservoir Rd,01 to 03,103,Model A,1987,65.58,394000,Jan 2021
+125,Bedok Reservoir Rd,10 to 12,84,Simplified,1987,65.58,410000,Jan 2021
+128,Bedok Reservoir Rd,04 to 06,84,Simplified,1986,64.92,375000,Jan 2021
+131,Bedok Reservoir Rd,01 to 03,83,Simplified,1987,65.08,375000,Jan 2021
+143,Bedok Reservoir Rd,01 to 03,104,Model A,1987,65.08,410000,Jan 2021
+627,Bedok Reservoir Rd,07 to 09,91,New Generation,1981,59.17,395000,Jan 2021
+712,Bedok Reservoir Rd,10 to 12,93,New Generation,1981,59.58,410000,Jan 2021
+713,Bedok Reservoir Rd,04 to 06,104,New Generation,1981,59.58,415000,Jan 2021
+718,Bedok Reservoir Rd,04 to 06,104,Model A,1984,62.08,420000,Jan 2021
+763,Bedok Reservoir View,16 to 18,105,Premium Apartment,2000,79,560500,Jan 2021
+765,Bedok Reservoir View,07 to 09,105,Premium Apartment,2000,79,523000,Jan 2021
+766,Bedok Reservoir View,10 to 12,105,Premium Apartment,2000,79,558000,Jan 2021
+769,Bedok Reservoir View,07 to 09,105,Premium Apartment,2000,79,505000,Jan 2021
+769,Bedok Reservoir View,04 to 06,105,Premium Apartment,2000,78.92,517000,Jan 2021
+774,Bedok Reservoir View,07 to 09,105,Premium Apartment,2000,79,555000,Jan 2021
+36,Bedok Sth Ave 2,04 to 06,84,Improved,1977,55.67,328000,Jan 2021
+37,Bedok Sth Ave 2,04 to 06,84,Improved,1977,55.75,340000,Jan 2021
+37,Bedok Sth Ave 2,13 to 15,84,Improved,1977,55.67,350000,Jan 2021
+157,Bedok Sth Ave 3,07 to 09,105,Model A,1985,63.33,480000,Jan 2021
+169,Bedok Sth Ave 3,07 to 09,104,Model A,1985,63.25,470000,Jan 2021
+163,Bedok Sth Rd,10 to 12,83,Simplified,1985,63.42,410000,Jan 2021
+165,Bedok Sth Rd,10 to 12,105,Model A,1985,63.17,530000,Jan 2021
+10,Chai Chee Rd,04 to 06,90,Model A,2001,79.17,500000,Jan 2021
+807B,Chai Chee Rd,13 to 15,93,Model A,2016,94.92,655000,Jan 2021
+808A,Chai Chee Rd,13 to 15,93,Model A,2016,94.92,685000,Jan 2021
+808B,Chai Chee Rd,07 to 09,93,Model A,2016,94.92,624000,Jan 2021
+808B,Chai Chee Rd,13 to 15,93,Model A,2016,94.92,640000,Jan 2021
+808C,Chai Chee Rd,04 to 06,88,Model A,2016,94.92,585000,Jan 2021
+808C,Chai Chee Rd,04 to 06,88,Model A,2016,94.92,600000,Jan 2021
+808C,Chai Chee Rd,10 to 12,93,Model A,2016,94.92,654000,Jan 2021
+808C,Chai Chee Rd,10 to 12,93,Model A,2016,94.92,660000,Jan 2021
+43,Chai Chee St,04 to 06,92,New Generation,1980,58.42,350000,Jan 2021
+43,Chai Chee St,01 to 03,92,New Generation,1980,58.42,380000,Jan 2021
+43,Chai Chee St,04 to 06,92,New Generation,1980,58.42,385000,Jan 2021
+45,Chai Chee St,07 to 09,92,New Generation,1980,58.33,380000,Jan 2021
+50,Chai Chee St,07 to 09,94,New Generation,1981,59.58,376000,Jan 2021
+51,Chai Chee St,04 to 06,98,New Generation,1981,59.5,372000,Jan 2021
+51,New Upp Changi Rd,10 to 12,84,Improved,1977,55.67,376000,Jan 2021
+64,New Upp Changi Rd,10 to 12,92,New Generation,1978,56.42,418000,Jan 2021
+219C,Bedok Ctrl,07 to 09,97,Model A,2010,88.5,650000,Dec 2020
+220B,Bedok Ctrl,13 to 15,97,Model A,2010,88.42,730000,Dec 2020
+221B,Bedok Ctrl,07 to 09,97,Model A,2010,88.5,696000,Dec 2020
+131,Bedok Nth Ave 3,01 to 03,92,New Generation,1978,56.42,388000,Dec 2020
+402,Bedok Nth Ave 3,07 to 09,92,New Generation,1979,57.5,416500,Dec 2020
+403,Bedok Nth Ave 3,04 to 06,92,New Generation,1980,58.42,405000,Dec 2020
+404,Bedok Nth Ave 3,07 to 09,92,New Generation,1980,58.42,418000,Dec 2020
+95,Bedok Nth Ave 4,04 to 06,92,New Generation,1979,57.58,340000,Dec 2020
+104,Bedok Nth Ave 4,10 to 12,91,New Generation,1977,55.58,362000,Dec 2020
+80,Bedok Nth Rd,07 to 09,91,New Generation,1978,56.5,365000,Dec 2020
+82,Bedok Nth Rd,07 to 09,92,New Generation,1978,56.58,380000,Dec 2020
+108,Bedok Nth Rd,01 to 03,91,New Generation,1977,55.67,340000,Dec 2020
+121,Bedok Nth Rd,04 to 06,92,New Generation,1978,56.25,360000,Dec 2020
+180,Bedok Nth Rd,01 to 03,92,Model A,2006,84.25,500000,Dec 2020
+185,Bedok Nth Rd,13 to 15,92,Model A,2005,84.08,605000,Dec 2020
+422,Bedok Nth Rd,07 to 09,92,New Generation,1979,57.17,430000,Dec 2020
+428,Bedok Nth Rd,04 to 06,92,New Generation,1979,57.17,375000,Dec 2020
+428,Bedok Nth Rd,07 to 09,92,New Generation,1979,57.08,410000,Dec 2020
+705,Bedok Nth Rd,07 to 09,92,New Generation,1980,59,435000,Dec 2020
+747B,Bedok Reservoir Cres,07 to 09,86,Dbss,2014,92.75,680000,Dec 2020
+748A,Bedok Reservoir Cres,04 to 06,87,Dbss,2014,92.75,635000,Dec 2020
+124,Bedok Reservoir Rd,04 to 06,84,Simplified,1987,65.42,355000,Dec 2020
+125,Bedok Reservoir Rd,07 to 09,84,Simplified,1987,65.67,380000,Dec 2020
+133,Bedok Reservoir Rd,04 to 06,103,Model A,1987,65.17,420000,Dec 2020
+140,Bedok Reservoir Rd,10 to 12,84,Simplified,1986,64.75,380000,Dec 2020
+149,Bedok Reservoir Rd,07 to 09,84,Simplified,1987,65.5,375000,Dec 2020
+611,Bedok Reservoir Rd,04 to 06,99,New Generation,1993,71.5,388000,Dec 2020
+623,Bedok Reservoir Rd,01 to 03,91,New Generation,1981,59.25,390000,Dec 2020
+712,Bedok Reservoir Rd,10 to 12,93,New Generation,1981,59.58,408000,Dec 2020
+33,Bedok Sth Ave 2,10 to 12,98,New Generation,1978,56.33,425000,Dec 2020
+69,Bedok Sth Ave 3,07 to 09,92,New Generation,1978,56.25,395000,Dec 2020
+169,Bedok Sth Ave 3,10 to 12,83,Simplified,1985,63.25,405000,Dec 2020
+15,Bedok Sth Rd,13 to 15,88,Improved,1976,54.17,390000,Dec 2020
+41,Bedok Sth Rd,01 to 03,84,Improved,1977,55.83,320500,Dec 2020
+25,Chai Chee Rd,13 to 15,104,Model A,1993,71.42,580000,Dec 2020
+807A,Chai Chee Rd,13 to 15,93,Model A,2016,95,638000,Dec 2020
+807A,Chai Chee Rd,10 to 12,93,Model A,2016,95,650000,Dec 2020
+807B,Chai Chee Rd,10 to 12,93,Model A,2016,95,603000,Dec 2020
+807C,Chai Chee Rd,10 to 12,93,Model A,2016,95,620000,Dec 2020
+807C,Chai Chee Rd,13 to 15,93,Model A,2016,95,630000,Dec 2020
+808A,Chai Chee Rd,04 to 06,93,Model A,2016,95,598000,Dec 2020
+808C,Chai Chee Rd,07 to 09,93,Model A,2016,95,620000,Dec 2020
+808C,Chai Chee Rd,10 to 12,93,Model A,2016,95,625000,Dec 2020
+672,Jln Damai,01 to 03,108,Model A,1996,74.58,460000,Dec 2020
+657,Jln Tenaga,04 to 06,107,Model A,1996,74.67,530000,Dec 2020
+111,Lengkong Tiga,10 to 12,104,Model A,1989,67.25,650000,Dec 2020
+115,Lengkong Tiga,01 to 03,104,Model A,1989,67.42,639000,Dec 2020
+220B,Bedok Ctrl,07 to 09,94,Model A,2010,88.58,685000,Nov 2020
+423,Bedok Nth Ave 1,04 to 06,91,New Generation,1979,57.25,385000,Nov 2020
+404,Bedok Nth Ave 3,07 to 09,92,New Generation,1980,58.5,405000,Nov 2020
+508,Bedok Nth Ave 3,07 to 09,92,New Generation,1978,57.08,358000,Nov 2020
+115,Bedok Nth Rd,01 to 03,98,New Generation,1978,56.58,380000,Nov 2020
+181,Bedok Nth Rd,13 to 15,92,Model A,2006,84.25,575000,Nov 2020
+183,Bedok Nth Rd,07 to 09,92,Model A,2005,84.17,590000,Nov 2020
+183,Bedok Nth Rd,16 to 18,92,Model A,2005,84.08,612000,Nov 2020
+428,Bedok Nth Rd,04 to 06,92,New Generation,1979,57.25,383000,Nov 2020
+428,Bedok Nth Rd,10 to 12,92,New Generation,1979,57.17,400000,Nov 2020
+524,Bedok Nth St 3,04 to 06,92,New Generation,1979,57.75,345000,Nov 2020
+524,Bedok Nth St 3,04 to 06,92,New Generation,1979,57.75,350000,Nov 2020
+543,Bedok Nth St 3,07 to 09,95,New Generation,1980,58.67,360000,Nov 2020
+87,Bedok Nth St 4,04 to 06,89,New Generation,1978,56.5,350000,Nov 2020
+748B,Bedok Reservoir Cres,07 to 09,87,Dbss,2014,92.83,640000,Nov 2020
+748B,Bedok Reservoir Cres,13 to 15,87,Dbss,2014,92.92,655000,Nov 2020
+106,Bedok Reservoir Rd,04 to 06,91,New Generation,1985,63.83,368000,Nov 2020
+108,Bedok Reservoir Rd,01 to 03,91,New Generation,1985,63.75,370000,Nov 2020
+136,Bedok Reservoir Rd,04 to 06,88,Simplified,1988,66.5,440000,Nov 2020
+147,Bedok Reservoir Rd,04 to 06,84,Simplified,1987,65.33,347000,Nov 2020
+148,Bedok Reservoir Rd,01 to 03,84,Simplified,1987,65.42,343000,Nov 2020
+701,Bedok Reservoir Rd,10 to 12,93,New Generation,1980,59.08,430000,Nov 2020
+703,Bedok Reservoir Rd,07 to 09,93,New Generation,1980,59.08,405000,Nov 2020
+774,Bedok Reservoir View,16 to 18,105,Premium Apartment,2000,79.08,555000,Nov 2020
+7,Bedok Sth Ave 2,13 to 15,82,Improved,1976,54.25,348000,Nov 2020
+36,Bedok Sth Ave 2,10 to 12,84,Improved,1977,55.92,360000,Nov 2020
+166,Bedok Sth Ave 3,10 to 12,83,Simplified,1985,63.42,420000,Nov 2020
+169,Bedok Sth Ave 3,01 to 03,105,Model A,1985,63.42,460000,Nov 2020
+163,Bedok Sth Rd,10 to 12,83,Simplified,1985,63.58,376000,Nov 2020
+165,Bedok Sth Rd,10 to 12,83,Simplified,1985,63.25,410000,Nov 2020
+170,Bedok Sth Rd,07 to 09,84,Simplified,1986,64.25,390000,Nov 2020
+807A,Chai Chee Rd,04 to 06,93,Model A,2016,95.08,615000,Nov 2020
+808A,Chai Chee Rd,10 to 12,93,Model A,2016,95.08,635000,Nov 2020
+808C,Chai Chee Rd,07 to 09,93,Model A,2016,95,628000,Nov 2020
+41,Chai Chee St,13 to 15,91,New Generation,1985,63.58,418000,Nov 2020
+651,Jln Tenaga,10 to 12,108,Model A,1996,75,490000,Nov 2020
+658,Jln Tenaga,07 to 09,106,Model A,1996,75,460000,Nov 2020
+115,Lengkong Tiga,01 to 03,106,Model A,1989,67.58,590000,Nov 2020
+52,New Upp Changi Rd,04 to 06,84,Improved,1977,55.92,349000,Nov 2020
+53,New Upp Changi Rd,13 to 15,84,Improved,1977,55.92,415000,Nov 2020
+62,New Upp Changi Rd,16 to 18,92,New Generation,1978,56.58,420000,Nov 2020
+65,New Upp Changi Rd,01 to 03,92,New Generation,1978,56.5,370000,Nov 2020
+131,Bedok Nth Ave 3,07 to 09,92,New Generation,1978,55.5,477500,Nov 2021
+185,Bedok Nth Rd,19 to 21,92,Model A,2005,83.17,628888,Nov 2021
+132,Bedok Nth St 2,13 to 15,92,New Generation,1978,55.5,490000,Nov 2021
+524,Bedok Nth St 3,04 to 06,92,New Generation,1979,56.75,380000,Nov 2021
+125,Bedok Reservoir Rd,01 to 03,84,Simplified,1987,64.75,468000,Nov 2021
+608,Bedok Reservoir Rd,04 to 06,94,New Generation,1982,59.75,405000,Nov 2021
+628,Bedok Reservoir Rd,10 to 12,95,New Generation,1983,60.25,505000,Nov 2021
+702,Bedok Reservoir Rd,01 to 03,93,New Generation,1980,58.08,415000,Nov 2021
+769,Bedok Reservoir View,04 to 06,105,Premium Apartment,2000,78.17,520000,Nov 2021
+15,Bedok Sth Rd,07 to 09,88,Improved,1976,53.25,410000,Nov 2021
+15,Bedok Sth Rd,10 to 12,88,Improved,1976,53.25,425000,Nov 2021
+50,Chai Chee St,04 to 06,91,New Generation,1981,58.75,392500,Nov 2021
+54,Chai Chee St,10 to 12,100,New Generation,1981,58.58,435000,Nov 2021
+102,Lengkong Tiga,10 to 12,104,Model A,1989,66.83,625000,Nov 2021
+220B,Bedok Ctrl,16 to 18,97,Model A,2010,87.67,791000,Oct 2021
+221B,Bedok Ctrl,13 to 15,94,Model A,2010,87.67,735000,Oct 2021
+423,Bedok Nth Ave 1,04 to 06,91,New Generation,1979,56.33,405000,Oct 2021
+513,Bedok Nth Ave 2,01 to 03,92,New Generation,1979,56.83,393000,Oct 2021
+131,Bedok Nth Ave 3,10 to 12,92,New Generation,1978,55.58,460000,Oct 2021
+105,Bedok Nth Ave 4,10 to 12,91,New Generation,1977,54.83,420000,Oct 2021
+78,Bedok Nth Rd,10 to 12,91,New Generation,1978,55.67,450888,Oct 2021
+79,Bedok Nth Rd,13 to 15,91,New Generation,1978,55.75,425000,Oct 2021
+125,Bedok Nth Rd,04 to 06,83,New Generation,1978,55.58,383000,Oct 2021
+180,Bedok Nth Rd,01 to 03,92,Model A,2006,83.25,530000,Oct 2021
+180,Bedok Nth Rd,10 to 12,92,Model A,2006,83.33,645000,Oct 2021
+181,Bedok Nth Rd,04 to 06,92,Model A,2006,83.33,535000,Oct 2021
+185,Bedok Nth Rd,10 to 12,92,Model A,2005,83.25,610000,Oct 2021
+427,Bedok Nth Rd,04 to 06,92,New Generation,1979,56.33,408000,Oct 2021
+706,Bedok Nth Rd,04 to 06,91,New Generation,1980,58.08,431889,Oct 2021
+526,Bedok Nth St 3,07 to 09,92,New Generation,1979,56.83,418000,Oct 2021
+532,Bedok Nth St 3,04 to 06,92,New Generation,1980,57.33,388000,Oct 2021
+536,Bedok Nth St 3,04 to 06,95,New Generation,1980,57.25,390000,Oct 2021
+101,Bedok Reservoir Rd,04 to 06,98,New Generation,1985,62.83,400000,Oct 2021
+709,Bedok Reservoir Rd,04 to 06,102,New Generation,1981,58.83,500000,Oct 2021
+718,Bedok Reservoir Rd,04 to 06,104,Model A,1984,61.33,445000,Oct 2021
+718,Bedok Reservoir Rd,10 to 12,104,Model A,1984,61.33,460000,Oct 2021
+761,Bedok Reservoir View,07 to 09,105,Premium Apartment,2000,78.25,600000,Oct 2021
+769,Bedok Reservoir View,07 to 09,105,Premium Apartment,2000,78.25,570000,Oct 2021
+771,Bedok Reservoir View,10 to 12,105,Premium Apartment,2000,78.25,562000,Oct 2021
+773,Bedok Reservoir View,04 to 06,107,Premium Apartment,2000,78.25,526000,Oct 2021
+35,Bedok Sth Ave 2,10 to 12,90,Improved,1977,55,396888,Oct 2021
+15,Bedok Sth Rd,01 to 03,88,Improved,1976,53.25,395000,Oct 2021
+41,Bedok Sth Rd,07 to 09,84,Improved,1977,54.92,395000,Oct 2021
+42,Bedok Sth Rd,07 to 09,84,Improved,1977,55,380000,Oct 2021
+43,Bedok Sth Rd,13 to 15,84,Improved,1977,55,388000,Oct 2021
+71,Bedok Sth Rd,10 to 12,92,New Generation,1978,55.25,455000,Oct 2021
+164,Bedok Sth Rd,07 to 09,84,Simplified,1986,63.42,460000,Oct 2021
+56,Chai Chee Dr,04 to 06,91,New Generation,1983,60.33,372000,Oct 2021
+26,Chai Chee Rd,13 to 15,104,Model A,1993,70.67,584000,Oct 2021
+807A,Chai Chee Rd,13 to 15,93,Model A,2016,94.08,668888,Oct 2021
+807A,Chai Chee Rd,13 to 15,93,Model A,2016,94.17,670000,Oct 2021
+808A,Chai Chee Rd,13 to 15,93,Model A,2016,94.17,660000,Oct 2021
+808A,Chai Chee Rd,10 to 12,93,Model A,2016,94.17,660000,Oct 2021
+808B,Chai Chee Rd,10 to 12,93,Model A,2016,94.17,632000,Oct 2021
+808C,Chai Chee Rd,04 to 06,88,Model A,2016,94.17,620000,Oct 2021
+650,Jln Tenaga,07 to 09,108,Model A,1996,73.83,510000,Oct 2021
+651,Jln Tenaga,10 to 12,108,Model A,1996,74.08,570000,Oct 2021
+655,Jln Tenaga,07 to 09,108,Model A,1996,74.17,520000,Oct 2021
+656,Jln Tenaga,07 to 09,104,Model A,1996,74.17,572000,Oct 2021
+219A,Bedok Ctrl,01 to 03,97,Model A,2010,87.75,660000,Sep 2021
+220C,Bedok Ctrl,07 to 09,87,Model A,2010,87.67,650000,Sep 2021
+221A,Bedok Ctrl,10 to 12,94,Model A,2010,87.75,741000,Sep 2021
+221B,Bedok Ctrl,13 to 15,94,Model A,2010,87.75,730000,Sep 2021
+408,Bedok Nth Ave 2,01 to 03,92,New Generation,1980,57.75,415000,Sep 2021
+517,Bedok Nth Ave 2,01 to 03,92,New Generation,1979,57,401000,Sep 2021
+518,Bedok Nth Ave 2,04 to 06,92,New Generation,1979,57,380000,Sep 2021
+131,Bedok Nth Ave 3,04 to 06,92,New Generation,1978,55.67,430000,Sep 2021
+95,Bedok Nth Ave 4,01 to 03,92,New Generation,1979,56.75,410000,Sep 2021
+79,Bedok Nth Rd,04 to 06,92,New Generation,1978,55.83,418000,Sep 2021
+180,Bedok Nth Rd,01 to 03,85,Model A,2006,83.42,525000,Sep 2021
+181,Bedok Nth Rd,16 to 18,92,Model A,2006,83.33,652000,Sep 2021
+185,Bedok Nth Rd,16 to 18,92,Model A,2005,83.42,640000,Sep 2021
+422,Bedok Nth Rd,07 to 09,92,New Generation,1979,56.42,435000,Sep 2021
+128,Bedok Nth St 2,04 to 06,92,New Generation,1978,55.67,392000,Sep 2021
+528,Bedok Nth St 3,13 to 15,101,New Generation,1979,57.08,383000,Sep 2021
+747B,Bedok Reservoir Cres,10 to 12,87,Dbss,2014,92,720000,Sep 2021
+748C,Bedok Reservoir Cres,01 to 03,87,Dbss,2014,91.92,630000,Sep 2021
+106,Bedok Reservoir Rd,07 to 09,91,New Generation,1985,63,400000,Sep 2021
+106,Bedok Reservoir Rd,10 to 12,91,New Generation,1985,62.92,415000,Sep 2021
+110,Bedok Reservoir Rd,04 to 06,91,New Generation,1985,62.92,395000,Sep 2021
+110,Bedok Reservoir Rd,01 to 03,91,New Generation,1985,62.83,420000,Sep 2021
+124,Bedok Reservoir Rd,01 to 03,84,Simplified,1987,64.67,410000,Sep 2021
+132,Bedok Reservoir Rd,10 to 12,103,Model A,1987,64.5,440000,Sep 2021
+133,Bedok Reservoir Rd,04 to 06,103,Model A,1987,64.42,445000,Sep 2021
+141,Bedok Reservoir Rd,04 to 06,84,Simplified,1986,64.25,405000,Sep 2021
+147,Bedok Reservoir Rd,07 to 09,84,Simplified,1987,64.5,410000,Sep 2021
+601,Bedok Reservoir Rd,04 to 06,98,New Generation,1982,59.75,415000,Sep 2021
+601,Bedok Reservoir Rd,10 to 12,98,New Generation,1982,59.75,425000,Sep 2021
+613B,Bedok Reservoir Rd,04 to 06,102,Model A,1998,75.5,500000,Sep 2021
+623,Bedok Reservoir Rd,10 to 12,91,New Generation,1981,58.58,422000,Sep 2021
+711,Bedok Reservoir Rd,04 to 06,98,New Generation,1980,58.25,410000,Sep 2021
+720,Bedok Reservoir Rd,07 to 09,104,Model A,1984,61.42,478000,Sep 2021
+722,Bedok Reservoir Rd,10 to 12,103,Model A,1984,61.92,505000,Sep 2021
+724,Bedok Reservoir Rd,01 to 03,103,Model A,1984,61.92,412500,Sep 2021
+770,Bedok Reservoir View,01 to 03,105,Premium Apartment,2000,78.33,488000,Sep 2021
+770,Bedok Reservoir View,10 to 12,105,Premium Apartment,2000,78.33,562000,Sep 2021
+772,Bedok Reservoir View,13 to 15,105,Premium Apartment,2000,78.33,550000,Sep 2021
+773,Bedok Reservoir View,19 to 21,105,Premium Apartment,2000,78.33,598000,Sep 2021
+33,Bedok Sth Ave 2,13 to 15,98,New Generation,1978,55.58,395000,Sep 2021
+36,Bedok Sth Ave 2,04 to 06,84,Improved,1977,55.08,380000,Sep 2021
+36,Bedok Sth Ave 2,10 to 12,84,Improved,1977,55.08,385000,Sep 2021
+37,Bedok Sth Ave 2,10 to 12,84,Improved,1977,55.08,365500,Sep 2021
+159,Bedok Sth Ave 3,07 to 09,105,Model A,1985,62.58,500000,Sep 2021
+15,Bedok Sth Rd,04 to 06,88,Improved,1976,53.42,392000,Sep 2021
+10,Chai Chee Rd,04 to 06,90,Model A,2001,78.5,490000,Sep 2021
+807C,Chai Chee Rd,07 to 09,93,Model A,2016,94.17,640000,Sep 2021
+808A,Chai Chee Rd,04 to 06,93,Model A,2016,94.25,592000,Sep 2021
+808A,Chai Chee Rd,04 to 06,93,Model A,2016,94.25,610000,Sep 2021
+650,Jln Tenaga,01 to 03,108,Model A,1996,73.92,480000,Sep 2021
+110,Lengkong Tiga,04 to 06,106,Model A,1989,66.42,655000,Sep 2021
+24,New Upp Changi Rd,07 to 09,98,New Generation,1978,56.08,498000,Sep 2021
+52,New Upp Changi Rd,07 to 09,84,Improved,1977,55.08,402000,Sep 2021
+219D,Bedok Ctrl,04 to 06,94,Model A,2010,87.83,710000,Aug 2021
+220C,Bedok Ctrl,10 to 12,97,Model A,2010,87.83,738000,Aug 2021
+221A,Bedok Ctrl,04 to 06,94,Model A,2010,87.83,706000,Aug 2021
+221A,Bedok Ctrl,10 to 12,94,Model A,2010,87.75,742888,Aug 2021
+508,Bedok Nth Ave 3,13 to 15,92,New Generation,1978,56.25,385000,Aug 2021
+81,Bedok Nth Rd,01 to 03,91,New Generation,1978,55.92,395000,Aug 2021
+181,Bedok Nth Rd,10 to 12,92,Model A,2006,83.5,595000,Aug 2021
+183,Bedok Nth Rd,13 to 15,92,Model A,2005,83.33,620000,Aug 2021
+421,Bedok Nth Rd,10 to 12,92,New Generation,1979,56.42,438000,Aug 2021
+421,Bedok Nth Rd,13 to 15,92,New Generation,1979,56.5,461000,Aug 2021
+422,Bedok Nth Rd,04 to 06,92,New Generation,1979,56.42,430000,Aug 2021
+708,Bedok Nth Rd,07 to 09,91,New Generation,1980,58.33,430000,Aug 2021
+135,Bedok Nth St 2,10 to 12,83,New Generation,1978,55.83,420000,Aug 2021
+545,Bedok Nth St 3,10 to 12,93,New Generation,1980,57.83,398000,Aug 2021
+547,Bedok Nth St 3,07 to 09,92,New Generation,1980,57.83,400000,Aug 2021
+747A,Bedok Reservoir Cres,04 to 06,87,Dbss,2014,92.08,643000,Aug 2021
+747B,Bedok Reservoir Cres,01 to 03,87,Dbss,2014,92.08,663000,Aug 2021
+747B,Bedok Reservoir Cres,13 to 15,85,Dbss,2014,91.92,738000,Aug 2021
+747C,Bedok Reservoir Cres,01 to 03,87,Dbss,2014,91.92,659800,Aug 2021
+132,Bedok Reservoir Rd,10 to 12,84,Simplified,1987,64.58,388000,Aug 2021
+147,Bedok Reservoir Rd,01 to 03,84,Simplified,1987,64.58,380000,Aug 2021
+623,Bedok Reservoir Rd,07 to 09,91,New Generation,1981,58.58,420000,Aug 2021
+623,Bedok Reservoir Rd,10 to 12,91,New Generation,1981,58.67,430000,Aug 2021
+718,Bedok Reservoir Rd,07 to 09,104,Model A,1984,61.5,458888,Aug 2021
+763,Bedok Reservoir View,16 to 18,105,Premium Apartment,2000,78.42,620000,Aug 2021
+766,Bedok Reservoir View,16 to 18,107,Premium Apartment,2000,78.42,585000,Aug 2021
+771,Bedok Reservoir View,16 to 18,107,Premium Apartment,2000,78.33,600000,Aug 2021
+5,Bedok Sth Ave 2,13 to 15,82,Improved,1976,53.5,380000,Aug 2021
+7,Bedok Sth Ave 2,07 to 09,82,Improved,1976,53.42,428000,Aug 2021
+36,Bedok Sth Ave 2,07 to 09,84,Improved,1977,55.08,375000,Aug 2021
+37,Bedok Sth Ave 2,01 to 03,84,Improved,1977,55.17,328000,Aug 2021
+166,Bedok Sth Ave 3,04 to 06,104,Model A,1985,62.67,488000,Aug 2021
+166,Bedok Sth Ave 3,07 to 09,105,Model A,1985,62.67,508888,Aug 2021
+71,Bedok Sth Rd,04 to 06,92,New Generation,1978,55.5,396000,Aug 2021
+164,Bedok Sth Rd,04 to 06,84,Simplified,1986,63.5,432888,Aug 2021
+10,Chai Chee Rd,04 to 06,90,Model A,2001,78.58,512000,Aug 2021
+59,Chai Chee Rd,04 to 06,104,Model A,1984,61.42,478000,Aug 2021
+807A,Chai Chee Rd,01 to 03,93,Model A,2016,94.42,580000,Aug 2021
+807B,Chai Chee Rd,04 to 06,93,Model A,2016,94.25,585000,Aug 2021
+807B,Chai Chee Rd,07 to 09,93,Model A,2016,94.25,640000,Aug 2021
+807C,Chai Chee Rd,04 to 06,93,Model A,2016,94.33,602000,Aug 2021
+808A,Chai Chee Rd,04 to 06,93,Model A,2016,94.25,600000,Aug 2021
+808C,Chai Chee Rd,04 to 06,88,Model A,2016,94.25,585000,Aug 2021
+808C,Chai Chee Rd,04 to 06,93,Model A,2016,94.33,609000,Aug 2021
+45,Chai Chee St,01 to 03,92,New Generation,1980,57.83,401000,Aug 2021
+671,Jln Damai,07 to 09,107,Model A,1996,74,565000,Aug 2021
+650,Jln Tenaga,07 to 09,108,Model A,1996,74.08,505000,Aug 2021
+651,Jln Tenaga,10 to 12,106,Model A,1996,74.17,550000,Aug 2021
+654,Jln Tenaga,01 to 03,108,Model A,1996,74.33,498000,Aug 2021
+655,Jln Tenaga,10 to 12,108,Model A,1996,74.25,512000,Aug 2021
+116,Lengkong Tiga,04 to 06,104,Model A,1989,66.5,660000,Aug 2021
+64,New Upp Changi Rd,07 to 09,92,New Generation,1978,55.75,450000,Aug 2021
+219A,Bedok Ctrl,13 to 15,97,Model A,2010,87.92,720000,Jul 2021
+221B,Bedok Ctrl,04 to 06,94,Model A,2010,87.83,670000,Jul 2021
+408,Bedok Nth Ave 2,10 to 12,92,New Generation,1980,57.83,438000,Jul 2021
+517,Bedok Nth Ave 2,07 to 09,92,New Generation,1979,57.17,418000,Jul 2021
+133,Bedok Nth Ave 3,04 to 06,92,New Generation,1978,55.83,438000,Jul 2021
+133,Bedok Nth Ave 3,10 to 12,92,New Generation,1978,55.83,440000,Jul 2021
+93,Bedok Nth Ave 4,13 to 15,92,New Generation,1979,57,408000,Jul 2021
+78,Bedok Nth Rd,10 to 12,91,New Generation,1978,56,410000,Jul 2021
+79,Bedok Nth Rd,01 to 03,91,New Generation,1978,55.92,385000,Jul 2021
+79,Bedok Nth Rd,07 to 09,92,New Generation,1978,56,420000,Jul 2021
+81,Bedok Nth Rd,07 to 09,92,New Generation,1978,56,391800,Jul 2021
+81,Bedok Nth Rd,10 to 12,91,New Generation,1978,56,402500,Jul 2021
+115,Bedok Nth Rd,07 to 09,98,New Generation,1978,55.83,435000,Jul 2021
+180,Bedok Nth Rd,04 to 06,85,Model A,2006,83.58,580000,Jul 2021
+182,Bedok Nth Rd,13 to 15,85,Model A,2006,83.67,625888,Jul 2021
+183,Bedok Nth Rd,01 to 03,92,Model A,2005,83.42,535000,Jul 2021
+183,Bedok Nth Rd,04 to 06,92,Model A,2005,83.42,575000,Jul 2021
+183,Bedok Nth Rd,13 to 15,92,Model A,2005,83.5,625000,Jul 2021
+705,Bedok Nth Rd,10 to 12,91,New Generation,1980,58.42,465000,Jul 2021
+707,Bedok Nth Rd,10 to 12,91,New Generation,1980,58.42,455000,Jul 2021
+708,Bedok Nth Rd,07 to 09,91,New Generation,1980,58.42,455000,Jul 2021
+130,Bedok Nth St 2,07 to 09,92,New Generation,1978,55.83,415000,Jul 2021
+130,Bedok Nth St 2,10 to 12,92,New Generation,1978,55.83,425500,Jul 2021
+747C,Bedok Reservoir Cres,04 to 06,87,Dbss,2014,92.25,650000,Jul 2021
+125,Bedok Reservoir Rd,10 to 12,84,Simplified,1987,65,410000,Jul 2021
+135,Bedok Reservoir Rd,07 to 09,103,Model A,1987,64.75,445000,Jul 2021
+148,Bedok Reservoir Rd,13 to 15,104,Model A,1987,64.75,500000,Jul 2021
+763,Bedok Reservoir View,07 to 09,105,Premium Apartment,2000,78.42,580000,Jul 2021
+765,Bedok Reservoir View,01 to 03,105,Premium Apartment,2000,78.58,500000,Jul 2021
+765,Bedok Reservoir View,07 to 09,105,Premium Apartment,2000,78.42,580000,Jul 2021
+767,Bedok Reservoir View,10 to 12,105,Premium Apartment,2000,78.5,548000,Jul 2021
+772,Bedok Reservoir View,13 to 15,105,Premium Apartment,2000,78.5,580000,Jul 2021
+774,Bedok Reservoir View,19 to 21,107,Premium Apartment,2000,78.5,618888,Jul 2021
+5,Bedok Sth Ave 2,04 to 06,82,Improved,1976,53.67,358000,Jul 2021
+5,Bedok Sth Ave 2,10 to 12,82,Improved,1976,53.58,386000,Jul 2021
+6,Bedok Sth Ave 2,01 to 03,82,Improved,1976,53.58,335000,Jul 2021
+8,Bedok Sth Ave 2,04 to 06,82,Improved,1976,53.58,345000,Jul 2021
+34,Bedok Sth Ave 2,01 to 03,90,Improved,1977,55.25,355000,Jul 2021
+159,Bedok Sth Ave 3,04 to 06,83,Simplified,1985,62.75,375000,Jul 2021
+166,Bedok Sth Ave 3,10 to 12,83,Simplified,1985,62.75,435000,Jul 2021
+15,Bedok Sth Rd,04 to 06,88,Improved,1976,53.58,360000,Jul 2021
+40,Bedok Sth Rd,07 to 09,92,New Generation,1978,56.25,430000,Jul 2021
+42,Bedok Sth Rd,01 to 03,84,Improved,1977,55.25,361000,Jul 2021
+44,Bedok Sth Rd,10 to 12,84,Improved,1977,55.25,420000,Jul 2021
+163,Bedok Sth Rd,01 to 03,83,Simplified,1985,62.83,405000,Jul 2021
+171,Bedok Sth Rd,07 to 09,84,Simplified,1985,63.5,415000,Jul 2021
+35,Chai Chee Ave,04 to 06,82,Improved,1975,52.58,350000,Jul 2021
+26,Chai Chee Rd,07 to 09,104,Model A,1993,70.83,565000,Jul 2021
+27,Chai Chee Rd,16 to 18,104,Model A,1993,70.92,575000,Jul 2021
+61,Chai Chee Rd,10 to 12,91,New Generation,1982,60.25,410000,Jul 2021
+807A,Chai Chee Rd,10 to 12,93,Model A,2016,94.33,635000,Jul 2021
+807A,Chai Chee Rd,07 to 09,93,Model A,2016,94.33,638000,Jul 2021
+807A,Chai Chee Rd,13 to 15,93,Model A,2016,94.33,650000,Jul 2021
+808A,Chai Chee Rd,04 to 06,93,Model A,2016,94.42,620000,Jul 2021
+808C,Chai Chee Rd,01 to 03,88,Model A,2016,94.42,573888,Jul 2021
+808C,Chai Chee Rd,13 to 15,93,Model A,2016,94.33,660000,Jul 2021
+43,Chai Chee St,10 to 12,92,New Generation,1980,57.92,408000,Jul 2021
+103,Lengkong Tiga,07 to 09,104,Model A,1989,66.58,625000,Jul 2021
+109,Lengkong Tiga,07 to 09,104,Model A,1989,66.58,628000,Jul 2021
+116,Lengkong Tiga,07 to 09,104,Model A,1989,66.67,660000,Jul 2021
+51,New Upp Changi Rd,04 to 06,84,Improved,1977,55.25,355000,Jul 2021
+52,New Upp Changi Rd,01 to 03,84,Improved,1977,55.25,360000,Jul 2021
+53,New Upp Changi Rd,10 to 12,84,Improved,1977,55.17,438000,Jul 2021
+63,New Upp Changi Rd,01 to 03,92,New Generation,1978,55.92,383000,Jul 2021
+64,New Upp Changi Rd,13 to 15,92,New Generation,1978,55.83,430000,Jul 2021
+520,Bedok Nth Ave 1,10 to 12,92,New Generation,1979,57.17,470000,Jun 2021
+411,Bedok Nth Ave 2,04 to 06,92,New Generation,1980,57.92,460000,Jun 2021
+517,Bedok Nth Ave 2,07 to 09,92,New Generation,1979,57.25,400000,Jun 2021
+403,Bedok Nth Ave 3,07 to 09,92,New Generation,1980,57.92,460000,Jun 2021
+404,Bedok Nth Ave 3,04 to 06,92,New Generation,1980,57.83,405000,Jun 2021
+121,Bedok Nth Rd,01 to 03,92,New Generation,1978,55.83,415000,Jun 2021
+180,Bedok Nth Rd,10 to 12,92,Model A,2006,83.67,591000,Jun 2021
+183,Bedok Nth Rd,13 to 15,85,Model A,2005,83.58,540000,Jun 2021
+185,Bedok Nth Rd,01 to 03,92,Model A,2005,83.58,515000,Jun 2021
+185,Bedok Nth Rd,13 to 15,92,Model A,2005,83.58,608000,Jun 2021
+529,Bedok Nth St 3,01 to 03,92,New Generation,1979,57.25,350000,Jun 2021
+547,Bedok Nth St 3,07 to 09,92,New Generation,1980,58,410000,Jun 2021
+748B,Bedok Reservoir Cres,04 to 06,87,Dbss,2014,92.33,640000,Jun 2021
+128,Bedok Reservoir Rd,01 to 03,84,Simplified,1986,64.5,380000,Jun 2021
+131,Bedok Reservoir Rd,01 to 03,83,Simplified,1987,64.67,366000,Jun 2021
+134,Bedok Reservoir Rd,07 to 09,84,Simplified,1987,65,393000,Jun 2021
+141,Bedok Reservoir Rd,13 to 15,84,Simplified,1986,64.5,406000,Jun 2021
+613B,Bedok Reservoir Rd,04 to 06,101,Model A,1998,75.75,490000,Jun 2021
+625,Bedok Reservoir Rd,01 to 03,104,New Generation,1981,58.83,453000,Jun 2021
+715,Bedok Reservoir Rd,04 to 06,98,New Generation,1980,58.5,455000,Jun 2021
+718,Bedok Reservoir Rd,01 to 03,104,Model A,1984,61.67,445000,Jun 2021
+774,Bedok Reservoir View,04 to 06,107,Premium Apartment,2000,78.58,499999,Jun 2021
+22,Bedok Sth Ave 1,01 to 03,98,New Generation,1977,55,425000,Jun 2021
+7,Bedok Sth Ave 2,01 to 03,82,Improved,1976,53.67,385000,Jun 2021
+35,Bedok Sth Ave 2,13 to 15,90,Improved,1977,55.33,365000,Jun 2021
+157,Bedok Sth Ave 3,10 to 12,83,Simplified,1985,62.92,405000,Jun 2021
+169,Bedok Sth Ave 3,13 to 15,105,Model A,1985,62.83,495000,Jun 2021
+40,Bedok Sth Rd,01 to 03,92,New Generation,1978,56.33,400000,Jun 2021
+40,Bedok Sth Rd,10 to 12,92,New Generation,1978,56.33,430000,Jun 2021
+163,Bedok Sth Rd,13 to 15,83,Simplified,1985,63,420000,Jun 2021
+171,Bedok Sth Rd,10 to 12,84,Simplified,1985,63.5,408000,Jun 2021
+56,Chai Chee Dr,04 to 06,91,New Generation,1983,60.67,400000,Jun 2021
+11,Chai Chee Rd,07 to 09,101,Model A,2001,78.75,525000,Jun 2021
+807A,Chai Chee Rd,01 to 03,93,Model A,2016,94.5,568000,Jun 2021
+807A,Chai Chee Rd,13 to 15,93,Model A,2016,94.5,670000,Jun 2021
+808A,Chai Chee Rd,10 to 12,93,Model A,2016,94.5,668000,Jun 2021
+41,Chai Chee St,07 to 09,91,New Generation,1985,63.08,410000,Jun 2021
+51,New Upp Changi Rd,10 to 12,84,Improved,1977,55.33,384000,Jun 2021
+53,New Upp Changi Rd,07 to 09,84,Improved,1977,55.25,430000,Jun 2021
+62,New Upp Changi Rd,04 to 06,92,New Generation,1978,56,438000,Jun 2021
+408,Bedok Nth Ave 2,04 to 06,92,New Generation,1980,58,425000,May 2021
+131,Bedok Nth Ave 3,10 to 12,92,New Generation,1978,56,430000,May 2021
+95,Bedok Nth Ave 4,13 to 15,92,New Generation,1979,57.17,430000,May 2021
+121,Bedok Nth Rd,10 to 12,92,New Generation,1978,55.83,405000,May 2021
+125,Bedok Nth Rd,01 to 03,83,New Generation,1978,56.08,337000,May 2021
+183,Bedok Nth Rd,10 to 12,92,Model A,2005,83.67,608000,May 2021
+421,Bedok Nth Rd,04 to 06,92,New Generation,1979,56.75,438000,May 2021
+427,Bedok Nth Rd,04 to 06,92,New Generation,1979,56.67,400000,May 2021
+118,Bedok Nth St 2,13 to 15,97,New Generation,1978,55.92,452000,May 2021
+122,Bedok Nth St 2,10 to 12,92,New Generation,1978,55.92,425000,May 2021
+127,Bedok Nth St 2,10 to 12,92,New Generation,1978,56.08,415000,May 2021
+128,Bedok Nth St 2,10 to 12,83,New Generation,1978,56.08,380000,May 2021
+532,Bedok Nth St 3,13 to 15,92,New Generation,1980,57.75,400000,May 2021
+543,Bedok Nth St 3,04 to 06,92,New Generation,1980,58.17,385000,May 2021
+747B,Bedok Reservoir Cres,10 to 12,85,Dbss,2014,92.33,695000,May 2021
+747B,Bedok Reservoir Cres,13 to 15,85,Dbss,2014,92.33,695000,May 2021
+747C,Bedok Reservoir Cres,13 to 15,87,Dbss,2014,92.33,760000,May 2021
+748C,Bedok Reservoir Cres,13 to 15,87,Dbss,2014,92.42,690000,May 2021
+106,Bedok Reservoir Rd,04 to 06,91,New Generation,1985,63.33,380000,May 2021
+128,Bedok Reservoir Rd,01 to 03,84,Simplified,1986,64.58,385000,May 2021
+149,Bedok Reservoir Rd,10 to 12,104,Model A,1987,65.08,458000,May 2021
+622,Bedok Reservoir Rd,01 to 03,91,New Generation,1981,58.83,395000,May 2021
+623,Bedok Reservoir Rd,07 to 09,91,New Generation,1981,58.92,415000,May 2021
+626,Bedok Reservoir Rd,07 to 09,91,New Generation,1981,58.92,426000,May 2021
+703,Bedok Reservoir Rd,07 to 09,93,New Generation,1980,58.58,406000,May 2021
+766,Bedok Reservoir View,16 to 18,105,Premium Apartment,2000,78.67,574000,May 2021
+768,Bedok Reservoir View,04 to 06,104,Premium Apartment,2000,78.67,516888,May 2021
+774,Bedok Reservoir View,01 to 03,105,Premium Apartment,2000,78.58,505000,May 2021
+166,Bedok Sth Ave 3,01 to 03,104,Model A,1985,62.92,438000,May 2021
+169,Bedok Sth Ave 3,07 to 09,83,Simplified,1985,62.83,430000,May 2021
+41,Bedok Sth Rd,01 to 03,84,Improved,1977,55.42,330000,May 2021
+43,Bedok Sth Rd,13 to 15,84,Improved,1977,55.42,369000,May 2021
+165,Bedok Sth Rd,01 to 03,83,Simplified,1985,62.83,368000,May 2021
+35,Chai Chee Ave,13 to 15,82,Improved,1975,52.67,410000,May 2021
+55,Chai Chee Dr,07 to 09,104,Model A,1984,62,478000,May 2021
+807A,Chai Chee Rd,13 to 15,93,Model A,2016,94.58,648000,May 2021
+808A,Chai Chee Rd,10 to 12,93,Model A,2016,94.58,623000,May 2021
+808A,Chai Chee Rd,13 to 15,93,Model A,2016,94.5,628888,May 2021
+808A,Chai Chee Rd,07 to 09,93,Model A,2016,94.58,640000,May 2021
+808C,Chai Chee Rd,07 to 09,88,Model A,2016,94.58,624000,May 2021
+50,Chai Chee St,10 to 12,91,New Generation,1981,59.25,390000,May 2021
+659,Jln Tenaga,13 to 15,105,Model A,1996,74.42,518888,May 2021
+110,Lengkong Tiga,04 to 06,106,Model A,1989,66.75,660000,May 2021
+115,Lengkong Tiga,01 to 03,108,Model A,1989,67,630000,May 2021
+53,New Upp Changi Rd,04 to 06,84,Improved,1977,55.42,350000,May 2021
+220A,Bedok Ctrl,01 to 03,97,Model A,2010,88.08,580000,Apr 2021
+221C,Bedok Ctrl,16 to 18,94,Model A,2010,88.08,726000,Apr 2021
+411,Bedok Nth Ave 2,10 to 12,92,New Generation,1980,58,468000,Apr 2021
+513,Bedok Nth Ave 2,04 to 06,92,New Generation,1979,57.25,368800,Apr 2021
+404,Bedok Nth Ave 3,07 to 09,92,New Generation,1980,58.08,418000,Apr 2021
+82,Bedok Nth Rd,07 to 09,92,New Generation,1978,56.17,370000,Apr 2021
+82,Bedok Nth Rd,01 to 03,92,New Generation,1978,56.25,375000,Apr 2021
+82,Bedok Nth Rd,07 to 09,92,New Generation,1978,56.25,382000,Apr 2021
+180,Bedok Nth Rd,04 to 06,85,Model A,2006,83.75,550000,Apr 2021
+183,Bedok Nth Rd,10 to 12,92,Model A,2005,83.75,602888,Apr 2021
+185,Bedok Nth Rd,16 to 18,92,Model A,2005,83.67,610000,Apr 2021
+185,Bedok Nth Rd,10 to 12,92,Model A,2005,83.83,620000,Apr 2021
+706,Bedok Nth Rd,01 to 03,91,New Generation,1980,58.58,390000,Apr 2021
+128,Bedok Nth St 2,04 to 06,83,New Generation,1978,56.17,360000,Apr 2021
+130,Bedok Nth St 2,01 to 03,92,New Generation,1978,56,395000,Apr 2021
+523,Bedok Nth St 3,07 to 09,92,New Generation,1979,57.33,365000,Apr 2021
+536,Bedok Nth St 3,04 to 06,101,New Generation,1980,57.83,383000,Apr 2021
+747B,Bedok Reservoir Cres,04 to 06,85,Dbss,2014,92.42,665000,Apr 2021
+747B,Bedok Reservoir Cres,10 to 12,87,Dbss,2014,92.42,680000,Apr 2021
+748C,Bedok Reservoir Cres,04 to 06,87,Dbss,2014,92.5,655000,Apr 2021
+748C,Bedok Reservoir Cres,10 to 12,87,Dbss,2014,92.42,690000,Apr 2021
+105,Bedok Reservoir Rd,04 to 06,96,New Generation,1985,63.33,384000,Apr 2021
+132,Bedok Reservoir Rd,10 to 12,84,Simplified,1987,64.92,380000,Apr 2021
+148,Bedok Reservoir Rd,04 to 06,84,Simplified,1987,65,408000,Apr 2021
+609,Bedok Reservoir Rd,01 to 03,97,New Generation,1982,60.33,375000,Apr 2021
+619,Bedok Reservoir Rd,07 to 09,103,New Generation,1981,58.92,445000,Apr 2021
+766,Bedok Reservoir View,10 to 12,107,Premium Apartment,2000,78.67,550000,Apr 2021
+767,Bedok Reservoir View,04 to 06,105,Premium Apartment,2000,78.83,512000,Apr 2021
+34,Bedok Sth Ave 2,07 to 09,90,Improved,1977,55.5,340000,Apr 2021
+34,Bedok Sth Ave 2,04 to 06,90,Improved,1977,55.42,350000,Apr 2021
+36,Bedok Sth Ave 2,04 to 06,84,Improved,1977,55.42,350000,Apr 2021
+37,Bedok Sth Ave 2,10 to 12,84,Improved,1977,55.5,367588,Apr 2021
+157,Bedok Sth Ave 3,04 to 06,83,Simplified,1985,63.08,375000,Apr 2021
+169,Bedok Sth Ave 3,07 to 09,104,Model A,1985,62.92,470000,Apr 2021
+169,Bedok Sth Ave 3,10 to 12,104,Model A,1985,63,485000,Apr 2021
+39,Bedok Sth Rd,13 to 15,92,New Generation,1978,56.42,413000,Apr 2021
+42,Bedok Sth Rd,16 to 18,84,Improved,1977,55.42,380000,Apr 2021
+170,Bedok Sth Rd,04 to 06,84,Simplified,1986,63.83,380000,Apr 2021
+35,Chai Chee Ave,04 to 06,82,Improved,1975,52.83,375000,Apr 2021
+55,Chai Chee Dr,01 to 03,105,Model A,1984,62,428000,Apr 2021
+807A,Chai Chee Rd,01 to 03,93,Model A,2016,94.58,585000,Apr 2021
+807A,Chai Chee Rd,10 to 12,93,Model A,2016,94.58,610000,Apr 2021
+807A,Chai Chee Rd,07 to 09,93,Model A,2016,94.67,615000,Apr 2021
+807A,Chai Chee Rd,07 to 09,93,Model A,2016,94.58,633000,Apr 2021
+807C,Chai Chee Rd,13 to 15,93,Model A,2016,94.58,642000,Apr 2021
+808A,Chai Chee Rd,04 to 06,93,Model A,2016,94.67,605000,Apr 2021
+808A,Chai Chee Rd,10 to 12,93,Model A,2016,94.58,635000,Apr 2021
+808B,Chai Chee Rd,10 to 12,93,Model A,2016,94.58,630000,Apr 2021
+808C,Chai Chee Rd,07 to 09,88,Model A,2016,94.67,580000,Apr 2021
+808C,Chai Chee Rd,07 to 09,93,Model A,2016,94.67,625000,Apr 2021
+808C,Chai Chee Rd,10 to 12,93,Model A,2016,94.58,648000,Apr 2021
+51,Chai Chee St,07 to 09,98,New Generation,1981,59.25,410000,Apr 2021
+660,Jln Tenaga,04 to 06,107,Model A,1997,74.75,465000,Apr 2021
+103,Lengkong Tiga,07 to 09,104,Model A,1989,66.83,630000,Apr 2021
+63,New Upp Changi Rd,01 to 03,92,New Generation,1978,56.08,386888,Apr 2021
+65,New Upp Changi Rd,07 to 09,92,New Generation,1978,56.17,430000,Apr 2021
+219B,Bedok Ctrl,01 to 03,87,Model A,2010,88.25,628000,Mar 2021
+219C,Bedok Ctrl,04 to 06,97,Model A,2010,88.17,570000,Mar 2021
+220B,Bedok Ctrl,01 to 03,94,Model A,2010,88.17,655000,Mar 2021
+221B,Bedok Ctrl,07 to 09,94,Model A,2010,88.17,710000,Mar 2021
+522,Bedok Nth Ave 1,07 to 09,92,New Generation,1979,57.5,405000,Mar 2021
+408,Bedok Nth Ave 2,10 to 12,92,New Generation,1980,58.17,425000,Mar 2021
+131,Bedok Nth Ave 3,10 to 12,92,New Generation,1978,56.08,435000,Mar 2021
+133,Bedok Nth Ave 3,13 to 15,92,New Generation,1978,56.08,452000,Mar 2021
+401,Bedok Nth Ave 3,07 to 09,92,New Generation,1979,57.25,400000,Mar 2021
+95,Bedok Nth Ave 4,07 to 09,92,New Generation,1979,57.33,368000,Mar 2021
+104,Bedok Nth Ave 4,04 to 06,91,New Generation,1977,55.33,380000,Mar 2021
+79,Bedok Nth Rd,01 to 03,91,New Generation,1978,56.33,355000,Mar 2021
+80,Bedok Nth Rd,07 to 09,91,New Generation,1978,56.25,365000,Mar 2021
+180,Bedok Nth Rd,01 to 03,85,Model A,2006,83.92,525000,Mar 2021
+180,Bedok Nth Rd,13 to 15,92,Model A,2006,83.83,624000,Mar 2021
+182,Bedok Nth Rd,10 to 12,92,Model A,2006,83.92,582500,Mar 2021
+182,Bedok Nth Rd,13 to 15,85,Model A,2006,83.92,595000,Mar 2021
+183,Bedok Nth Rd,16 to 18,85,Model A,2005,83.75,625000,Mar 2021
+185,Bedok Nth Rd,04 to 06,92,Model A,2005,83.75,588000,Mar 2021
+185,Bedok Nth Rd,19 to 21,92,Model A,2005,83.75,660000,Mar 2021
+708,Bedok Nth Rd,07 to 09,91,New Generation,1980,58.75,455000,Mar 2021
+126,Bedok Nth St 2,07 to 09,92,New Generation,1978,56.17,363000,Mar 2021
+747B,Bedok Reservoir Cres,07 to 09,86,Dbss,2014,92.5,680000,Mar 2021
+747C,Bedok Reservoir Cres,01 to 03,87,Dbss,2014,92.5,608000,Mar 2021
+748B,Bedok Reservoir Cres,01 to 03,87,Dbss,2014,92.5,598000,Mar 2021
+748B,Bedok Reservoir Cres,10 to 12,87,Dbss,2014,92.5,630000,Mar 2021
+748C,Bedok Reservoir Cres,07 to 09,87,Dbss,2014,92.5,650000,Mar 2021
+103,Bedok Reservoir Rd,10 to 12,91,New Generation,1985,63.33,385000,Mar 2021
+110,Bedok Reservoir Rd,04 to 06,91,New Generation,1985,63.33,378000,Mar 2021
+113,Bedok Reservoir Rd,01 to 03,95,New Generation,1985,63.33,390000,Mar 2021
+123,Bedok Reservoir Rd,01 to 03,103,Model A,1987,65.67,405100,Mar 2021
+126,Bedok Reservoir Rd,01 to 03,104,Model A,1987,65.08,420000,Mar 2021
+140,Bedok Reservoir Rd,10 to 12,84,Simplified,1986,64.58,388000,Mar 2021
+701,Bedok Reservoir Rd,10 to 12,93,New Generation,1980,58.75,385000,Mar 2021
+724,Bedok Reservoir Rd,04 to 06,103,Model A,1984,62.33,425000,Mar 2021
+761,Bedok Reservoir View,04 to 06,105,Premium Apartment,2000,78.83,528000,Mar 2021
+767,Bedok Reservoir View,16 to 18,107,Premium Apartment,2000,78.83,560000,Mar 2021
+769,Bedok Reservoir View,04 to 06,105,Premium Apartment,2000,78.75,475000,Mar 2021
+774,Bedok Reservoir View,13 to 15,105,Premium Apartment,2000,78.83,555000,Mar 2021
+774,Bedok Reservoir View,16 to 18,105,Premium Apartment,2000,78.75,570000,Mar 2021
+5,Bedok Sth Ave 2,01 to 03,82,Improved,1976,53.92,340000,Mar 2021
+35,Bedok Sth Ave 2,13 to 15,90,Improved,1977,55.5,343888,Mar 2021
+170,Bedok Sth Rd,04 to 06,103,Model A,1986,63.83,435000,Mar 2021
+10,Chai Chee Rd,01 to 03,96,Model A,2001,79,480000,Mar 2021
+11,Chai Chee Rd,04 to 06,101,Model A,2001,79,510000,Mar 2021
+807A,Chai Chee Rd,01 to 03,93,Model A,2016,94.67,572000,Mar 2021
+807A,Chai Chee Rd,10 to 12,93,Model A,2016,94.67,635000,Mar 2021
+807B,Chai Chee Rd,04 to 06,93,Model A,2016,94.67,575000,Mar 2021
+807B,Chai Chee Rd,07 to 09,93,Model A,2016,94.75,642000,Mar 2021
+807B,Chai Chee Rd,07 to 09,93,Model A,2016,94.67,650000,Mar 2021
+807C,Chai Chee Rd,04 to 06,93,Model A,2016,94.83,635000,Mar 2021
+808A,Chai Chee Rd,13 to 15,93,Model A,2016,94.75,620000,Mar 2021
+42,Chai Chee St,13 to 15,92,New Generation,1985,63.42,428000,Mar 2021
+221C,Bedok Ctrl,01 to 03,94,Model A,2010,88.33,668000,Feb 2021
+411,Bedok Nth Ave 2,04 to 06,92,New Generation,1980,58.25,405000,Feb 2021
+518,Bedok Nth Ave 2,04 to 06,92,New Generation,1979,57.58,373000,Feb 2021
+133,Bedok Nth Ave 3,04 to 06,92,New Generation,1978,56.25,420000,Feb 2021
+403,Bedok Nth Ave 3,10 to 12,92,New Generation,1980,58.17,446000,Feb 2021
+93,Bedok Nth Ave 4,10 to 12,92,New Generation,1979,57.33,393000,Feb 2021
+81,Bedok Nth Rd,01 to 03,91,New Generation,1978,56.42,356000,Feb 2021
+180,Bedok Nth Rd,07 to 09,85,Model A,2006,84,570000,Feb 2021
+182,Bedok Nth Rd,19 to 21,92,Model A,2006,84.17,608888,Feb 2021
+428,Bedok Nth Rd,07 to 09,92,New Generation,1979,56.92,410000,Feb 2021
+130,Bedok Nth St 2,01 to 03,92,New Generation,1978,56.25,375000,Feb 2021
+523,Bedok Nth St 3,13 to 15,92,New Generation,1979,57.42,380000,Feb 2021
+524,Bedok Nth St 3,01 to 03,92,New Generation,1979,57.5,340000,Feb 2021
+524,Bedok Nth St 3,13 to 15,92,New Generation,1979,57.5,380888,Feb 2021
+748B,Bedok Reservoir Cres,04 to 06,87,Dbss,2014,92.58,650000,Feb 2021
+106,Bedok Reservoir Rd,01 to 03,93,New Generation,1985,63.58,367000,Feb 2021
+124,Bedok Reservoir Rd,04 to 06,84,Simplified,1987,65.17,358888,Feb 2021
+621,Bedok Reservoir Rd,10 to 12,98,New Generation,1983,61,433000,Feb 2021
+627,Bedok Reservoir Rd,10 to 12,91,New Generation,1981,59.08,412500,Feb 2021
+713,Bedok Reservoir Rd,07 to 09,92,New Generation,1981,59.42,430000,Feb 2021
+714,Bedok Reservoir Rd,10 to 12,98,New Generation,1980,58.75,425000,Feb 2021
+770,Bedok Reservoir View,07 to 09,105,Premium Apartment,2000,78.92,505000,Feb 2021
+773,Bedok Reservoir View,07 to 09,105,Premium Apartment,2000,78.92,492000,Feb 2021
+34,Bedok Sth Ave 2,01 to 03,90,Improved,1977,55.67,345000,Feb 2021
+34,Bedok Sth Ave 2,04 to 06,90,Improved,1977,55.67,360000,Feb 2021
+159,Bedok Sth Ave 3,01 to 03,83,Simplified,1985,63.08,385000,Feb 2021
+165,Bedok Sth Rd,07 to 09,83,Simplified,1985,63.08,400000,Feb 2021
+807C,Chai Chee Rd,10 to 12,93,Model A,2016,94.75,630000,Feb 2021
+808B,Chai Chee Rd,04 to 06,93,Model A,2016,94.83,600888,Feb 2021
+808C,Chai Chee Rd,01 to 03,93,Model A,2016,94.75,576000,Feb 2021
+666,Jln Damai,10 to 12,104,Model A,1996,74.83,488000,Feb 2021
+115,Lengkong Tiga,04 to 06,106,Model A,1989,67.33,650000,Feb 2021
+51,New Upp Changi Rd,07 to 09,84,Improved,1977,55.58,355000,Feb 2021
+219B,Bedok Ctrl,01 to 03,97,Model A,2010,88.42,618000,Jan 2021
+219B,Bedok Ctrl,04 to 06,87,Model A,2010,88.33,668000,Jan 2021
+220B,Bedok Ctrl,04 to 06,97,Model A,2010,88.42,670000,Jan 2021
+221A,Bedok Ctrl,04 to 06,94,Model A,2010,88.42,588000,Jan 2021
+221A,Bedok Ctrl,13 to 15,97,Model A,2010,88.42,700000,Jan 2021
+424,Bedok Nth Ave 1,01 to 03,91,New Generation,1979,57.08,380000,Jan 2021
+512,Bedok Nth Ave 2,01 to 03,92,New Generation,1979,57.5,340000,Jan 2021
+131,Bedok Nth Ave 3,10 to 12,92,New Generation,1978,56.33,428000,Jan 2021
+131,Bedok Nth Ave 3,13 to 15,92,New Generation,1978,56.33,455000,Jan 2021
+403,Bedok Nth Ave 3,10 to 12,92,New Generation,1980,58.33,410000,Jan 2021
+93,Bedok Nth Ave 4,07 to 09,92,New Generation,1979,57.5,360000,Jan 2021
+95,Bedok Nth Ave 4,04 to 06,92,New Generation,1979,57.5,340000,Jan 2021
+183,Bedok Nth Rd,01 to 03,92,Model A,2005,84,530000,Jan 2021
+183,Bedok Nth Rd,07 to 09,92,Model A,2005,83.92,560000,Jan 2021
+422,Bedok Nth Rd,04 to 06,92,New Generation,1979,57.08,418888,Jan 2021
+130,Bedok Nth St 2,10 to 12,92,New Generation,1978,56.42,440000,Jan 2021
+547,Bedok Nth St 3,01 to 03,92,New Generation,1980,58.5,355000,Jan 2021
+547,Bedok Nth St 3,10 to 12,92,New Generation,1980,58.33,389500,Jan 2021
+747C,Bedok Reservoir Cres,04 to 06,87,Dbss,2014,92.67,650000,Jan 2021
+748A,Bedok Reservoir Cres,10 to 12,87,Dbss,2014,92.75,680000,Jan 2021
+108,Bedok Reservoir Rd,10 to 12,91,New Generation,1985,63.75,385000,Jan 2021
+122,Bedok Reservoir Rd,07 to 09,84,Simplified,1987,65.5,360000,Jan 2021
+125,Bedok Reservoir Rd,07 to 09,84,Simplified,1987,65.5,368888,Jan 2021
+125,Bedok Reservoir Rd,01 to 03,103,Model A,1987,65.58,394000,Jan 2021
+125,Bedok Reservoir Rd,10 to 12,84,Simplified,1987,65.58,410000,Jan 2021
+128,Bedok Reservoir Rd,04 to 06,84,Simplified,1986,64.92,375000,Jan 2021
+131,Bedok Reservoir Rd,01 to 03,83,Simplified,1987,65.08,375000,Jan 2021
+143,Bedok Reservoir Rd,01 to 03,104,Model A,1987,65.08,410000,Jan 2021
+627,Bedok Reservoir Rd,07 to 09,91,New Generation,1981,59.17,395000,Jan 2021
+712,Bedok Reservoir Rd,10 to 12,93,New Generation,1981,59.58,410000,Jan 2021
+713,Bedok Reservoir Rd,04 to 06,104,New Generation,1981,59.58,415000,Jan 2021
+718,Bedok Reservoir Rd,04 to 06,104,Model A,1984,62.08,420000,Jan 2021
+763,Bedok Reservoir View,16 to 18,105,Premium Apartment,2000,79,560500,Jan 2021
+765,Bedok Reservoir View,07 to 09,105,Premium Apartment,2000,79,523000,Jan 2021
+766,Bedok Reservoir View,10 to 12,105,Premium Apartment,2000,79,558000,Jan 2021
+769,Bedok Reservoir View,07 to 09,105,Premium Apartment,2000,79,505000,Jan 2021
+769,Bedok Reservoir View,04 to 06,105,Premium Apartment,2000,78.92,517000,Jan 2021
+774,Bedok Reservoir View,07 to 09,105,Premium Apartment,2000,79,555000,Jan 2021
+36,Bedok Sth Ave 2,04 to 06,84,Improved,1977,55.67,328000,Jan 2021
+37,Bedok Sth Ave 2,04 to 06,84,Improved,1977,55.75,340000,Jan 2021
+37,Bedok Sth Ave 2,13 to 15,84,Improved,1977,55.67,350000,Jan 2021
+157,Bedok Sth Ave 3,07 to 09,105,Model A,1985,63.33,480000,Jan 2021
+169,Bedok Sth Ave 3,07 to 09,104,Model A,1985,63.25,470000,Jan 2021
+163,Bedok Sth Rd,10 to 12,83,Simplified,1985,63.42,410000,Jan 2021
+165,Bedok Sth Rd,10 to 12,105,Model A,1985,63.17,530000,Jan 2021
+10,Chai Chee Rd,04 to 06,90,Model A,2001,79.17,500000,Jan 2021
+807B,Chai Chee Rd,13 to 15,93,Model A,2016,94.92,655000,Jan 2021
+808A,Chai Chee Rd,13 to 15,93,Model A,2016,94.92,685000,Jan 2021
+808B,Chai Chee Rd,07 to 09,93,Model A,2016,94.92,624000,Jan 2021
+808B,Chai Chee Rd,13 to 15,93,Model A,2016,94.92,640000,Jan 2021
+808C,Chai Chee Rd,04 to 06,88,Model A,2016,94.92,585000,Jan 2021
+808C,Chai Chee Rd,04 to 06,88,Model A,2016,94.92,600000,Jan 2021
+808C,Chai Chee Rd,10 to 12,93,Model A,2016,94.92,654000,Jan 2021
+808C,Chai Chee Rd,10 to 12,93,Model A,2016,94.92,660000,Jan 2021
+43,Chai Chee St,04 to 06,92,New Generation,1980,58.42,350000,Jan 2021
+43,Chai Chee St,01 to 03,92,New Generation,1980,58.42,380000,Jan 2021
+43,Chai Chee St,04 to 06,92,New Generation,1980,58.42,385000,Jan 2021
+45,Chai Chee St,07 to 09,92,New Generation,1980,58.33,380000,Jan 2021
+50,Chai Chee St,07 to 09,94,New Generation,1981,59.58,376000,Jan 2021
+51,Chai Chee St,04 to 06,98,New Generation,1981,59.5,372000,Jan 2021
+51,New Upp Changi Rd,10 to 12,84,Improved,1977,55.67,376000,Jan 2021
+64,New Upp Changi Rd,10 to 12,92,New Generation,1978,56.42,418000,Jan 2021
+219C,Bedok Ctrl,07 to 09,97,Model A,2010,88.5,650000,Dec 2020
+220B,Bedok Ctrl,13 to 15,97,Model A,2010,88.42,730000,Dec 2020
+221B,Bedok Ctrl,07 to 09,97,Model A,2010,88.5,696000,Dec 2020
+131,Bedok Nth Ave 3,01 to 03,92,New Generation,1978,56.42,388000,Dec 2020
+402,Bedok Nth Ave 3,07 to 09,92,New Generation,1979,57.5,416500,Dec 2020
+403,Bedok Nth Ave 3,04 to 06,92,New Generation,1980,58.42,405000,Dec 2020
+404,Bedok Nth Ave 3,07 to 09,92,New Generation,1980,58.42,418000,Dec 2020
+95,Bedok Nth Ave 4,04 to 06,92,New Generation,1979,57.58,340000,Dec 2020
+104,Bedok Nth Ave 4,10 to 12,91,New Generation,1977,55.58,362000,Dec 2020
+80,Bedok Nth Rd,07 to 09,91,New Generation,1978,56.5,365000,Dec 2020
+82,Bedok Nth Rd,07 to 09,92,New Generation,1978,56.58,380000,Dec 2020
+108,Bedok Nth Rd,01 to 03,91,New Generation,1977,55.67,340000,Dec 2020
+121,Bedok Nth Rd,04 to 06,92,New Generation,1978,56.25,360000,Dec 2020
+180,Bedok Nth Rd,01 to 03,92,Model A,2006,84.25,500000,Dec 2020
+185,Bedok Nth Rd,13 to 15,92,Model A,2005,84.08,605000,Dec 2020
+422,Bedok Nth Rd,07 to 09,92,New Generation,1979,57.17,430000,Dec 2020
+428,Bedok Nth Rd,04 to 06,92,New Generation,1979,57.17,375000,Dec 2020
+428,Bedok Nth Rd,07 to 09,92,New Generation,1979,57.08,410000,Dec 2020
+705,Bedok Nth Rd,07 to 09,92,New Generation,1980,59,435000,Dec 2020
+747B,Bedok Reservoir Cres,07 to 09,86,Dbss,2014,92.75,680000,Dec 2020
+748A,Bedok Reservoir Cres,04 to 06,87,Dbss,2014,92.75,635000,Dec 2020
+124,Bedok Reservoir Rd,04 to 06,84,Simplified,1987,65.42,355000,Dec 2020
+125,Bedok Reservoir Rd,07 to 09,84,Simplified,1987,65.67,380000,Dec 2020
+133,Bedok Reservoir Rd,04 to 06,103,Model A,1987,65.17,420000,Dec 2020
+140,Bedok Reservoir Rd,10 to 12,84,Simplified,1986,64.75,380000,Dec 2020
+149,Bedok Reservoir Rd,07 to 09,84,Simplified,1987,65.5,375000,Dec 2020
+611,Bedok Reservoir Rd,04 to 06,99,New Generation,1993,71.5,388000,Dec 2020
+623,Bedok Reservoir Rd,01 to 03,91,New Generation,1981,59.25,390000,Dec 2020
+712,Bedok Reservoir Rd,10 to 12,93,New Generation,1981,59.58,408000,Dec 2020
+33,Bedok Sth Ave 2,10 to 12,98,New Generation,1978,56.33,425000,Dec 2020
+69,Bedok Sth Ave 3,07 to 09,92,New Generation,1978,56.25,395000,Dec 2020
+169,Bedok Sth Ave 3,10 to 12,83,Simplified,1985,63.25,405000,Dec 2020
+15,Bedok Sth Rd,13 to 15,88,Improved,1976,54.17,390000,Dec 2020
+41,Bedok Sth Rd,01 to 03,84,Improved,1977,55.83,320500,Dec 2020
+25,Chai Chee Rd,13 to 15,104,Model A,1993,71.42,580000,Dec 2020
+807A,Chai Chee Rd,13 to 15,93,Model A,2016,95,638000,Dec 2020
+807A,Chai Chee Rd,10 to 12,93,Model A,2016,95,650000,Dec 2020
+807B,Chai Chee Rd,10 to 12,93,Model A,2016,95,603000,Dec 2020
+807C,Chai Chee Rd,10 to 12,93,Model A,2016,95,620000,Dec 2020
+807C,Chai Chee Rd,13 to 15,93,Model A,2016,95,630000,Dec 2020
+808A,Chai Chee Rd,04 to 06,93,Model A,2016,95,598000,Dec 2020
+808C,Chai Chee Rd,07 to 09,93,Model A,2016,95,620000,Dec 2020
+808C,Chai Chee Rd,10 to 12,93,Model A,2016,95,625000,Dec 2020
+672,Jln Damai,01 to 03,108,Model A,1996,74.58,460000,Dec 2020
+657,Jln Tenaga,04 to 06,107,Model A,1996,74.67,530000,Dec 2020
+111,Lengkong Tiga,10 to 12,104,Model A,1989,67.25,650000,Dec 2020
+115,Lengkong Tiga,01 to 03,104,Model A,1989,67.42,639000,Dec 2020
+220B,Bedok Ctrl,07 to 09,94,Model A,2010,88.58,685000,Nov 2020
+423,Bedok Nth Ave 1,04 to 06,91,New Generation,1979,57.25,385000,Nov 2020
+404,Bedok Nth Ave 3,07 to 09,92,New Generation,1980,58.5,405000,Nov 2020
+508,Bedok Nth Ave 3,07 to 09,92,New Generation,1978,57.08,358000,Nov 2020
+115,Bedok Nth Rd,01 to 03,98,New Generation,1978,56.58,380000,Nov 2020
+181,Bedok Nth Rd,13 to 15,92,Model A,2006,84.25,575000,Nov 2020
+183,Bedok Nth Rd,07 to 09,92,Model A,2005,84.17,590000,Nov 2020
+183,Bedok Nth Rd,16 to 18,92,Model A,2005,84.08,612000,Nov 2020
+428,Bedok Nth Rd,04 to 06,92,New Generation,1979,57.25,383000,Nov 2020
+428,Bedok Nth Rd,10 to 12,92,New Generation,1979,57.17,400000,Nov 2020
+524,Bedok Nth St 3,04 to 06,92,New Generation,1979,57.75,345000,Nov 2020
+524,Bedok Nth St 3,04 to 06,92,New Generation,1979,57.75,350000,Nov 2020
+543,Bedok Nth St 3,07 to 09,95,New Generation,1980,58.67,360000,Nov 2020
+87,Bedok Nth St 4,04 to 06,89,New Generation,1978,56.5,350000,Nov 2020
+748B,Bedok Reservoir Cres,07 to 09,87,Dbss,2014,92.83,640000,Nov 2020
+748B,Bedok Reservoir Cres,13 to 15,87,Dbss,2014,92.92,655000,Nov 2020
+106,Bedok Reservoir Rd,04 to 06,91,New Generation,1985,63.83,368000,Nov 2020
+108,Bedok Reservoir Rd,01 to 03,91,New Generation,1985,63.75,370000,Nov 2020
+136,Bedok Reservoir Rd,04 to 06,88,Simplified,1988,66.5,440000,Nov 2020
+147,Bedok Reservoir Rd,04 to 06,84,Simplified,1987,65.33,347000,Nov 2020
+148,Bedok Reservoir Rd,01 to 03,84,Simplified,1987,65.42,343000,Nov 2020
+701,Bedok Reservoir Rd,10 to 12,93,New Generation,1980,59.08,430000,Nov 2020
+703,Bedok Reservoir Rd,07 to 09,93,New Generation,1980,59.08,405000,Nov 2020
+774,Bedok Reservoir View,16 to 18,105,Premium Apartment,2000,79.08,555000,Nov 2020
+7,Bedok Sth Ave 2,13 to 15,82,Improved,1976,54.25,348000,Nov 2020
+36,Bedok Sth Ave 2,10 to 12,84,Improved,1977,55.92,360000,Nov 2020
+166,Bedok Sth Ave 3,10 to 12,83,Simplified,1985,63.42,420000,Nov 2020
+169,Bedok Sth Ave 3,01 to 03,105,Model A,1985,63.42,460000,Nov 2020
+163,Bedok Sth Rd,10 to 12,83,Simplified,1985,63.58,376000,Nov 2020
+165,Bedok Sth Rd,10 to 12,83,Simplified,1985,63.25,410000,Nov 2020
+170,Bedok Sth Rd,07 to 09,84,Simplified,1986,64.25,390000,Nov 2020
+807A,Chai Chee Rd,04 to 06,93,Model A,2016,95.08,615000,Nov 2020
+808A,Chai Chee Rd,10 to 12,93,Model A,2016,95.08,635000,Nov 2020
+808C,Chai Chee Rd,07 to 09,93,Model A,2016,95,628000,Nov 2020
+41,Chai Chee St,13 to 15,91,New Generation,1985,63.58,418000,Nov 2020
+651,Jln Tenaga,10 to 12,108,Model A,1996,75,490000,Nov 2020
+658,Jln Tenaga,07 to 09,106,Model A,1996,75,460000,Nov 2020
+115,Lengkong Tiga,01 to 03,106,Model A,1989,67.58,590000,Nov 2020
+52,New Upp Changi Rd,04 to 06,84,Improved,1977,55.92,349000,Nov 2020
+53,New Upp Changi Rd,13 to 15,84,Improved,1977,55.92,415000,Nov 2020
+62,New Upp Changi Rd,16 to 18,92,New Generation,1978,56.58,420000,Nov 2020
+65,New Upp Changi Rd,01 to 03,92,New Generation,1978,56.5,370000,Nov 2020

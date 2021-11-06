@@ -1,0 +1,545 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date
+101,Jln Rajah,13 to 15,94,New Generation,1980,58.17,542500,Nov 2021
+102,Jln Rajah,04 to 06,94,New Generation,1981,58.42,450000,Nov 2021
+117A,Jln Tenteram,28 to 30,93,Model A,2017,95.17,758888,Nov 2021
+117B,Jln Tenteram,19 to 21,93,Model A,2017,95.08,750000,Nov 2021
+113B,Mcnair Rd,28 to 30,93,Premium Apartment,2017,95.17,910000,Nov 2021
+8A,Upp Boon Keng Rd,13 to 15,88,Premium Apartment,2017,94.75,850000,Nov 2021
+8C,Upp Boon Keng Rd,10 to 12,95,Premium Apartment,2017,94.83,900000,Nov 2021
+39A,Bendemeer Rd,01 to 03,92,Model A,2012,89.67,665000,Oct 2021
+9,Boon Keng Rd,19 to 21,94,Dbss,2011,88.33,878000,Oct 2021
+9,Boon Keng Rd,37 to 39,94,Dbss,2011,88.33,918000,Oct 2021
+37,Cambridge Rd,04 to 06,100,Model A,1997,75.17,665000,Oct 2021
+15,Farrer Pk Rd,19 to 21,75,Model A,2004,81.75,695888,Oct 2021
+59C,Geylang Bahru,04 to 06,100,Model A,1998,76.25,627000,Oct 2021
+60,Geylang Bahru,01 to 03,102,Model A,1999,76.25,590000,Oct 2021
+60,Geylang Bahru,01 to 03,100,Model A,1999,76.33,616000,Oct 2021
+60,Geylang Bahru,10 to 12,101,Model A,1999,76.25,661000,Oct 2021
+9,Gloucester Rd,01 to 03,91,New Generation,1976,54.17,478000,Oct 2021
+9,Gloucester Rd,07 to 09,92,New Generation,1976,54.17,504888,Oct 2021
+813,Jellicoe Rd,01 to 03,90,Model A,2003,80.5,730000,Oct 2021
+101,Jln Rajah,13 to 15,94,New Generation,1980,58.25,485000,Oct 2021
+16,Jln Tenteram,07 to 09,85,Model A,2002,80,520000,Oct 2021
+16,Jln Tenteram,07 to 09,86,Model A,2002,80,540000,Oct 2021
+116A,Jln Tenteram,16 to 18,93,Model A,2017,95.17,735000,Oct 2021
+116B,Jln Tenteram,25 to 27,93,Model A,2017,95.17,733000,Oct 2021
+108,Mcnair Rd,01 to 03,103,Model A,1987,64.83,525000,Oct 2021
+111,Mcnair Rd,10 to 12,104,Model A,1987,64.58,640000,Oct 2021
+113C,Mcnair Rd,16 to 18,93,Premium Apartment,2017,95.17,888000,Oct 2021
+104,Towner Rd,10 to 12,109,Model A,1983,60.67,678000,Oct 2021
+2A,Upp Boon Keng Rd,07 to 09,90,Model A,2006,84.17,720000,Oct 2021
+2B,Upp Boon Keng Rd,19 to 21,90,Model A,2006,84.08,800888,Oct 2021
+3A,Upp Boon Keng Rd,22 to 24,90,Model A,2006,84,798000,Oct 2021
+8C,Upp Boon Keng Rd,07 to 09,88,Premium Apartment,2017,94.83,810000,Oct 2021
+15,Upp Boon Keng Rd,04 to 06,88,Improved,1975,52.42,476000,Oct 2021
+100,Whampoa Dr,13 to 15,91,Improved,1974,51.5,448000,Oct 2021
+17,Beach Rd,13 to 15,77,Improved,1975,52.42,500000,Sep 2021
+9,Boon Keng Rd,16 to 18,95,Dbss,2011,88.42,845000,Sep 2021
+39,Cambridge Rd,04 to 06,100,Model A,1997,75.17,710000,Sep 2021
+49,Dorset Rd,07 to 09,102,New Generation,1979,56.83,590000,Sep 2021
+12,Farrer Pk Rd,28 to 30,90,Model A,2004,81.83,754000,Sep 2021
+59C,Geylang Bahru,13 to 15,102,Model A,1998,76.25,668000,Sep 2021
+102,Jln Rajah,04 to 06,94,New Generation,1981,58.5,450000,Sep 2021
+116A,Jln Tenteram,28 to 30,93,Model A,2017,95.25,738000,Sep 2021
+116A,Jln Tenteram,22 to 24,93,Model A,2017,95.17,741888,Sep 2021
+116A,Jln Tenteram,16 to 18,93,Model A,2017,95.25,760000,Sep 2021
+116B,Jln Tenteram,16 to 18,93,Model A,2017,95.25,718000,Sep 2021
+116B,Jln Tenteram,22 to 24,93,Model A,2017,95.17,742000,Sep 2021
+117B,Jln Tenteram,16 to 18,93,Model A,2017,95.25,705000,Sep 2021
+117B,Jln Tenteram,10 to 12,93,Model A,2017,95.25,708000,Sep 2021
+117B,Jln Tenteram,10 to 12,93,Model A,2017,95.25,718000,Sep 2021
+117B,Jln Tenteram,19 to 21,93,Model A,2017,95.17,722000,Sep 2021
+117B,Jln Tenteram,25 to 27,93,Model A,2017,95.17,738000,Sep 2021
+117B,Jln Tenteram,25 to 27,93,Model A,2017,95.25,740000,Sep 2021
+113C,Mcnair Rd,04 to 06,93,Premium Apartment,2017,95.33,865000,Sep 2021
+2C,Upp Boon Keng Rd,13 to 15,90,Model A,2006,84.17,715000,Sep 2021
+2D,Upp Boon Keng Rd,01 to 03,90,Model A,2006,84,635000,Sep 2021
+8A,Upp Boon Keng Rd,04 to 06,95,Premium Apartment,2017,94.92,840000,Sep 2021
+8C,Upp Boon Keng Rd,01 to 03,88,Premium Apartment,2017,94.83,780000,Sep 2021
+8C,Upp Boon Keng Rd,13 to 15,88,Premium Apartment,2017,94.92,850000,Sep 2021
+14,Upp Boon Keng Rd,07 to 09,101,Model A,1999,76.75,640000,Sep 2021
+15,Upp Boon Keng Rd,13 to 15,88,Improved,1975,52.5,430000,Sep 2021
+83,Whampoa Dr,01 to 03,91,Improved,1974,51.42,368000,Sep 2021
+101,Whampoa Dr,22 to 24,91,Improved,1974,51.58,450000,Sep 2021
+104,Whampoa Dr,10 to 12,101,Model A,1998,76.17,617500,Sep 2021
+17,Beach Rd,13 to 15,77,Improved,1975,52.5,490000,Aug 2021
+10A,Bendemeer Rd,22 to 24,93,Model A,2017,95.42,845000,Aug 2021
+6,Boon Keng Rd,01 to 03,108,Model A,1996,74.33,650000,Aug 2021
+7,Boon Keng Rd,16 to 18,94,Dbss,2011,88.5,870000,Aug 2021
+22,Boon Keng Rd,04 to 06,88,Improved,1974,51.5,450000,Aug 2021
+11,Farrer Pk Rd,01 to 03,90,Model A,2004,81.92,630000,Aug 2021
+12,Farrer Pk Rd,07 to 09,90,Model A,2004,81.92,735000,Aug 2021
+59B,Geylang Bahru,13 to 15,102,Model A,1998,76.42,642000,Aug 2021
+9,Gloucester Rd,10 to 12,91,New Generation,1976,54.33,525000,Aug 2021
+16,Jln Tenteram,10 to 12,75,Model A,2002,80.17,463800,Aug 2021
+116A,Jln Tenteram,04 to 06,93,Model A,2017,95.33,645000,Aug 2021
+116A,Jln Tenteram,07 to 09,93,Model A,2017,95.33,708000,Aug 2021
+116A,Jln Tenteram,19 to 21,93,Model A,2017,95.25,748000,Aug 2021
+116B,Jln Tenteram,22 to 24,93,Model A,2017,95.33,725000,Aug 2021
+116B,Jln Tenteram,16 to 18,93,Model A,2017,95.33,730000,Aug 2021
+117B,Jln Tenteram,01 to 03,93,Model A,2017,95.25,655000,Aug 2021
+108B,Mcnair Rd,19 to 21,90,Model A,2004,82.33,720000,Aug 2021
+122,Mcnair Rd,07 to 09,83,Simplified,1987,64.75,515000,Aug 2021
+122,Mcnair Rd,13 to 15,104,Model A,1987,64.75,590000,Aug 2021
+4B,St. George's Lane,01 to 03,105,Model A,1996,74.42,570000,Aug 2021
+9,St. George's Rd,04 to 06,84,Simplified,1985,62.75,425000,Aug 2021
+683,Tessensohn Rd,04 to 06,103,Model A,1986,64.42,580000,Aug 2021
+683,Tessensohn Rd,01 to 03,113,Model A,1986,64.42,628000,Aug 2021
+2A,Upp Boon Keng Rd,10 to 12,85,Model A,2006,84.42,720888,Aug 2021
+3A,Upp Boon Keng Rd,01 to 03,90,Model A,2006,84.25,640000,Aug 2021
+8A,Upp Boon Keng Rd,04 to 06,88,Premium Apartment,2017,95,790000,Aug 2021
+8B,Upp Boon Keng Rd,19 to 21,95,Premium Apartment,2017,95,868000,Aug 2021
+8C,Upp Boon Keng Rd,04 to 06,88,Premium Apartment,2017,94.92,870000,Aug 2021
+8C,Upp Boon Keng Rd,10 to 12,95,Premium Apartment,2017,94.92,888000,Aug 2021
+14,Upp Boon Keng Rd,04 to 06,101,Model A,1999,76.83,641000,Aug 2021
+15,Upp Boon Keng Rd,07 to 09,88,Improved,1975,52.58,440000,Aug 2021
+83,Whampoa Dr,16 to 18,91,Improved,1974,51.42,415000,Aug 2021
+94,Whampoa Dr,10 to 12,91,Improved,1974,51.42,411000,Aug 2021
+95,Whampoa Dr,19 to 21,91,Improved,1974,51.5,419888,Aug 2021
+96,Whampoa Dr,16 to 18,91,Improved,1974,51.5,368000,Aug 2021
+100,Whampoa Dr,16 to 18,91,Improved,1974,51.67,446000,Aug 2021
+49,Whampoa Sth,01 to 03,87,Improved,1974,52.25,403000,Aug 2021
+6,Boon Keng Rd,07 to 09,106,Model A,1996,74.42,690000,Jul 2021
+466,Crawford Lane,16 to 18,82,Improved,1982,60.33,550000,Jul 2021
+816,Jellicoe Rd,28 to 30,85,Model A,2003,80.75,770000,Jul 2021
+18,Jln Tenteram,10 to 12,85,Model A,2004,82.08,535000,Jul 2021
+19,Jln Tenteram,10 to 12,85,Model A,2004,82.08,530000,Jul 2021
+116B,Jln Tenteram,13 to 15,93,Model A,2017,95.42,708000,Jul 2021
+116B,Jln Tenteram,28 to 30,93,Model A,2017,95.42,731000,Jul 2021
+108B,Mcnair Rd,22 to 24,90,Model A,2004,82.42,725000,Jul 2021
+121,Mcnair Rd,13 to 15,104,Model A,1987,65,620000,Jul 2021
+685,Race Course Rd,10 to 12,103,Model A,1986,63.58,570000,Jul 2021
+5,St. George's Lane,07 to 09,93,New Generation,1981,58.92,580000,Jul 2021
+19,St. George's Rd,04 to 06,91,New Generation,1984,62.42,440000,Jul 2021
+3C,Upp Boon Keng Rd,13 to 15,90,Model A,2006,84.08,720000,Jul 2021
+8B,Upp Boon Keng Rd,28 to 30,95,Premium Apartment,2017,95.08,960000,Jul 2021
+8C,Upp Boon Keng Rd,25 to 27,88,Premium Apartment,2017,95.08,850000,Jul 2021
+8C,Upp Boon Keng Rd,19 to 21,88,Premium Apartment,2017,95.08,850000,Jul 2021
+84,Whampoa Dr,10 to 12,91,Improved,1974,51.67,397000,Jul 2021
+49,Whampoa Sth,07 to 09,87,Improved,1974,52.33,388000,Jul 2021
+17,Beach Rd,04 to 06,77,Improved,1975,52.67,480000,Jun 2021
+38A,Bendemeer Rd,13 to 15,89,Model A,2012,90,715000,Jun 2021
+38A,Bendemeer Rd,07 to 09,89,Model A,2012,90,730000,Jun 2021
+38B,Bendemeer Rd,25 to 27,89,Model A,2012,90,770000,Jun 2021
+38C,Bendemeer Rd,13 to 15,89,Model A,2012,90,710000,Jun 2021
+38D,Bendemeer Rd,04 to 06,89,Model A,2012,90,640888,Jun 2021
+8,Boon Keng Rd,25 to 27,95,Dbss,2011,88.58,885000,Jun 2021
+43,Cambridge Rd,04 to 06,92,New Generation,1982,60.08,500000,Jun 2021
+9,Gloucester Rd,10 to 12,91,New Generation,1976,54.5,540000,Jun 2021
+106,Jln Dusun,07 to 09,94,New Generation,1981,59.08,505000,Jun 2021
+103,Jln Rajah,22 to 24,103,Model A,1984,61.83,540000,Jun 2021
+16,Jln Tenteram,04 to 06,86,Model A,2002,80.33,520000,Jun 2021
+116A,Jln Tenteram,10 to 12,93,Model A,2017,95.5,690000,Jun 2021
+116A,Jln Tenteram,22 to 24,93,Model A,2017,95.42,715000,Jun 2021
+116A,Jln Tenteram,13 to 15,93,Model A,2017,95.5,728000,Jun 2021
+116A,Jln Tenteram,25 to 27,93,Model A,2017,95.5,738000,Jun 2021
+111,Mcnair Rd,01 to 03,84,Simplified,1987,64.92,455000,Jun 2021
+124,Mcnair Rd,04 to 06,83,Simplified,1987,65.08,480000,Jun 2021
+683,Tessensohn Rd,01 to 03,103,Model A,1986,64.58,568000,Jun 2021
+107,Towner Rd,10 to 12,105,Model A,1983,61,620000,Jun 2021
+2B,Upp Boon Keng Rd,19 to 21,90,Model A,2006,84.42,730000,Jun 2021
+2B,Upp Boon Keng Rd,28 to 30,90,Model A,2006,84.42,760000,Jun 2021
+3B,Upp Boon Keng Rd,16 to 18,90,Model A,2006,84.25,668000,Jun 2021
+8A,Upp Boon Keng Rd,19 to 21,98,Premium Apartment,2017,95.17,930000,Jun 2021
+99,Whampoa Dr,04 to 06,91,Improved,1974,51.83,390000,Jun 2021
+38D,Bendemeer Rd,04 to 06,89,Model A,2012,90,705000,May 2021
+104,Jln Rajah,16 to 18,103,Model A,1984,61.75,540000,May 2021
+19,Jln Tenteram,13 to 15,90,Model A,2004,82.17,538000,May 2021
+116A,Jln Tenteram,16 to 18,93,Model A,2017,95.5,720008,May 2021
+116A,Jln Tenteram,19 to 21,93,Model A,2017,95.5,736000,May 2021
+116B,Jln Tenteram,19 to 21,93,Model A,2017,95.5,720000,May 2021
+108,Mcnair Rd,01 to 03,84,Simplified,1987,65.25,470000,May 2021
+108C,Mcnair Rd,13 to 15,90,Model A,2005,82.75,710000,May 2021
+119,Mcnair Rd,07 to 09,84,Simplified,1987,65.42,500000,May 2021
+120,Mcnair Rd,04 to 06,104,Model A,1987,65,535000,May 2021
+4B,St. George's Lane,04 to 06,106,Model A,1996,74.58,590000,May 2021
+2C,Upp Boon Keng Rd,16 to 18,90,Model A,2006,84.5,735000,May 2021
+3B,Upp Boon Keng Rd,19 to 21,90,Model A,2006,84.33,738000,May 2021
+8B,Upp Boon Keng Rd,13 to 15,95,Premium Apartment,2017,95.25,883000,May 2021
+15,Upp Boon Keng Rd,07 to 09,88,Improved,1975,52.83,435000,May 2021
+100,Whampoa Dr,16 to 18,91,Improved,1974,51.92,430000,May 2021
+114,Whampoa Rd,10 to 12,108,Model A,1995,73.33,535000,May 2021
+38D,Bendemeer Rd,16 to 18,89,Model A,2012,90.08,733000,Apr 2021
+40,Cambridge Rd,07 to 09,102,Model A,1997,75.42,680000,Apr 2021
+41,Cambridge Rd,07 to 09,92,New Generation,1982,60.25,565000,Apr 2021
+12,Farrer Pk Rd,07 to 09,90,Model A,2004,82.17,685000,Apr 2021
+13,Farrer Pk Rd,25 to 27,90,Model A,2004,82.17,740000,Apr 2021
+58,Geylang Bahru,04 to 06,102,Model A,2000,78.17,610000,Apr 2021
+18,Jln Tenteram,04 to 06,85,Model A,2004,82.25,465000,Apr 2021
+19,Jln Tenteram,04 to 06,85,Model A,2004,82.25,470000,Apr 2021
+108B,Mcnair Rd,01 to 03,86,Model A,2004,82.58,550000,Apr 2021
+105,Towner Rd,16 to 18,105,Model A,1984,62.67,685000,Apr 2021
+2D,Upp Boon Keng Rd,04 to 06,90,Model A,2006,84.58,670000,Apr 2021
+14,Upp Boon Keng Rd,04 to 06,100,Model A,1999,77.17,595000,Apr 2021
+104,Whampoa Dr,01 to 03,101,Model A,1998,76.58,560000,Apr 2021
+49,Whampoa Sth,10 to 12,87,Improved,1974,52.5,385000,Apr 2021
+15,Beach Rd,13 to 15,77,Improved,1975,52.92,480000,Mar 2021
+38B,Bendemeer Rd,10 to 12,89,Model A,2012,90.17,705000,Mar 2021
+38D,Bendemeer Rd,10 to 12,89,Model A,2012,90.17,705000,Mar 2021
+39A,Bendemeer Rd,07 to 09,89,Model A,2012,90.17,650000,Mar 2021
+41,Cambridge Rd,04 to 06,91,New Generation,1982,60.33,520000,Mar 2021
+13,Farrer Pk Rd,07 to 09,90,Model A,2004,82.25,685000,Mar 2021
+13,Farrer Pk Rd,22 to 24,90,Model A,2004,82.25,730000,Mar 2021
+5,Jln Batu,07 to 09,125,Adjoined Flat,1969,46.92,490000,Mar 2021
+17,Jln Tenteram,07 to 09,86,Model A,2001,79.75,510000,Mar 2021
+52,Kent Rd,04 to 06,91,New Generation,1982,60.25,502000,Mar 2021
+52,Kent Rd,04 to 06,91,New Generation,1982,60.25,538000,Mar 2021
+111,Lor 3 Geylang,04 to 06,104,Model A,1989,67.17,560000,Mar 2021
+114,Lor 3 Geylang,01 to 03,107,Model A,1989,67.25,490000,Mar 2021
+108B,Mcnair Rd,22 to 24,90,Model A,2004,82.67,720000,Mar 2021
+69,Moulmein Rd,10 to 12,84,Improved,1972,50.33,490000,Mar 2021
+18,St. George's Rd,04 to 06,91,New Generation,1984,62.83,465000,Mar 2021
+18,St. George's Rd,10 to 12,91,New Generation,1984,62.83,475000,Mar 2021
+103,Towner Rd,07 to 09,109,Model A,1983,61.75,630000,Mar 2021
+3A,Upp Boon Keng Rd,16 to 18,90,Model A,2006,84.58,620000,Mar 2021
+84,Whampoa Dr,16 to 18,91,Improved,1974,51.83,385000,Mar 2021
+6,Beach Rd,10 to 12,70,Standard,1979,57.67,405000,Feb 2021
+40,Cambridge Rd,07 to 09,101,Model A,1997,75.58,625000,Feb 2021
+9,Gloucester Rd,13 to 15,91,New Generation,1976,54.75,515000,Feb 2021
+106,Jln Dusun,07 to 09,93,New Generation,1981,59.33,500000,Feb 2021
+102,Jln Rajah,10 to 12,94,New Generation,1981,59,465000,Feb 2021
+16,Jln Tenteram,04 to 06,75,Model A,2002,80.67,405000,Feb 2021
+16,Jln Tenteram,01 to 03,85,Model A,2002,80.67,420000,Feb 2021
+17,Jln Tenteram,07 to 09,86,Model A,2001,79.75,485000,Feb 2021
+119,Mcnair Rd,07 to 09,84,Simplified,1987,65.67,470000,Feb 2021
+121,Mcnair Rd,04 to 06,104,Model A,1987,65.42,518000,Feb 2021
+121,Mcnair Rd,13 to 15,104,Model A,1987,65.42,570000,Feb 2021
+8C,Upp Boon Keng Rd,22 to 24,95,Premium Apartment,2017,95.42,888000,Feb 2021
+14A,Upp Boon Keng Rd,07 to 09,101,Model A,1999,77.42,620000,Feb 2021
+111,Whampoa Rd,07 to 09,103,Model A,1997,75.83,545000,Feb 2021
+15,Beach Rd,07 to 09,77,Improved,1975,53,470000,Jan 2021
+38B,Bendemeer Rd,16 to 18,89,Model A,2012,90.42,758888,Jan 2021
+7,Boon Keng Rd,34 to 36,95,Dbss,2011,89.08,873888,Jan 2021
+8,Boon Keng Rd,13 to 15,94,Dbss,2011,89,818000,Jan 2021
+22,Boon Keng Rd,01 to 03,88,Improved,1974,52,416000,Jan 2021
+22,Boon Keng Rd,07 to 09,88,Improved,1974,52.08,450000,Jan 2021
+15,Farrer Pk Rd,04 to 06,75,Model A,2004,82.5,526000,Jan 2021
+813,Jellicoe Rd,19 to 21,90,Model A,2003,81.17,740000,Jan 2021
+813,Jellicoe Rd,13 to 15,91,Model A,2003,81.17,742000,Jan 2021
+101,Jln Rajah,01 to 03,94,New Generation,1980,59,435000,Jan 2021
+17,Jln Tenteram,16 to 18,85,Model A,2001,79.83,510000,Jan 2021
+51,Kent Rd,07 to 09,91,New Generation,1982,60.33,480000,Jan 2021
+52,Kent Rd,01 to 03,91,New Generation,1982,60.33,435000,Jan 2021
+4B,St. George's Lane,10 to 12,105,Model A,1996,74.92,585000,Jan 2021
+2D,Upp Boon Keng Rd,22 to 24,90,Model A,2006,84.67,725000,Jan 2021
+3D,Upp Boon Keng Rd,07 to 09,90,Model A,2006,84.67,655000,Jan 2021
+3D,Upp Boon Keng Rd,04 to 06,90,Model A,2006,84.67,655000,Jan 2021
+14A,Upp Boon Keng Rd,01 to 03,100,Model A,1999,77.42,602000,Jan 2021
+15,Upp Boon Keng Rd,13 to 15,88,Improved,1975,53.17,424000,Jan 2021
+83,Whampoa Dr,19 to 21,91,Improved,1974,52,370000,Jan 2021
+84,Whampoa Dr,19 to 21,91,Improved,1974,52.08,400000,Jan 2021
+95,Whampoa Dr,19 to 21,91,Improved,1974,52.08,388888,Jan 2021
+17,Beach Rd,04 to 06,77,Improved,1975,53.08,470000,Dec 2020
+38C,Bendemeer Rd,04 to 06,92,Model A,2012,90.5,678000,Dec 2020
+41,Cambridge Rd,01 to 03,91,New Generation,1982,60.58,550000,Dec 2020
+42,Cambridge Rd,07 to 09,91,New Generation,1982,60.5,555000,Dec 2020
+466,Crawford Lane,07 to 09,82,Improved,1982,60.92,540000,Dec 2020
+12,Farrer Pk Rd,07 to 09,90,Model A,2004,82.5,681000,Dec 2020
+59C,Geylang Bahru,16 to 18,100,Model A,1998,77.08,670000,Dec 2020
+10,Jln Batu,10 to 12,105,New Generation,1986,64.17,563000,Dec 2020
+101,Jln Rajah,13 to 15,94,New Generation,1980,59,510000,Dec 2020
+51,Kent Rd,01 to 03,91,New Generation,1982,60.5,420000,Dec 2020
+108,Mcnair Rd,07 to 09,104,Model A,1987,65.67,550000,Dec 2020
+11,St. George's Rd,10 to 12,84,Simplified,1985,63.33,448000,Dec 2020
+2D,Upp Boon Keng Rd,10 to 12,90,Model A,2006,84.75,730000,Dec 2020
+3D,Upp Boon Keng Rd,01 to 03,90,Model A,2006,84.75,615000,Dec 2020
+3D,Upp Boon Keng Rd,04 to 06,90,Model A,2006,84.83,690000,Dec 2020
+8B,Upp Boon Keng Rd,10 to 12,95,Premium Apartment,2017,95.67,880000,Dec 2020
+95,Whampoa Dr,04 to 06,91,Improved,1974,52.17,345000,Dec 2020
+49,Whampoa Sth,01 to 03,87,Improved,1974,52.92,380000,Dec 2020
+38C,Bendemeer Rd,10 to 12,92,Model A,2012,90.58,710000,Nov 2020
+4,Boon Keng Rd,01 to 03,108,Model A,1996,74.92,625000,Nov 2020
+4,Boon Keng Rd,04 to 06,108,Model A,1996,74.92,625000,Nov 2020
+6,Boon Keng Rd,07 to 09,106,Model A,1996,75,678000,Nov 2020
+7,Boon Keng Rd,37 to 39,95,Dbss,2011,89.25,902000,Nov 2020
+22,Boon Keng Rd,07 to 09,88,Improved,1974,52.25,465000,Nov 2020
+22,Boon Keng Rd,04 to 06,87,Improved,1974,52.25,473000,Nov 2020
+38,Cambridge Rd,04 to 06,100,Model A,1997,76.08,600000,Nov 2020
+40,Cambridge Rd,07 to 09,102,Model A,1997,75.83,611000,Nov 2020
+9,Gloucester Rd,13 to 15,92,New Generation,1976,55,505000,Nov 2020
+19,Jln Tenteram,01 to 03,85,Model A,2004,82.67,420000,Nov 2020
+14,Kg Arang Rd,04 to 06,123,New Generation,1984,62.83,600000,Nov 2020
+120,Mcnair Rd,10 to 12,104,Model A,1987,65.42,500000,Nov 2020
+121,Mcnair Rd,04 to 06,104,Model A,1987,65.67,504000,Nov 2020
+69,Moulmein Rd,04 to 06,84,Improved,1972,50.67,530000,Nov 2020
+1,St. George's Rd,01 to 03,82,Improved,1976,54.5,345000,Nov 2020
+16,St. George's Rd,04 to 06,93,New Generation,1984,62.92,455000,Nov 2020
+16,St. George's Rd,01 to 03,93,New Generation,1984,62.83,460000,Nov 2020
+20,St. George's Rd,07 to 09,93,New Generation,1984,62.92,460000,Nov 2020
+103,Towner Rd,04 to 06,109,Model A,1983,62.17,715000,Nov 2020
+2A,Upp Boon Keng Rd,22 to 24,90,Model A,2006,85.17,692000,Nov 2020
+14A,Upp Boon Keng Rd,07 to 09,101,Model A,1999,77.58,638888,Nov 2020
+99,Whampoa Dr,19 to 21,91,Improved,1974,52.42,395000,Nov 2020
+114,Whampoa Rd,01 to 03,108,Model A,1995,73.83,465000,Nov 2020
+101,Jln Rajah,13 to 15,94,New Generation,1980,58.17,542500,Nov 2021
+102,Jln Rajah,04 to 06,94,New Generation,1981,58.42,450000,Nov 2021
+117A,Jln Tenteram,28 to 30,93,Model A,2017,95.17,758888,Nov 2021
+117B,Jln Tenteram,19 to 21,93,Model A,2017,95.08,750000,Nov 2021
+113B,Mcnair Rd,28 to 30,93,Premium Apartment,2017,95.17,910000,Nov 2021
+8A,Upp Boon Keng Rd,13 to 15,88,Premium Apartment,2017,94.75,850000,Nov 2021
+8C,Upp Boon Keng Rd,10 to 12,95,Premium Apartment,2017,94.83,900000,Nov 2021
+39A,Bendemeer Rd,01 to 03,92,Model A,2012,89.67,665000,Oct 2021
+9,Boon Keng Rd,19 to 21,94,Dbss,2011,88.33,878000,Oct 2021
+9,Boon Keng Rd,37 to 39,94,Dbss,2011,88.33,918000,Oct 2021
+37,Cambridge Rd,04 to 06,100,Model A,1997,75.17,665000,Oct 2021
+15,Farrer Pk Rd,19 to 21,75,Model A,2004,81.75,695888,Oct 2021
+59C,Geylang Bahru,04 to 06,100,Model A,1998,76.25,627000,Oct 2021
+60,Geylang Bahru,01 to 03,102,Model A,1999,76.25,590000,Oct 2021
+60,Geylang Bahru,01 to 03,100,Model A,1999,76.33,616000,Oct 2021
+60,Geylang Bahru,10 to 12,101,Model A,1999,76.25,661000,Oct 2021
+9,Gloucester Rd,01 to 03,91,New Generation,1976,54.17,478000,Oct 2021
+9,Gloucester Rd,07 to 09,92,New Generation,1976,54.17,504888,Oct 2021
+813,Jellicoe Rd,01 to 03,90,Model A,2003,80.5,730000,Oct 2021
+101,Jln Rajah,13 to 15,94,New Generation,1980,58.25,485000,Oct 2021
+16,Jln Tenteram,07 to 09,85,Model A,2002,80,520000,Oct 2021
+16,Jln Tenteram,07 to 09,86,Model A,2002,80,540000,Oct 2021
+116A,Jln Tenteram,16 to 18,93,Model A,2017,95.17,735000,Oct 2021
+116B,Jln Tenteram,25 to 27,93,Model A,2017,95.17,733000,Oct 2021
+108,Mcnair Rd,01 to 03,103,Model A,1987,64.83,525000,Oct 2021
+111,Mcnair Rd,10 to 12,104,Model A,1987,64.58,640000,Oct 2021
+113C,Mcnair Rd,16 to 18,93,Premium Apartment,2017,95.17,888000,Oct 2021
+104,Towner Rd,10 to 12,109,Model A,1983,60.67,678000,Oct 2021
+2A,Upp Boon Keng Rd,07 to 09,90,Model A,2006,84.17,720000,Oct 2021
+2B,Upp Boon Keng Rd,19 to 21,90,Model A,2006,84.08,800888,Oct 2021
+3A,Upp Boon Keng Rd,22 to 24,90,Model A,2006,84,798000,Oct 2021
+8C,Upp Boon Keng Rd,07 to 09,88,Premium Apartment,2017,94.83,810000,Oct 2021
+15,Upp Boon Keng Rd,04 to 06,88,Improved,1975,52.42,476000,Oct 2021
+100,Whampoa Dr,13 to 15,91,Improved,1974,51.5,448000,Oct 2021
+17,Beach Rd,13 to 15,77,Improved,1975,52.42,500000,Sep 2021
+9,Boon Keng Rd,16 to 18,95,Dbss,2011,88.42,845000,Sep 2021
+39,Cambridge Rd,04 to 06,100,Model A,1997,75.17,710000,Sep 2021
+49,Dorset Rd,07 to 09,102,New Generation,1979,56.83,590000,Sep 2021
+12,Farrer Pk Rd,28 to 30,90,Model A,2004,81.83,754000,Sep 2021
+59C,Geylang Bahru,13 to 15,102,Model A,1998,76.25,668000,Sep 2021
+102,Jln Rajah,04 to 06,94,New Generation,1981,58.5,450000,Sep 2021
+116A,Jln Tenteram,28 to 30,93,Model A,2017,95.25,738000,Sep 2021
+116A,Jln Tenteram,22 to 24,93,Model A,2017,95.17,741888,Sep 2021
+116A,Jln Tenteram,16 to 18,93,Model A,2017,95.25,760000,Sep 2021
+116B,Jln Tenteram,16 to 18,93,Model A,2017,95.25,718000,Sep 2021
+116B,Jln Tenteram,22 to 24,93,Model A,2017,95.17,742000,Sep 2021
+117B,Jln Tenteram,16 to 18,93,Model A,2017,95.25,705000,Sep 2021
+117B,Jln Tenteram,10 to 12,93,Model A,2017,95.25,708000,Sep 2021
+117B,Jln Tenteram,10 to 12,93,Model A,2017,95.25,718000,Sep 2021
+117B,Jln Tenteram,19 to 21,93,Model A,2017,95.17,722000,Sep 2021
+117B,Jln Tenteram,25 to 27,93,Model A,2017,95.17,738000,Sep 2021
+117B,Jln Tenteram,25 to 27,93,Model A,2017,95.25,740000,Sep 2021
+113C,Mcnair Rd,04 to 06,93,Premium Apartment,2017,95.33,865000,Sep 2021
+2C,Upp Boon Keng Rd,13 to 15,90,Model A,2006,84.17,715000,Sep 2021
+2D,Upp Boon Keng Rd,01 to 03,90,Model A,2006,84,635000,Sep 2021
+8A,Upp Boon Keng Rd,04 to 06,95,Premium Apartment,2017,94.92,840000,Sep 2021
+8C,Upp Boon Keng Rd,01 to 03,88,Premium Apartment,2017,94.83,780000,Sep 2021
+8C,Upp Boon Keng Rd,13 to 15,88,Premium Apartment,2017,94.92,850000,Sep 2021
+14,Upp Boon Keng Rd,07 to 09,101,Model A,1999,76.75,640000,Sep 2021
+15,Upp Boon Keng Rd,13 to 15,88,Improved,1975,52.5,430000,Sep 2021
+83,Whampoa Dr,01 to 03,91,Improved,1974,51.42,368000,Sep 2021
+101,Whampoa Dr,22 to 24,91,Improved,1974,51.58,450000,Sep 2021
+104,Whampoa Dr,10 to 12,101,Model A,1998,76.17,617500,Sep 2021
+17,Beach Rd,13 to 15,77,Improved,1975,52.5,490000,Aug 2021
+10A,Bendemeer Rd,22 to 24,93,Model A,2017,95.42,845000,Aug 2021
+6,Boon Keng Rd,01 to 03,108,Model A,1996,74.33,650000,Aug 2021
+7,Boon Keng Rd,16 to 18,94,Dbss,2011,88.5,870000,Aug 2021
+22,Boon Keng Rd,04 to 06,88,Improved,1974,51.5,450000,Aug 2021
+11,Farrer Pk Rd,01 to 03,90,Model A,2004,81.92,630000,Aug 2021
+12,Farrer Pk Rd,07 to 09,90,Model A,2004,81.92,735000,Aug 2021
+59B,Geylang Bahru,13 to 15,102,Model A,1998,76.42,642000,Aug 2021
+9,Gloucester Rd,10 to 12,91,New Generation,1976,54.33,525000,Aug 2021
+16,Jln Tenteram,10 to 12,75,Model A,2002,80.17,463800,Aug 2021
+116A,Jln Tenteram,04 to 06,93,Model A,2017,95.33,645000,Aug 2021
+116A,Jln Tenteram,07 to 09,93,Model A,2017,95.33,708000,Aug 2021
+116A,Jln Tenteram,19 to 21,93,Model A,2017,95.25,748000,Aug 2021
+116B,Jln Tenteram,22 to 24,93,Model A,2017,95.33,725000,Aug 2021
+116B,Jln Tenteram,16 to 18,93,Model A,2017,95.33,730000,Aug 2021
+117B,Jln Tenteram,01 to 03,93,Model A,2017,95.25,655000,Aug 2021
+108B,Mcnair Rd,19 to 21,90,Model A,2004,82.33,720000,Aug 2021
+122,Mcnair Rd,07 to 09,83,Simplified,1987,64.75,515000,Aug 2021
+122,Mcnair Rd,13 to 15,104,Model A,1987,64.75,590000,Aug 2021
+4B,St. George's Lane,01 to 03,105,Model A,1996,74.42,570000,Aug 2021
+9,St. George's Rd,04 to 06,84,Simplified,1985,62.75,425000,Aug 2021
+683,Tessensohn Rd,04 to 06,103,Model A,1986,64.42,580000,Aug 2021
+683,Tessensohn Rd,01 to 03,113,Model A,1986,64.42,628000,Aug 2021
+2A,Upp Boon Keng Rd,10 to 12,85,Model A,2006,84.42,720888,Aug 2021
+3A,Upp Boon Keng Rd,01 to 03,90,Model A,2006,84.25,640000,Aug 2021
+8A,Upp Boon Keng Rd,04 to 06,88,Premium Apartment,2017,95,790000,Aug 2021
+8B,Upp Boon Keng Rd,19 to 21,95,Premium Apartment,2017,95,868000,Aug 2021
+8C,Upp Boon Keng Rd,04 to 06,88,Premium Apartment,2017,94.92,870000,Aug 2021
+8C,Upp Boon Keng Rd,10 to 12,95,Premium Apartment,2017,94.92,888000,Aug 2021
+14,Upp Boon Keng Rd,04 to 06,101,Model A,1999,76.83,641000,Aug 2021
+15,Upp Boon Keng Rd,07 to 09,88,Improved,1975,52.58,440000,Aug 2021
+83,Whampoa Dr,16 to 18,91,Improved,1974,51.42,415000,Aug 2021
+94,Whampoa Dr,10 to 12,91,Improved,1974,51.42,411000,Aug 2021
+95,Whampoa Dr,19 to 21,91,Improved,1974,51.5,419888,Aug 2021
+96,Whampoa Dr,16 to 18,91,Improved,1974,51.5,368000,Aug 2021
+100,Whampoa Dr,16 to 18,91,Improved,1974,51.67,446000,Aug 2021
+49,Whampoa Sth,01 to 03,87,Improved,1974,52.25,403000,Aug 2021
+6,Boon Keng Rd,07 to 09,106,Model A,1996,74.42,690000,Jul 2021
+466,Crawford Lane,16 to 18,82,Improved,1982,60.33,550000,Jul 2021
+816,Jellicoe Rd,28 to 30,85,Model A,2003,80.75,770000,Jul 2021
+18,Jln Tenteram,10 to 12,85,Model A,2004,82.08,535000,Jul 2021
+19,Jln Tenteram,10 to 12,85,Model A,2004,82.08,530000,Jul 2021
+116B,Jln Tenteram,13 to 15,93,Model A,2017,95.42,708000,Jul 2021
+116B,Jln Tenteram,28 to 30,93,Model A,2017,95.42,731000,Jul 2021
+108B,Mcnair Rd,22 to 24,90,Model A,2004,82.42,725000,Jul 2021
+121,Mcnair Rd,13 to 15,104,Model A,1987,65,620000,Jul 2021
+685,Race Course Rd,10 to 12,103,Model A,1986,63.58,570000,Jul 2021
+5,St. George's Lane,07 to 09,93,New Generation,1981,58.92,580000,Jul 2021
+19,St. George's Rd,04 to 06,91,New Generation,1984,62.42,440000,Jul 2021
+3C,Upp Boon Keng Rd,13 to 15,90,Model A,2006,84.08,720000,Jul 2021
+8B,Upp Boon Keng Rd,28 to 30,95,Premium Apartment,2017,95.08,960000,Jul 2021
+8C,Upp Boon Keng Rd,25 to 27,88,Premium Apartment,2017,95.08,850000,Jul 2021
+8C,Upp Boon Keng Rd,19 to 21,88,Premium Apartment,2017,95.08,850000,Jul 2021
+84,Whampoa Dr,10 to 12,91,Improved,1974,51.67,397000,Jul 2021
+49,Whampoa Sth,07 to 09,87,Improved,1974,52.33,388000,Jul 2021
+17,Beach Rd,04 to 06,77,Improved,1975,52.67,480000,Jun 2021
+38A,Bendemeer Rd,13 to 15,89,Model A,2012,90,715000,Jun 2021
+38A,Bendemeer Rd,07 to 09,89,Model A,2012,90,730000,Jun 2021
+38B,Bendemeer Rd,25 to 27,89,Model A,2012,90,770000,Jun 2021
+38C,Bendemeer Rd,13 to 15,89,Model A,2012,90,710000,Jun 2021
+38D,Bendemeer Rd,04 to 06,89,Model A,2012,90,640888,Jun 2021
+8,Boon Keng Rd,25 to 27,95,Dbss,2011,88.58,885000,Jun 2021
+43,Cambridge Rd,04 to 06,92,New Generation,1982,60.08,500000,Jun 2021
+9,Gloucester Rd,10 to 12,91,New Generation,1976,54.5,540000,Jun 2021
+106,Jln Dusun,07 to 09,94,New Generation,1981,59.08,505000,Jun 2021
+103,Jln Rajah,22 to 24,103,Model A,1984,61.83,540000,Jun 2021
+16,Jln Tenteram,04 to 06,86,Model A,2002,80.33,520000,Jun 2021
+116A,Jln Tenteram,10 to 12,93,Model A,2017,95.5,690000,Jun 2021
+116A,Jln Tenteram,22 to 24,93,Model A,2017,95.42,715000,Jun 2021
+116A,Jln Tenteram,13 to 15,93,Model A,2017,95.5,728000,Jun 2021
+116A,Jln Tenteram,25 to 27,93,Model A,2017,95.5,738000,Jun 2021
+111,Mcnair Rd,01 to 03,84,Simplified,1987,64.92,455000,Jun 2021
+124,Mcnair Rd,04 to 06,83,Simplified,1987,65.08,480000,Jun 2021
+683,Tessensohn Rd,01 to 03,103,Model A,1986,64.58,568000,Jun 2021
+107,Towner Rd,10 to 12,105,Model A,1983,61,620000,Jun 2021
+2B,Upp Boon Keng Rd,19 to 21,90,Model A,2006,84.42,730000,Jun 2021
+2B,Upp Boon Keng Rd,28 to 30,90,Model A,2006,84.42,760000,Jun 2021
+3B,Upp Boon Keng Rd,16 to 18,90,Model A,2006,84.25,668000,Jun 2021
+8A,Upp Boon Keng Rd,19 to 21,98,Premium Apartment,2017,95.17,930000,Jun 2021
+99,Whampoa Dr,04 to 06,91,Improved,1974,51.83,390000,Jun 2021
+38D,Bendemeer Rd,04 to 06,89,Model A,2012,90,705000,May 2021
+104,Jln Rajah,16 to 18,103,Model A,1984,61.75,540000,May 2021
+19,Jln Tenteram,13 to 15,90,Model A,2004,82.17,538000,May 2021
+116A,Jln Tenteram,16 to 18,93,Model A,2017,95.5,720008,May 2021
+116A,Jln Tenteram,19 to 21,93,Model A,2017,95.5,736000,May 2021
+116B,Jln Tenteram,19 to 21,93,Model A,2017,95.5,720000,May 2021
+108,Mcnair Rd,01 to 03,84,Simplified,1987,65.25,470000,May 2021
+108C,Mcnair Rd,13 to 15,90,Model A,2005,82.75,710000,May 2021
+119,Mcnair Rd,07 to 09,84,Simplified,1987,65.42,500000,May 2021
+120,Mcnair Rd,04 to 06,104,Model A,1987,65,535000,May 2021
+4B,St. George's Lane,04 to 06,106,Model A,1996,74.58,590000,May 2021
+2C,Upp Boon Keng Rd,16 to 18,90,Model A,2006,84.5,735000,May 2021
+3B,Upp Boon Keng Rd,19 to 21,90,Model A,2006,84.33,738000,May 2021
+8B,Upp Boon Keng Rd,13 to 15,95,Premium Apartment,2017,95.25,883000,May 2021
+15,Upp Boon Keng Rd,07 to 09,88,Improved,1975,52.83,435000,May 2021
+100,Whampoa Dr,16 to 18,91,Improved,1974,51.92,430000,May 2021
+114,Whampoa Rd,10 to 12,108,Model A,1995,73.33,535000,May 2021
+38D,Bendemeer Rd,16 to 18,89,Model A,2012,90.08,733000,Apr 2021
+40,Cambridge Rd,07 to 09,102,Model A,1997,75.42,680000,Apr 2021
+41,Cambridge Rd,07 to 09,92,New Generation,1982,60.25,565000,Apr 2021
+12,Farrer Pk Rd,07 to 09,90,Model A,2004,82.17,685000,Apr 2021
+13,Farrer Pk Rd,25 to 27,90,Model A,2004,82.17,740000,Apr 2021
+58,Geylang Bahru,04 to 06,102,Model A,2000,78.17,610000,Apr 2021
+18,Jln Tenteram,04 to 06,85,Model A,2004,82.25,465000,Apr 2021
+19,Jln Tenteram,04 to 06,85,Model A,2004,82.25,470000,Apr 2021
+108B,Mcnair Rd,01 to 03,86,Model A,2004,82.58,550000,Apr 2021
+105,Towner Rd,16 to 18,105,Model A,1984,62.67,685000,Apr 2021
+2D,Upp Boon Keng Rd,04 to 06,90,Model A,2006,84.58,670000,Apr 2021
+14,Upp Boon Keng Rd,04 to 06,100,Model A,1999,77.17,595000,Apr 2021
+104,Whampoa Dr,01 to 03,101,Model A,1998,76.58,560000,Apr 2021
+49,Whampoa Sth,10 to 12,87,Improved,1974,52.5,385000,Apr 2021
+15,Beach Rd,13 to 15,77,Improved,1975,52.92,480000,Mar 2021
+38B,Bendemeer Rd,10 to 12,89,Model A,2012,90.17,705000,Mar 2021
+38D,Bendemeer Rd,10 to 12,89,Model A,2012,90.17,705000,Mar 2021
+39A,Bendemeer Rd,07 to 09,89,Model A,2012,90.17,650000,Mar 2021
+41,Cambridge Rd,04 to 06,91,New Generation,1982,60.33,520000,Mar 2021
+13,Farrer Pk Rd,07 to 09,90,Model A,2004,82.25,685000,Mar 2021
+13,Farrer Pk Rd,22 to 24,90,Model A,2004,82.25,730000,Mar 2021
+5,Jln Batu,07 to 09,125,Adjoined Flat,1969,46.92,490000,Mar 2021
+17,Jln Tenteram,07 to 09,86,Model A,2001,79.75,510000,Mar 2021
+52,Kent Rd,04 to 06,91,New Generation,1982,60.25,502000,Mar 2021
+52,Kent Rd,04 to 06,91,New Generation,1982,60.25,538000,Mar 2021
+111,Lor 3 Geylang,04 to 06,104,Model A,1989,67.17,560000,Mar 2021
+114,Lor 3 Geylang,01 to 03,107,Model A,1989,67.25,490000,Mar 2021
+108B,Mcnair Rd,22 to 24,90,Model A,2004,82.67,720000,Mar 2021
+69,Moulmein Rd,10 to 12,84,Improved,1972,50.33,490000,Mar 2021
+18,St. George's Rd,04 to 06,91,New Generation,1984,62.83,465000,Mar 2021
+18,St. George's Rd,10 to 12,91,New Generation,1984,62.83,475000,Mar 2021
+103,Towner Rd,07 to 09,109,Model A,1983,61.75,630000,Mar 2021
+3A,Upp Boon Keng Rd,16 to 18,90,Model A,2006,84.58,620000,Mar 2021
+84,Whampoa Dr,16 to 18,91,Improved,1974,51.83,385000,Mar 2021
+6,Beach Rd,10 to 12,70,Standard,1979,57.67,405000,Feb 2021
+40,Cambridge Rd,07 to 09,101,Model A,1997,75.58,625000,Feb 2021
+9,Gloucester Rd,13 to 15,91,New Generation,1976,54.75,515000,Feb 2021
+106,Jln Dusun,07 to 09,93,New Generation,1981,59.33,500000,Feb 2021
+102,Jln Rajah,10 to 12,94,New Generation,1981,59,465000,Feb 2021
+16,Jln Tenteram,04 to 06,75,Model A,2002,80.67,405000,Feb 2021
+16,Jln Tenteram,01 to 03,85,Model A,2002,80.67,420000,Feb 2021
+17,Jln Tenteram,07 to 09,86,Model A,2001,79.75,485000,Feb 2021
+119,Mcnair Rd,07 to 09,84,Simplified,1987,65.67,470000,Feb 2021
+121,Mcnair Rd,04 to 06,104,Model A,1987,65.42,518000,Feb 2021
+121,Mcnair Rd,13 to 15,104,Model A,1987,65.42,570000,Feb 2021
+8C,Upp Boon Keng Rd,22 to 24,95,Premium Apartment,2017,95.42,888000,Feb 2021
+14A,Upp Boon Keng Rd,07 to 09,101,Model A,1999,77.42,620000,Feb 2021
+111,Whampoa Rd,07 to 09,103,Model A,1997,75.83,545000,Feb 2021
+15,Beach Rd,07 to 09,77,Improved,1975,53,470000,Jan 2021
+38B,Bendemeer Rd,16 to 18,89,Model A,2012,90.42,758888,Jan 2021
+7,Boon Keng Rd,34 to 36,95,Dbss,2011,89.08,873888,Jan 2021
+8,Boon Keng Rd,13 to 15,94,Dbss,2011,89,818000,Jan 2021
+22,Boon Keng Rd,01 to 03,88,Improved,1974,52,416000,Jan 2021
+22,Boon Keng Rd,07 to 09,88,Improved,1974,52.08,450000,Jan 2021
+15,Farrer Pk Rd,04 to 06,75,Model A,2004,82.5,526000,Jan 2021
+813,Jellicoe Rd,19 to 21,90,Model A,2003,81.17,740000,Jan 2021
+813,Jellicoe Rd,13 to 15,91,Model A,2003,81.17,742000,Jan 2021
+101,Jln Rajah,01 to 03,94,New Generation,1980,59,435000,Jan 2021
+17,Jln Tenteram,16 to 18,85,Model A,2001,79.83,510000,Jan 2021
+51,Kent Rd,07 to 09,91,New Generation,1982,60.33,480000,Jan 2021
+52,Kent Rd,01 to 03,91,New Generation,1982,60.33,435000,Jan 2021
+4B,St. George's Lane,10 to 12,105,Model A,1996,74.92,585000,Jan 2021
+2D,Upp Boon Keng Rd,22 to 24,90,Model A,2006,84.67,725000,Jan 2021
+3D,Upp Boon Keng Rd,07 to 09,90,Model A,2006,84.67,655000,Jan 2021
+3D,Upp Boon Keng Rd,04 to 06,90,Model A,2006,84.67,655000,Jan 2021
+14A,Upp Boon Keng Rd,01 to 03,100,Model A,1999,77.42,602000,Jan 2021
+15,Upp Boon Keng Rd,13 to 15,88,Improved,1975,53.17,424000,Jan 2021
+83,Whampoa Dr,19 to 21,91,Improved,1974,52,370000,Jan 2021
+84,Whampoa Dr,19 to 21,91,Improved,1974,52.08,400000,Jan 2021
+95,Whampoa Dr,19 to 21,91,Improved,1974,52.08,388888,Jan 2021
+17,Beach Rd,04 to 06,77,Improved,1975,53.08,470000,Dec 2020
+38C,Bendemeer Rd,04 to 06,92,Model A,2012,90.5,678000,Dec 2020
+41,Cambridge Rd,01 to 03,91,New Generation,1982,60.58,550000,Dec 2020
+42,Cambridge Rd,07 to 09,91,New Generation,1982,60.5,555000,Dec 2020
+466,Crawford Lane,07 to 09,82,Improved,1982,60.92,540000,Dec 2020
+12,Farrer Pk Rd,07 to 09,90,Model A,2004,82.5,681000,Dec 2020
+59C,Geylang Bahru,16 to 18,100,Model A,1998,77.08,670000,Dec 2020
+10,Jln Batu,10 to 12,105,New Generation,1986,64.17,563000,Dec 2020
+101,Jln Rajah,13 to 15,94,New Generation,1980,59,510000,Dec 2020
+51,Kent Rd,01 to 03,91,New Generation,1982,60.5,420000,Dec 2020
+108,Mcnair Rd,07 to 09,104,Model A,1987,65.67,550000,Dec 2020
+11,St. George's Rd,10 to 12,84,Simplified,1985,63.33,448000,Dec 2020
+2D,Upp Boon Keng Rd,10 to 12,90,Model A,2006,84.75,730000,Dec 2020
+3D,Upp Boon Keng Rd,01 to 03,90,Model A,2006,84.75,615000,Dec 2020
+3D,Upp Boon Keng Rd,04 to 06,90,Model A,2006,84.83,690000,Dec 2020
+8B,Upp Boon Keng Rd,10 to 12,95,Premium Apartment,2017,95.67,880000,Dec 2020
+95,Whampoa Dr,04 to 06,91,Improved,1974,52.17,345000,Dec 2020
+49,Whampoa Sth,01 to 03,87,Improved,1974,52.92,380000,Dec 2020
+38C,Bendemeer Rd,10 to 12,92,Model A,2012,90.58,710000,Nov 2020
+4,Boon Keng Rd,01 to 03,108,Model A,1996,74.92,625000,Nov 2020
+4,Boon Keng Rd,04 to 06,108,Model A,1996,74.92,625000,Nov 2020
+6,Boon Keng Rd,07 to 09,106,Model A,1996,75,678000,Nov 2020
+7,Boon Keng Rd,37 to 39,95,Dbss,2011,89.25,902000,Nov 2020
+22,Boon Keng Rd,07 to 09,88,Improved,1974,52.25,465000,Nov 2020
+22,Boon Keng Rd,04 to 06,87,Improved,1974,52.25,473000,Nov 2020
+38,Cambridge Rd,04 to 06,100,Model A,1997,76.08,600000,Nov 2020
+40,Cambridge Rd,07 to 09,102,Model A,1997,75.83,611000,Nov 2020
+9,Gloucester Rd,13 to 15,92,New Generation,1976,55,505000,Nov 2020
+19,Jln Tenteram,01 to 03,85,Model A,2004,82.67,420000,Nov 2020
+14,Kg Arang Rd,04 to 06,123,New Generation,1984,62.83,600000,Nov 2020
+120,Mcnair Rd,10 to 12,104,Model A,1987,65.42,500000,Nov 2020
+121,Mcnair Rd,04 to 06,104,Model A,1987,65.67,504000,Nov 2020
+69,Moulmein Rd,04 to 06,84,Improved,1972,50.67,530000,Nov 2020
+1,St. George's Rd,01 to 03,82,Improved,1976,54.5,345000,Nov 2020
+16,St. George's Rd,04 to 06,93,New Generation,1984,62.92,455000,Nov 2020
+16,St. George's Rd,01 to 03,93,New Generation,1984,62.83,460000,Nov 2020
+20,St. George's Rd,07 to 09,93,New Generation,1984,62.92,460000,Nov 2020
+103,Towner Rd,04 to 06,109,Model A,1983,62.17,715000,Nov 2020
+2A,Upp Boon Keng Rd,22 to 24,90,Model A,2006,85.17,692000,Nov 2020
+14A,Upp Boon Keng Rd,07 to 09,101,Model A,1999,77.58,638888,Nov 2020
+99,Whampoa Dr,19 to 21,91,Improved,1974,52.42,395000,Nov 2020
+114,Whampoa Rd,01 to 03,108,Model A,1995,73.83,465000,Nov 2020

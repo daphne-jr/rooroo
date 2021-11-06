@@ -1,0 +1,1437 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date
+818A,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,94.92,503000,Nov 2021
+471,Choa Chu Kang Ave 3,07 to 09,101,Model A,1999,76.33,438000,Nov 2021
+459,Choa Chu Kang Ave 4,10 to 12,105,Premium Apartment,2000,77.5,436500,Nov 2021
+487C,Choa Chu Kang Ave 5,01 to 03,93,Model A,2016,93.67,435000,Nov 2021
+490C,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,93.75,460000,Nov 2021
+810B,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,95.08,480000,Nov 2021
+815B,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,94.42,535000,Nov 2021
+815B,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,94.42,550000,Nov 2021
+815C,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,94.42,490000,Nov 2021
+815C,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,94.42,495000,Nov 2021
+659,Choa Chu Kang Cres,10 to 12,100,Premium Apartment,1999,76.5,425000,Nov 2021
+678,Choa Chu Kang Cres,04 to 06,105,Premium Apartment,1999,77.08,422000,Nov 2021
+707,Choa Chu Kang St 53,10 to 12,117,Model A,1995,72.58,460000,Nov 2021
+801C,Keat Hong Cl,07 to 09,92,Model A,2018,95.33,485000,Nov 2021
+805C,Keat Hong Cl,10 to 12,93,Model A,2017,94.58,500000,Nov 2021
+132,Choa Chu Kang Ave 1,10 to 12,104,Model A,1993,70.67,420000,Oct 2021
+807B,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,94.58,490000,Oct 2021
+807C,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.58,485000,Oct 2021
+818A,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,95,530000,Oct 2021
+818B,Choa Chu Kang Ave 1,16 to 18,92,Model A,2017,95,530000,Oct 2021
+250,Choa Chu Kang Ave 2,01 to 03,104,Model A,1993,70.75,420000,Oct 2021
+296,Choa Chu Kang Ave 2,01 to 03,101,Premium Apartment,1999,76.83,427500,Oct 2021
+281,Choa Chu Kang Ave 3,04 to 06,106,Model A,1992,69.83,403000,Oct 2021
+289,Choa Chu Kang Ave 3,04 to 06,104,Model A,1993,70.75,350000,Oct 2021
+408,Choa Chu Kang Ave 3,07 to 09,110,Model A,1993,70.75,438000,Oct 2021
+426,Choa Chu Kang Ave 4,10 to 12,106,Model A,1993,70.67,460000,Oct 2021
+431,Choa Chu Kang Ave 4,04 to 06,104,Model A,1993,70.67,475000,Oct 2021
+460,Choa Chu Kang Ave 4,07 to 09,103,Premium Apartment,2000,77.58,410000,Oct 2021
+487B,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,93.75,447500,Oct 2021
+487B,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,93.75,470000,Oct 2021
+487C,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,93.75,468000,Oct 2021
+490D,Choa Chu Kang Ave 5,13 to 15,93,Model A,2016,93.75,500000,Oct 2021
+810B,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.08,500000,Oct 2021
+811B,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,95.17,485000,Oct 2021
+812A,Choa Chu Kang Ave 7,19 to 21,93,Model A,2017,95.08,518000,Oct 2021
+812B,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.08,475000,Oct 2021
+812C,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.17,480000,Oct 2021
+815A,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,94.42,510000,Oct 2021
+815A,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,94.42,530000,Oct 2021
+815B,Choa Chu Kang Ave 7,19 to 21,93,Model A,2017,94.5,535000,Oct 2021
+815C,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,94.5,535000,Oct 2021
+661,Choa Chu Kang Cres,13 to 15,100,Premium Apartment,1999,76.58,430000,Oct 2021
+667,Choa Chu Kang Cres,10 to 12,103,Model A,1999,76.67,426000,Oct 2021
+672,Choa Chu Kang Cres,04 to 06,100,Premium Apartment,2000,77.42,420888,Oct 2021
+673,Choa Chu Kang Cres,07 to 09,104,Premium Apartment,1999,77.08,395000,Oct 2021
+678,Choa Chu Kang Cres,07 to 09,105,Premium Apartment,1999,77.17,460000,Oct 2021
+691B,Choa Chu Kang Cres,13 to 15,91,Model A,2003,80.67,400000,Oct 2021
+692B,Choa Chu Kang Cres,19 to 21,91,Model A,2003,80.42,423000,Oct 2021
+205,Choa Chu Kang Ctrl,01 to 03,104,Model A,1989,66.58,425000,Oct 2021
+224,Choa Chu Kang Ctrl,07 to 09,104,Model A,1993,70.67,440000,Oct 2021
+226,Choa Chu Kang Ctrl,10 to 12,105,Model A,1993,70.75,440000,Oct 2021
+689B,Choa Chu Kang Dr,04 to 06,90,Model A,2002,79.58,398000,Oct 2021
+760,Choa Chu Kang Nth 5,07 to 09,108,Model A,1995,72.67,455000,Oct 2021
+541,Choa Chu Kang St 52,01 to 03,107,Model A,1994,71.5,408888,Oct 2021
+574,Choa Chu Kang St 52,04 to 06,92,Model A,2015,92.33,485000,Oct 2021
+609,Choa Chu Kang St 62,01 to 03,107,Model A,1996,73.67,425000,Oct 2021
+626,Choa Chu Kang St 62,01 to 03,101,Model A,1997,74.67,437000,Oct 2021
+638,Choa Chu Kang St 64,04 to 06,100,Premium Apartment,1998,75.25,520000,Oct 2021
+640,Choa Chu Kang St 64,07 to 09,100,Premium Apartment,1998,75.33,532000,Oct 2021
+150,Jln Teck Whye,04 to 06,100,Model A,1998,75.33,420888,Oct 2021
+162,Jln Teck Whye,13 to 15,101,Model A,1998,75.42,455888,Oct 2021
+801B,Keat Hong Cl,01 to 03,92,Model A,2018,95.5,450000,Oct 2021
+801C,Keat Hong Cl,07 to 09,92,Model A,2018,95.42,490000,Oct 2021
+802A,Keat Hong Cl,10 to 12,92,Model A,2018,95.42,478000,Oct 2021
+802A,Keat Hong Cl,13 to 15,92,Model A,2018,95.42,483000,Oct 2021
+802B,Keat Hong Cl,04 to 06,92,Model A,2018,95.42,460000,Oct 2021
+803D,Keat Hong Cl,16 to 18,93,Model A,2017,94.67,508000,Oct 2021
+805D,Keat Hong Cl,07 to 09,93,Model A,2017,94.67,480000,Oct 2021
+817A,Keat Hong Link,04 to 06,92,Model A,2017,94.92,485000,Oct 2021
+817A,Keat Hong Link,07 to 09,92,Model A,2017,95,518000,Oct 2021
+817B,Keat Hong Link,07 to 09,92,Model A,2017,95,510000,Oct 2021
+817C,Keat Hong Link,19 to 21,92,Model A,2017,95,532000,Oct 2021
+17,Teck Whye Lane,07 to 09,93,New Generation,1981,59,368000,Oct 2021
+19,Teck Whye Lane,10 to 12,93,New Generation,1981,59,370000,Oct 2021
+20,Teck Whye Lane,10 to 12,91,New Generation,1981,58.92,361000,Oct 2021
+20,Teck Whye Lane,10 to 12,91,New Generation,1981,59,383000,Oct 2021
+111,Teck Whye Lane,01 to 03,103,Model A,1989,67,390000,Oct 2021
+202,Choa Chu Kang Ave 1,04 to 06,104,Model A,1989,67.33,445000,Sep 2021
+807C,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,94.67,475000,Sep 2021
+807C,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.67,492088,Sep 2021
+808A,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.67,480000,Sep 2021
+818A,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.08,500000,Sep 2021
+818A,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.08,515000,Sep 2021
+818A,Choa Chu Kang Ave 1,19 to 21,92,Model A,2017,95.08,530000,Sep 2021
+818B,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.08,480000,Sep 2021
+818B,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.08,495000,Sep 2021
+818B,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.08,500000,Sep 2021
+818B,Choa Chu Kang Ave 1,19 to 21,92,Model A,2017,95.08,530000,Sep 2021
+284,Choa Chu Kang Ave 3,01 to 03,104,Model A,1990,67.92,395000,Sep 2021
+289,Choa Chu Kang Ave 3,10 to 12,104,Model A,1993,70.83,416000,Sep 2021
+406,Choa Chu Kang Ave 3,01 to 03,104,Model A,1993,70.83,390000,Sep 2021
+411,Choa Chu Kang Ave 3,07 to 09,104,Model A,1992,69.92,445000,Sep 2021
+413,Choa Chu Kang Ave 3,01 to 03,104,Model A,1992,69.92,420000,Sep 2021
+422,Choa Chu Kang Ave 4,10 to 12,104,Model A,1992,69.83,450000,Sep 2021
+431,Choa Chu Kang Ave 4,04 to 06,104,Model A,1993,70.75,458000,Sep 2021
+435,Choa Chu Kang Ave 4,04 to 06,104,Model A,1993,70.83,440000,Sep 2021
+442,Choa Chu Kang Ave 4,04 to 06,91,Model A2,1997,74.58,405000,Sep 2021
+443,Choa Chu Kang Ave 4,04 to 06,90,Model A2,1997,74.67,390888,Sep 2021
+451,Choa Chu Kang Ave 4,10 to 12,104,Premium Apartment,2000,77.5,412000,Sep 2021
+456,Choa Chu Kang Ave 4,04 to 06,104,Premium Apartment,2000,77.67,390000,Sep 2021
+460,Choa Chu Kang Ave 4,16 to 18,104,Premium Apartment,2000,77.67,430000,Sep 2021
+487B,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,93.83,452500,Sep 2021
+487B,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,93.83,483888,Sep 2021
+488C,Choa Chu Kang Ave 5,01 to 03,93,Model A,2016,93.83,450000,Sep 2021
+810B,Choa Chu Kang Ave 7,01 to 03,93,Model A,2017,95.25,445000,Sep 2021
+810B,Choa Chu Kang Ave 7,01 to 03,93,Model A,2017,95.25,455000,Sep 2021
+810B,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.25,490000,Sep 2021
+810B,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.17,500000,Sep 2021
+812A,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.25,498000,Sep 2021
+812A,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.25,500000,Sep 2021
+812C,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.25,500888,Sep 2021
+812C,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.25,500888,Sep 2021
+815B,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,94.5,510000,Sep 2021
+815C,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,94.58,482000,Sep 2021
+815C,Choa Chu Kang Ave 7,19 to 21,93,Model A,2017,94.5,503000,Sep 2021
+659,Choa Chu Kang Cres,04 to 06,103,Premium Apartment,1999,76.67,430000,Sep 2021
+673,Choa Chu Kang Cres,01 to 03,103,Premium Apartment,1999,77.17,400000,Sep 2021
+682,Choa Chu Kang Cres,04 to 06,105,Premium Apartment,1999,77.17,420000,Sep 2021
+683A,Choa Chu Kang Cres,10 to 12,90,Model A,2002,79.92,395000,Sep 2021
+685B,Choa Chu Kang Cres,10 to 12,90,Model A,2002,80.08,395000,Sep 2021
+686B,Choa Chu Kang Cres,07 to 09,90,Model A,2002,80.17,405000,Sep 2021
+686B,Choa Chu Kang Cres,13 to 15,90,Model A,2002,80.17,420000,Sep 2021
+688C,Choa Chu Kang Cres,13 to 15,90,Model A,2003,80.5,400000,Sep 2021
+210,Choa Chu Kang Ctrl,04 to 06,104,Model A,1990,67.5,425000,Sep 2021
+212,Choa Chu Kang Ctrl,01 to 03,104,Model A,1989,66.83,415000,Sep 2021
+232,Choa Chu Kang Ctrl,04 to 06,105,Model A,1990,67.67,430000,Sep 2021
+790,Choa Chu Kang Nth 6,10 to 12,111,Model A,1996,74.25,488000,Sep 2021
+514,Choa Chu Kang St 51,04 to 06,104,Model A,1995,73.08,401000,Sep 2021
+562,Choa Chu Kang St 52,01 to 03,109,Model A,1995,72.83,455000,Sep 2021
+573,Choa Chu Kang St 52,07 to 09,92,Model A,2015,92.42,485000,Sep 2021
+574,Choa Chu Kang St 52,04 to 06,92,Model A,2015,92.42,471000,Sep 2021
+702,Choa Chu Kang St 53,07 to 09,109,Model A,1995,72.67,418888,Sep 2021
+707,Choa Chu Kang St 53,13 to 15,107,Model A,1995,72.75,448000,Sep 2021
+640,Choa Chu Kang St 64,13 to 15,100,Premium Apartment,1998,75.42,510000,Sep 2021
+160,Jln Teck Whye,13 to 15,101,Model A,1998,75.42,488000,Sep 2021
+801B,Keat Hong Cl,04 to 06,92,Model A,2018,95.5,458000,Sep 2021
+802B,Keat Hong Cl,13 to 15,92,Model A,2018,95.42,500000,Sep 2021
+803C,Keat Hong Cl,10 to 12,93,Model A,2017,94.75,485000,Sep 2021
+804A,Keat Hong Cl,10 to 12,93,Model A,2017,94.75,488000,Sep 2021
+805B,Keat Hong Cl,07 to 09,93,Model A,2017,94.75,475000,Sep 2021
+805C,Keat Hong Cl,10 to 12,93,Model A,2017,94.67,490000,Sep 2021
+817A,Keat Hong Link,01 to 03,92,Model A,2017,95.17,460000,Sep 2021
+817A,Keat Hong Link,04 to 06,92,Model A,2017,95.08,480000,Sep 2021
+817B,Keat Hong Link,04 to 06,92,Model A,2017,95,470000,Sep 2021
+817B,Keat Hong Link,10 to 12,92,Model A,2017,95.08,515000,Sep 2021
+15,Teck Whye Lane,13 to 15,92,New Generation,1979,56.58,360000,Sep 2021
+20,Teck Whye Lane,04 to 06,91,New Generation,1981,59.08,300000,Sep 2021
+111,Teck Whye Lane,10 to 12,103,Model A,1989,67.08,393888,Sep 2021
+807B,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.75,505000,Aug 2021
+808A,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,94.75,465000,Aug 2021
+808B,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,94.75,472000,Aug 2021
+808C,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.75,495000,Aug 2021
+809B,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,94.75,454988,Aug 2021
+809B,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,94.75,470000,Aug 2021
+818B,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.17,468000,Aug 2021
+818C,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.08,463000,Aug 2021
+252,Choa Chu Kang Ave 2,04 to 06,108,Model A,1994,72.42,415888,Aug 2021
+296A,Choa Chu Kang Ave 2,13 to 15,102,Premium Apartment,1999,77,400888,Aug 2021
+290,Choa Chu Kang Ave 3,04 to 06,106,Model A,1993,70.92,398000,Aug 2021
+290,Choa Chu Kang Ave 3,07 to 09,123,Model A,1993,70.92,485000,Aug 2021
+291,Choa Chu Kang Ave 3,04 to 06,104,Model A,1993,70.92,458000,Aug 2021
+401,Choa Chu Kang Ave 3,13 to 15,104,Model A,1993,70.92,455000,Aug 2021
+402,Choa Chu Kang Ave 3,01 to 03,104,Model A,1993,71,380000,Aug 2021
+408,Choa Chu Kang Ave 3,04 to 06,104,Model A,1993,70.83,396000,Aug 2021
+411,Choa Chu Kang Ave 3,07 to 09,104,Model A,1992,70,395000,Aug 2021
+416,Choa Chu Kang Ave 4,07 to 09,104,Model A,1993,70.83,450000,Aug 2021
+421,Choa Chu Kang Ave 4,10 to 12,104,Model A,1992,69.92,435000,Aug 2021
+430,Choa Chu Kang Ave 4,01 to 03,104,Model A,1993,70.92,440000,Aug 2021
+443,Choa Chu Kang Ave 4,10 to 12,100,Model A2,1997,74.75,435000,Aug 2021
+476C,Choa Chu Kang Ave 5,10 to 12,92,Model A,2013,91,470000,Aug 2021
+484,Choa Chu Kang Ave 5,13 to 15,101,Model A,1999,76.83,380000,Aug 2021
+484,Choa Chu Kang Ave 5,07 to 09,100,Model A,1999,76.83,432000,Aug 2021
+487A,Choa Chu Kang Ave 5,13 to 15,93,Model A,2016,93.92,460000,Aug 2021
+487C,Choa Chu Kang Ave 5,13 to 15,93,Model A,2016,93.83,495000,Aug 2021
+488A,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,93.83,500000,Aug 2021
+489C,Choa Chu Kang Ave 5,01 to 03,93,Model A,2016,93.92,425000,Aug 2021
+810B,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,95.33,500000,Aug 2021
+811A,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.25,460000,Aug 2021
+811A,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,95.33,473000,Aug 2021
+811B,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.25,466000,Aug 2021
+812A,Choa Chu Kang Ave 7,01 to 03,93,Model A,2017,95.33,425000,Aug 2021
+812A,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,95.25,470000,Aug 2021
+812A,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,95.33,510000,Aug 2021
+812A,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.25,510000,Aug 2021
+812A,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.33,520888,Aug 2021
+812B,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,95.25,460000,Aug 2021
+812B,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,95.33,483000,Aug 2021
+812B,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.33,485000,Aug 2021
+812B,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,95.42,500000,Aug 2021
+815A,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,94.58,530000,Aug 2021
+815C,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,94.58,528200,Aug 2021
+677,Choa Chu Kang Cres,04 to 06,106,Premium Apartment,1999,77.25,445000,Aug 2021
+683C,Choa Chu Kang Cres,10 to 12,90,Model A,2002,80,420000,Aug 2021
+685B,Choa Chu Kang Cres,10 to 12,90,Model A,2002,80.17,410000,Aug 2021
+685C,Choa Chu Kang Cres,01 to 03,86,Model A2,2002,80.25,360000,Aug 2021
+205,Choa Chu Kang Ctrl,04 to 06,104,Model A,1989,66.75,425000,Aug 2021
+206,Choa Chu Kang Ctrl,07 to 09,104,Model A,1989,66.67,430000,Aug 2021
+689B,Choa Chu Kang Dr,04 to 06,90,Model A,2002,79.75,365000,Aug 2021
+792,Choa Chu Kang Nth 6,10 to 12,111,Model A,1996,74.17,460000,Aug 2021
+546,Choa Chu Kang St 52,07 to 09,105,Model A,1995,72.58,425000,Aug 2021
+550,Choa Chu Kang St 52,10 to 12,103,Model A,1994,71.75,400000,Aug 2021
+570,Choa Chu Kang St 52,01 to 03,92,Model A,2015,92.5,423000,Aug 2021
+573,Choa Chu Kang St 52,07 to 09,92,Model A,2015,92.5,470000,Aug 2021
+574,Choa Chu Kang St 52,04 to 06,92,Model A,2015,92.5,448000,Aug 2021
+642,Choa Chu Kang St 64,07 to 09,100,Premium Apartment,1998,75.5,520000,Aug 2021
+151,Jln Teck Whye,10 to 12,100,Model A,1998,75.5,445000,Aug 2021
+157,Jln Teck Whye,13 to 15,91,Model A2,1998,75.5,438000,Aug 2021
+801A,Keat Hong Cl,13 to 15,92,Model A,2018,95.58,485000,Aug 2021
+801B,Keat Hong Cl,07 to 09,92,Model A,2018,95.5,465888,Aug 2021
+802A,Keat Hong Cl,04 to 06,92,Model A,2018,95.58,460000,Aug 2021
+802A,Keat Hong Cl,07 to 09,92,Model A,2018,95.58,467000,Aug 2021
+803C,Keat Hong Cl,13 to 15,93,Model A,2017,94.83,480000,Aug 2021
+804A,Keat Hong Cl,10 to 12,93,Model A,2017,94.83,455000,Aug 2021
+804B,Keat Hong Cl,04 to 06,93,Model A,2017,94.83,466000,Aug 2021
+805C,Keat Hong Cl,07 to 09,93,Model A,2017,94.83,490000,Aug 2021
+805C,Keat Hong Cl,10 to 12,93,Model A,2017,94.83,500000,Aug 2021
+805C,Keat Hong Cl,16 to 18,93,Model A,2017,94.83,502000,Aug 2021
+805D,Keat Hong Cl,13 to 15,93,Model A,2017,94.83,470000,Aug 2021
+805D,Keat Hong Cl,10 to 12,93,Model A,2017,94.75,480000,Aug 2021
+816A,Keat Hong Link,01 to 03,92,Model A,2017,95.08,455000,Aug 2021
+816B,Keat Hong Link,04 to 06,92,Model A,2017,95.17,470000,Aug 2021
+817A,Keat Hong Link,10 to 12,92,Model A,2017,95.08,510000,Aug 2021
+817B,Keat Hong Link,07 to 09,92,Model A,2017,95.25,475000,Aug 2021
+817B,Keat Hong Link,10 to 12,92,Model A,2017,95.17,500000,Aug 2021
+817B,Keat Hong Link,13 to 15,92,Model A,2017,95.17,508000,Aug 2021
+817B,Keat Hong Link,13 to 15,92,Model A,2017,95.17,525000,Aug 2021
+817B,Keat Hong Link,16 to 18,92,Model A,2017,95.17,528000,Aug 2021
+15,Teck Whye Lane,01 to 03,92,New Generation,1979,56.58,319000,Aug 2021
+25,Teck Whye Lane,07 to 09,92,New Generation,1979,56.58,350000,Aug 2021
+102,Teck Whye Lane,07 to 09,104,Model A,1989,66.75,424888,Aug 2021
+110,Teck Whye Lane,07 to 09,103,Model A,1989,67.25,390000,Aug 2021
+118,Teck Whye Lane,01 to 03,106,Model A,1989,66.58,375000,Aug 2021
+119,Teck Whye Lane,07 to 09,104,Model A,1989,66.58,422000,Aug 2021
+142,Teck Whye Lane,04 to 06,103,Model A,1989,66.92,377000,Aug 2021
+131,Choa Chu Kang Ave 1,13 to 15,104,Model A,1993,71,399000,Jul 2021
+808A,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,94.83,478000,Jul 2021
+809A,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,94.83,475000,Jul 2021
+818B,Choa Chu Kang Ave 1,16 to 18,92,Model A,2017,95.25,488000,Jul 2021
+296,Choa Chu Kang Ave 2,07 to 09,102,Premium Apartment,1999,77.08,408000,Jul 2021
+297D,Choa Chu Kang Ave 2,10 to 12,101,Premium Apartment,1999,77.08,430000,Jul 2021
+285,Choa Chu Kang Ave 3,07 to 09,104,Model A,1993,70.92,410168,Jul 2021
+402,Choa Chu Kang Ave 3,07 to 09,104,Model A,1993,71.08,402000,Jul 2021
+409,Choa Chu Kang Ave 3,07 to 09,106,Model A,1992,69.92,415000,Jul 2021
+474,Choa Chu Kang Ave 3,07 to 09,100,Model A,1999,76.83,393000,Jul 2021
+440,Choa Chu Kang Ave 4,04 to 06,106,Model A,1993,71,408000,Jul 2021
+445,Choa Chu Kang Ave 4,07 to 09,101,Model A,1997,74.67,401000,Jul 2021
+476D,Choa Chu Kang Ave 5,04 to 06,92,Model A,2013,91.08,463000,Jul 2021
+485A,Choa Chu Kang Ave 5,04 to 06,102,Model A,1999,77,400000,Jul 2021
+487B,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,93.92,460000,Jul 2021
+487C,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94,465000,Jul 2021
+488B,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,93.92,485000,Jul 2021
+488C,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94,459000,Jul 2021
+488C,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94,477000,Jul 2021
+488D,Choa Chu Kang Ave 5,13 to 15,93,Model A,2016,94,488000,Jul 2021
+489C,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94,450000,Jul 2021
+489D,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94,458800,Jul 2021
+490B,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94,438000,Jul 2021
+811A,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,95.42,450000,Jul 2021
+811A,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,95.42,450000,Jul 2021
+815A,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,94.75,460000,Jul 2021
+815A,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,94.75,485000,Jul 2021
+815B,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,94.75,465000,Jul 2021
+815B,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,94.75,470000,Jul 2021
+815B,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,94.75,520000,Jul 2021
+815C,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,94.75,460000,Jul 2021
+815C,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,94.75,460000,Jul 2021
+815C,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,94.75,465000,Jul 2021
+815C,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,94.83,500000,Jul 2021
+670A,Choa Chu Kang Cres,13 to 15,104,Premium Apartment,1999,77.5,415000,Jul 2021
+678,Choa Chu Kang Cres,04 to 06,106,Premium Apartment,1999,77.42,420000,Jul 2021
+686B,Choa Chu Kang Cres,01 to 03,91,Model A,2002,80.25,380000,Jul 2021
+688C,Choa Chu Kang Cres,10 to 12,90,Model A,2003,80.75,375000,Jul 2021
+688C,Choa Chu Kang Cres,16 to 18,90,Model A,2003,80.75,406000,Jul 2021
+226,Choa Chu Kang Ctrl,04 to 06,105,Model A,1993,70.92,440000,Jul 2021
+637,Choa Chu Kang Nth 6,07 to 09,113,Premium Apartment,1998,75.58,490000,Jul 2021
+501,Choa Chu Kang St 51,04 to 06,107,Model A,1995,72.75,393000,Jul 2021
+574,Choa Chu Kang St 52,10 to 12,92,Model A,2015,92.58,511000,Jul 2021
+769,Choa Chu Kang St 54,16 to 18,106,Model A,1996,74.33,475000,Jul 2021
+771,Choa Chu Kang St 54,10 to 12,104,Model A,1996,74.08,468000,Jul 2021
+611,Choa Chu Kang St 62,01 to 03,107,Model A,1996,74,425000,Jul 2021
+625,Choa Chu Kang St 62,10 to 12,100,Model A,1997,74.92,448888,Jul 2021
+157,Jln Teck Whye,01 to 03,91,Model A2,1998,75.58,367000,Jul 2021
+157,Jln Teck Whye,10 to 12,100,Model A2,1998,75.58,400000,Jul 2021
+801A,Keat Hong Cl,04 to 06,92,Model A,2018,95.67,450000,Jul 2021
+801B,Keat Hong Cl,10 to 12,92,Model A,2018,95.67,468000,Jul 2021
+801C,Keat Hong Cl,04 to 06,92,Model A,2018,95.58,441888,Jul 2021
+803B,Keat Hong Cl,07 to 09,93,Model A,2017,94.92,460000,Jul 2021
+803C,Keat Hong Cl,04 to 06,93,Model A,2017,94.92,435000,Jul 2021
+803D,Keat Hong Cl,10 to 12,93,Model A,2017,94.92,475000,Jul 2021
+803D,Keat Hong Cl,16 to 18,93,Model A,2017,94.92,488000,Jul 2021
+803D,Keat Hong Cl,16 to 18,93,Model A,2017,94.83,490000,Jul 2021
+804B,Keat Hong Cl,07 to 09,93,Model A,2017,95,465000,Jul 2021
+805C,Keat Hong Cl,01 to 03,93,Model A,2017,95,438000,Jul 2021
+805C,Keat Hong Cl,04 to 06,93,Model A,2017,94.92,500000,Jul 2021
+805D,Keat Hong Cl,10 to 12,93,Model A,2017,94.92,465000,Jul 2021
+805D,Keat Hong Cl,07 to 09,93,Model A,2017,94.92,470000,Jul 2021
+817A,Keat Hong Link,07 to 09,92,Model A,2017,95.25,460000,Jul 2021
+817A,Keat Hong Link,13 to 15,92,Model A,2017,95.25,525000,Jul 2021
+817B,Keat Hong Link,07 to 09,92,Model A,2017,95.25,478000,Jul 2021
+817B,Keat Hong Link,10 to 12,92,Model A,2017,95.25,498000,Jul 2021
+817B,Keat Hong Link,19 to 21,92,Model A,2017,95.25,535000,Jul 2021
+1,Teck Whye Ave,04 to 06,103,Model A,1984,62.33,378000,Jul 2021
+17,Teck Whye Lane,07 to 09,91,New Generation,1981,59.25,370000,Jul 2021
+110,Teck Whye Lane,10 to 12,103,Model A,1989,67.33,408000,Jul 2021
+202,Choa Chu Kang Ave 1,10 to 12,112,Model A,1989,67.58,455000,Jun 2021
+807B,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.92,488000,Jun 2021
+807B,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,94.92,490000,Jun 2021
+807C,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,94.92,480000,Jun 2021
+807C,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.92,485000,Jun 2021
+808A,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.83,475000,Jun 2021
+808C,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,94.92,458000,Jun 2021
+808D,Choa Chu Kang Ave 1,01 to 03,92,Model A,2017,94.92,445000,Jun 2021
+808D,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.92,478000,Jun 2021
+809A,Choa Chu Kang Ave 1,01 to 03,92,Model A,2017,94.92,448000,Jun 2021
+809A,Choa Chu Kang Ave 1,16 to 18,92,Model A,2017,94.92,478000,Jun 2021
+278,Choa Chu Kang Ave 3,01 to 03,104,Model A,1992,70.17,355000,Jun 2021
+280,Choa Chu Kang Ave 3,01 to 03,104,Model A,1992,70.17,388888,Jun 2021
+288,Choa Chu Kang Ave 3,01 to 03,104,Model A,1990,68.08,376000,Jun 2021
+290,Choa Chu Kang Ave 3,01 to 03,123,Model A,1993,71.08,440000,Jun 2021
+424,Choa Chu Kang Ave 4,01 to 03,106,Model A,1992,70.17,415000,Jun 2021
+443,Choa Chu Kang Ave 4,13 to 15,90,Model A2,1997,74.92,388000,Jun 2021
+484B,Choa Chu Kang Ave 5,10 to 12,101,Model A,1999,76.92,410000,Jun 2021
+810A,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.5,473000,Jun 2021
+810A,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.5,488000,Jun 2021
+810A,Choa Chu Kang Ave 7,19 to 21,93,Model A,2017,95.58,495000,Jun 2021
+810B,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,95.5,460000,Jun 2021
+810B,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,95.5,500500,Jun 2021
+811A,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,95.5,500000,Jun 2021
+812C,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.5,470000,Jun 2021
+815A,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,94.83,500000,Jun 2021
+815B,Choa Chu Kang Ave 7,01 to 03,93,Model A,2017,94.83,450000,Jun 2021
+815B,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,94.83,500000,Jun 2021
+670A,Choa Chu Kang Cres,01 to 03,104,Premium Apartment,1999,77.58,385000,Jun 2021
+681,Choa Chu Kang Cres,01 to 03,105,Premium Apartment,1999,77.33,410000,Jun 2021
+686C,Choa Chu Kang Cres,16 to 18,85,Model A2,2002,80.33,401333,Jun 2021
+690A,Choa Chu Kang Cres,07 to 09,90,Model A,2003,81,390000,Jun 2021
+692B,Choa Chu Kang Cres,04 to 06,90,Model A,2003,80.75,395000,Jun 2021
+224,Choa Chu Kang Ctrl,07 to 09,104,Model A,1993,71,425000,Jun 2021
+636,Choa Chu Kang Nth 6,04 to 06,113,Premium Apartment,1998,75.67,480000,Jun 2021
+607,Choa Chu Kang St 62,10 to 12,107,Model A,1996,73.92,450000,Jun 2021
+640,Choa Chu Kang St 64,04 to 06,100,Premium Apartment,1998,75.67,500000,Jun 2021
+157,Jln Teck Whye,04 to 06,94,Model A2,1998,75.67,355000,Jun 2021
+160,Jln Teck Whye,10 to 12,101,Model A,1998,75.75,415000,Jun 2021
+803A,Keat Hong Cl,01 to 03,93,Model A,2017,95,436500,Jun 2021
+803B,Keat Hong Cl,13 to 15,93,Model A,2017,95,460000,Jun 2021
+803C,Keat Hong Cl,10 to 12,93,Model A,2017,95,455000,Jun 2021
+803C,Keat Hong Cl,07 to 09,93,Model A,2017,95,460000,Jun 2021
+803C,Keat Hong Cl,13 to 15,93,Model A,2017,95,468000,Jun 2021
+803C,Keat Hong Cl,13 to 15,93,Model A,2017,95,475000,Jun 2021
+803C,Keat Hong Cl,10 to 12,93,Model A,2017,95,480000,Jun 2021
+804A,Keat Hong Cl,13 to 15,93,Model A,2017,95,480000,Jun 2021
+805A,Keat Hong Cl,07 to 09,93,Model A,2017,95,460000,Jun 2021
+805B,Keat Hong Cl,04 to 06,93,Model A,2017,95,455000,Jun 2021
+805B,Keat Hong Cl,13 to 15,93,Model A,2017,95,478000,Jun 2021
+805B,Keat Hong Cl,10 to 12,93,Model A,2017,95,480000,Jun 2021
+805C,Keat Hong Cl,16 to 18,93,Model A,2017,95,500000,Jun 2021
+816A,Keat Hong Link,22 to 24,92,Model A,2017,95.33,510000,Jun 2021
+816B,Keat Hong Link,13 to 15,92,Model A,2017,95.33,470000,Jun 2021
+2,Teck Whye Ave,13 to 15,103,Model A,1984,62.42,385000,Jun 2021
+103,Teck Whye Lane,01 to 03,106,Model A,1989,66.75,382000,Jun 2021
+110,Teck Whye Lane,07 to 09,103,Model A,1989,67.42,388000,Jun 2021
+807B,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,94.92,460000,May 2021
+807B,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95,478000,May 2021
+807B,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.92,490000,May 2021
+807C,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.92,485000,May 2021
+808A,Choa Chu Kang Ave 1,01 to 03,92,Model A,2017,95,445000,May 2021
+808C,Choa Chu Kang Ave 1,01 to 03,92,Model A,2017,95,430000,May 2021
+808D,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95,468000,May 2021
+809B,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95,472000,May 2021
+401,Choa Chu Kang Ave 3,07 to 09,106,Model A,1993,71.17,403000,May 2021
+429,Choa Chu Kang Ave 4,01 to 03,106,Model A,1993,71.17,395000,May 2021
+443,Choa Chu Kang Ave 4,01 to 03,90,Model A2,1997,75,375000,May 2021
+451,Choa Chu Kang Ave 4,10 to 12,104,Premium Apartment,2000,77.75,400000,May 2021
+464,Choa Chu Kang Ave 4,01 to 03,104,Premium Apartment,2000,77.92,390000,May 2021
+487B,Choa Chu Kang Ave 5,01 to 03,93,Model A,2016,94.17,430000,May 2021
+488A,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.17,500000,May 2021
+488B,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.17,475000,May 2021
+488C,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.17,428000,May 2021
+489A,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.17,430000,May 2021
+489C,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.08,443000,May 2021
+490D,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.08,450000,May 2021
+810A,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,95.58,443000,May 2021
+810A,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,95.58,490000,May 2021
+815A,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,94.92,468000,May 2021
+815A,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,94.83,485000,May 2021
+815A,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,94.92,508000,May 2021
+815A,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,94.83,520000,May 2021
+815B,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,94.83,465000,May 2021
+815B,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,94.92,470000,May 2021
+815B,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,94.83,485000,May 2021
+815B,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,94.92,500000,May 2021
+815B,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,94.92,505000,May 2021
+815C,Choa Chu Kang Ave 7,19 to 21,93,Model A,2017,94.83,500000,May 2021
+673,Choa Chu Kang Cres,04 to 06,104,Premium Apartment,1999,77.42,409000,May 2021
+686D,Choa Chu Kang Cres,01 to 03,91,Model A,2002,80.42,360000,May 2021
+213,Choa Chu Kang Ctrl,04 to 06,104,Model A,1989,67,420000,May 2021
+689A,Choa Chu Kang Dr,04 to 06,90,Model A,2002,80,376000,May 2021
+634,Choa Chu Kang Nth 6,04 to 06,113,Premium Apartment,1998,75.75,468000,May 2021
+635,Choa Chu Kang Nth 6,01 to 03,113,Premium Apartment,1998,75.67,480000,May 2021
+504,Choa Chu Kang St 51,07 to 09,106,Model A,1995,72.75,380000,May 2021
+517,Choa Chu Kang St 51,04 to 06,104,Model A,1995,73.42,390000,May 2021
+545,Choa Chu Kang St 52,04 to 06,105,Model A,1994,72,445000,May 2021
+152,Jln Teck Whye,10 to 12,100,Model A,1998,75.75,425000,May 2021
+803D,Keat Hong Cl,13 to 15,93,Model A,2017,95,480000,May 2021
+804A,Keat Hong Cl,10 to 12,93,Model A,2017,95.08,470000,May 2021
+805A,Keat Hong Cl,10 to 12,93,Model A,2017,95.08,455000,May 2021
+805A,Keat Hong Cl,07 to 09,93,Model A,2017,95.08,465000,May 2021
+805B,Keat Hong Cl,10 to 12,93,Model A,2017,95,485000,May 2021
+805C,Keat Hong Cl,07 to 09,93,Model A,2017,95.08,480000,May 2021
+816B,Keat Hong Link,07 to 09,92,Model A,2017,95.42,485000,May 2021
+816B,Keat Hong Link,13 to 15,92,Model A,2017,95.33,510000,May 2021
+817A,Keat Hong Link,01 to 03,92,Model A,2017,95.42,450000,May 2021
+817A,Keat Hong Link,10 to 12,92,Model A,2017,95.42,480000,May 2021
+817A,Keat Hong Link,16 to 18,92,Model A,2017,95.42,498000,May 2021
+817A,Keat Hong Link,22 to 24,92,Model A,2017,95.33,505000,May 2021
+817B,Keat Hong Link,19 to 21,92,Model A,2017,95.42,530000,May 2021
+1,Teck Whye Ave,10 to 12,103,Model A,1984,62.5,400000,May 2021
+6,Teck Whye Ave,10 to 12,106,Model A,1984,61.92,360000,May 2021
+6,Teck Whye Ave,04 to 06,106,Model A,1984,61.92,380000,May 2021
+102,Teck Whye Lane,04 to 06,106,Model A,1989,67,420000,May 2021
+807C,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.08,475000,Apr 2021
+808A,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.08,450000,Apr 2021
+808A,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.08,467000,Apr 2021
+808B,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,95.08,465000,Apr 2021
+809A,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.08,477000,Apr 2021
+809A,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.08,478000,Apr 2021
+248,Choa Chu Kang Ave 2,04 to 06,104,Model A,1993,71.17,428000,Apr 2021
+250,Choa Chu Kang Ave 2,04 to 06,104,Model A,1993,71.17,385000,Apr 2021
+281,Choa Chu Kang Ave 3,10 to 12,104,Model A,1992,70.25,388000,Apr 2021
+283,Choa Chu Kang Ave 3,04 to 06,104,Model A,1992,70.33,380000,Apr 2021
+414,Choa Chu Kang Ave 4,07 to 09,104,Model A,1993,71.17,420000,Apr 2021
+416,Choa Chu Kang Ave 4,01 to 03,110,Model A,1993,71.25,445000,Apr 2021
+439,Choa Chu Kang Ave 4,04 to 06,106,Model A,1993,71.17,430000,Apr 2021
+447,Choa Chu Kang Ave 4,07 to 09,100,Model A,1997,75.25,395000,Apr 2021
+459,Choa Chu Kang Ave 4,10 to 12,104,Premium Apartment,2000,78.08,395000,Apr 2021
+488B,Choa Chu Kang Ave 5,13 to 15,93,Model A,2016,94.25,470000,Apr 2021
+488C,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.17,488000,Apr 2021
+489C,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.17,445000,Apr 2021
+490B,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.33,425000,Apr 2021
+490B,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.17,450000,Apr 2021
+490C,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.17,462000,Apr 2021
+815A,Choa Chu Kang Ave 7,19 to 21,93,Model A,2017,95,492888,Apr 2021
+815A,Choa Chu Kang Ave 7,19 to 21,93,Model A,2017,95,500000,Apr 2021
+815C,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,95,490000,Apr 2021
+681,Choa Chu Kang Cres,01 to 03,107,Premium Apartment,1999,77.5,353800,Apr 2021
+683A,Choa Chu Kang Cres,10 to 12,90,Model A,2002,80.25,380000,Apr 2021
+690D,Choa Chu Kang Cres,04 to 06,90,Model A,2003,81.42,375000,Apr 2021
+237,Choa Chu Kang Ctrl,04 to 06,103,Model A,1990,68.5,415000,Apr 2021
+551,Choa Chu Kang St 52,10 to 12,105,Model A,1994,72.08,410000,Apr 2021
+612,Choa Chu Kang St 62,01 to 03,108,Model A,1996,74.25,415000,Apr 2021
+616,Choa Chu Kang St 62,07 to 09,107,Model A,1996,74.25,430000,Apr 2021
+641,Choa Chu Kang St 64,07 to 09,100,Premium Apartment,1998,75.83,483000,Apr 2021
+641,Choa Chu Kang St 64,13 to 15,100,Premium Apartment,1998,75.83,510000,Apr 2021
+157,Jln Teck Whye,10 to 12,91,Model A2,1998,75.83,375000,Apr 2021
+803A,Keat Hong Cl,13 to 15,93,Model A,2017,95.08,465000,Apr 2021
+803B,Keat Hong Cl,04 to 06,93,Model A,2017,95.25,438888,Apr 2021
+803C,Keat Hong Cl,13 to 15,93,Model A,2017,95.08,468000,Apr 2021
+803C,Keat Hong Cl,10 to 12,93,Model A,2017,95.08,472000,Apr 2021
+803D,Keat Hong Cl,07 to 09,93,Model A,2017,95.08,468000,Apr 2021
+804A,Keat Hong Cl,07 to 09,93,Model A,2017,95.17,470000,Apr 2021
+25,Teck Whye Lane,07 to 09,92,New Generation,1979,57,320000,Apr 2021
+25,Teck Whye Lane,04 to 06,92,New Generation,1979,57,342000,Apr 2021
+26,Teck Whye Lane,07 to 09,99,New Generation,1979,56.92,345000,Apr 2021
+105,Teck Whye Lane,07 to 09,107,Model A,1989,67.42,420000,Apr 2021
+113,Teck Whye Lane,01 to 03,104,Model A,1989,66.83,350000,Apr 2021
+115,Teck Whye Lane,04 to 06,103,Model A,1989,67.17,378000,Apr 2021
+807B,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.17,475000,Mar 2021
+807B,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.08,490000,Mar 2021
+807C,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.17,468000,Mar 2021
+808A,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.08,468000,Mar 2021
+808B,Choa Chu Kang Ave 1,01 to 03,92,Model A,2017,95.08,435000,Mar 2021
+808B,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,95.17,440000,Mar 2021
+808B,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,95.17,450000,Mar 2021
+808B,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,95.17,470000,Mar 2021
+808C,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,95.08,460000,Mar 2021
+808C,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.17,465000,Mar 2021
+808C,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,95.08,465000,Mar 2021
+808C,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.08,470000,Mar 2021
+808D,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.08,452888,Mar 2021
+808D,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.08,458000,Mar 2021
+809A,Choa Chu Kang Ave 1,16 to 18,92,Model A,2017,95.17,475000,Mar 2021
+295,Choa Chu Kang Ave 2,07 to 09,114,Model A,1990,68.25,422000,Mar 2021
+297A,Choa Chu Kang Ave 2,13 to 15,103,Premium Apartment,1999,77.33,405000,Mar 2021
+280,Choa Chu Kang Ave 3,01 to 03,104,Model A,1992,70.5,375000,Mar 2021
+285,Choa Chu Kang Ave 3,01 to 03,104,Model A,1993,71.42,365000,Mar 2021
+408,Choa Chu Kang Ave 3,04 to 06,110,Model A,1993,71.25,380000,Mar 2021
+408,Choa Chu Kang Ave 3,04 to 06,104,Model A,1993,71.33,390000,Mar 2021
+474,Choa Chu Kang Ave 3,10 to 12,100,Model A,1999,77.17,397000,Mar 2021
+418,Choa Chu Kang Ave 4,07 to 09,106,Model A,1993,71.17,390000,Mar 2021
+455,Choa Chu Kang Ave 4,10 to 12,104,Premium Apartment,2000,78.17,378000,Mar 2021
+476B,Choa Chu Kang Ave 5,13 to 15,92,Model A,2013,91.33,465000,Mar 2021
+489D,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.33,433000,Mar 2021
+490A,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.33,440000,Mar 2021
+490A,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.25,440000,Mar 2021
+490A,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.25,488000,Mar 2021
+815A,Choa Chu Kang Ave 7,01 to 03,93,Model A,2017,95.08,425000,Mar 2021
+815A,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.08,453000,Mar 2021
+815C,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,95,451000,Mar 2021
+815C,Choa Chu Kang Ave 7,19 to 21,93,Model A,2017,95.08,495000,Mar 2021
+668,Choa Chu Kang Cres,04 to 06,103,Model A,1999,77.42,400000,Mar 2021
+691A,Choa Chu Kang Cres,16 to 18,91,Model A,2003,81.17,398000,Mar 2021
+215,Choa Chu Kang Ctrl,01 to 03,104,Model A,1990,67.92,438000,Mar 2021
+229,Choa Chu Kang Ctrl,10 to 12,104,Model A,1989,67.25,415000,Mar 2021
+232,Choa Chu Kang Ctrl,10 to 12,106,Model A,1990,68.17,430000,Mar 2021
+354,Choa Chu Kang Ctrl,13 to 15,104,Model A,1993,71.25,430000,Mar 2021
+762,Choa Chu Kang Nth 5,13 to 15,104,Model A,1996,74.42,413000,Mar 2021
+634,Choa Chu Kang Nth 6,01 to 03,113,Premium Apartment,1998,75.92,450000,Mar 2021
+541,Choa Chu Kang St 52,07 to 09,104,Model A,1994,72.17,380000,Mar 2021
+565,Choa Chu Kang St 52,10 to 12,106,Model A,1995,73.67,428000,Mar 2021
+573,Choa Chu Kang St 52,10 to 12,92,Model A,2015,92.83,478000,Mar 2021
+616,Choa Chu Kang St 62,01 to 03,108,Model A,1996,74.33,390000,Mar 2021
+620,Choa Chu Kang St 62,10 to 12,108,Model A,1996,74.42,420000,Mar 2021
+150,Jln Teck Whye,07 to 09,100,Model A,1998,75.92,384000,Mar 2021
+157,Jln Teck Whye,07 to 09,94,Model A2,1998,75.83,375000,Mar 2021
+803A,Keat Hong Cl,07 to 09,93,Model A,2017,95.25,450000,Mar 2021
+803A,Keat Hong Cl,07 to 09,93,Model A,2017,95.25,452000,Mar 2021
+803C,Keat Hong Cl,04 to 06,93,Model A,2017,95.17,430000,Mar 2021
+803C,Keat Hong Cl,16 to 18,93,Model A,2017,95.25,475000,Mar 2021
+804A,Keat Hong Cl,04 to 06,93,Model A,2017,95.25,430000,Mar 2021
+804A,Keat Hong Cl,13 to 15,93,Model A,2017,95.25,454000,Mar 2021
+804B,Keat Hong Cl,13 to 15,93,Model A,2017,95.25,440000,Mar 2021
+804B,Keat Hong Cl,13 to 15,93,Model A,2017,95.17,465000,Mar 2021
+805B,Keat Hong Cl,10 to 12,93,Model A,2017,95.17,460000,Mar 2021
+805B,Keat Hong Cl,10 to 12,93,Model A,2017,95.17,470000,Mar 2021
+816A,Keat Hong Link,04 to 06,92,Model A,2017,95.5,455000,Mar 2021
+25,Teck Whye Lane,10 to 12,92,New Generation,1979,57.08,333000,Mar 2021
+110,Teck Whye Lane,04 to 06,103,Model A,1989,67.58,391000,Mar 2021
+113,Teck Whye Lane,04 to 06,103,Model A,1989,66.83,365000,Mar 2021
+142,Teck Whye Lane,01 to 03,103,Model A,1989,67.25,340000,Mar 2021
+807B,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,95.17,410000,Feb 2021
+807B,Choa Chu Kang Ave 1,01 to 03,92,Model A,2017,95.25,431800,Feb 2021
+807B,Choa Chu Kang Ave 1,01 to 03,92,Model A,2017,95.17,445000,Feb 2021
+807B,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.25,452000,Feb 2021
+807B,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,95.25,460000,Feb 2021
+808A,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.25,440000,Feb 2021
+808A,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.25,467000,Feb 2021
+808C,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.17,465000,Feb 2021
+808D,Choa Chu Kang Ave 1,01 to 03,92,Model A,2017,95.17,435000,Feb 2021
+808D,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.25,470000,Feb 2021
+809B,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,95.25,488000,Feb 2021
+252,Choa Chu Kang Ave 2,01 to 03,108,Model A,1994,72.92,345000,Feb 2021
+296E,Choa Chu Kang Ave 2,13 to 15,102,Premium Apartment,1999,77.5,385000,Feb 2021
+285,Choa Chu Kang Ave 3,07 to 09,104,Model A,1993,71.33,401100,Feb 2021
+288,Choa Chu Kang Ave 3,01 to 03,104,Model A,1990,68.42,366000,Feb 2021
+414,Choa Chu Kang Ave 4,04 to 06,104,Model A,1993,71.33,400000,Feb 2021
+435,Choa Chu Kang Ave 4,01 to 03,104,Model A,1993,71.42,390000,Feb 2021
+476B,Choa Chu Kang Ave 5,10 to 12,92,Model A,2013,91.5,435000,Feb 2021
+483,Choa Chu Kang Ave 5,10 to 12,100,Model A,1999,77.33,385000,Feb 2021
+487A,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.33,440000,Feb 2021
+487B,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.5,440000,Feb 2021
+487C,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.33,448000,Feb 2021
+488C,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.42,417000,Feb 2021
+489B,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.42,455000,Feb 2021
+489D,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.33,455000,Feb 2021
+490A,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.42,458888,Feb 2021
+815A,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.17,435000,Feb 2021
+815A,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,95.17,470000,Feb 2021
+815A,Choa Chu Kang Ave 7,19 to 21,93,Model A,2017,95.17,496000,Feb 2021
+815B,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,95.17,485000,Feb 2021
+660,Choa Chu Kang Cres,07 to 09,100,Premium Apartment,1999,77.25,398000,Feb 2021
+668,Choa Chu Kang Cres,01 to 03,103,Model A,1999,77.33,378000,Feb 2021
+673A,Choa Chu Kang Cres,04 to 06,103,Premium Apartment,1999,77.83,400000,Feb 2021
+676,Choa Chu Kang Cres,04 to 06,104,Premium Apartment,1999,77.92,390000,Feb 2021
+683A,Choa Chu Kang Cres,07 to 09,90,Model A,2002,80.5,370000,Feb 2021
+684C,Choa Chu Kang Cres,04 to 06,91,Model A,2002,80.75,340080,Feb 2021
+355,Choa Chu Kang Ctrl,07 to 09,104,Model A,1993,71.42,425000,Feb 2021
+763,Choa Chu Kang Nth 5,07 to 09,106,Model A,1996,74.58,410000,Feb 2021
+552,Choa Chu Kang St 52,01 to 03,105,Model A,1994,72.25,368000,Feb 2021
+573,Choa Chu Kang St 52,07 to 09,92,Model A,2015,93,440000,Feb 2021
+615,Choa Chu Kang St 62,04 to 06,108,Model A,1996,74.42,371000,Feb 2021
+152,Jln Teck Whye,01 to 03,100,Model A,1998,75.92,350000,Feb 2021
+803B,Keat Hong Cl,01 to 03,93,Model A,2017,95.33,450000,Feb 2021
+804A,Keat Hong Cl,10 to 12,93,Model A,2017,95.33,451000,Feb 2021
+804A,Keat Hong Cl,10 to 12,93,Model A,2017,95.33,455000,Feb 2021
+804B,Keat Hong Cl,10 to 12,93,Model A,2017,95.25,458000,Feb 2021
+805A,Keat Hong Cl,16 to 18,93,Model A,2017,95.25,450000,Feb 2021
+17,Teck Whye Lane,04 to 06,93,New Generation,1981,59.67,340000,Feb 2021
+130,Choa Chu Kang Ave 1,07 to 09,105,Model A,1993,71.42,370000,Jan 2021
+202,Choa Chu Kang Ave 1,04 to 06,104,Model A,1989,68,404000,Jan 2021
+807B,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,95.25,435000,Jan 2021
+807B,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.33,440000,Jan 2021
+807B,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.25,451000,Jan 2021
+807B,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.33,465000,Jan 2021
+807B,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.33,480000,Jan 2021
+808A,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.33,457000,Jan 2021
+808A,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,95.33,470000,Jan 2021
+808D,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.33,441000,Jan 2021
+281,Choa Chu Kang Ave 3,07 to 09,106,Model A,1992,70.58,340000,Jan 2021
+283,Choa Chu Kang Ave 3,13 to 15,104,Model A,1992,70.5,400000,Jan 2021
+290,Choa Chu Kang Ave 3,01 to 03,103,Model A,1993,71.5,350000,Jan 2021
+293,Choa Chu Kang Ave 3,04 to 06,104,Model A,1993,71.5,390000,Jan 2021
+408,Choa Chu Kang Ave 3,04 to 06,104,Model A,1993,71.5,350000,Jan 2021
+307,Choa Chu Kang Ave 4,10 to 12,105,Model A,1993,71.5,445000,Jan 2021
+417,Choa Chu Kang Ave 4,01 to 03,105,Model A,1993,71.5,400000,Jan 2021
+428,Choa Chu Kang Ave 4,04 to 06,104,Model A,1992,70.58,351000,Jan 2021
+483,Choa Chu Kang Ave 5,10 to 12,101,Model A,1999,77.42,370000,Jan 2021
+485D,Choa Chu Kang Ave 5,01 to 03,101,Model A,1999,77.5,375000,Jan 2021
+487A,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.42,438000,Jan 2021
+487A,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.5,442000,Jan 2021
+487B,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.5,428000,Jan 2021
+488A,Choa Chu Kang Ave 5,13 to 15,93,Model A,2016,94.5,445000,Jan 2021
+488A,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.42,455000,Jan 2021
+490A,Choa Chu Kang Ave 5,01 to 03,93,Model A,2016,94.5,420000,Jan 2021
+490B,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.5,410000,Jan 2021
+490D,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.5,456000,Jan 2021
+815A,Choa Chu Kang Ave 7,01 to 03,93,Model A,2017,95.17,430000,Jan 2021
+815A,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,95.25,433000,Jan 2021
+815A,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.25,480000,Jan 2021
+815A,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,95.17,500000,Jan 2021
+815C,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.25,480000,Jan 2021
+815C,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.33,480000,Jan 2021
+660,Choa Chu Kang Cres,04 to 06,104,Premium Apartment,1999,77.25,380000,Jan 2021
+669,Choa Chu Kang Cres,16 to 18,103,Premium Apartment,1999,77.83,410000,Jan 2021
+692B,Choa Chu Kang Cres,13 to 15,91,Model A,2003,81.17,368000,Jan 2021
+210,Choa Chu Kang Ctrl,10 to 12,115,Model A,1990,68.17,425000,Jan 2021
+354,Choa Chu Kang Ctrl,04 to 06,104,Model A,1993,71.5,402300,Jan 2021
+634,Choa Chu Kang Nth 6,01 to 03,113,Premium Apartment,1998,76.08,450000,Jan 2021
+636,Choa Chu Kang Nth 6,04 to 06,113,Premium Apartment,1998,76.17,455000,Jan 2021
+617,Choa Chu Kang Nth 7,04 to 06,107,Model A,1996,74.33,400000,Jan 2021
+506,Choa Chu Kang St 51,04 to 06,108,Model A,1994,72.83,352500,Jan 2021
+567,Choa Chu Kang St 52,04 to 06,109,Model A,1995,73.92,415000,Jan 2021
+572,Choa Chu Kang St 52,10 to 12,92,Model A,2015,93.08,488888,Jan 2021
+574,Choa Chu Kang St 52,04 to 06,92,Model A,2015,93,430000,Jan 2021
+703,Choa Chu Kang St 53,10 to 12,107,Model A,1995,73.33,396000,Jan 2021
+767,Choa Chu Kang St 54,16 to 18,104,Model A,1996,74.75,418000,Jan 2021
+625,Choa Chu Kang St 62,01 to 03,100,Model A,1997,75.42,380000,Jan 2021
+642,Choa Chu Kang St 64,04 to 06,100,Premium Apartment,1998,76.08,462000,Jan 2021
+154,Jln Teck Whye,10 to 12,100,Model A,1997,76,375000,Jan 2021
+803A,Keat Hong Cl,07 to 09,93,Model A,2017,95.42,420000,Jan 2021
+803B,Keat Hong Cl,04 to 06,93,Model A,2017,95.33,430000,Jan 2021
+803B,Keat Hong Cl,10 to 12,93,Model A,2017,95.42,455000,Jan 2021
+804A,Keat Hong Cl,13 to 15,93,Model A,2017,95.33,440000,Jan 2021
+804A,Keat Hong Cl,13 to 15,93,Model A,2017,95.33,488000,Jan 2021
+17,Teck Whye Lane,10 to 12,95,New Generation,1981,59.75,338000,Jan 2021
+20,Teck Whye Lane,04 to 06,91,New Generation,1981,59.75,330000,Jan 2021
+25,Teck Whye Lane,10 to 12,92,New Generation,1979,57.25,335000,Jan 2021
+112,Teck Whye Lane,07 to 09,104,Model A,1989,67.25,410000,Jan 2021
+202,Choa Chu Kang Ave 1,01 to 03,112,Model A,1989,68.08,400000,Dec 2020
+807B,Choa Chu Kang Ave 1,16 to 18,92,Model A,2017,95.33,465000,Dec 2020
+807C,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,95.42,492500,Dec 2020
+809A,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.33,447000,Dec 2020
+251,Choa Chu Kang Ave 2,01 to 03,104,Model A,1994,73.17,345000,Dec 2020
+290,Choa Chu Kang Ave 3,13 to 15,104,Model A,1993,71.5,380000,Dec 2020
+307,Choa Chu Kang Ave 4,04 to 06,109,Model A,1993,71.5,443000,Dec 2020
+307,Choa Chu Kang Ave 4,07 to 09,109,Model A,1993,71.5,453000,Dec 2020
+445,Choa Chu Kang Ave 4,04 to 06,100,Model A,1997,75.25,350000,Dec 2020
+465,Choa Chu Kang Ave 4,07 to 09,104,Premium Apartment,2000,78.33,362000,Dec 2020
+483,Choa Chu Kang Ave 5,04 to 06,100,Model A,1999,77.5,348000,Dec 2020
+484,Choa Chu Kang Ave 5,04 to 06,101,Model A,1999,77.5,353000,Dec 2020
+484A,Choa Chu Kang Ave 5,13 to 15,91,Model A2,1999,77.42,355000,Dec 2020
+484B,Choa Chu Kang Ave 5,16 to 18,102,Model A,1999,77.33,370000,Dec 2020
+484C,Choa Chu Kang Ave 5,13 to 15,101,Model A,1999,77.42,375000,Dec 2020
+485D,Choa Chu Kang Ave 5,04 to 06,101,Model A,1999,77.58,380000,Dec 2020
+486,Choa Chu Kang Ave 5,16 to 18,101,Model A,1999,77.58,355000,Dec 2020
+487C,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.58,435000,Dec 2020
+488A,Choa Chu Kang Ave 5,01 to 03,93,Model A,2016,94.58,395000,Dec 2020
+489A,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.67,405000,Dec 2020
+489C,Choa Chu Kang Ave 5,13 to 15,93,Model A,2016,94.5,450000,Dec 2020
+489C,Choa Chu Kang Ave 5,13 to 15,93,Model A,2016,94.5,450000,Dec 2020
+489D,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.5,435000,Dec 2020
+490C,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.58,431000,Dec 2020
+490D,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.58,458000,Dec 2020
+490D,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.58,462000,Dec 2020
+815A,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,95.33,434000,Dec 2020
+815A,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.33,476000,Dec 2020
+656,Choa Chu Kang Cres,10 to 12,104,Premium Apartment,1999,77.42,374888,Dec 2020
+668,Choa Chu Kang Cres,10 to 12,102,Model A,1999,77.58,360000,Dec 2020
+673A,Choa Chu Kang Cres,10 to 12,103,Premium Apartment,1999,78.08,390000,Dec 2020
+678,Choa Chu Kang Cres,10 to 12,106,Premium Apartment,1999,78,368000,Dec 2020
+680,Choa Chu Kang Cres,04 to 06,107,Premium Apartment,1999,77.83,372000,Dec 2020
+213,Choa Chu Kang Ctrl,07 to 09,104,Model A,1989,67.42,400000,Dec 2020
+230,Choa Chu Kang Ctrl,10 to 12,111,Model A,1990,68.58,415000,Dec 2020
+354,Choa Chu Kang Ctrl,07 to 09,104,Model A,1993,71.58,425000,Dec 2020
+688B,Choa Chu Kang Dr,07 to 09,91,Model A,2002,80.33,335888,Dec 2020
+785,Choa Chu Kang Dr,10 to 12,110,Model A,1997,75.17,418000,Dec 2020
+763,Choa Chu Kang Nth 5,10 to 12,106,Model A,1996,74.67,385000,Dec 2020
+572,Choa Chu Kang St 52,04 to 06,92,Model A,2015,93.17,415000,Dec 2020
+572,Choa Chu Kang St 52,07 to 09,92,Model A,2015,93.17,470000,Dec 2020
+572,Choa Chu Kang St 52,10 to 12,92,Model A,2015,93.17,475000,Dec 2020
+620,Choa Chu Kang St 62,07 to 09,108,Model A,1996,74.58,380000,Dec 2020
+152,Jln Teck Whye,01 to 03,103,Model A,1998,76.17,335000,Dec 2020
+803A,Keat Hong Cl,04 to 06,93,Model A,2017,95.5,430000,Dec 2020
+803A,Keat Hong Cl,07 to 09,93,Model A,2017,95.42,445000,Dec 2020
+113,Teck Whye Lane,04 to 06,106,Model A,1989,67.17,348000,Dec 2020
+807B,Choa Chu Kang Ave 1,01 to 03,92,Model A,2017,95.5,400000,Nov 2020
+248,Choa Chu Kang Ave 2,07 to 09,104,Model A,1993,71.58,410000,Nov 2020
+290,Choa Chu Kang Ave 3,10 to 12,104,Model A,1993,71.67,365000,Nov 2020
+472,Choa Chu Kang Ave 3,13 to 15,101,Model A,1999,77.5,370000,Nov 2020
+443,Choa Chu Kang Ave 4,13 to 15,91,Model A2,1997,75.5,346000,Nov 2020
+476A,Choa Chu Kang Ave 5,10 to 12,92,Model A,2013,91.75,425000,Nov 2020
+476C,Choa Chu Kang Ave 5,10 to 12,92,Model A,2013,91.75,420000,Nov 2020
+476C,Choa Chu Kang Ave 5,07 to 09,92,Model A,2013,91.75,438888,Nov 2020
+476D,Choa Chu Kang Ave 5,10 to 12,92,Model A,2013,91.75,425000,Nov 2020
+484B,Choa Chu Kang Ave 5,04 to 06,101,Model A,1999,77.5,355000,Nov 2020
+485D,Choa Chu Kang Ave 5,13 to 15,101,Model A,1999,77.58,385000,Nov 2020
+487C,Choa Chu Kang Ave 5,01 to 03,93,Model A,2016,94.67,385000,Nov 2020
+487C,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.67,422000,Nov 2020
+488D,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.67,426000,Nov 2020
+489A,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.67,435000,Nov 2020
+489A,Choa Chu Kang Ave 5,13 to 15,93,Model A,2016,94.67,440000,Nov 2020
+815A,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.42,453000,Nov 2020
+685C,Choa Chu Kang Cres,07 to 09,85,Model A2,2002,81,335000,Nov 2020
+686A,Choa Chu Kang Cres,10 to 12,90,Model A,2002,80.92,345000,Nov 2020
+690A,Choa Chu Kang Cres,10 to 12,90,Model A,2003,81.5,342000,Nov 2020
+211,Choa Chu Kang Ctrl,10 to 12,104,Model A,1989,68,415000,Nov 2020
+219,Choa Chu Kang Ctrl,01 to 03,106,Model A,1990,68.33,395000,Nov 2020
+227,Choa Chu Kang Ctrl,10 to 12,105,Model A,1993,71.58,395000,Nov 2020
+230,Choa Chu Kang Ctrl,10 to 12,111,Model A,1990,68.67,385000,Nov 2020
+340,Choa Chu Kang Loop,07 to 09,105,Model A,1993,71.58,465000,Nov 2020
+572,Choa Chu Kang St 52,13 to 15,92,Model A,2015,93.25,450000,Nov 2020
+707,Choa Chu Kang St 53,10 to 12,106,Model A,1995,73.58,370000,Nov 2020
+620,Choa Chu Kang St 62,01 to 03,108,Model A,1996,74.67,406888,Nov 2020
+638,Choa Chu Kang St 64,10 to 12,100,Premium Apartment,1998,76.17,490000,Nov 2020
+157,Jln Teck Whye,07 to 09,91,Model A2,1998,76.25,338000,Nov 2020
+803A,Keat Hong Cl,04 to 06,93,Model A,2017,95.58,425000,Nov 2020
+805A,Keat Hong Cl,10 to 12,93,Model A,2017,95.5,445000,Nov 2020
+2,Teck Whye Ave,01 to 03,104,Model A,1984,63,325000,Nov 2020
+15,Teck Whye Lane,07 to 09,92,New Generation,1979,57.42,320000,Nov 2020
+818A,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,94.92,503000,Nov 2021
+471,Choa Chu Kang Ave 3,07 to 09,101,Model A,1999,76.33,438000,Nov 2021
+459,Choa Chu Kang Ave 4,10 to 12,105,Premium Apartment,2000,77.5,436500,Nov 2021
+487C,Choa Chu Kang Ave 5,01 to 03,93,Model A,2016,93.67,435000,Nov 2021
+490C,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,93.75,460000,Nov 2021
+810B,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,95.08,480000,Nov 2021
+815B,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,94.42,535000,Nov 2021
+815B,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,94.42,550000,Nov 2021
+815C,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,94.42,490000,Nov 2021
+815C,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,94.42,495000,Nov 2021
+659,Choa Chu Kang Cres,10 to 12,100,Premium Apartment,1999,76.5,425000,Nov 2021
+678,Choa Chu Kang Cres,04 to 06,105,Premium Apartment,1999,77.08,422000,Nov 2021
+707,Choa Chu Kang St 53,10 to 12,117,Model A,1995,72.58,460000,Nov 2021
+801C,Keat Hong Cl,07 to 09,92,Model A,2018,95.33,485000,Nov 2021
+805C,Keat Hong Cl,10 to 12,93,Model A,2017,94.58,500000,Nov 2021
+132,Choa Chu Kang Ave 1,10 to 12,104,Model A,1993,70.67,420000,Oct 2021
+807B,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,94.58,490000,Oct 2021
+807C,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.58,485000,Oct 2021
+818A,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,95,530000,Oct 2021
+818B,Choa Chu Kang Ave 1,16 to 18,92,Model A,2017,95,530000,Oct 2021
+250,Choa Chu Kang Ave 2,01 to 03,104,Model A,1993,70.75,420000,Oct 2021
+296,Choa Chu Kang Ave 2,01 to 03,101,Premium Apartment,1999,76.83,427500,Oct 2021
+281,Choa Chu Kang Ave 3,04 to 06,106,Model A,1992,69.83,403000,Oct 2021
+289,Choa Chu Kang Ave 3,04 to 06,104,Model A,1993,70.75,350000,Oct 2021
+408,Choa Chu Kang Ave 3,07 to 09,110,Model A,1993,70.75,438000,Oct 2021
+426,Choa Chu Kang Ave 4,10 to 12,106,Model A,1993,70.67,460000,Oct 2021
+431,Choa Chu Kang Ave 4,04 to 06,104,Model A,1993,70.67,475000,Oct 2021
+460,Choa Chu Kang Ave 4,07 to 09,103,Premium Apartment,2000,77.58,410000,Oct 2021
+487B,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,93.75,447500,Oct 2021
+487B,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,93.75,470000,Oct 2021
+487C,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,93.75,468000,Oct 2021
+490D,Choa Chu Kang Ave 5,13 to 15,93,Model A,2016,93.75,500000,Oct 2021
+810B,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.08,500000,Oct 2021
+811B,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,95.17,485000,Oct 2021
+812A,Choa Chu Kang Ave 7,19 to 21,93,Model A,2017,95.08,518000,Oct 2021
+812B,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.08,475000,Oct 2021
+812C,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.17,480000,Oct 2021
+815A,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,94.42,510000,Oct 2021
+815A,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,94.42,530000,Oct 2021
+815B,Choa Chu Kang Ave 7,19 to 21,93,Model A,2017,94.5,535000,Oct 2021
+815C,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,94.5,535000,Oct 2021
+661,Choa Chu Kang Cres,13 to 15,100,Premium Apartment,1999,76.58,430000,Oct 2021
+667,Choa Chu Kang Cres,10 to 12,103,Model A,1999,76.67,426000,Oct 2021
+672,Choa Chu Kang Cres,04 to 06,100,Premium Apartment,2000,77.42,420888,Oct 2021
+673,Choa Chu Kang Cres,07 to 09,104,Premium Apartment,1999,77.08,395000,Oct 2021
+678,Choa Chu Kang Cres,07 to 09,105,Premium Apartment,1999,77.17,460000,Oct 2021
+691B,Choa Chu Kang Cres,13 to 15,91,Model A,2003,80.67,400000,Oct 2021
+692B,Choa Chu Kang Cres,19 to 21,91,Model A,2003,80.42,423000,Oct 2021
+205,Choa Chu Kang Ctrl,01 to 03,104,Model A,1989,66.58,425000,Oct 2021
+224,Choa Chu Kang Ctrl,07 to 09,104,Model A,1993,70.67,440000,Oct 2021
+226,Choa Chu Kang Ctrl,10 to 12,105,Model A,1993,70.75,440000,Oct 2021
+689B,Choa Chu Kang Dr,04 to 06,90,Model A,2002,79.58,398000,Oct 2021
+760,Choa Chu Kang Nth 5,07 to 09,108,Model A,1995,72.67,455000,Oct 2021
+541,Choa Chu Kang St 52,01 to 03,107,Model A,1994,71.5,408888,Oct 2021
+574,Choa Chu Kang St 52,04 to 06,92,Model A,2015,92.33,485000,Oct 2021
+609,Choa Chu Kang St 62,01 to 03,107,Model A,1996,73.67,425000,Oct 2021
+626,Choa Chu Kang St 62,01 to 03,101,Model A,1997,74.67,437000,Oct 2021
+638,Choa Chu Kang St 64,04 to 06,100,Premium Apartment,1998,75.25,520000,Oct 2021
+640,Choa Chu Kang St 64,07 to 09,100,Premium Apartment,1998,75.33,532000,Oct 2021
+150,Jln Teck Whye,04 to 06,100,Model A,1998,75.33,420888,Oct 2021
+162,Jln Teck Whye,13 to 15,101,Model A,1998,75.42,455888,Oct 2021
+801B,Keat Hong Cl,01 to 03,92,Model A,2018,95.5,450000,Oct 2021
+801C,Keat Hong Cl,07 to 09,92,Model A,2018,95.42,490000,Oct 2021
+802A,Keat Hong Cl,10 to 12,92,Model A,2018,95.42,478000,Oct 2021
+802A,Keat Hong Cl,13 to 15,92,Model A,2018,95.42,483000,Oct 2021
+802B,Keat Hong Cl,04 to 06,92,Model A,2018,95.42,460000,Oct 2021
+803D,Keat Hong Cl,16 to 18,93,Model A,2017,94.67,508000,Oct 2021
+805D,Keat Hong Cl,07 to 09,93,Model A,2017,94.67,480000,Oct 2021
+817A,Keat Hong Link,04 to 06,92,Model A,2017,94.92,485000,Oct 2021
+817A,Keat Hong Link,07 to 09,92,Model A,2017,95,518000,Oct 2021
+817B,Keat Hong Link,07 to 09,92,Model A,2017,95,510000,Oct 2021
+817C,Keat Hong Link,19 to 21,92,Model A,2017,95,532000,Oct 2021
+17,Teck Whye Lane,07 to 09,93,New Generation,1981,59,368000,Oct 2021
+19,Teck Whye Lane,10 to 12,93,New Generation,1981,59,370000,Oct 2021
+20,Teck Whye Lane,10 to 12,91,New Generation,1981,58.92,361000,Oct 2021
+20,Teck Whye Lane,10 to 12,91,New Generation,1981,59,383000,Oct 2021
+111,Teck Whye Lane,01 to 03,103,Model A,1989,67,390000,Oct 2021
+202,Choa Chu Kang Ave 1,04 to 06,104,Model A,1989,67.33,445000,Sep 2021
+807C,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,94.67,475000,Sep 2021
+807C,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.67,492088,Sep 2021
+808A,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.67,480000,Sep 2021
+818A,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.08,500000,Sep 2021
+818A,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.08,515000,Sep 2021
+818A,Choa Chu Kang Ave 1,19 to 21,92,Model A,2017,95.08,530000,Sep 2021
+818B,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.08,480000,Sep 2021
+818B,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.08,495000,Sep 2021
+818B,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.08,500000,Sep 2021
+818B,Choa Chu Kang Ave 1,19 to 21,92,Model A,2017,95.08,530000,Sep 2021
+284,Choa Chu Kang Ave 3,01 to 03,104,Model A,1990,67.92,395000,Sep 2021
+289,Choa Chu Kang Ave 3,10 to 12,104,Model A,1993,70.83,416000,Sep 2021
+406,Choa Chu Kang Ave 3,01 to 03,104,Model A,1993,70.83,390000,Sep 2021
+411,Choa Chu Kang Ave 3,07 to 09,104,Model A,1992,69.92,445000,Sep 2021
+413,Choa Chu Kang Ave 3,01 to 03,104,Model A,1992,69.92,420000,Sep 2021
+422,Choa Chu Kang Ave 4,10 to 12,104,Model A,1992,69.83,450000,Sep 2021
+431,Choa Chu Kang Ave 4,04 to 06,104,Model A,1993,70.75,458000,Sep 2021
+435,Choa Chu Kang Ave 4,04 to 06,104,Model A,1993,70.83,440000,Sep 2021
+442,Choa Chu Kang Ave 4,04 to 06,91,Model A2,1997,74.58,405000,Sep 2021
+443,Choa Chu Kang Ave 4,04 to 06,90,Model A2,1997,74.67,390888,Sep 2021
+451,Choa Chu Kang Ave 4,10 to 12,104,Premium Apartment,2000,77.5,412000,Sep 2021
+456,Choa Chu Kang Ave 4,04 to 06,104,Premium Apartment,2000,77.67,390000,Sep 2021
+460,Choa Chu Kang Ave 4,16 to 18,104,Premium Apartment,2000,77.67,430000,Sep 2021
+487B,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,93.83,452500,Sep 2021
+487B,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,93.83,483888,Sep 2021
+488C,Choa Chu Kang Ave 5,01 to 03,93,Model A,2016,93.83,450000,Sep 2021
+810B,Choa Chu Kang Ave 7,01 to 03,93,Model A,2017,95.25,445000,Sep 2021
+810B,Choa Chu Kang Ave 7,01 to 03,93,Model A,2017,95.25,455000,Sep 2021
+810B,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.25,490000,Sep 2021
+810B,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.17,500000,Sep 2021
+812A,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.25,498000,Sep 2021
+812A,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.25,500000,Sep 2021
+812C,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.25,500888,Sep 2021
+812C,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.25,500888,Sep 2021
+815B,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,94.5,510000,Sep 2021
+815C,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,94.58,482000,Sep 2021
+815C,Choa Chu Kang Ave 7,19 to 21,93,Model A,2017,94.5,503000,Sep 2021
+659,Choa Chu Kang Cres,04 to 06,103,Premium Apartment,1999,76.67,430000,Sep 2021
+673,Choa Chu Kang Cres,01 to 03,103,Premium Apartment,1999,77.17,400000,Sep 2021
+682,Choa Chu Kang Cres,04 to 06,105,Premium Apartment,1999,77.17,420000,Sep 2021
+683A,Choa Chu Kang Cres,10 to 12,90,Model A,2002,79.92,395000,Sep 2021
+685B,Choa Chu Kang Cres,10 to 12,90,Model A,2002,80.08,395000,Sep 2021
+686B,Choa Chu Kang Cres,07 to 09,90,Model A,2002,80.17,405000,Sep 2021
+686B,Choa Chu Kang Cres,13 to 15,90,Model A,2002,80.17,420000,Sep 2021
+688C,Choa Chu Kang Cres,13 to 15,90,Model A,2003,80.5,400000,Sep 2021
+210,Choa Chu Kang Ctrl,04 to 06,104,Model A,1990,67.5,425000,Sep 2021
+212,Choa Chu Kang Ctrl,01 to 03,104,Model A,1989,66.83,415000,Sep 2021
+232,Choa Chu Kang Ctrl,04 to 06,105,Model A,1990,67.67,430000,Sep 2021
+790,Choa Chu Kang Nth 6,10 to 12,111,Model A,1996,74.25,488000,Sep 2021
+514,Choa Chu Kang St 51,04 to 06,104,Model A,1995,73.08,401000,Sep 2021
+562,Choa Chu Kang St 52,01 to 03,109,Model A,1995,72.83,455000,Sep 2021
+573,Choa Chu Kang St 52,07 to 09,92,Model A,2015,92.42,485000,Sep 2021
+574,Choa Chu Kang St 52,04 to 06,92,Model A,2015,92.42,471000,Sep 2021
+702,Choa Chu Kang St 53,07 to 09,109,Model A,1995,72.67,418888,Sep 2021
+707,Choa Chu Kang St 53,13 to 15,107,Model A,1995,72.75,448000,Sep 2021
+640,Choa Chu Kang St 64,13 to 15,100,Premium Apartment,1998,75.42,510000,Sep 2021
+160,Jln Teck Whye,13 to 15,101,Model A,1998,75.42,488000,Sep 2021
+801B,Keat Hong Cl,04 to 06,92,Model A,2018,95.5,458000,Sep 2021
+802B,Keat Hong Cl,13 to 15,92,Model A,2018,95.42,500000,Sep 2021
+803C,Keat Hong Cl,10 to 12,93,Model A,2017,94.75,485000,Sep 2021
+804A,Keat Hong Cl,10 to 12,93,Model A,2017,94.75,488000,Sep 2021
+805B,Keat Hong Cl,07 to 09,93,Model A,2017,94.75,475000,Sep 2021
+805C,Keat Hong Cl,10 to 12,93,Model A,2017,94.67,490000,Sep 2021
+817A,Keat Hong Link,01 to 03,92,Model A,2017,95.17,460000,Sep 2021
+817A,Keat Hong Link,04 to 06,92,Model A,2017,95.08,480000,Sep 2021
+817B,Keat Hong Link,04 to 06,92,Model A,2017,95,470000,Sep 2021
+817B,Keat Hong Link,10 to 12,92,Model A,2017,95.08,515000,Sep 2021
+15,Teck Whye Lane,13 to 15,92,New Generation,1979,56.58,360000,Sep 2021
+20,Teck Whye Lane,04 to 06,91,New Generation,1981,59.08,300000,Sep 2021
+111,Teck Whye Lane,10 to 12,103,Model A,1989,67.08,393888,Sep 2021
+807B,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.75,505000,Aug 2021
+808A,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,94.75,465000,Aug 2021
+808B,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,94.75,472000,Aug 2021
+808C,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.75,495000,Aug 2021
+809B,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,94.75,454988,Aug 2021
+809B,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,94.75,470000,Aug 2021
+818B,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.17,468000,Aug 2021
+818C,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.08,463000,Aug 2021
+252,Choa Chu Kang Ave 2,04 to 06,108,Model A,1994,72.42,415888,Aug 2021
+296A,Choa Chu Kang Ave 2,13 to 15,102,Premium Apartment,1999,77,400888,Aug 2021
+290,Choa Chu Kang Ave 3,04 to 06,106,Model A,1993,70.92,398000,Aug 2021
+290,Choa Chu Kang Ave 3,07 to 09,123,Model A,1993,70.92,485000,Aug 2021
+291,Choa Chu Kang Ave 3,04 to 06,104,Model A,1993,70.92,458000,Aug 2021
+401,Choa Chu Kang Ave 3,13 to 15,104,Model A,1993,70.92,455000,Aug 2021
+402,Choa Chu Kang Ave 3,01 to 03,104,Model A,1993,71,380000,Aug 2021
+408,Choa Chu Kang Ave 3,04 to 06,104,Model A,1993,70.83,396000,Aug 2021
+411,Choa Chu Kang Ave 3,07 to 09,104,Model A,1992,70,395000,Aug 2021
+416,Choa Chu Kang Ave 4,07 to 09,104,Model A,1993,70.83,450000,Aug 2021
+421,Choa Chu Kang Ave 4,10 to 12,104,Model A,1992,69.92,435000,Aug 2021
+430,Choa Chu Kang Ave 4,01 to 03,104,Model A,1993,70.92,440000,Aug 2021
+443,Choa Chu Kang Ave 4,10 to 12,100,Model A2,1997,74.75,435000,Aug 2021
+476C,Choa Chu Kang Ave 5,10 to 12,92,Model A,2013,91,470000,Aug 2021
+484,Choa Chu Kang Ave 5,13 to 15,101,Model A,1999,76.83,380000,Aug 2021
+484,Choa Chu Kang Ave 5,07 to 09,100,Model A,1999,76.83,432000,Aug 2021
+487A,Choa Chu Kang Ave 5,13 to 15,93,Model A,2016,93.92,460000,Aug 2021
+487C,Choa Chu Kang Ave 5,13 to 15,93,Model A,2016,93.83,495000,Aug 2021
+488A,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,93.83,500000,Aug 2021
+489C,Choa Chu Kang Ave 5,01 to 03,93,Model A,2016,93.92,425000,Aug 2021
+810B,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,95.33,500000,Aug 2021
+811A,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.25,460000,Aug 2021
+811A,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,95.33,473000,Aug 2021
+811B,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.25,466000,Aug 2021
+812A,Choa Chu Kang Ave 7,01 to 03,93,Model A,2017,95.33,425000,Aug 2021
+812A,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,95.25,470000,Aug 2021
+812A,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,95.33,510000,Aug 2021
+812A,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.25,510000,Aug 2021
+812A,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.33,520888,Aug 2021
+812B,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,95.25,460000,Aug 2021
+812B,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,95.33,483000,Aug 2021
+812B,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.33,485000,Aug 2021
+812B,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,95.42,500000,Aug 2021
+815A,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,94.58,530000,Aug 2021
+815C,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,94.58,528200,Aug 2021
+677,Choa Chu Kang Cres,04 to 06,106,Premium Apartment,1999,77.25,445000,Aug 2021
+683C,Choa Chu Kang Cres,10 to 12,90,Model A,2002,80,420000,Aug 2021
+685B,Choa Chu Kang Cres,10 to 12,90,Model A,2002,80.17,410000,Aug 2021
+685C,Choa Chu Kang Cres,01 to 03,86,Model A2,2002,80.25,360000,Aug 2021
+205,Choa Chu Kang Ctrl,04 to 06,104,Model A,1989,66.75,425000,Aug 2021
+206,Choa Chu Kang Ctrl,07 to 09,104,Model A,1989,66.67,430000,Aug 2021
+689B,Choa Chu Kang Dr,04 to 06,90,Model A,2002,79.75,365000,Aug 2021
+792,Choa Chu Kang Nth 6,10 to 12,111,Model A,1996,74.17,460000,Aug 2021
+546,Choa Chu Kang St 52,07 to 09,105,Model A,1995,72.58,425000,Aug 2021
+550,Choa Chu Kang St 52,10 to 12,103,Model A,1994,71.75,400000,Aug 2021
+570,Choa Chu Kang St 52,01 to 03,92,Model A,2015,92.5,423000,Aug 2021
+573,Choa Chu Kang St 52,07 to 09,92,Model A,2015,92.5,470000,Aug 2021
+574,Choa Chu Kang St 52,04 to 06,92,Model A,2015,92.5,448000,Aug 2021
+642,Choa Chu Kang St 64,07 to 09,100,Premium Apartment,1998,75.5,520000,Aug 2021
+151,Jln Teck Whye,10 to 12,100,Model A,1998,75.5,445000,Aug 2021
+157,Jln Teck Whye,13 to 15,91,Model A2,1998,75.5,438000,Aug 2021
+801A,Keat Hong Cl,13 to 15,92,Model A,2018,95.58,485000,Aug 2021
+801B,Keat Hong Cl,07 to 09,92,Model A,2018,95.5,465888,Aug 2021
+802A,Keat Hong Cl,04 to 06,92,Model A,2018,95.58,460000,Aug 2021
+802A,Keat Hong Cl,07 to 09,92,Model A,2018,95.58,467000,Aug 2021
+803C,Keat Hong Cl,13 to 15,93,Model A,2017,94.83,480000,Aug 2021
+804A,Keat Hong Cl,10 to 12,93,Model A,2017,94.83,455000,Aug 2021
+804B,Keat Hong Cl,04 to 06,93,Model A,2017,94.83,466000,Aug 2021
+805C,Keat Hong Cl,07 to 09,93,Model A,2017,94.83,490000,Aug 2021
+805C,Keat Hong Cl,10 to 12,93,Model A,2017,94.83,500000,Aug 2021
+805C,Keat Hong Cl,16 to 18,93,Model A,2017,94.83,502000,Aug 2021
+805D,Keat Hong Cl,13 to 15,93,Model A,2017,94.83,470000,Aug 2021
+805D,Keat Hong Cl,10 to 12,93,Model A,2017,94.75,480000,Aug 2021
+816A,Keat Hong Link,01 to 03,92,Model A,2017,95.08,455000,Aug 2021
+816B,Keat Hong Link,04 to 06,92,Model A,2017,95.17,470000,Aug 2021
+817A,Keat Hong Link,10 to 12,92,Model A,2017,95.08,510000,Aug 2021
+817B,Keat Hong Link,07 to 09,92,Model A,2017,95.25,475000,Aug 2021
+817B,Keat Hong Link,10 to 12,92,Model A,2017,95.17,500000,Aug 2021
+817B,Keat Hong Link,13 to 15,92,Model A,2017,95.17,508000,Aug 2021
+817B,Keat Hong Link,13 to 15,92,Model A,2017,95.17,525000,Aug 2021
+817B,Keat Hong Link,16 to 18,92,Model A,2017,95.17,528000,Aug 2021
+15,Teck Whye Lane,01 to 03,92,New Generation,1979,56.58,319000,Aug 2021
+25,Teck Whye Lane,07 to 09,92,New Generation,1979,56.58,350000,Aug 2021
+102,Teck Whye Lane,07 to 09,104,Model A,1989,66.75,424888,Aug 2021
+110,Teck Whye Lane,07 to 09,103,Model A,1989,67.25,390000,Aug 2021
+118,Teck Whye Lane,01 to 03,106,Model A,1989,66.58,375000,Aug 2021
+119,Teck Whye Lane,07 to 09,104,Model A,1989,66.58,422000,Aug 2021
+142,Teck Whye Lane,04 to 06,103,Model A,1989,66.92,377000,Aug 2021
+131,Choa Chu Kang Ave 1,13 to 15,104,Model A,1993,71,399000,Jul 2021
+808A,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,94.83,478000,Jul 2021
+809A,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,94.83,475000,Jul 2021
+818B,Choa Chu Kang Ave 1,16 to 18,92,Model A,2017,95.25,488000,Jul 2021
+296,Choa Chu Kang Ave 2,07 to 09,102,Premium Apartment,1999,77.08,408000,Jul 2021
+297D,Choa Chu Kang Ave 2,10 to 12,101,Premium Apartment,1999,77.08,430000,Jul 2021
+285,Choa Chu Kang Ave 3,07 to 09,104,Model A,1993,70.92,410168,Jul 2021
+402,Choa Chu Kang Ave 3,07 to 09,104,Model A,1993,71.08,402000,Jul 2021
+409,Choa Chu Kang Ave 3,07 to 09,106,Model A,1992,69.92,415000,Jul 2021
+474,Choa Chu Kang Ave 3,07 to 09,100,Model A,1999,76.83,393000,Jul 2021
+440,Choa Chu Kang Ave 4,04 to 06,106,Model A,1993,71,408000,Jul 2021
+445,Choa Chu Kang Ave 4,07 to 09,101,Model A,1997,74.67,401000,Jul 2021
+476D,Choa Chu Kang Ave 5,04 to 06,92,Model A,2013,91.08,463000,Jul 2021
+485A,Choa Chu Kang Ave 5,04 to 06,102,Model A,1999,77,400000,Jul 2021
+487B,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,93.92,460000,Jul 2021
+487C,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94,465000,Jul 2021
+488B,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,93.92,485000,Jul 2021
+488C,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94,459000,Jul 2021
+488C,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94,477000,Jul 2021
+488D,Choa Chu Kang Ave 5,13 to 15,93,Model A,2016,94,488000,Jul 2021
+489C,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94,450000,Jul 2021
+489D,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94,458800,Jul 2021
+490B,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94,438000,Jul 2021
+811A,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,95.42,450000,Jul 2021
+811A,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,95.42,450000,Jul 2021
+815A,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,94.75,460000,Jul 2021
+815A,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,94.75,485000,Jul 2021
+815B,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,94.75,465000,Jul 2021
+815B,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,94.75,470000,Jul 2021
+815B,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,94.75,520000,Jul 2021
+815C,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,94.75,460000,Jul 2021
+815C,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,94.75,460000,Jul 2021
+815C,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,94.75,465000,Jul 2021
+815C,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,94.83,500000,Jul 2021
+670A,Choa Chu Kang Cres,13 to 15,104,Premium Apartment,1999,77.5,415000,Jul 2021
+678,Choa Chu Kang Cres,04 to 06,106,Premium Apartment,1999,77.42,420000,Jul 2021
+686B,Choa Chu Kang Cres,01 to 03,91,Model A,2002,80.25,380000,Jul 2021
+688C,Choa Chu Kang Cres,10 to 12,90,Model A,2003,80.75,375000,Jul 2021
+688C,Choa Chu Kang Cres,16 to 18,90,Model A,2003,80.75,406000,Jul 2021
+226,Choa Chu Kang Ctrl,04 to 06,105,Model A,1993,70.92,440000,Jul 2021
+637,Choa Chu Kang Nth 6,07 to 09,113,Premium Apartment,1998,75.58,490000,Jul 2021
+501,Choa Chu Kang St 51,04 to 06,107,Model A,1995,72.75,393000,Jul 2021
+574,Choa Chu Kang St 52,10 to 12,92,Model A,2015,92.58,511000,Jul 2021
+769,Choa Chu Kang St 54,16 to 18,106,Model A,1996,74.33,475000,Jul 2021
+771,Choa Chu Kang St 54,10 to 12,104,Model A,1996,74.08,468000,Jul 2021
+611,Choa Chu Kang St 62,01 to 03,107,Model A,1996,74,425000,Jul 2021
+625,Choa Chu Kang St 62,10 to 12,100,Model A,1997,74.92,448888,Jul 2021
+157,Jln Teck Whye,01 to 03,91,Model A2,1998,75.58,367000,Jul 2021
+157,Jln Teck Whye,10 to 12,100,Model A2,1998,75.58,400000,Jul 2021
+801A,Keat Hong Cl,04 to 06,92,Model A,2018,95.67,450000,Jul 2021
+801B,Keat Hong Cl,10 to 12,92,Model A,2018,95.67,468000,Jul 2021
+801C,Keat Hong Cl,04 to 06,92,Model A,2018,95.58,441888,Jul 2021
+803B,Keat Hong Cl,07 to 09,93,Model A,2017,94.92,460000,Jul 2021
+803C,Keat Hong Cl,04 to 06,93,Model A,2017,94.92,435000,Jul 2021
+803D,Keat Hong Cl,10 to 12,93,Model A,2017,94.92,475000,Jul 2021
+803D,Keat Hong Cl,16 to 18,93,Model A,2017,94.92,488000,Jul 2021
+803D,Keat Hong Cl,16 to 18,93,Model A,2017,94.83,490000,Jul 2021
+804B,Keat Hong Cl,07 to 09,93,Model A,2017,95,465000,Jul 2021
+805C,Keat Hong Cl,01 to 03,93,Model A,2017,95,438000,Jul 2021
+805C,Keat Hong Cl,04 to 06,93,Model A,2017,94.92,500000,Jul 2021
+805D,Keat Hong Cl,10 to 12,93,Model A,2017,94.92,465000,Jul 2021
+805D,Keat Hong Cl,07 to 09,93,Model A,2017,94.92,470000,Jul 2021
+817A,Keat Hong Link,07 to 09,92,Model A,2017,95.25,460000,Jul 2021
+817A,Keat Hong Link,13 to 15,92,Model A,2017,95.25,525000,Jul 2021
+817B,Keat Hong Link,07 to 09,92,Model A,2017,95.25,478000,Jul 2021
+817B,Keat Hong Link,10 to 12,92,Model A,2017,95.25,498000,Jul 2021
+817B,Keat Hong Link,19 to 21,92,Model A,2017,95.25,535000,Jul 2021
+1,Teck Whye Ave,04 to 06,103,Model A,1984,62.33,378000,Jul 2021
+17,Teck Whye Lane,07 to 09,91,New Generation,1981,59.25,370000,Jul 2021
+110,Teck Whye Lane,10 to 12,103,Model A,1989,67.33,408000,Jul 2021
+202,Choa Chu Kang Ave 1,10 to 12,112,Model A,1989,67.58,455000,Jun 2021
+807B,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.92,488000,Jun 2021
+807B,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,94.92,490000,Jun 2021
+807C,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,94.92,480000,Jun 2021
+807C,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.92,485000,Jun 2021
+808A,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.83,475000,Jun 2021
+808C,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,94.92,458000,Jun 2021
+808D,Choa Chu Kang Ave 1,01 to 03,92,Model A,2017,94.92,445000,Jun 2021
+808D,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.92,478000,Jun 2021
+809A,Choa Chu Kang Ave 1,01 to 03,92,Model A,2017,94.92,448000,Jun 2021
+809A,Choa Chu Kang Ave 1,16 to 18,92,Model A,2017,94.92,478000,Jun 2021
+278,Choa Chu Kang Ave 3,01 to 03,104,Model A,1992,70.17,355000,Jun 2021
+280,Choa Chu Kang Ave 3,01 to 03,104,Model A,1992,70.17,388888,Jun 2021
+288,Choa Chu Kang Ave 3,01 to 03,104,Model A,1990,68.08,376000,Jun 2021
+290,Choa Chu Kang Ave 3,01 to 03,123,Model A,1993,71.08,440000,Jun 2021
+424,Choa Chu Kang Ave 4,01 to 03,106,Model A,1992,70.17,415000,Jun 2021
+443,Choa Chu Kang Ave 4,13 to 15,90,Model A2,1997,74.92,388000,Jun 2021
+484B,Choa Chu Kang Ave 5,10 to 12,101,Model A,1999,76.92,410000,Jun 2021
+810A,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.5,473000,Jun 2021
+810A,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.5,488000,Jun 2021
+810A,Choa Chu Kang Ave 7,19 to 21,93,Model A,2017,95.58,495000,Jun 2021
+810B,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,95.5,460000,Jun 2021
+810B,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,95.5,500500,Jun 2021
+811A,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,95.5,500000,Jun 2021
+812C,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.5,470000,Jun 2021
+815A,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,94.83,500000,Jun 2021
+815B,Choa Chu Kang Ave 7,01 to 03,93,Model A,2017,94.83,450000,Jun 2021
+815B,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,94.83,500000,Jun 2021
+670A,Choa Chu Kang Cres,01 to 03,104,Premium Apartment,1999,77.58,385000,Jun 2021
+681,Choa Chu Kang Cres,01 to 03,105,Premium Apartment,1999,77.33,410000,Jun 2021
+686C,Choa Chu Kang Cres,16 to 18,85,Model A2,2002,80.33,401333,Jun 2021
+690A,Choa Chu Kang Cres,07 to 09,90,Model A,2003,81,390000,Jun 2021
+692B,Choa Chu Kang Cres,04 to 06,90,Model A,2003,80.75,395000,Jun 2021
+224,Choa Chu Kang Ctrl,07 to 09,104,Model A,1993,71,425000,Jun 2021
+636,Choa Chu Kang Nth 6,04 to 06,113,Premium Apartment,1998,75.67,480000,Jun 2021
+607,Choa Chu Kang St 62,10 to 12,107,Model A,1996,73.92,450000,Jun 2021
+640,Choa Chu Kang St 64,04 to 06,100,Premium Apartment,1998,75.67,500000,Jun 2021
+157,Jln Teck Whye,04 to 06,94,Model A2,1998,75.67,355000,Jun 2021
+160,Jln Teck Whye,10 to 12,101,Model A,1998,75.75,415000,Jun 2021
+803A,Keat Hong Cl,01 to 03,93,Model A,2017,95,436500,Jun 2021
+803B,Keat Hong Cl,13 to 15,93,Model A,2017,95,460000,Jun 2021
+803C,Keat Hong Cl,10 to 12,93,Model A,2017,95,455000,Jun 2021
+803C,Keat Hong Cl,07 to 09,93,Model A,2017,95,460000,Jun 2021
+803C,Keat Hong Cl,13 to 15,93,Model A,2017,95,468000,Jun 2021
+803C,Keat Hong Cl,13 to 15,93,Model A,2017,95,475000,Jun 2021
+803C,Keat Hong Cl,10 to 12,93,Model A,2017,95,480000,Jun 2021
+804A,Keat Hong Cl,13 to 15,93,Model A,2017,95,480000,Jun 2021
+805A,Keat Hong Cl,07 to 09,93,Model A,2017,95,460000,Jun 2021
+805B,Keat Hong Cl,04 to 06,93,Model A,2017,95,455000,Jun 2021
+805B,Keat Hong Cl,13 to 15,93,Model A,2017,95,478000,Jun 2021
+805B,Keat Hong Cl,10 to 12,93,Model A,2017,95,480000,Jun 2021
+805C,Keat Hong Cl,16 to 18,93,Model A,2017,95,500000,Jun 2021
+816A,Keat Hong Link,22 to 24,92,Model A,2017,95.33,510000,Jun 2021
+816B,Keat Hong Link,13 to 15,92,Model A,2017,95.33,470000,Jun 2021
+2,Teck Whye Ave,13 to 15,103,Model A,1984,62.42,385000,Jun 2021
+103,Teck Whye Lane,01 to 03,106,Model A,1989,66.75,382000,Jun 2021
+110,Teck Whye Lane,07 to 09,103,Model A,1989,67.42,388000,Jun 2021
+807B,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,94.92,460000,May 2021
+807B,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95,478000,May 2021
+807B,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.92,490000,May 2021
+807C,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,94.92,485000,May 2021
+808A,Choa Chu Kang Ave 1,01 to 03,92,Model A,2017,95,445000,May 2021
+808C,Choa Chu Kang Ave 1,01 to 03,92,Model A,2017,95,430000,May 2021
+808D,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95,468000,May 2021
+809B,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95,472000,May 2021
+401,Choa Chu Kang Ave 3,07 to 09,106,Model A,1993,71.17,403000,May 2021
+429,Choa Chu Kang Ave 4,01 to 03,106,Model A,1993,71.17,395000,May 2021
+443,Choa Chu Kang Ave 4,01 to 03,90,Model A2,1997,75,375000,May 2021
+451,Choa Chu Kang Ave 4,10 to 12,104,Premium Apartment,2000,77.75,400000,May 2021
+464,Choa Chu Kang Ave 4,01 to 03,104,Premium Apartment,2000,77.92,390000,May 2021
+487B,Choa Chu Kang Ave 5,01 to 03,93,Model A,2016,94.17,430000,May 2021
+488A,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.17,500000,May 2021
+488B,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.17,475000,May 2021
+488C,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.17,428000,May 2021
+489A,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.17,430000,May 2021
+489C,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.08,443000,May 2021
+490D,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.08,450000,May 2021
+810A,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,95.58,443000,May 2021
+810A,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,95.58,490000,May 2021
+815A,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,94.92,468000,May 2021
+815A,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,94.83,485000,May 2021
+815A,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,94.92,508000,May 2021
+815A,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,94.83,520000,May 2021
+815B,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,94.83,465000,May 2021
+815B,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,94.92,470000,May 2021
+815B,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,94.83,485000,May 2021
+815B,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,94.92,500000,May 2021
+815B,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,94.92,505000,May 2021
+815C,Choa Chu Kang Ave 7,19 to 21,93,Model A,2017,94.83,500000,May 2021
+673,Choa Chu Kang Cres,04 to 06,104,Premium Apartment,1999,77.42,409000,May 2021
+686D,Choa Chu Kang Cres,01 to 03,91,Model A,2002,80.42,360000,May 2021
+213,Choa Chu Kang Ctrl,04 to 06,104,Model A,1989,67,420000,May 2021
+689A,Choa Chu Kang Dr,04 to 06,90,Model A,2002,80,376000,May 2021
+634,Choa Chu Kang Nth 6,04 to 06,113,Premium Apartment,1998,75.75,468000,May 2021
+635,Choa Chu Kang Nth 6,01 to 03,113,Premium Apartment,1998,75.67,480000,May 2021
+504,Choa Chu Kang St 51,07 to 09,106,Model A,1995,72.75,380000,May 2021
+517,Choa Chu Kang St 51,04 to 06,104,Model A,1995,73.42,390000,May 2021
+545,Choa Chu Kang St 52,04 to 06,105,Model A,1994,72,445000,May 2021
+152,Jln Teck Whye,10 to 12,100,Model A,1998,75.75,425000,May 2021
+803D,Keat Hong Cl,13 to 15,93,Model A,2017,95,480000,May 2021
+804A,Keat Hong Cl,10 to 12,93,Model A,2017,95.08,470000,May 2021
+805A,Keat Hong Cl,10 to 12,93,Model A,2017,95.08,455000,May 2021
+805A,Keat Hong Cl,07 to 09,93,Model A,2017,95.08,465000,May 2021
+805B,Keat Hong Cl,10 to 12,93,Model A,2017,95,485000,May 2021
+805C,Keat Hong Cl,07 to 09,93,Model A,2017,95.08,480000,May 2021
+816B,Keat Hong Link,07 to 09,92,Model A,2017,95.42,485000,May 2021
+816B,Keat Hong Link,13 to 15,92,Model A,2017,95.33,510000,May 2021
+817A,Keat Hong Link,01 to 03,92,Model A,2017,95.42,450000,May 2021
+817A,Keat Hong Link,10 to 12,92,Model A,2017,95.42,480000,May 2021
+817A,Keat Hong Link,16 to 18,92,Model A,2017,95.42,498000,May 2021
+817A,Keat Hong Link,22 to 24,92,Model A,2017,95.33,505000,May 2021
+817B,Keat Hong Link,19 to 21,92,Model A,2017,95.42,530000,May 2021
+1,Teck Whye Ave,10 to 12,103,Model A,1984,62.5,400000,May 2021
+6,Teck Whye Ave,10 to 12,106,Model A,1984,61.92,360000,May 2021
+6,Teck Whye Ave,04 to 06,106,Model A,1984,61.92,380000,May 2021
+102,Teck Whye Lane,04 to 06,106,Model A,1989,67,420000,May 2021
+807C,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.08,475000,Apr 2021
+808A,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.08,450000,Apr 2021
+808A,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.08,467000,Apr 2021
+808B,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,95.08,465000,Apr 2021
+809A,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.08,477000,Apr 2021
+809A,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.08,478000,Apr 2021
+248,Choa Chu Kang Ave 2,04 to 06,104,Model A,1993,71.17,428000,Apr 2021
+250,Choa Chu Kang Ave 2,04 to 06,104,Model A,1993,71.17,385000,Apr 2021
+281,Choa Chu Kang Ave 3,10 to 12,104,Model A,1992,70.25,388000,Apr 2021
+283,Choa Chu Kang Ave 3,04 to 06,104,Model A,1992,70.33,380000,Apr 2021
+414,Choa Chu Kang Ave 4,07 to 09,104,Model A,1993,71.17,420000,Apr 2021
+416,Choa Chu Kang Ave 4,01 to 03,110,Model A,1993,71.25,445000,Apr 2021
+439,Choa Chu Kang Ave 4,04 to 06,106,Model A,1993,71.17,430000,Apr 2021
+447,Choa Chu Kang Ave 4,07 to 09,100,Model A,1997,75.25,395000,Apr 2021
+459,Choa Chu Kang Ave 4,10 to 12,104,Premium Apartment,2000,78.08,395000,Apr 2021
+488B,Choa Chu Kang Ave 5,13 to 15,93,Model A,2016,94.25,470000,Apr 2021
+488C,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.17,488000,Apr 2021
+489C,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.17,445000,Apr 2021
+490B,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.33,425000,Apr 2021
+490B,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.17,450000,Apr 2021
+490C,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.17,462000,Apr 2021
+815A,Choa Chu Kang Ave 7,19 to 21,93,Model A,2017,95,492888,Apr 2021
+815A,Choa Chu Kang Ave 7,19 to 21,93,Model A,2017,95,500000,Apr 2021
+815C,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,95,490000,Apr 2021
+681,Choa Chu Kang Cres,01 to 03,107,Premium Apartment,1999,77.5,353800,Apr 2021
+683A,Choa Chu Kang Cres,10 to 12,90,Model A,2002,80.25,380000,Apr 2021
+690D,Choa Chu Kang Cres,04 to 06,90,Model A,2003,81.42,375000,Apr 2021
+237,Choa Chu Kang Ctrl,04 to 06,103,Model A,1990,68.5,415000,Apr 2021
+551,Choa Chu Kang St 52,10 to 12,105,Model A,1994,72.08,410000,Apr 2021
+612,Choa Chu Kang St 62,01 to 03,108,Model A,1996,74.25,415000,Apr 2021
+616,Choa Chu Kang St 62,07 to 09,107,Model A,1996,74.25,430000,Apr 2021
+641,Choa Chu Kang St 64,07 to 09,100,Premium Apartment,1998,75.83,483000,Apr 2021
+641,Choa Chu Kang St 64,13 to 15,100,Premium Apartment,1998,75.83,510000,Apr 2021
+157,Jln Teck Whye,10 to 12,91,Model A2,1998,75.83,375000,Apr 2021
+803A,Keat Hong Cl,13 to 15,93,Model A,2017,95.08,465000,Apr 2021
+803B,Keat Hong Cl,04 to 06,93,Model A,2017,95.25,438888,Apr 2021
+803C,Keat Hong Cl,13 to 15,93,Model A,2017,95.08,468000,Apr 2021
+803C,Keat Hong Cl,10 to 12,93,Model A,2017,95.08,472000,Apr 2021
+803D,Keat Hong Cl,07 to 09,93,Model A,2017,95.08,468000,Apr 2021
+804A,Keat Hong Cl,07 to 09,93,Model A,2017,95.17,470000,Apr 2021
+25,Teck Whye Lane,07 to 09,92,New Generation,1979,57,320000,Apr 2021
+25,Teck Whye Lane,04 to 06,92,New Generation,1979,57,342000,Apr 2021
+26,Teck Whye Lane,07 to 09,99,New Generation,1979,56.92,345000,Apr 2021
+105,Teck Whye Lane,07 to 09,107,Model A,1989,67.42,420000,Apr 2021
+113,Teck Whye Lane,01 to 03,104,Model A,1989,66.83,350000,Apr 2021
+115,Teck Whye Lane,04 to 06,103,Model A,1989,67.17,378000,Apr 2021
+807B,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.17,475000,Mar 2021
+807B,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.08,490000,Mar 2021
+807C,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.17,468000,Mar 2021
+808A,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.08,468000,Mar 2021
+808B,Choa Chu Kang Ave 1,01 to 03,92,Model A,2017,95.08,435000,Mar 2021
+808B,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,95.17,440000,Mar 2021
+808B,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,95.17,450000,Mar 2021
+808B,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,95.17,470000,Mar 2021
+808C,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,95.08,460000,Mar 2021
+808C,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.17,465000,Mar 2021
+808C,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,95.08,465000,Mar 2021
+808C,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.08,470000,Mar 2021
+808D,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.08,452888,Mar 2021
+808D,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.08,458000,Mar 2021
+809A,Choa Chu Kang Ave 1,16 to 18,92,Model A,2017,95.17,475000,Mar 2021
+295,Choa Chu Kang Ave 2,07 to 09,114,Model A,1990,68.25,422000,Mar 2021
+297A,Choa Chu Kang Ave 2,13 to 15,103,Premium Apartment,1999,77.33,405000,Mar 2021
+280,Choa Chu Kang Ave 3,01 to 03,104,Model A,1992,70.5,375000,Mar 2021
+285,Choa Chu Kang Ave 3,01 to 03,104,Model A,1993,71.42,365000,Mar 2021
+408,Choa Chu Kang Ave 3,04 to 06,110,Model A,1993,71.25,380000,Mar 2021
+408,Choa Chu Kang Ave 3,04 to 06,104,Model A,1993,71.33,390000,Mar 2021
+474,Choa Chu Kang Ave 3,10 to 12,100,Model A,1999,77.17,397000,Mar 2021
+418,Choa Chu Kang Ave 4,07 to 09,106,Model A,1993,71.17,390000,Mar 2021
+455,Choa Chu Kang Ave 4,10 to 12,104,Premium Apartment,2000,78.17,378000,Mar 2021
+476B,Choa Chu Kang Ave 5,13 to 15,92,Model A,2013,91.33,465000,Mar 2021
+489D,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.33,433000,Mar 2021
+490A,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.33,440000,Mar 2021
+490A,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.25,440000,Mar 2021
+490A,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.25,488000,Mar 2021
+815A,Choa Chu Kang Ave 7,01 to 03,93,Model A,2017,95.08,425000,Mar 2021
+815A,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.08,453000,Mar 2021
+815C,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,95,451000,Mar 2021
+815C,Choa Chu Kang Ave 7,19 to 21,93,Model A,2017,95.08,495000,Mar 2021
+668,Choa Chu Kang Cres,04 to 06,103,Model A,1999,77.42,400000,Mar 2021
+691A,Choa Chu Kang Cres,16 to 18,91,Model A,2003,81.17,398000,Mar 2021
+215,Choa Chu Kang Ctrl,01 to 03,104,Model A,1990,67.92,438000,Mar 2021
+229,Choa Chu Kang Ctrl,10 to 12,104,Model A,1989,67.25,415000,Mar 2021
+232,Choa Chu Kang Ctrl,10 to 12,106,Model A,1990,68.17,430000,Mar 2021
+354,Choa Chu Kang Ctrl,13 to 15,104,Model A,1993,71.25,430000,Mar 2021
+762,Choa Chu Kang Nth 5,13 to 15,104,Model A,1996,74.42,413000,Mar 2021
+634,Choa Chu Kang Nth 6,01 to 03,113,Premium Apartment,1998,75.92,450000,Mar 2021
+541,Choa Chu Kang St 52,07 to 09,104,Model A,1994,72.17,380000,Mar 2021
+565,Choa Chu Kang St 52,10 to 12,106,Model A,1995,73.67,428000,Mar 2021
+573,Choa Chu Kang St 52,10 to 12,92,Model A,2015,92.83,478000,Mar 2021
+616,Choa Chu Kang St 62,01 to 03,108,Model A,1996,74.33,390000,Mar 2021
+620,Choa Chu Kang St 62,10 to 12,108,Model A,1996,74.42,420000,Mar 2021
+150,Jln Teck Whye,07 to 09,100,Model A,1998,75.92,384000,Mar 2021
+157,Jln Teck Whye,07 to 09,94,Model A2,1998,75.83,375000,Mar 2021
+803A,Keat Hong Cl,07 to 09,93,Model A,2017,95.25,450000,Mar 2021
+803A,Keat Hong Cl,07 to 09,93,Model A,2017,95.25,452000,Mar 2021
+803C,Keat Hong Cl,04 to 06,93,Model A,2017,95.17,430000,Mar 2021
+803C,Keat Hong Cl,16 to 18,93,Model A,2017,95.25,475000,Mar 2021
+804A,Keat Hong Cl,04 to 06,93,Model A,2017,95.25,430000,Mar 2021
+804A,Keat Hong Cl,13 to 15,93,Model A,2017,95.25,454000,Mar 2021
+804B,Keat Hong Cl,13 to 15,93,Model A,2017,95.25,440000,Mar 2021
+804B,Keat Hong Cl,13 to 15,93,Model A,2017,95.17,465000,Mar 2021
+805B,Keat Hong Cl,10 to 12,93,Model A,2017,95.17,460000,Mar 2021
+805B,Keat Hong Cl,10 to 12,93,Model A,2017,95.17,470000,Mar 2021
+816A,Keat Hong Link,04 to 06,92,Model A,2017,95.5,455000,Mar 2021
+25,Teck Whye Lane,10 to 12,92,New Generation,1979,57.08,333000,Mar 2021
+110,Teck Whye Lane,04 to 06,103,Model A,1989,67.58,391000,Mar 2021
+113,Teck Whye Lane,04 to 06,103,Model A,1989,66.83,365000,Mar 2021
+142,Teck Whye Lane,01 to 03,103,Model A,1989,67.25,340000,Mar 2021
+807B,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,95.17,410000,Feb 2021
+807B,Choa Chu Kang Ave 1,01 to 03,92,Model A,2017,95.25,431800,Feb 2021
+807B,Choa Chu Kang Ave 1,01 to 03,92,Model A,2017,95.17,445000,Feb 2021
+807B,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.25,452000,Feb 2021
+807B,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,95.25,460000,Feb 2021
+808A,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.25,440000,Feb 2021
+808A,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.25,467000,Feb 2021
+808C,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.17,465000,Feb 2021
+808D,Choa Chu Kang Ave 1,01 to 03,92,Model A,2017,95.17,435000,Feb 2021
+808D,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.25,470000,Feb 2021
+809B,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,95.25,488000,Feb 2021
+252,Choa Chu Kang Ave 2,01 to 03,108,Model A,1994,72.92,345000,Feb 2021
+296E,Choa Chu Kang Ave 2,13 to 15,102,Premium Apartment,1999,77.5,385000,Feb 2021
+285,Choa Chu Kang Ave 3,07 to 09,104,Model A,1993,71.33,401100,Feb 2021
+288,Choa Chu Kang Ave 3,01 to 03,104,Model A,1990,68.42,366000,Feb 2021
+414,Choa Chu Kang Ave 4,04 to 06,104,Model A,1993,71.33,400000,Feb 2021
+435,Choa Chu Kang Ave 4,01 to 03,104,Model A,1993,71.42,390000,Feb 2021
+476B,Choa Chu Kang Ave 5,10 to 12,92,Model A,2013,91.5,435000,Feb 2021
+483,Choa Chu Kang Ave 5,10 to 12,100,Model A,1999,77.33,385000,Feb 2021
+487A,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.33,440000,Feb 2021
+487B,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.5,440000,Feb 2021
+487C,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.33,448000,Feb 2021
+488C,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.42,417000,Feb 2021
+489B,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.42,455000,Feb 2021
+489D,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.33,455000,Feb 2021
+490A,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.42,458888,Feb 2021
+815A,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.17,435000,Feb 2021
+815A,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,95.17,470000,Feb 2021
+815A,Choa Chu Kang Ave 7,19 to 21,93,Model A,2017,95.17,496000,Feb 2021
+815B,Choa Chu Kang Ave 7,10 to 12,93,Model A,2017,95.17,485000,Feb 2021
+660,Choa Chu Kang Cres,07 to 09,100,Premium Apartment,1999,77.25,398000,Feb 2021
+668,Choa Chu Kang Cres,01 to 03,103,Model A,1999,77.33,378000,Feb 2021
+673A,Choa Chu Kang Cres,04 to 06,103,Premium Apartment,1999,77.83,400000,Feb 2021
+676,Choa Chu Kang Cres,04 to 06,104,Premium Apartment,1999,77.92,390000,Feb 2021
+683A,Choa Chu Kang Cres,07 to 09,90,Model A,2002,80.5,370000,Feb 2021
+684C,Choa Chu Kang Cres,04 to 06,91,Model A,2002,80.75,340080,Feb 2021
+355,Choa Chu Kang Ctrl,07 to 09,104,Model A,1993,71.42,425000,Feb 2021
+763,Choa Chu Kang Nth 5,07 to 09,106,Model A,1996,74.58,410000,Feb 2021
+552,Choa Chu Kang St 52,01 to 03,105,Model A,1994,72.25,368000,Feb 2021
+573,Choa Chu Kang St 52,07 to 09,92,Model A,2015,93,440000,Feb 2021
+615,Choa Chu Kang St 62,04 to 06,108,Model A,1996,74.42,371000,Feb 2021
+152,Jln Teck Whye,01 to 03,100,Model A,1998,75.92,350000,Feb 2021
+803B,Keat Hong Cl,01 to 03,93,Model A,2017,95.33,450000,Feb 2021
+804A,Keat Hong Cl,10 to 12,93,Model A,2017,95.33,451000,Feb 2021
+804A,Keat Hong Cl,10 to 12,93,Model A,2017,95.33,455000,Feb 2021
+804B,Keat Hong Cl,10 to 12,93,Model A,2017,95.25,458000,Feb 2021
+805A,Keat Hong Cl,16 to 18,93,Model A,2017,95.25,450000,Feb 2021
+17,Teck Whye Lane,04 to 06,93,New Generation,1981,59.67,340000,Feb 2021
+130,Choa Chu Kang Ave 1,07 to 09,105,Model A,1993,71.42,370000,Jan 2021
+202,Choa Chu Kang Ave 1,04 to 06,104,Model A,1989,68,404000,Jan 2021
+807B,Choa Chu Kang Ave 1,04 to 06,92,Model A,2017,95.25,435000,Jan 2021
+807B,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.33,440000,Jan 2021
+807B,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.25,451000,Jan 2021
+807B,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.33,465000,Jan 2021
+807B,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.33,480000,Jan 2021
+808A,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.33,457000,Jan 2021
+808A,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,95.33,470000,Jan 2021
+808D,Choa Chu Kang Ave 1,10 to 12,92,Model A,2017,95.33,441000,Jan 2021
+281,Choa Chu Kang Ave 3,07 to 09,106,Model A,1992,70.58,340000,Jan 2021
+283,Choa Chu Kang Ave 3,13 to 15,104,Model A,1992,70.5,400000,Jan 2021
+290,Choa Chu Kang Ave 3,01 to 03,103,Model A,1993,71.5,350000,Jan 2021
+293,Choa Chu Kang Ave 3,04 to 06,104,Model A,1993,71.5,390000,Jan 2021
+408,Choa Chu Kang Ave 3,04 to 06,104,Model A,1993,71.5,350000,Jan 2021
+307,Choa Chu Kang Ave 4,10 to 12,105,Model A,1993,71.5,445000,Jan 2021
+417,Choa Chu Kang Ave 4,01 to 03,105,Model A,1993,71.5,400000,Jan 2021
+428,Choa Chu Kang Ave 4,04 to 06,104,Model A,1992,70.58,351000,Jan 2021
+483,Choa Chu Kang Ave 5,10 to 12,101,Model A,1999,77.42,370000,Jan 2021
+485D,Choa Chu Kang Ave 5,01 to 03,101,Model A,1999,77.5,375000,Jan 2021
+487A,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.42,438000,Jan 2021
+487A,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.5,442000,Jan 2021
+487B,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.5,428000,Jan 2021
+488A,Choa Chu Kang Ave 5,13 to 15,93,Model A,2016,94.5,445000,Jan 2021
+488A,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.42,455000,Jan 2021
+490A,Choa Chu Kang Ave 5,01 to 03,93,Model A,2016,94.5,420000,Jan 2021
+490B,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.5,410000,Jan 2021
+490D,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.5,456000,Jan 2021
+815A,Choa Chu Kang Ave 7,01 to 03,93,Model A,2017,95.17,430000,Jan 2021
+815A,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,95.25,433000,Jan 2021
+815A,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.25,480000,Jan 2021
+815A,Choa Chu Kang Ave 7,16 to 18,93,Model A,2017,95.17,500000,Jan 2021
+815C,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.25,480000,Jan 2021
+815C,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.33,480000,Jan 2021
+660,Choa Chu Kang Cres,04 to 06,104,Premium Apartment,1999,77.25,380000,Jan 2021
+669,Choa Chu Kang Cres,16 to 18,103,Premium Apartment,1999,77.83,410000,Jan 2021
+692B,Choa Chu Kang Cres,13 to 15,91,Model A,2003,81.17,368000,Jan 2021
+210,Choa Chu Kang Ctrl,10 to 12,115,Model A,1990,68.17,425000,Jan 2021
+354,Choa Chu Kang Ctrl,04 to 06,104,Model A,1993,71.5,402300,Jan 2021
+634,Choa Chu Kang Nth 6,01 to 03,113,Premium Apartment,1998,76.08,450000,Jan 2021
+636,Choa Chu Kang Nth 6,04 to 06,113,Premium Apartment,1998,76.17,455000,Jan 2021
+617,Choa Chu Kang Nth 7,04 to 06,107,Model A,1996,74.33,400000,Jan 2021
+506,Choa Chu Kang St 51,04 to 06,108,Model A,1994,72.83,352500,Jan 2021
+567,Choa Chu Kang St 52,04 to 06,109,Model A,1995,73.92,415000,Jan 2021
+572,Choa Chu Kang St 52,10 to 12,92,Model A,2015,93.08,488888,Jan 2021
+574,Choa Chu Kang St 52,04 to 06,92,Model A,2015,93,430000,Jan 2021
+703,Choa Chu Kang St 53,10 to 12,107,Model A,1995,73.33,396000,Jan 2021
+767,Choa Chu Kang St 54,16 to 18,104,Model A,1996,74.75,418000,Jan 2021
+625,Choa Chu Kang St 62,01 to 03,100,Model A,1997,75.42,380000,Jan 2021
+642,Choa Chu Kang St 64,04 to 06,100,Premium Apartment,1998,76.08,462000,Jan 2021
+154,Jln Teck Whye,10 to 12,100,Model A,1997,76,375000,Jan 2021
+803A,Keat Hong Cl,07 to 09,93,Model A,2017,95.42,420000,Jan 2021
+803B,Keat Hong Cl,04 to 06,93,Model A,2017,95.33,430000,Jan 2021
+803B,Keat Hong Cl,10 to 12,93,Model A,2017,95.42,455000,Jan 2021
+804A,Keat Hong Cl,13 to 15,93,Model A,2017,95.33,440000,Jan 2021
+804A,Keat Hong Cl,13 to 15,93,Model A,2017,95.33,488000,Jan 2021
+17,Teck Whye Lane,10 to 12,95,New Generation,1981,59.75,338000,Jan 2021
+20,Teck Whye Lane,04 to 06,91,New Generation,1981,59.75,330000,Jan 2021
+25,Teck Whye Lane,10 to 12,92,New Generation,1979,57.25,335000,Jan 2021
+112,Teck Whye Lane,07 to 09,104,Model A,1989,67.25,410000,Jan 2021
+202,Choa Chu Kang Ave 1,01 to 03,112,Model A,1989,68.08,400000,Dec 2020
+807B,Choa Chu Kang Ave 1,16 to 18,92,Model A,2017,95.33,465000,Dec 2020
+807C,Choa Chu Kang Ave 1,13 to 15,92,Model A,2017,95.42,492500,Dec 2020
+809A,Choa Chu Kang Ave 1,07 to 09,92,Model A,2017,95.33,447000,Dec 2020
+251,Choa Chu Kang Ave 2,01 to 03,104,Model A,1994,73.17,345000,Dec 2020
+290,Choa Chu Kang Ave 3,13 to 15,104,Model A,1993,71.5,380000,Dec 2020
+307,Choa Chu Kang Ave 4,04 to 06,109,Model A,1993,71.5,443000,Dec 2020
+307,Choa Chu Kang Ave 4,07 to 09,109,Model A,1993,71.5,453000,Dec 2020
+445,Choa Chu Kang Ave 4,04 to 06,100,Model A,1997,75.25,350000,Dec 2020
+465,Choa Chu Kang Ave 4,07 to 09,104,Premium Apartment,2000,78.33,362000,Dec 2020
+483,Choa Chu Kang Ave 5,04 to 06,100,Model A,1999,77.5,348000,Dec 2020
+484,Choa Chu Kang Ave 5,04 to 06,101,Model A,1999,77.5,353000,Dec 2020
+484A,Choa Chu Kang Ave 5,13 to 15,91,Model A2,1999,77.42,355000,Dec 2020
+484B,Choa Chu Kang Ave 5,16 to 18,102,Model A,1999,77.33,370000,Dec 2020
+484C,Choa Chu Kang Ave 5,13 to 15,101,Model A,1999,77.42,375000,Dec 2020
+485D,Choa Chu Kang Ave 5,04 to 06,101,Model A,1999,77.58,380000,Dec 2020
+486,Choa Chu Kang Ave 5,16 to 18,101,Model A,1999,77.58,355000,Dec 2020
+487C,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.58,435000,Dec 2020
+488A,Choa Chu Kang Ave 5,01 to 03,93,Model A,2016,94.58,395000,Dec 2020
+489A,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.67,405000,Dec 2020
+489C,Choa Chu Kang Ave 5,13 to 15,93,Model A,2016,94.5,450000,Dec 2020
+489C,Choa Chu Kang Ave 5,13 to 15,93,Model A,2016,94.5,450000,Dec 2020
+489D,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.5,435000,Dec 2020
+490C,Choa Chu Kang Ave 5,04 to 06,93,Model A,2016,94.58,431000,Dec 2020
+490D,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.58,458000,Dec 2020
+490D,Choa Chu Kang Ave 5,10 to 12,93,Model A,2016,94.58,462000,Dec 2020
+815A,Choa Chu Kang Ave 7,04 to 06,93,Model A,2017,95.33,434000,Dec 2020
+815A,Choa Chu Kang Ave 7,13 to 15,93,Model A,2017,95.33,476000,Dec 2020
+656,Choa Chu Kang Cres,10 to 12,104,Premium Apartment,1999,77.42,374888,Dec 2020
+668,Choa Chu Kang Cres,10 to 12,102,Model A,1999,77.58,360000,Dec 2020
+673A,Choa Chu Kang Cres,10 to 12,103,Premium Apartment,1999,78.08,390000,Dec 2020
+678,Choa Chu Kang Cres,10 to 12,106,Premium Apartment,1999,78,368000,Dec 2020
+680,Choa Chu Kang Cres,04 to 06,107,Premium Apartment,1999,77.83,372000,Dec 2020
+213,Choa Chu Kang Ctrl,07 to 09,104,Model A,1989,67.42,400000,Dec 2020
+230,Choa Chu Kang Ctrl,10 to 12,111,Model A,1990,68.58,415000,Dec 2020
+354,Choa Chu Kang Ctrl,07 to 09,104,Model A,1993,71.58,425000,Dec 2020
+688B,Choa Chu Kang Dr,07 to 09,91,Model A,2002,80.33,335888,Dec 2020
+785,Choa Chu Kang Dr,10 to 12,110,Model A,1997,75.17,418000,Dec 2020
+763,Choa Chu Kang Nth 5,10 to 12,106,Model A,1996,74.67,385000,Dec 2020
+572,Choa Chu Kang St 52,04 to 06,92,Model A,2015,93.17,415000,Dec 2020
+572,Choa Chu Kang St 52,07 to 09,92,Model A,2015,93.17,470000,Dec 2020
+572,Choa Chu Kang St 52,10 to 12,92,Model A,2015,93.17,475000,Dec 2020
+620,Choa Chu Kang St 62,07 to 09,108,Model A,1996,74.58,380000,Dec 2020
+152,Jln Teck Whye,01 to 03,103,Model A,1998,76.17,335000,Dec 2020
+803A,Keat Hong Cl,04 to 06,93,Model A,2017,95.5,430000,Dec 2020
+803A,Keat Hong Cl,07 to 09,93,Model A,2017,95.42,445000,Dec 2020
+113,Teck Whye Lane,04 to 06,106,Model A,1989,67.17,348000,Dec 2020
+807B,Choa Chu Kang Ave 1,01 to 03,92,Model A,2017,95.5,400000,Nov 2020
+248,Choa Chu Kang Ave 2,07 to 09,104,Model A,1993,71.58,410000,Nov 2020
+290,Choa Chu Kang Ave 3,10 to 12,104,Model A,1993,71.67,365000,Nov 2020
+472,Choa Chu Kang Ave 3,13 to 15,101,Model A,1999,77.5,370000,Nov 2020
+443,Choa Chu Kang Ave 4,13 to 15,91,Model A2,1997,75.5,346000,Nov 2020
+476A,Choa Chu Kang Ave 5,10 to 12,92,Model A,2013,91.75,425000,Nov 2020
+476C,Choa Chu Kang Ave 5,10 to 12,92,Model A,2013,91.75,420000,Nov 2020
+476C,Choa Chu Kang Ave 5,07 to 09,92,Model A,2013,91.75,438888,Nov 2020
+476D,Choa Chu Kang Ave 5,10 to 12,92,Model A,2013,91.75,425000,Nov 2020
+484B,Choa Chu Kang Ave 5,04 to 06,101,Model A,1999,77.5,355000,Nov 2020
+485D,Choa Chu Kang Ave 5,13 to 15,101,Model A,1999,77.58,385000,Nov 2020
+487C,Choa Chu Kang Ave 5,01 to 03,93,Model A,2016,94.67,385000,Nov 2020
+487C,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.67,422000,Nov 2020
+488D,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.67,426000,Nov 2020
+489A,Choa Chu Kang Ave 5,07 to 09,93,Model A,2016,94.67,435000,Nov 2020
+489A,Choa Chu Kang Ave 5,13 to 15,93,Model A,2016,94.67,440000,Nov 2020
+815A,Choa Chu Kang Ave 7,07 to 09,93,Model A,2017,95.42,453000,Nov 2020
+685C,Choa Chu Kang Cres,07 to 09,85,Model A2,2002,81,335000,Nov 2020
+686A,Choa Chu Kang Cres,10 to 12,90,Model A,2002,80.92,345000,Nov 2020
+690A,Choa Chu Kang Cres,10 to 12,90,Model A,2003,81.5,342000,Nov 2020
+211,Choa Chu Kang Ctrl,10 to 12,104,Model A,1989,68,415000,Nov 2020
+219,Choa Chu Kang Ctrl,01 to 03,106,Model A,1990,68.33,395000,Nov 2020
+227,Choa Chu Kang Ctrl,10 to 12,105,Model A,1993,71.58,395000,Nov 2020
+230,Choa Chu Kang Ctrl,10 to 12,111,Model A,1990,68.67,385000,Nov 2020
+340,Choa Chu Kang Loop,07 to 09,105,Model A,1993,71.58,465000,Nov 2020
+572,Choa Chu Kang St 52,13 to 15,92,Model A,2015,93.25,450000,Nov 2020
+707,Choa Chu Kang St 53,10 to 12,106,Model A,1995,73.58,370000,Nov 2020
+620,Choa Chu Kang St 62,01 to 03,108,Model A,1996,74.67,406888,Nov 2020
+638,Choa Chu Kang St 64,10 to 12,100,Premium Apartment,1998,76.17,490000,Nov 2020
+157,Jln Teck Whye,07 to 09,91,Model A2,1998,76.25,338000,Nov 2020
+803A,Keat Hong Cl,04 to 06,93,Model A,2017,95.58,425000,Nov 2020
+805A,Keat Hong Cl,10 to 12,93,Model A,2017,95.5,445000,Nov 2020
+2,Teck Whye Ave,01 to 03,104,Model A,1984,63,325000,Nov 2020
+15,Teck Whye Lane,07 to 09,92,New Generation,1979,57.42,320000,Nov 2020

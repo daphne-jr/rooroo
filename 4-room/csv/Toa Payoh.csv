@@ -1,0 +1,619 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date
+9,Joo Seng Rd,01 to 03,93,Model A,2017,94.33,580000,Nov 2021
+17,Joo Seng Rd,13 to 15,103,Model A,1983,61.17,485000,Nov 2021
+153A,Lor 1 Toa Payoh,16 to 18,104,Model A,1999,76.25,780000,Nov 2021
+73,Lor 4 Toa Payoh,10 to 12,124,Adjoined Flat,1973,50.25,655000,Nov 2021
+191,Lor 4 Toa Payoh,10 to 12,84,Improved,1974,51.75,506000,Nov 2021
+193,Lor 4 Toa Payoh,04 to 06,84,Improved,1974,51.75,500000,Nov 2021
+222,Lor 8 Toa Payoh,19 to 21,82,Improved,1976,53.42,435000,Nov 2021
+79A,Toa Payoh Ctrl,31 to 33,76,Model A,2009,86.5,750000,Nov 2021
+79E,Toa Payoh Ctrl,31 to 33,76,Model A,2009,86.5,720000,Nov 2021
+201,Toa Payoh Nth,01 to 03,87,Improved,1973,50.83,405000,Nov 2021
+244,Kim Keat Link,07 to 09,104,Model A,1989,66.42,528000,Oct 2021
+244,Kim Keat Link,04 to 06,104,Model A,1989,66.42,550000,Oct 2021
+138B,Lor 1A Toa Payoh,37 to 39,91,Dbss,2012,89.58,858000,Oct 2021
+84,Lor 2 Toa Payoh,04 to 06,107,Model A,1997,74.67,656000,Oct 2021
+84A,Lor 2 Toa Payoh,04 to 06,104,Model A,1997,74.58,761388,Oct 2021
+86,Lor 2 Toa Payoh,01 to 03,105,Model A,1997,74.67,640000,Oct 2021
+122,Lor 2 Toa Payoh,10 to 12,101,Model A,1999,77.25,750000,Oct 2021
+152,Lor 2 Toa Payoh,04 to 06,91,Model A,2006,83.33,708000,Oct 2021
+152,Lor 2 Toa Payoh,07 to 09,91,Model A,2006,83.33,755000,Oct 2021
+154,Lor 2 Toa Payoh,10 to 12,101,Model A,2001,78.42,766618,Oct 2021
+36,Lor 5 Toa Payoh,10 to 12,102,Model A,1997,75,688000,Oct 2021
+37,Lor 5 Toa Payoh,04 to 06,102,Model A,1997,74.92,635000,Oct 2021
+43,Lor 5 Toa Payoh,04 to 06,109,Model A,1993,70.5,615000,Oct 2021
+6,Lor 7 Toa Payoh,04 to 06,100,Model A,1998,76,580000,Oct 2021
+14,Lor 7 Toa Payoh,13 to 15,106,Model A,1998,75.83,675000,Oct 2021
+14B,Lor 7 Toa Payoh,13 to 15,106,Model A,1998,75.83,644000,Oct 2021
+11,Lor 8 Toa Payoh,01 to 03,103,Model A,1998,75.42,618888,Oct 2021
+213,Lor 8 Toa Payoh,04 to 06,82,Improved,1975,52.33,375000,Oct 2021
+213,Lor 8 Toa Payoh,16 to 18,82,Improved,1975,52.33,400000,Oct 2021
+214,Lor 8 Toa Payoh,16 to 18,82,Improved,1975,52.83,428000,Oct 2021
+117,Potong Pasir Ave 1,04 to 06,96,New Generation,1984,62,492888,Oct 2021
+120,Potong Pasir Ave 1,07 to 09,100,New Generation,1984,62.08,498888,Oct 2021
+142,Potong Pasir Ave 3,07 to 09,106,Model A,1984,61.75,655000,Oct 2021
+79A,Toa Payoh Ctrl,31 to 33,76,Model A,2009,86.58,770000,Oct 2021
+79C,Toa Payoh Ctrl,01 to 03,92,Model A,2009,86.58,700000,Oct 2021
+79E,Toa Payoh Ctrl,10 to 12,76,Model A,2009,86.58,630000,Oct 2021
+79E,Toa Payoh Ctrl,31 to 33,91,Model A,2009,86.5,819000,Oct 2021
+200,Toa Payoh Nth,10 to 12,87,Improved,1973,50.83,375000,Oct 2021
+200,Toa Payoh Nth,10 to 12,87,Improved,1973,50.92,400000,Oct 2021
+204,Toa Payoh Nth,01 to 03,87,Improved,1973,50.75,388000,Oct 2021
+208,Toa Payoh Nth,07 to 09,81,Improved,1973,50.83,390000,Oct 2021
+7,Upp Aljunied Lane,10 to 12,93,Model A,2017,94.42,720000,Oct 2021
+17,Joo Seng Rd,07 to 09,106,Model A,1983,61.33,460000,Sep 2021
+18,Joo Seng Rd,01 to 03,106,Model A,1984,61.5,453000,Sep 2021
+153A,Lor 1 Toa Payoh,19 to 21,101,Model A,1999,76.33,788000,Sep 2021
+138C,Lor 1A Toa Payoh,10 to 12,91,Dbss,2012,89.67,850000,Sep 2021
+138C,Lor 1A Toa Payoh,22 to 24,91,Dbss,2012,89.75,868000,Sep 2021
+142,Lor 2 Toa Payoh,10 to 12,85,Model A,2001,78.42,652000,Sep 2021
+153,Lor 2 Toa Payoh,19 to 21,101,Model A,1999,76.92,800000,Sep 2021
+154,Lor 2 Toa Payoh,04 to 06,101,Model A,2001,78.5,702000,Sep 2021
+62,Lor 4 Toa Payoh,13 to 15,100,Model A,1999,77.25,695000,Sep 2021
+191,Lor 4 Toa Payoh,10 to 12,84,Improved,1974,51.92,510000,Sep 2021
+10B,Lor 7 Toa Payoh,07 to 09,104,Model A,1998,75.92,600000,Sep 2021
+10B,Lor 7 Toa Payoh,07 to 09,104,Model A,1998,75.92,641000,Sep 2021
+222,Lor 8 Toa Payoh,13 to 15,82,Improved,1976,53.58,338000,Sep 2021
+226,Lor 8 Toa Payoh,13 to 15,82,Improved,1976,53.75,375000,Sep 2021
+121,Potong Pasir Ave 1,04 to 06,103,Model A,1984,61.75,621000,Sep 2021
+79A,Toa Payoh Ctrl,01 to 03,76,Model A,2009,86.58,520000,Sep 2021
+79A,Toa Payoh Ctrl,40 to 42,75,Model A,2009,86.67,745000,Sep 2021
+201,Toa Payoh Nth,01 to 03,87,Improved,1973,50.92,375000,Sep 2021
+201,Toa Payoh Nth,07 to 09,87,Improved,1973,50.83,392000,Sep 2021
+241,Kim Keat Link,07 to 09,103,Model A,1989,66.5,500000,Aug 2021
+244,Kim Keat Link,07 to 09,104,Model A,1989,66.67,503000,Aug 2021
+248,Kim Keat Link,10 to 12,104,Model A,1989,66.58,538000,Aug 2021
+250,Kim Keat Link,01 to 03,103,Model A,1989,66.42,490000,Aug 2021
+250,Kim Keat Link,10 to 12,103,Model A,1989,66.5,528000,Aug 2021
+155,Lor 1 Toa Payoh,04 to 06,101,Model A,1999,77,685000,Aug 2021
+155,Lor 1 Toa Payoh,10 to 12,101,Model A,1999,77,705000,Aug 2021
+238,Lor 1 Toa Payoh,10 to 12,103,Model A,1986,63.92,642000,Aug 2021
+84,Lor 2 Toa Payoh,01 to 03,106,Model A,1997,74.83,590000,Aug 2021
+84A,Lor 2 Toa Payoh,25 to 27,105,Model A,1997,74.83,780000,Aug 2021
+121,Lor 2 Toa Payoh,16 to 18,100,Model A,2002,79.42,750000,Aug 2021
+213,Lor 8 Toa Payoh,04 to 06,82,Improved,1975,52.5,360000,Aug 2021
+220,Lor 8 Toa Payoh,10 to 12,82,Improved,1976,53.83,360000,Aug 2021
+226,Lor 8 Toa Payoh,10 to 12,82,Improved,1976,53.83,348000,Aug 2021
+141,Potong Pasir Ave 3,01 to 03,103,Model A,1984,62,585000,Aug 2021
+79D,Toa Payoh Ctrl,07 to 09,92,Model A,2009,86.75,732000,Aug 2021
+79D,Toa Payoh Ctrl,37 to 39,90,Model A,2009,86.75,838000,Aug 2021
+79E,Toa Payoh Ctrl,01 to 03,91,Model A,2009,86.83,610000,Aug 2021
+79E,Toa Payoh Ctrl,04 to 06,91,Model A,2009,86.67,755000,Aug 2021
+79E,Toa Payoh Ctrl,40 to 42,75,Model A,2009,86.75,810000,Aug 2021
+201,Toa Payoh Nth,04 to 06,87,Improved,1973,51,388000,Aug 2021
+201,Toa Payoh Nth,07 to 09,87,Improved,1973,51,393000,Aug 2021
+204,Toa Payoh Nth,04 to 06,87,Improved,1973,51,428000,Aug 2021
+208,Toa Payoh Nth,01 to 03,81,Improved,1973,51,350000,Aug 2021
+9,Joo Seng Rd,04 to 06,93,Model A,2017,94.67,682000,Jul 2021
+9,Joo Seng Rd,10 to 12,93,Model A,2017,94.67,700000,Jul 2021
+14,Joo Seng Rd,07 to 09,103,Model A,1984,61.75,488000,Jul 2021
+17,Joo Seng Rd,10 to 12,103,Model A,1983,61.5,468000,Jul 2021
+256,Kim Keat Ave,10 to 12,104,Model A,1988,66.5,528000,Jul 2021
+250,Kim Keat Link,04 to 06,104,Model A,1989,66.58,470000,Jul 2021
+138C,Lor 1A Toa Payoh,34 to 36,91,Dbss,2012,89.92,895000,Jul 2021
+86,Lor 2 Toa Payoh,01 to 03,105,Model A,1997,74.92,660000,Jul 2021
+175,Lor 2 Toa Payoh,04 to 06,84,Improved,1974,52.08,420000,Jul 2021
+175,Lor 2 Toa Payoh,22 to 24,84,Improved,1974,52.08,540000,Jul 2021
+102,Potong Pasir Ave 1,07 to 09,108,Model A,1984,61.83,678000,Jul 2021
+120,Potong Pasir Ave 1,10 to 12,93,New Generation,1984,62.33,468000,Jul 2021
+143,Potong Pasir Ave 2,10 to 12,104,Model A,1984,62,597500,Jul 2021
+142,Potong Pasir Ave 3,10 to 12,104,Model A,1984,62,650000,Jul 2021
+79A,Toa Payoh Ctrl,22 to 24,76,Model A,2009,86.83,672000,Jul 2021
+79B,Toa Payoh Ctrl,28 to 30,91,Model A,2009,86.83,803500,Jul 2021
+79D,Toa Payoh Ctrl,16 to 18,91,Model A,2009,86.75,775000,Jul 2021
+200,Toa Payoh Nth,10 to 12,87,Improved,1973,51,380000,Jul 2021
+204,Toa Payoh Nth,04 to 06,87,Improved,1973,51.17,383000,Jul 2021
+7,Upp Aljunied Lane,04 to 06,93,Model A,2017,94.67,670000,Jul 2021
+9,Joo Seng Rd,04 to 06,93,Model A,2017,94.75,650000,Jun 2021
+9,Joo Seng Rd,07 to 09,93,Model A,2017,94.75,690000,Jun 2021
+15,Joo Seng Rd,07 to 09,103,Model A,1984,61.83,465000,Jun 2021
+153A,Lor 1 Toa Payoh,13 to 15,101,Model A,1999,76.67,760000,Jun 2021
+138A,Lor 1A Toa Payoh,13 to 15,91,Dbss,2012,90,750000,Jun 2021
+138B,Lor 1A Toa Payoh,13 to 15,91,Dbss,2012,89.92,785000,Jun 2021
+138B,Lor 1A Toa Payoh,13 to 15,91,Dbss,2012,89.92,795000,Jun 2021
+138B,Lor 1A Toa Payoh,28 to 30,91,Dbss,2012,90,860000,Jun 2021
+138C,Lor 1A Toa Payoh,31 to 33,91,Dbss,2012,90,870000,Jun 2021
+139A,Lor 1A Toa Payoh,13 to 15,91,Dbss,2012,90,783000,Jun 2021
+139B,Lor 1A Toa Payoh,25 to 27,91,Dbss,2012,89.92,838500,Jun 2021
+86,Lor 2 Toa Payoh,07 to 09,105,Model A,1997,75,685000,Jun 2021
+143,Lor 2 Toa Payoh,10 to 12,90,Model A,2002,80.33,655000,Jun 2021
+152,Lor 2 Toa Payoh,22 to 24,86,Model A,2006,83.67,760000,Jun 2021
+193,Lor 4 Toa Payoh,25 to 27,84,Improved,1974,52.17,550000,Jun 2021
+222,Lor 8 Toa Payoh,04 to 06,82,Improved,1976,53.75,348000,Jun 2021
+119,Potong Pasir Ave 1,01 to 03,93,New Generation,1984,62.42,450000,Jun 2021
+136,Potong Pasir Ave 3,07 to 09,106,Model A,1984,62.17,595000,Jun 2021
+141,Potong Pasir Ave 3,01 to 03,111,Model A,1984,62.17,610000,Jun 2021
+79A,Toa Payoh Ctrl,01 to 03,91,Model A,2009,86.92,710000,Jun 2021
+79A,Toa Payoh Ctrl,37 to 39,75,Model A,2009,86.92,723000,Jun 2021
+79D,Toa Payoh Ctrl,34 to 36,91,Model A,2009,86.92,830000,Jun 2021
+79E,Toa Payoh Ctrl,13 to 15,76,Model A,2009,86.92,570000,Jun 2021
+79E,Toa Payoh Ctrl,16 to 18,76,Model A,2009,86.92,590000,Jun 2021
+79E,Toa Payoh Ctrl,10 to 12,76,Model A,2009,86.92,638888,Jun 2021
+179,Toa Payoh Ctrl,25 to 27,84,Improved,1974,52.17,450000,Jun 2021
+201,Toa Payoh Nth,01 to 03,87,Improved,1973,51.17,340000,Jun 2021
+202,Toa Payoh Nth,04 to 06,87,Improved,1973,51.17,368000,Jun 2021
+204,Toa Payoh Nth,16 to 18,87,Improved,1973,51.08,455000,Jun 2021
+7,Upp Aljunied Lane,01 to 03,93,Model A,2017,94.75,655000,Jun 2021
+9,Joo Seng Rd,10 to 12,93,Model A,2017,94.83,695000,May 2021
+15,Joo Seng Rd,01 to 03,103,Model A,1984,61.92,463000,May 2021
+155,Lor 1 Toa Payoh,28 to 30,101,Model A,1999,77.25,828000,May 2021
+138B,Lor 1A Toa Payoh,37 to 39,91,Dbss,2012,89.92,860000,May 2021
+138B,Lor 1A Toa Payoh,40 to 42,91,Dbss,2012,89.92,888000,May 2021
+138C,Lor 1A Toa Payoh,19 to 21,91,Dbss,2012,90,860000,May 2021
+139A,Lor 1A Toa Payoh,31 to 33,91,Dbss,2012,89.92,865000,May 2021
+142,Lor 2 Toa Payoh,07 to 09,86,Model A,2001,78.75,598888,May 2021
+143,Lor 2 Toa Payoh,28 to 30,91,Model A,2002,80.42,720000,May 2021
+146,Lor 2 Toa Payoh,07 to 09,91,Model A,2006,83.75,735000,May 2021
+152,Lor 2 Toa Payoh,25 to 27,91,Model A,2006,83.75,790000,May 2021
+35,Lor 5 Toa Payoh,07 to 09,102,Model A,1997,75.42,630000,May 2021
+11,Lor 8 Toa Payoh,04 to 06,100,Model A,1998,75.75,558000,May 2021
+222,Lor 8 Toa Payoh,04 to 06,82,Improved,1976,53.92,320000,May 2021
+136,Potong Pasir Ave 3,07 to 09,104,Model A,1984,62.25,580888,May 2021
+136,Potong Pasir Ave 3,04 to 06,104,Model A,1984,62.25,585000,May 2021
+79A,Toa Payoh Ctrl,34 to 36,76,Model A,2009,87,710000,May 2021
+79B,Toa Payoh Ctrl,22 to 24,91,Model A,2009,87,780000,May 2021
+79C,Toa Payoh Ctrl,07 to 09,92,Model A,2009,87,730000,May 2021
+79E,Toa Payoh Ctrl,34 to 36,76,Model A,2009,87,718000,May 2021
+79E,Toa Payoh Ctrl,19 to 21,91,Model A,2009,86.92,800000,May 2021
+204,Toa Payoh Nth,07 to 09,87,Improved,1973,51.25,388000,May 2021
+208,Toa Payoh Nth,10 to 12,81,Improved,1973,51.25,381000,May 2021
+7,Upp Aljunied Lane,07 to 09,93,Model A,2017,94.83,680000,May 2021
+9,Joo Seng Rd,07 to 09,93,Model A,2017,94.83,690000,Apr 2021
+259,Kim Keat Ave,04 to 06,104,Model A,1989,66.92,500000,Apr 2021
+247,Kim Keat Link,07 to 09,104,Model A,1989,66.92,495000,Apr 2021
+155,Lor 1 Toa Payoh,22 to 24,101,Model A,1999,77.33,750000,Apr 2021
+191,Lor 4 Toa Payoh,13 to 15,84,Improved,1974,52.25,480000,Apr 2021
+220,Lor 8 Toa Payoh,13 to 15,82,Improved,1976,54.08,380000,Apr 2021
+228,Lor 8 Toa Payoh,07 to 09,82,Improved,1976,54.5,333888,Apr 2021
+121,Potong Pasir Ave 1,16 to 18,103,Model A,1984,62.08,612000,Apr 2021
+146,Potong Pasir Ave 1,01 to 03,93,Simplified,1998,76.5,535000,Apr 2021
+146,Potong Pasir Ave 1,01 to 03,93,Simplified,1998,76.42,575000,Apr 2021
+148,Potong Pasir Ave 1,04 to 06,88,Simplified,1998,76.42,580000,Apr 2021
+144,Potong Pasir Ave 2,01 to 03,114,Model A,1984,62.25,590000,Apr 2021
+79A,Toa Payoh Ctrl,04 to 06,76,Model A,2009,87,620000,Apr 2021
+79A,Toa Payoh Ctrl,34 to 36,76,Model A,2009,87,728000,Apr 2021
+79A,Toa Payoh Ctrl,40 to 42,75,Model A,2009,87,730000,Apr 2021
+79B,Toa Payoh Ctrl,34 to 36,91,Model A,2009,87,828000,Apr 2021
+79E,Toa Payoh Ctrl,31 to 33,76,Model A,2009,87.08,703000,Apr 2021
+79E,Toa Payoh Ctrl,34 to 36,76,Model A,2009,87.08,745000,Apr 2021
+179,Toa Payoh Ctrl,22 to 24,84,Improved,1974,52.33,490000,Apr 2021
+200,Toa Payoh Nth,01 to 03,87,Improved,1973,51.33,315000,Apr 2021
+204,Toa Payoh Nth,16 to 18,87,Improved,1973,51.33,425000,Apr 2021
+209,Toa Payoh Nth,10 to 12,81,Improved,1973,51.33,399000,Apr 2021
+7,Upp Aljunied Lane,04 to 06,93,Model A,2017,94.92,692000,Apr 2021
+9,Joo Seng Rd,10 to 12,93,Model A,2017,95,678000,Mar 2021
+9,Joo Seng Rd,07 to 09,93,Model A,2017,94.92,683000,Mar 2021
+9,Joo Seng Rd,07 to 09,93,Model A,2017,94.92,690000,Mar 2021
+9,Joo Seng Rd,10 to 12,93,Model A,2017,95,705000,Mar 2021
+9,Joo Seng Rd,16 to 18,93,Model A,2017,95,725000,Mar 2021
+256,Kim Keat Ave,01 to 03,104,Model A,1988,66.83,500000,Mar 2021
+138B,Lor 1A Toa Payoh,31 to 33,91,Dbss,2012,90.25,840000,Mar 2021
+138C,Lor 1A Toa Payoh,13 to 15,91,Dbss,2012,90.17,791000,Mar 2021
+139A,Lor 1A Toa Payoh,37 to 39,91,Dbss,2012,90.17,903000,Mar 2021
+139B,Lor 1A Toa Payoh,16 to 18,91,Dbss,2012,90.25,790000,Mar 2021
+84,Lor 2 Toa Payoh,13 to 15,105,Model A,1997,75.25,690000,Mar 2021
+122,Lor 2 Toa Payoh,10 to 12,101,Model A,1999,77.75,676000,Mar 2021
+145,Lor 2 Toa Payoh,34 to 36,91,Model A,2006,83.92,798888,Mar 2021
+152,Lor 2 Toa Payoh,07 to 09,91,Model A,2006,83.83,728000,Mar 2021
+66,Lor 4 Toa Payoh,10 to 12,145,Adjoined Flat,1969,46.83,850000,Mar 2021
+36,Lor 5 Toa Payoh,13 to 15,102,Model A,1997,75.5,695000,Mar 2021
+6,Lor 7 Toa Payoh,07 to 09,103,Model A,1998,76.58,565000,Mar 2021
+214,Lor 8 Toa Payoh,04 to 06,82,Improved,1975,53.5,310000,Mar 2021
+214,Lor 8 Toa Payoh,07 to 09,82,Improved,1975,53.42,338000,Mar 2021
+220,Lor 8 Toa Payoh,10 to 12,82,Improved,1976,54.17,320000,Mar 2021
+222,Lor 8 Toa Payoh,01 to 03,82,Improved,1976,54.08,330000,Mar 2021
+227,Lor 8 Toa Payoh,10 to 12,82,Improved,1976,54.25,370000,Mar 2021
+117,Potong Pasir Ave 1,04 to 06,96,New Generation,1984,62.75,490000,Mar 2021
+120,Potong Pasir Ave 1,04 to 06,93,New Generation,1984,62.58,462000,Mar 2021
+137,Potong Pasir Ave 3,07 to 09,104,Model A,1984,62.33,580000,Mar 2021
+138,Potong Pasir Ave 3,01 to 03,111,Model A,1984,62.5,557000,Mar 2021
+140,Potong Pasir Ave 3,04 to 06,106,Model A,1984,62.33,560000,Mar 2021
+79A,Toa Payoh Ctrl,04 to 06,76,Model A,2009,87.08,520000,Mar 2021
+79B,Toa Payoh Ctrl,31 to 33,91,Model A,2009,87.17,813000,Mar 2021
+79E,Toa Payoh Ctrl,07 to 09,91,Model A,2009,87.08,760000,Mar 2021
+79E,Toa Payoh Ctrl,22 to 24,91,Model A,2009,87.08,770000,Mar 2021
+200,Toa Payoh Nth,04 to 06,87,Improved,1973,51.42,360000,Mar 2021
+7,Upp Aljunied Lane,10 to 12,93,Model A,2017,94.92,695000,Mar 2021
+9,Joo Seng Rd,04 to 06,93,Model A,2017,95,647000,Feb 2021
+9,Joo Seng Rd,04 to 06,93,Model A,2017,95,660000,Feb 2021
+9,Joo Seng Rd,13 to 15,93,Model A,2017,95.08,700000,Feb 2021
+256,Kim Keat Ave,10 to 12,103,Model A,1988,66.83,503000,Feb 2021
+256,Kim Keat Ave,13 to 15,104,Model A,1988,66.92,528000,Feb 2021
+242,Kim Keat Link,04 to 06,104,Model A,1989,67.17,475000,Feb 2021
+155,Lor 1 Toa Payoh,04 to 06,101,Model A,1999,77.42,618000,Feb 2021
+155,Lor 1 Toa Payoh,25 to 27,101,Model A,1999,77.5,680000,Feb 2021
+139A,Lor 1A Toa Payoh,28 to 30,91,Dbss,2012,90.25,823000,Feb 2021
+139A,Lor 1A Toa Payoh,31 to 33,91,Dbss,2012,90.25,853088,Feb 2021
+84B,Lor 2 Toa Payoh,01 to 03,104,Model A,1997,75.25,647000,Feb 2021
+146,Lor 2 Toa Payoh,34 to 36,91,Model A,2006,84,770000,Feb 2021
+147,Lor 2 Toa Payoh,01 to 03,86,Model A,2006,83.92,560000,Feb 2021
+175,Lor 2 Toa Payoh,07 to 09,84,Improved,1974,52.42,420000,Feb 2021
+81B,Lor 4 Toa Payoh,22 to 24,105,Model A,1997,75.17,720000,Feb 2021
+82A,Lor 4 Toa Payoh,07 to 09,103,Model A,1996,74.58,718000,Feb 2021
+95,Lor 4 Toa Payoh,01 to 03,120,Adjoined Flat,1967,45.33,503000,Feb 2021
+214,Lor 8 Toa Payoh,10 to 12,82,Improved,1975,53.58,338000,Feb 2021
+220,Lor 8 Toa Payoh,16 to 18,82,Improved,1976,54.33,326000,Feb 2021
+227,Lor 8 Toa Payoh,01 to 03,82,Improved,1976,54.25,293000,Feb 2021
+122,Potong Pasir Ave 1,19 to 21,103,Model A,1984,62.33,510888,Feb 2021
+148,Potong Pasir Ave 1,01 to 03,93,Simplified,1998,76.58,540000,Feb 2021
+136,Potong Pasir Ave 3,07 to 09,106,Model A,1984,62.42,589000,Feb 2021
+79A,Toa Payoh Ctrl,28 to 30,91,Model A,2009,87.17,785000,Feb 2021
+79B,Toa Payoh Ctrl,04 to 06,92,Model A,2009,87.17,718000,Feb 2021
+79B,Toa Payoh Ctrl,07 to 09,92,Model A,2009,87.17,750000,Feb 2021
+79B,Toa Payoh Ctrl,16 to 18,91,Model A,2009,87.25,755000,Feb 2021
+79B,Toa Payoh Ctrl,13 to 15,91,Model A,2009,87.17,780000,Feb 2021
+79C,Toa Payoh Ctrl,16 to 18,91,Model A,2009,87.25,728000,Feb 2021
+79C,Toa Payoh Ctrl,16 to 18,91,Model A,2009,87.25,768888,Feb 2021
+183,Toa Payoh Ctrl,04 to 06,78,Improved,1972,50.5,355000,Feb 2021
+200,Toa Payoh Nth,10 to 12,87,Improved,1973,51.5,378000,Feb 2021
+202,Toa Payoh Nth,04 to 06,87,Improved,1973,51.67,385000,Feb 2021
+15,Joo Seng Rd,10 to 12,103,Model A,1984,62.25,395000,Jan 2021
+17,Joo Seng Rd,10 to 12,102,Model A,1983,62,423000,Jan 2021
+156,Lor 1 Toa Payoh,01 to 03,101,Model A,1999,77.17,550000,Jan 2021
+139A,Lor 1A Toa Payoh,22 to 24,91,Dbss,2012,90.42,755000,Jan 2021
+141,Lor 2 Toa Payoh,13 to 15,85,Model A,2001,79.08,620000,Jan 2021
+143,Lor 2 Toa Payoh,16 to 18,90,Model A,2002,80.75,675000,Jan 2021
+7,Lor 7 Toa Payoh,04 to 06,106,Model A,1998,76.67,548000,Jan 2021
+10B,Lor 7 Toa Payoh,07 to 09,104,Model A,1998,76.5,580000,Jan 2021
+14,Lor 7 Toa Payoh,13 to 15,106,Model A,1998,76.5,585000,Jan 2021
+11,Lor 8 Toa Payoh,04 to 06,102,Model A,1998,76.08,560000,Jan 2021
+226,Lor 8 Toa Payoh,04 to 06,82,Improved,1976,54.42,333000,Jan 2021
+226,Lor 8 Toa Payoh,04 to 06,82,Improved,1976,54.42,335000,Jan 2021
+226,Lor 8 Toa Payoh,13 to 15,82,Improved,1976,54.33,375000,Jan 2021
+107,Potong Pasir Ave 1,01 to 03,110,Model A,1984,62.5,550000,Jan 2021
+144,Potong Pasir Ave 2,01 to 03,111,Model A,1984,62.58,540000,Jan 2021
+79A,Toa Payoh Ctrl,25 to 27,76,Model A,2009,87.33,680000,Jan 2021
+79A,Toa Payoh Ctrl,25 to 27,76,Model A,2009,87.25,700000,Jan 2021
+79D,Toa Payoh Ctrl,16 to 18,91,Model A,2009,87.25,765000,Jan 2021
+200,Toa Payoh Nth,01 to 03,87,Improved,1973,51.75,360000,Jan 2021
+204,Toa Payoh Nth,10 to 12,87,Improved,1973,51.58,370000,Jan 2021
+209,Toa Payoh Nth,13 to 15,81,Improved,1973,51.58,363000,Jan 2021
+7,Upp Aljunied Lane,13 to 15,93,Model A,2017,95.17,700000,Jan 2021
+17,Joo Seng Rd,04 to 06,103,Model A,1983,62.08,415000,Dec 2020
+247,Kim Keat Link,01 to 03,104,Model A,1989,67.25,475000,Dec 2020
+156,Lor 1 Toa Payoh,13 to 15,101,Model A,1999,77.25,586000,Dec 2020
+156,Lor 1 Toa Payoh,16 to 18,101,Model A,1999,77.17,761888,Dec 2020
+138A,Lor 1A Toa Payoh,31 to 33,91,Dbss,2012,90.5,805000,Dec 2020
+139B,Lor 1A Toa Payoh,31 to 33,91,Dbss,2012,90.42,838000,Dec 2020
+143,Lor 2 Toa Payoh,07 to 09,91,Model A,2002,80.75,668000,Dec 2020
+152,Lor 2 Toa Payoh,40 to 42,91,Model A,2006,84.08,840000,Dec 2020
+60,Lor 4 Toa Payoh,13 to 15,100,Model A,1999,77.83,680000,Dec 2020
+193,Lor 4 Toa Payoh,13 to 15,84,Improved,1974,52.58,468000,Dec 2020
+35,Lor 5 Toa Payoh,01 to 03,104,Model A,1997,75.83,578000,Dec 2020
+219,Lor 8 Toa Payoh,04 to 06,82,Improved,1978,56.17,330000,Dec 2020
+219,Lor 8 Toa Payoh,16 to 18,82,Improved,1978,56.17,350000,Dec 2020
+222,Lor 8 Toa Payoh,10 to 12,82,Improved,1976,54.33,339000,Dec 2020
+226,Lor 8 Toa Payoh,16 to 18,82,Improved,1976,54.5,360000,Dec 2020
+107,Potong Pasir Ave 1,04 to 06,103,Model A,1984,62.58,560000,Dec 2020
+209,Toa Payoh Nth,07 to 09,81,Improved,1973,51.67,340000,Dec 2020
+7,Upp Aljunied Lane,07 to 09,93,Model A,2017,95.17,680000,Dec 2020
+12,Joo Seng Rd,01 to 03,113,Model A,1984,62.58,443000,Nov 2020
+15,Joo Seng Rd,04 to 06,103,Model A,1984,62.33,400000,Nov 2020
+139B,Lor 1A Toa Payoh,19 to 21,91,Dbss,2012,90.5,780000,Nov 2020
+122,Lor 2 Toa Payoh,10 to 12,101,Model A,1999,78.17,660000,Nov 2020
+144,Lor 2 Toa Payoh,01 to 03,90,Model A,2002,80.92,550000,Nov 2020
+144,Lor 2 Toa Payoh,16 to 18,90,Model A,2002,80.83,660000,Nov 2020
+81,Lor 4 Toa Payoh,19 to 21,104,Model A,1997,75.33,718000,Nov 2020
+193,Lor 4 Toa Payoh,04 to 06,84,Improved,1974,52.75,425000,Nov 2020
+14,Lor 7 Toa Payoh,16 to 18,106,Model A,1998,76.75,610000,Nov 2020
+214,Lor 8 Toa Payoh,07 to 09,82,Improved,1975,53.75,310888,Nov 2020
+219,Lor 8 Toa Payoh,07 to 09,82,Improved,1978,56.25,315000,Nov 2020
+227,Lor 8 Toa Payoh,01 to 03,82,Improved,1976,54.58,292000,Nov 2020
+228,Lor 8 Toa Payoh,04 to 06,82,Improved,1976,54.92,315000,Nov 2020
+108,Potong Pasir Ave 1,07 to 09,103,Model A,1984,62.75,538888,Nov 2020
+145,Potong Pasir Ave 2,07 to 09,104,Model A,1984,62.75,558000,Nov 2020
+136,Potong Pasir Ave 3,07 to 09,104,Model A,1984,62.67,588000,Nov 2020
+79B,Toa Payoh Ctrl,34 to 36,91,Model A,2009,87.5,790000,Nov 2020
+201,Toa Payoh Nth,04 to 06,87,Improved,1973,51.67,350000,Nov 2020
+204,Toa Payoh Nth,19 to 21,87,Improved,1973,51.75,405000,Nov 2020
+209,Toa Payoh Nth,01 to 03,81,Improved,1973,51.67,320000,Nov 2020
+209,Toa Payoh Nth,13 to 15,81,Improved,1973,51.75,348000,Nov 2020
+9,Joo Seng Rd,01 to 03,93,Model A,2017,94.33,580000,Nov 2021
+17,Joo Seng Rd,13 to 15,103,Model A,1983,61.17,485000,Nov 2021
+153A,Lor 1 Toa Payoh,16 to 18,104,Model A,1999,76.25,780000,Nov 2021
+73,Lor 4 Toa Payoh,10 to 12,124,Adjoined Flat,1973,50.25,655000,Nov 2021
+191,Lor 4 Toa Payoh,10 to 12,84,Improved,1974,51.75,506000,Nov 2021
+193,Lor 4 Toa Payoh,04 to 06,84,Improved,1974,51.75,500000,Nov 2021
+222,Lor 8 Toa Payoh,19 to 21,82,Improved,1976,53.42,435000,Nov 2021
+79A,Toa Payoh Ctrl,31 to 33,76,Model A,2009,86.5,750000,Nov 2021
+79E,Toa Payoh Ctrl,31 to 33,76,Model A,2009,86.5,720000,Nov 2021
+201,Toa Payoh Nth,01 to 03,87,Improved,1973,50.83,405000,Nov 2021
+244,Kim Keat Link,07 to 09,104,Model A,1989,66.42,528000,Oct 2021
+244,Kim Keat Link,04 to 06,104,Model A,1989,66.42,550000,Oct 2021
+138B,Lor 1A Toa Payoh,37 to 39,91,Dbss,2012,89.58,858000,Oct 2021
+84,Lor 2 Toa Payoh,04 to 06,107,Model A,1997,74.67,656000,Oct 2021
+84A,Lor 2 Toa Payoh,04 to 06,104,Model A,1997,74.58,761388,Oct 2021
+86,Lor 2 Toa Payoh,01 to 03,105,Model A,1997,74.67,640000,Oct 2021
+122,Lor 2 Toa Payoh,10 to 12,101,Model A,1999,77.25,750000,Oct 2021
+152,Lor 2 Toa Payoh,04 to 06,91,Model A,2006,83.33,708000,Oct 2021
+152,Lor 2 Toa Payoh,07 to 09,91,Model A,2006,83.33,755000,Oct 2021
+154,Lor 2 Toa Payoh,10 to 12,101,Model A,2001,78.42,766618,Oct 2021
+36,Lor 5 Toa Payoh,10 to 12,102,Model A,1997,75,688000,Oct 2021
+37,Lor 5 Toa Payoh,04 to 06,102,Model A,1997,74.92,635000,Oct 2021
+43,Lor 5 Toa Payoh,04 to 06,109,Model A,1993,70.5,615000,Oct 2021
+6,Lor 7 Toa Payoh,04 to 06,100,Model A,1998,76,580000,Oct 2021
+14,Lor 7 Toa Payoh,13 to 15,106,Model A,1998,75.83,675000,Oct 2021
+14B,Lor 7 Toa Payoh,13 to 15,106,Model A,1998,75.83,644000,Oct 2021
+11,Lor 8 Toa Payoh,01 to 03,103,Model A,1998,75.42,618888,Oct 2021
+213,Lor 8 Toa Payoh,04 to 06,82,Improved,1975,52.33,375000,Oct 2021
+213,Lor 8 Toa Payoh,16 to 18,82,Improved,1975,52.33,400000,Oct 2021
+214,Lor 8 Toa Payoh,16 to 18,82,Improved,1975,52.83,428000,Oct 2021
+117,Potong Pasir Ave 1,04 to 06,96,New Generation,1984,62,492888,Oct 2021
+120,Potong Pasir Ave 1,07 to 09,100,New Generation,1984,62.08,498888,Oct 2021
+142,Potong Pasir Ave 3,07 to 09,106,Model A,1984,61.75,655000,Oct 2021
+79A,Toa Payoh Ctrl,31 to 33,76,Model A,2009,86.58,770000,Oct 2021
+79C,Toa Payoh Ctrl,01 to 03,92,Model A,2009,86.58,700000,Oct 2021
+79E,Toa Payoh Ctrl,10 to 12,76,Model A,2009,86.58,630000,Oct 2021
+79E,Toa Payoh Ctrl,31 to 33,91,Model A,2009,86.5,819000,Oct 2021
+200,Toa Payoh Nth,10 to 12,87,Improved,1973,50.83,375000,Oct 2021
+200,Toa Payoh Nth,10 to 12,87,Improved,1973,50.92,400000,Oct 2021
+204,Toa Payoh Nth,01 to 03,87,Improved,1973,50.75,388000,Oct 2021
+208,Toa Payoh Nth,07 to 09,81,Improved,1973,50.83,390000,Oct 2021
+7,Upp Aljunied Lane,10 to 12,93,Model A,2017,94.42,720000,Oct 2021
+17,Joo Seng Rd,07 to 09,106,Model A,1983,61.33,460000,Sep 2021
+18,Joo Seng Rd,01 to 03,106,Model A,1984,61.5,453000,Sep 2021
+153A,Lor 1 Toa Payoh,19 to 21,101,Model A,1999,76.33,788000,Sep 2021
+138C,Lor 1A Toa Payoh,10 to 12,91,Dbss,2012,89.67,850000,Sep 2021
+138C,Lor 1A Toa Payoh,22 to 24,91,Dbss,2012,89.75,868000,Sep 2021
+142,Lor 2 Toa Payoh,10 to 12,85,Model A,2001,78.42,652000,Sep 2021
+153,Lor 2 Toa Payoh,19 to 21,101,Model A,1999,76.92,800000,Sep 2021
+154,Lor 2 Toa Payoh,04 to 06,101,Model A,2001,78.5,702000,Sep 2021
+62,Lor 4 Toa Payoh,13 to 15,100,Model A,1999,77.25,695000,Sep 2021
+191,Lor 4 Toa Payoh,10 to 12,84,Improved,1974,51.92,510000,Sep 2021
+10B,Lor 7 Toa Payoh,07 to 09,104,Model A,1998,75.92,600000,Sep 2021
+10B,Lor 7 Toa Payoh,07 to 09,104,Model A,1998,75.92,641000,Sep 2021
+222,Lor 8 Toa Payoh,13 to 15,82,Improved,1976,53.58,338000,Sep 2021
+226,Lor 8 Toa Payoh,13 to 15,82,Improved,1976,53.75,375000,Sep 2021
+121,Potong Pasir Ave 1,04 to 06,103,Model A,1984,61.75,621000,Sep 2021
+79A,Toa Payoh Ctrl,01 to 03,76,Model A,2009,86.58,520000,Sep 2021
+79A,Toa Payoh Ctrl,40 to 42,75,Model A,2009,86.67,745000,Sep 2021
+201,Toa Payoh Nth,01 to 03,87,Improved,1973,50.92,375000,Sep 2021
+201,Toa Payoh Nth,07 to 09,87,Improved,1973,50.83,392000,Sep 2021
+241,Kim Keat Link,07 to 09,103,Model A,1989,66.5,500000,Aug 2021
+244,Kim Keat Link,07 to 09,104,Model A,1989,66.67,503000,Aug 2021
+248,Kim Keat Link,10 to 12,104,Model A,1989,66.58,538000,Aug 2021
+250,Kim Keat Link,01 to 03,103,Model A,1989,66.42,490000,Aug 2021
+250,Kim Keat Link,10 to 12,103,Model A,1989,66.5,528000,Aug 2021
+155,Lor 1 Toa Payoh,04 to 06,101,Model A,1999,77,685000,Aug 2021
+155,Lor 1 Toa Payoh,10 to 12,101,Model A,1999,77,705000,Aug 2021
+238,Lor 1 Toa Payoh,10 to 12,103,Model A,1986,63.92,642000,Aug 2021
+84,Lor 2 Toa Payoh,01 to 03,106,Model A,1997,74.83,590000,Aug 2021
+84A,Lor 2 Toa Payoh,25 to 27,105,Model A,1997,74.83,780000,Aug 2021
+121,Lor 2 Toa Payoh,16 to 18,100,Model A,2002,79.42,750000,Aug 2021
+213,Lor 8 Toa Payoh,04 to 06,82,Improved,1975,52.5,360000,Aug 2021
+220,Lor 8 Toa Payoh,10 to 12,82,Improved,1976,53.83,360000,Aug 2021
+226,Lor 8 Toa Payoh,10 to 12,82,Improved,1976,53.83,348000,Aug 2021
+141,Potong Pasir Ave 3,01 to 03,103,Model A,1984,62,585000,Aug 2021
+79D,Toa Payoh Ctrl,07 to 09,92,Model A,2009,86.75,732000,Aug 2021
+79D,Toa Payoh Ctrl,37 to 39,90,Model A,2009,86.75,838000,Aug 2021
+79E,Toa Payoh Ctrl,01 to 03,91,Model A,2009,86.83,610000,Aug 2021
+79E,Toa Payoh Ctrl,04 to 06,91,Model A,2009,86.67,755000,Aug 2021
+79E,Toa Payoh Ctrl,40 to 42,75,Model A,2009,86.75,810000,Aug 2021
+201,Toa Payoh Nth,04 to 06,87,Improved,1973,51,388000,Aug 2021
+201,Toa Payoh Nth,07 to 09,87,Improved,1973,51,393000,Aug 2021
+204,Toa Payoh Nth,04 to 06,87,Improved,1973,51,428000,Aug 2021
+208,Toa Payoh Nth,01 to 03,81,Improved,1973,51,350000,Aug 2021
+9,Joo Seng Rd,04 to 06,93,Model A,2017,94.67,682000,Jul 2021
+9,Joo Seng Rd,10 to 12,93,Model A,2017,94.67,700000,Jul 2021
+14,Joo Seng Rd,07 to 09,103,Model A,1984,61.75,488000,Jul 2021
+17,Joo Seng Rd,10 to 12,103,Model A,1983,61.5,468000,Jul 2021
+256,Kim Keat Ave,10 to 12,104,Model A,1988,66.5,528000,Jul 2021
+250,Kim Keat Link,04 to 06,104,Model A,1989,66.58,470000,Jul 2021
+138C,Lor 1A Toa Payoh,34 to 36,91,Dbss,2012,89.92,895000,Jul 2021
+86,Lor 2 Toa Payoh,01 to 03,105,Model A,1997,74.92,660000,Jul 2021
+175,Lor 2 Toa Payoh,04 to 06,84,Improved,1974,52.08,420000,Jul 2021
+175,Lor 2 Toa Payoh,22 to 24,84,Improved,1974,52.08,540000,Jul 2021
+102,Potong Pasir Ave 1,07 to 09,108,Model A,1984,61.83,678000,Jul 2021
+120,Potong Pasir Ave 1,10 to 12,93,New Generation,1984,62.33,468000,Jul 2021
+143,Potong Pasir Ave 2,10 to 12,104,Model A,1984,62,597500,Jul 2021
+142,Potong Pasir Ave 3,10 to 12,104,Model A,1984,62,650000,Jul 2021
+79A,Toa Payoh Ctrl,22 to 24,76,Model A,2009,86.83,672000,Jul 2021
+79B,Toa Payoh Ctrl,28 to 30,91,Model A,2009,86.83,803500,Jul 2021
+79D,Toa Payoh Ctrl,16 to 18,91,Model A,2009,86.75,775000,Jul 2021
+200,Toa Payoh Nth,10 to 12,87,Improved,1973,51,380000,Jul 2021
+204,Toa Payoh Nth,04 to 06,87,Improved,1973,51.17,383000,Jul 2021
+7,Upp Aljunied Lane,04 to 06,93,Model A,2017,94.67,670000,Jul 2021
+9,Joo Seng Rd,04 to 06,93,Model A,2017,94.75,650000,Jun 2021
+9,Joo Seng Rd,07 to 09,93,Model A,2017,94.75,690000,Jun 2021
+15,Joo Seng Rd,07 to 09,103,Model A,1984,61.83,465000,Jun 2021
+153A,Lor 1 Toa Payoh,13 to 15,101,Model A,1999,76.67,760000,Jun 2021
+138A,Lor 1A Toa Payoh,13 to 15,91,Dbss,2012,90,750000,Jun 2021
+138B,Lor 1A Toa Payoh,13 to 15,91,Dbss,2012,89.92,785000,Jun 2021
+138B,Lor 1A Toa Payoh,13 to 15,91,Dbss,2012,89.92,795000,Jun 2021
+138B,Lor 1A Toa Payoh,28 to 30,91,Dbss,2012,90,860000,Jun 2021
+138C,Lor 1A Toa Payoh,31 to 33,91,Dbss,2012,90,870000,Jun 2021
+139A,Lor 1A Toa Payoh,13 to 15,91,Dbss,2012,90,783000,Jun 2021
+139B,Lor 1A Toa Payoh,25 to 27,91,Dbss,2012,89.92,838500,Jun 2021
+86,Lor 2 Toa Payoh,07 to 09,105,Model A,1997,75,685000,Jun 2021
+143,Lor 2 Toa Payoh,10 to 12,90,Model A,2002,80.33,655000,Jun 2021
+152,Lor 2 Toa Payoh,22 to 24,86,Model A,2006,83.67,760000,Jun 2021
+193,Lor 4 Toa Payoh,25 to 27,84,Improved,1974,52.17,550000,Jun 2021
+222,Lor 8 Toa Payoh,04 to 06,82,Improved,1976,53.75,348000,Jun 2021
+119,Potong Pasir Ave 1,01 to 03,93,New Generation,1984,62.42,450000,Jun 2021
+136,Potong Pasir Ave 3,07 to 09,106,Model A,1984,62.17,595000,Jun 2021
+141,Potong Pasir Ave 3,01 to 03,111,Model A,1984,62.17,610000,Jun 2021
+79A,Toa Payoh Ctrl,01 to 03,91,Model A,2009,86.92,710000,Jun 2021
+79A,Toa Payoh Ctrl,37 to 39,75,Model A,2009,86.92,723000,Jun 2021
+79D,Toa Payoh Ctrl,34 to 36,91,Model A,2009,86.92,830000,Jun 2021
+79E,Toa Payoh Ctrl,13 to 15,76,Model A,2009,86.92,570000,Jun 2021
+79E,Toa Payoh Ctrl,16 to 18,76,Model A,2009,86.92,590000,Jun 2021
+79E,Toa Payoh Ctrl,10 to 12,76,Model A,2009,86.92,638888,Jun 2021
+179,Toa Payoh Ctrl,25 to 27,84,Improved,1974,52.17,450000,Jun 2021
+201,Toa Payoh Nth,01 to 03,87,Improved,1973,51.17,340000,Jun 2021
+202,Toa Payoh Nth,04 to 06,87,Improved,1973,51.17,368000,Jun 2021
+204,Toa Payoh Nth,16 to 18,87,Improved,1973,51.08,455000,Jun 2021
+7,Upp Aljunied Lane,01 to 03,93,Model A,2017,94.75,655000,Jun 2021
+9,Joo Seng Rd,10 to 12,93,Model A,2017,94.83,695000,May 2021
+15,Joo Seng Rd,01 to 03,103,Model A,1984,61.92,463000,May 2021
+155,Lor 1 Toa Payoh,28 to 30,101,Model A,1999,77.25,828000,May 2021
+138B,Lor 1A Toa Payoh,37 to 39,91,Dbss,2012,89.92,860000,May 2021
+138B,Lor 1A Toa Payoh,40 to 42,91,Dbss,2012,89.92,888000,May 2021
+138C,Lor 1A Toa Payoh,19 to 21,91,Dbss,2012,90,860000,May 2021
+139A,Lor 1A Toa Payoh,31 to 33,91,Dbss,2012,89.92,865000,May 2021
+142,Lor 2 Toa Payoh,07 to 09,86,Model A,2001,78.75,598888,May 2021
+143,Lor 2 Toa Payoh,28 to 30,91,Model A,2002,80.42,720000,May 2021
+146,Lor 2 Toa Payoh,07 to 09,91,Model A,2006,83.75,735000,May 2021
+152,Lor 2 Toa Payoh,25 to 27,91,Model A,2006,83.75,790000,May 2021
+35,Lor 5 Toa Payoh,07 to 09,102,Model A,1997,75.42,630000,May 2021
+11,Lor 8 Toa Payoh,04 to 06,100,Model A,1998,75.75,558000,May 2021
+222,Lor 8 Toa Payoh,04 to 06,82,Improved,1976,53.92,320000,May 2021
+136,Potong Pasir Ave 3,07 to 09,104,Model A,1984,62.25,580888,May 2021
+136,Potong Pasir Ave 3,04 to 06,104,Model A,1984,62.25,585000,May 2021
+79A,Toa Payoh Ctrl,34 to 36,76,Model A,2009,87,710000,May 2021
+79B,Toa Payoh Ctrl,22 to 24,91,Model A,2009,87,780000,May 2021
+79C,Toa Payoh Ctrl,07 to 09,92,Model A,2009,87,730000,May 2021
+79E,Toa Payoh Ctrl,34 to 36,76,Model A,2009,87,718000,May 2021
+79E,Toa Payoh Ctrl,19 to 21,91,Model A,2009,86.92,800000,May 2021
+204,Toa Payoh Nth,07 to 09,87,Improved,1973,51.25,388000,May 2021
+208,Toa Payoh Nth,10 to 12,81,Improved,1973,51.25,381000,May 2021
+7,Upp Aljunied Lane,07 to 09,93,Model A,2017,94.83,680000,May 2021
+9,Joo Seng Rd,07 to 09,93,Model A,2017,94.83,690000,Apr 2021
+259,Kim Keat Ave,04 to 06,104,Model A,1989,66.92,500000,Apr 2021
+247,Kim Keat Link,07 to 09,104,Model A,1989,66.92,495000,Apr 2021
+155,Lor 1 Toa Payoh,22 to 24,101,Model A,1999,77.33,750000,Apr 2021
+191,Lor 4 Toa Payoh,13 to 15,84,Improved,1974,52.25,480000,Apr 2021
+220,Lor 8 Toa Payoh,13 to 15,82,Improved,1976,54.08,380000,Apr 2021
+228,Lor 8 Toa Payoh,07 to 09,82,Improved,1976,54.5,333888,Apr 2021
+121,Potong Pasir Ave 1,16 to 18,103,Model A,1984,62.08,612000,Apr 2021
+146,Potong Pasir Ave 1,01 to 03,93,Simplified,1998,76.5,535000,Apr 2021
+146,Potong Pasir Ave 1,01 to 03,93,Simplified,1998,76.42,575000,Apr 2021
+148,Potong Pasir Ave 1,04 to 06,88,Simplified,1998,76.42,580000,Apr 2021
+144,Potong Pasir Ave 2,01 to 03,114,Model A,1984,62.25,590000,Apr 2021
+79A,Toa Payoh Ctrl,04 to 06,76,Model A,2009,87,620000,Apr 2021
+79A,Toa Payoh Ctrl,34 to 36,76,Model A,2009,87,728000,Apr 2021
+79A,Toa Payoh Ctrl,40 to 42,75,Model A,2009,87,730000,Apr 2021
+79B,Toa Payoh Ctrl,34 to 36,91,Model A,2009,87,828000,Apr 2021
+79E,Toa Payoh Ctrl,31 to 33,76,Model A,2009,87.08,703000,Apr 2021
+79E,Toa Payoh Ctrl,34 to 36,76,Model A,2009,87.08,745000,Apr 2021
+179,Toa Payoh Ctrl,22 to 24,84,Improved,1974,52.33,490000,Apr 2021
+200,Toa Payoh Nth,01 to 03,87,Improved,1973,51.33,315000,Apr 2021
+204,Toa Payoh Nth,16 to 18,87,Improved,1973,51.33,425000,Apr 2021
+209,Toa Payoh Nth,10 to 12,81,Improved,1973,51.33,399000,Apr 2021
+7,Upp Aljunied Lane,04 to 06,93,Model A,2017,94.92,692000,Apr 2021
+9,Joo Seng Rd,10 to 12,93,Model A,2017,95,678000,Mar 2021
+9,Joo Seng Rd,07 to 09,93,Model A,2017,94.92,683000,Mar 2021
+9,Joo Seng Rd,07 to 09,93,Model A,2017,94.92,690000,Mar 2021
+9,Joo Seng Rd,10 to 12,93,Model A,2017,95,705000,Mar 2021
+9,Joo Seng Rd,16 to 18,93,Model A,2017,95,725000,Mar 2021
+256,Kim Keat Ave,01 to 03,104,Model A,1988,66.83,500000,Mar 2021
+138B,Lor 1A Toa Payoh,31 to 33,91,Dbss,2012,90.25,840000,Mar 2021
+138C,Lor 1A Toa Payoh,13 to 15,91,Dbss,2012,90.17,791000,Mar 2021
+139A,Lor 1A Toa Payoh,37 to 39,91,Dbss,2012,90.17,903000,Mar 2021
+139B,Lor 1A Toa Payoh,16 to 18,91,Dbss,2012,90.25,790000,Mar 2021
+84,Lor 2 Toa Payoh,13 to 15,105,Model A,1997,75.25,690000,Mar 2021
+122,Lor 2 Toa Payoh,10 to 12,101,Model A,1999,77.75,676000,Mar 2021
+145,Lor 2 Toa Payoh,34 to 36,91,Model A,2006,83.92,798888,Mar 2021
+152,Lor 2 Toa Payoh,07 to 09,91,Model A,2006,83.83,728000,Mar 2021
+66,Lor 4 Toa Payoh,10 to 12,145,Adjoined Flat,1969,46.83,850000,Mar 2021
+36,Lor 5 Toa Payoh,13 to 15,102,Model A,1997,75.5,695000,Mar 2021
+6,Lor 7 Toa Payoh,07 to 09,103,Model A,1998,76.58,565000,Mar 2021
+214,Lor 8 Toa Payoh,04 to 06,82,Improved,1975,53.5,310000,Mar 2021
+214,Lor 8 Toa Payoh,07 to 09,82,Improved,1975,53.42,338000,Mar 2021
+220,Lor 8 Toa Payoh,10 to 12,82,Improved,1976,54.17,320000,Mar 2021
+222,Lor 8 Toa Payoh,01 to 03,82,Improved,1976,54.08,330000,Mar 2021
+227,Lor 8 Toa Payoh,10 to 12,82,Improved,1976,54.25,370000,Mar 2021
+117,Potong Pasir Ave 1,04 to 06,96,New Generation,1984,62.75,490000,Mar 2021
+120,Potong Pasir Ave 1,04 to 06,93,New Generation,1984,62.58,462000,Mar 2021
+137,Potong Pasir Ave 3,07 to 09,104,Model A,1984,62.33,580000,Mar 2021
+138,Potong Pasir Ave 3,01 to 03,111,Model A,1984,62.5,557000,Mar 2021
+140,Potong Pasir Ave 3,04 to 06,106,Model A,1984,62.33,560000,Mar 2021
+79A,Toa Payoh Ctrl,04 to 06,76,Model A,2009,87.08,520000,Mar 2021
+79B,Toa Payoh Ctrl,31 to 33,91,Model A,2009,87.17,813000,Mar 2021
+79E,Toa Payoh Ctrl,07 to 09,91,Model A,2009,87.08,760000,Mar 2021
+79E,Toa Payoh Ctrl,22 to 24,91,Model A,2009,87.08,770000,Mar 2021
+200,Toa Payoh Nth,04 to 06,87,Improved,1973,51.42,360000,Mar 2021
+7,Upp Aljunied Lane,10 to 12,93,Model A,2017,94.92,695000,Mar 2021
+9,Joo Seng Rd,04 to 06,93,Model A,2017,95,647000,Feb 2021
+9,Joo Seng Rd,04 to 06,93,Model A,2017,95,660000,Feb 2021
+9,Joo Seng Rd,13 to 15,93,Model A,2017,95.08,700000,Feb 2021
+256,Kim Keat Ave,10 to 12,103,Model A,1988,66.83,503000,Feb 2021
+256,Kim Keat Ave,13 to 15,104,Model A,1988,66.92,528000,Feb 2021
+242,Kim Keat Link,04 to 06,104,Model A,1989,67.17,475000,Feb 2021
+155,Lor 1 Toa Payoh,04 to 06,101,Model A,1999,77.42,618000,Feb 2021
+155,Lor 1 Toa Payoh,25 to 27,101,Model A,1999,77.5,680000,Feb 2021
+139A,Lor 1A Toa Payoh,28 to 30,91,Dbss,2012,90.25,823000,Feb 2021
+139A,Lor 1A Toa Payoh,31 to 33,91,Dbss,2012,90.25,853088,Feb 2021
+84B,Lor 2 Toa Payoh,01 to 03,104,Model A,1997,75.25,647000,Feb 2021
+146,Lor 2 Toa Payoh,34 to 36,91,Model A,2006,84,770000,Feb 2021
+147,Lor 2 Toa Payoh,01 to 03,86,Model A,2006,83.92,560000,Feb 2021
+175,Lor 2 Toa Payoh,07 to 09,84,Improved,1974,52.42,420000,Feb 2021
+81B,Lor 4 Toa Payoh,22 to 24,105,Model A,1997,75.17,720000,Feb 2021
+82A,Lor 4 Toa Payoh,07 to 09,103,Model A,1996,74.58,718000,Feb 2021
+95,Lor 4 Toa Payoh,01 to 03,120,Adjoined Flat,1967,45.33,503000,Feb 2021
+214,Lor 8 Toa Payoh,10 to 12,82,Improved,1975,53.58,338000,Feb 2021
+220,Lor 8 Toa Payoh,16 to 18,82,Improved,1976,54.33,326000,Feb 2021
+227,Lor 8 Toa Payoh,01 to 03,82,Improved,1976,54.25,293000,Feb 2021
+122,Potong Pasir Ave 1,19 to 21,103,Model A,1984,62.33,510888,Feb 2021
+148,Potong Pasir Ave 1,01 to 03,93,Simplified,1998,76.58,540000,Feb 2021
+136,Potong Pasir Ave 3,07 to 09,106,Model A,1984,62.42,589000,Feb 2021
+79A,Toa Payoh Ctrl,28 to 30,91,Model A,2009,87.17,785000,Feb 2021
+79B,Toa Payoh Ctrl,04 to 06,92,Model A,2009,87.17,718000,Feb 2021
+79B,Toa Payoh Ctrl,07 to 09,92,Model A,2009,87.17,750000,Feb 2021
+79B,Toa Payoh Ctrl,16 to 18,91,Model A,2009,87.25,755000,Feb 2021
+79B,Toa Payoh Ctrl,13 to 15,91,Model A,2009,87.17,780000,Feb 2021
+79C,Toa Payoh Ctrl,16 to 18,91,Model A,2009,87.25,728000,Feb 2021
+79C,Toa Payoh Ctrl,16 to 18,91,Model A,2009,87.25,768888,Feb 2021
+183,Toa Payoh Ctrl,04 to 06,78,Improved,1972,50.5,355000,Feb 2021
+200,Toa Payoh Nth,10 to 12,87,Improved,1973,51.5,378000,Feb 2021
+202,Toa Payoh Nth,04 to 06,87,Improved,1973,51.67,385000,Feb 2021
+15,Joo Seng Rd,10 to 12,103,Model A,1984,62.25,395000,Jan 2021
+17,Joo Seng Rd,10 to 12,102,Model A,1983,62,423000,Jan 2021
+156,Lor 1 Toa Payoh,01 to 03,101,Model A,1999,77.17,550000,Jan 2021
+139A,Lor 1A Toa Payoh,22 to 24,91,Dbss,2012,90.42,755000,Jan 2021
+141,Lor 2 Toa Payoh,13 to 15,85,Model A,2001,79.08,620000,Jan 2021
+143,Lor 2 Toa Payoh,16 to 18,90,Model A,2002,80.75,675000,Jan 2021
+7,Lor 7 Toa Payoh,04 to 06,106,Model A,1998,76.67,548000,Jan 2021
+10B,Lor 7 Toa Payoh,07 to 09,104,Model A,1998,76.5,580000,Jan 2021
+14,Lor 7 Toa Payoh,13 to 15,106,Model A,1998,76.5,585000,Jan 2021
+11,Lor 8 Toa Payoh,04 to 06,102,Model A,1998,76.08,560000,Jan 2021
+226,Lor 8 Toa Payoh,04 to 06,82,Improved,1976,54.42,333000,Jan 2021
+226,Lor 8 Toa Payoh,04 to 06,82,Improved,1976,54.42,335000,Jan 2021
+226,Lor 8 Toa Payoh,13 to 15,82,Improved,1976,54.33,375000,Jan 2021
+107,Potong Pasir Ave 1,01 to 03,110,Model A,1984,62.5,550000,Jan 2021
+144,Potong Pasir Ave 2,01 to 03,111,Model A,1984,62.58,540000,Jan 2021
+79A,Toa Payoh Ctrl,25 to 27,76,Model A,2009,87.33,680000,Jan 2021
+79A,Toa Payoh Ctrl,25 to 27,76,Model A,2009,87.25,700000,Jan 2021
+79D,Toa Payoh Ctrl,16 to 18,91,Model A,2009,87.25,765000,Jan 2021
+200,Toa Payoh Nth,01 to 03,87,Improved,1973,51.75,360000,Jan 2021
+204,Toa Payoh Nth,10 to 12,87,Improved,1973,51.58,370000,Jan 2021
+209,Toa Payoh Nth,13 to 15,81,Improved,1973,51.58,363000,Jan 2021
+7,Upp Aljunied Lane,13 to 15,93,Model A,2017,95.17,700000,Jan 2021
+17,Joo Seng Rd,04 to 06,103,Model A,1983,62.08,415000,Dec 2020
+247,Kim Keat Link,01 to 03,104,Model A,1989,67.25,475000,Dec 2020
+156,Lor 1 Toa Payoh,13 to 15,101,Model A,1999,77.25,586000,Dec 2020
+156,Lor 1 Toa Payoh,16 to 18,101,Model A,1999,77.17,761888,Dec 2020
+138A,Lor 1A Toa Payoh,31 to 33,91,Dbss,2012,90.5,805000,Dec 2020
+139B,Lor 1A Toa Payoh,31 to 33,91,Dbss,2012,90.42,838000,Dec 2020
+143,Lor 2 Toa Payoh,07 to 09,91,Model A,2002,80.75,668000,Dec 2020
+152,Lor 2 Toa Payoh,40 to 42,91,Model A,2006,84.08,840000,Dec 2020
+60,Lor 4 Toa Payoh,13 to 15,100,Model A,1999,77.83,680000,Dec 2020
+193,Lor 4 Toa Payoh,13 to 15,84,Improved,1974,52.58,468000,Dec 2020
+35,Lor 5 Toa Payoh,01 to 03,104,Model A,1997,75.83,578000,Dec 2020
+219,Lor 8 Toa Payoh,04 to 06,82,Improved,1978,56.17,330000,Dec 2020
+219,Lor 8 Toa Payoh,16 to 18,82,Improved,1978,56.17,350000,Dec 2020
+222,Lor 8 Toa Payoh,10 to 12,82,Improved,1976,54.33,339000,Dec 2020
+226,Lor 8 Toa Payoh,16 to 18,82,Improved,1976,54.5,360000,Dec 2020
+107,Potong Pasir Ave 1,04 to 06,103,Model A,1984,62.58,560000,Dec 2020
+209,Toa Payoh Nth,07 to 09,81,Improved,1973,51.67,340000,Dec 2020
+7,Upp Aljunied Lane,07 to 09,93,Model A,2017,95.17,680000,Dec 2020
+12,Joo Seng Rd,01 to 03,113,Model A,1984,62.58,443000,Nov 2020
+15,Joo Seng Rd,04 to 06,103,Model A,1984,62.33,400000,Nov 2020
+139B,Lor 1A Toa Payoh,19 to 21,91,Dbss,2012,90.5,780000,Nov 2020
+122,Lor 2 Toa Payoh,10 to 12,101,Model A,1999,78.17,660000,Nov 2020
+144,Lor 2 Toa Payoh,01 to 03,90,Model A,2002,80.92,550000,Nov 2020
+144,Lor 2 Toa Payoh,16 to 18,90,Model A,2002,80.83,660000,Nov 2020
+81,Lor 4 Toa Payoh,19 to 21,104,Model A,1997,75.33,718000,Nov 2020
+193,Lor 4 Toa Payoh,04 to 06,84,Improved,1974,52.75,425000,Nov 2020
+14,Lor 7 Toa Payoh,16 to 18,106,Model A,1998,76.75,610000,Nov 2020
+214,Lor 8 Toa Payoh,07 to 09,82,Improved,1975,53.75,310888,Nov 2020
+219,Lor 8 Toa Payoh,07 to 09,82,Improved,1978,56.25,315000,Nov 2020
+227,Lor 8 Toa Payoh,01 to 03,82,Improved,1976,54.58,292000,Nov 2020
+228,Lor 8 Toa Payoh,04 to 06,82,Improved,1976,54.92,315000,Nov 2020
+108,Potong Pasir Ave 1,07 to 09,103,Model A,1984,62.75,538888,Nov 2020
+145,Potong Pasir Ave 2,07 to 09,104,Model A,1984,62.75,558000,Nov 2020
+136,Potong Pasir Ave 3,07 to 09,104,Model A,1984,62.67,588000,Nov 2020
+79B,Toa Payoh Ctrl,34 to 36,91,Model A,2009,87.5,790000,Nov 2020
+201,Toa Payoh Nth,04 to 06,87,Improved,1973,51.67,350000,Nov 2020
+204,Toa Payoh Nth,19 to 21,87,Improved,1973,51.75,405000,Nov 2020
+209,Toa Payoh Nth,01 to 03,81,Improved,1973,51.67,320000,Nov 2020
+209,Toa Payoh Nth,13 to 15,81,Improved,1973,51.75,348000,Nov 2020

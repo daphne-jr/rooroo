@@ -1,0 +1,1357 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date
+33,Marsiling Dr,01 to 03,98,New Generation,1978,55.25,350000,Nov 2021
+618,Woodlands Ave 4,04 to 06,91,Model A2,1998,75.75,395000,Nov 2021
+741,Woodlands Circle,07 to 09,102,Model A,1997,74.83,450000,Nov 2021
+780C,Woodlands Cres,07 to 09,92,Model A,2015,92.83,488000,Nov 2021
+523,Woodlands Dr 14,10 to 12,104,Premium Apartment,2000,77.67,448000,Nov 2021
+588,Woodlands Dr 16,04 to 06,91,Model A,2001,78.5,473000,Nov 2021
+889D,Woodlands Dr 50,04 to 06,93,Model A,2017,94.75,500000,Nov 2021
+890B,Woodlands Dr 50,04 to 06,93,Model A,2017,94.75,508000,Nov 2021
+554,Woodlands Dr 53,07 to 09,90,Model A2,1999,77.17,405000,Nov 2021
+711,Woodlands Dr 70,07 to 09,101,Model A,1997,74.42,435888,Nov 2021
+688F,Woodlands Dr 75,13 to 15,90,Premium Apartment,2004,81.5,438000,Nov 2021
+437,Woodlands St 41,01 to 03,104,Model A,1996,73.83,400000,Nov 2021
+801,Woodlands St 81,04 to 06,84,Simplified,1989,67,373000,Nov 2021
+809,Woodlands St 81,04 to 06,106,Model A,1995,73.08,420000,Nov 2021
+822,Woodlands St 82,01 to 03,111,Model A,1996,73.42,455000,Nov 2021
+856,Woodlands St 83,10 to 12,106,Model A,1996,73.42,425000,Nov 2021
+856,Woodlands St 83,07 to 09,106,Model A,1996,73.42,445000,Nov 2021
+213,Marsiling Cres,01 to 03,104,Model A,1982,60.08,361000,Oct 2021
+29,Marsiling Dr,13 to 15,97,New Generation,1979,57.08,360000,Oct 2021
+33,Marsiling Dr,07 to 09,98,New Generation,1978,55.33,342000,Oct 2021
+201,Marsiling Dr,04 to 06,91,New Generation,1980,58,340000,Oct 2021
+337,Woodlands Ave 1,07 to 09,83,Simplified,1985,63.17,382000,Oct 2021
+338,Woodlands Ave 1,04 to 06,84,Simplified,1989,67,380000,Oct 2021
+352,Woodlands Ave 1,10 to 12,105,Model A,1996,73.83,458000,Oct 2021
+371,Woodlands Ave 1,04 to 06,105,Model A,1996,74.17,458000,Oct 2021
+570C,Woodlands Ave 1,07 to 09,92,Model A,2013,91.17,480000,Oct 2021
+615,Woodlands Ave 4,07 to 09,102,Model A,1998,75.83,395000,Oct 2021
+755,Woodlands Ave 4,10 to 12,102,Model A,1997,75.25,425000,Oct 2021
+756,Woodlands Ave 4,10 to 12,101,Model A,1998,75.42,422000,Oct 2021
+720,Woodlands Ave 6,10 to 12,100,Model A,1997,74.58,485000,Oct 2021
+729,Woodlands Circle,04 to 06,101,Model A2,1997,75.17,430000,Oct 2021
+731,Woodlands Circle,04 to 06,102,Model A,1997,75,410000,Oct 2021
+766,Woodlands Circle,04 to 06,91,Model A,2003,80.83,405000,Oct 2021
+780D,Woodlands Cres,13 to 15,92,Model A,2015,92.83,485000,Oct 2021
+787B,Woodlands Cres,04 to 06,101,Model A,1997,75.08,415000,Oct 2021
+787C,Woodlands Cres,10 to 12,100,Model A,1997,75,438000,Oct 2021
+531,Woodlands Dr 14,04 to 06,105,Premium Apartment,1999,76.92,441000,Oct 2021
+536,Woodlands Dr 14,01 to 03,106,Premium Apartment,1999,76.92,444444,Oct 2021
+577,Woodlands Dr 16,01 to 03,91,Model A,2000,78.17,400000,Oct 2021
+703,Woodlands Dr 40,01 to 03,100,Model A,1996,74.08,420000,Oct 2021
+886A,Woodlands Dr 50,13 to 15,92,Premium Apartment,2015,92.42,495000,Oct 2021
+887B,Woodlands Dr 50,07 to 09,92,Premium Apartment,2015,92.42,528000,Oct 2021
+889C,Woodlands Dr 50,13 to 15,93,Model A,2017,94.83,538888,Oct 2021
+889D,Woodlands Dr 50,01 to 03,93,Model A,2017,94.83,465000,Oct 2021
+891B,Woodlands Dr 50,01 to 03,100,Model A,1996,74.08,415000,Oct 2021
+894A,Woodlands Dr 50,01 to 03,100,Model A,1996,73.92,420000,Oct 2021
+895A,Woodlands Dr 50,01 to 03,99,Model A,1997,74.33,438000,Oct 2021
+899A,Woodlands Dr 50,04 to 06,99,Model A,1997,75,415000,Oct 2021
+557,Woodlands Dr 53,04 to 06,100,Model A,1999,77.17,412000,Oct 2021
+771,Woodlands Dr 60,04 to 06,101,Model A,1997,75.25,420000,Oct 2021
+772,Woodlands Dr 60,04 to 06,102,Model A,1997,75.17,420000,Oct 2021
+786D,Woodlands Dr 60,07 to 09,100,Model A,1997,74.92,428000,Oct 2021
+786E,Woodlands Dr 60,13 to 15,92,Model A2,1997,74.83,432000,Oct 2021
+682A,Woodlands Dr 62,04 to 06,105,Premium Apartment,2000,77.42,450000,Oct 2021
+795,Woodlands Dr 72,13 to 15,101,Model A,1998,75.33,445000,Oct 2021
+688B,Woodlands Dr 75,07 to 09,90,Premium Apartment,2004,81.5,428000,Oct 2021
+634,Woodlands Ring Rd,07 to 09,101,Model A,1999,76.83,426000,Oct 2021
+651,Woodlands Ring Rd,04 to 06,100,Model A,1998,75.75,460888,Oct 2021
+171,Woodlands St 11,07 to 09,93,New Generation,1985,63.25,390000,Oct 2021
+156,Woodlands St 13,01 to 03,91,New Generation,1986,64,400000,Oct 2021
+313,Woodlands St 31,01 to 03,103,Model A,1993,71,415000,Oct 2021
+315,Woodlands St 31,01 to 03,85,Simplified,1989,67.17,400000,Oct 2021
+317,Woodlands St 31,07 to 09,103,Model A,1993,70.5,435000,Oct 2021
+319,Woodlands St 31,10 to 12,107,Model A,1993,70.58,420000,Oct 2021
+335,Woodlands St 32,07 to 09,83,Simplified,1985,63.17,395000,Oct 2021
+418,Woodlands St 41,04 to 06,106,Model A,1996,73.42,402000,Oct 2021
+425,Woodlands St 41,04 to 06,100,Model A,1997,74.5,410000,Oct 2021
+429,Woodlands St 41,07 to 09,84,Simplified,1996,73.92,360000,Oct 2021
+429,Woodlands St 41,07 to 09,84,Simplified,1996,73.92,360000,Oct 2021
+810,Woodlands St 81,10 to 12,106,Model A,1995,73.08,458000,Oct 2021
+874,Woodlands St 82,04 to 06,115,Model A,1996,73.5,420000,Oct 2021
+853,Woodlands St 83,04 to 06,104,Model A,1993,70.83,420000,Oct 2021
+22,Marsiling Dr,01 to 03,92,New Generation,1977,54.83,323000,Sep 2021
+33,Marsiling Dr,10 to 12,98,New Generation,1978,55.42,340000,Sep 2021
+203,Marsiling Dr,04 to 06,93,New Generation,1981,59.25,335000,Sep 2021
+12A,Marsiling Lane,10 to 12,93,Model A,2013,90.83,445000,Sep 2021
+309,Woodlands Ave 1,04 to 06,85,Simplified,1989,66.92,376000,Sep 2021
+571A,Woodlands Ave 1,10 to 12,92,Model A,2013,91.25,495000,Sep 2021
+720,Woodlands Ave 6,04 to 06,100,Model A,1997,74.75,458000,Sep 2021
+722,Woodlands Ave 6,07 to 09,103,Model A,1997,74.92,425000,Sep 2021
+759,Woodlands Ave 6,10 to 12,103,Model A,1998,75.67,417500,Sep 2021
+738,Woodlands Circle,10 to 12,103,Model A,1998,75.5,425000,Sep 2021
+738,Woodlands Circle,04 to 06,101,Model A,1998,75.5,430000,Sep 2021
+752,Woodlands Circle,04 to 06,102,Model A,1998,75.42,390000,Sep 2021
+775,Woodlands Cres,10 to 12,93,Model A2,1997,75.17,405000,Sep 2021
+780D,Woodlands Cres,13 to 15,92,Model A,2015,92.92,465000,Sep 2021
+780D,Woodlands Cres,16 to 18,92,Model A,2015,92.92,472000,Sep 2021
+780E,Woodlands Cres,01 to 03,92,Model A,2015,92.92,425000,Sep 2021
+501,Woodlands Dr 14,01 to 03,101,Model A,1998,76.33,425000,Sep 2021
+514,Woodlands Dr 14,10 to 12,107,Premium Apartment,1999,76.58,463888,Sep 2021
+527,Woodlands Dr 14,04 to 06,106,Premium Apartment,1999,77,429000,Sep 2021
+545,Woodlands Dr 16,07 to 09,101,Model A,2000,78.08,470000,Sep 2021
+602,Woodlands Dr 42,07 to 09,102,Model A,1997,74.67,445000,Sep 2021
+603,Woodlands Dr 42,07 to 09,100,Model A,1997,74.67,440000,Sep 2021
+886A,Woodlands Dr 50,07 to 09,92,Premium Apartment,2015,92.5,493000,Sep 2021
+886A,Woodlands Dr 50,10 to 12,92,Premium Apartment,2015,92.5,508000,Sep 2021
+886C,Woodlands Dr 50,01 to 03,92,Premium Apartment,2015,92.5,455000,Sep 2021
+887A,Woodlands Dr 50,13 to 15,95,Premium Apartment,2015,92.5,538500,Sep 2021
+890A,Woodlands Dr 50,10 to 12,93,Model A,2017,94.83,525000,Sep 2021
+891B,Woodlands Dr 50,01 to 03,100,Model A,1996,74.25,405000,Sep 2021
+894C,Woodlands Dr 50,01 to 03,100,Model A,1996,74,430000,Sep 2021
+894C,Woodlands Dr 50,04 to 06,100,Model A,1996,74,440000,Sep 2021
+898A,Woodlands Dr 50,07 to 09,100,Model A,1997,74.92,420000,Sep 2021
+899A,Woodlands Dr 50,04 to 06,100,Model A,1997,75.08,405000,Sep 2021
+619,Woodlands Dr 52,04 to 06,96,Model A2,1998,76,400000,Sep 2021
+620,Woodlands Dr 52,10 to 12,91,Model A2,1998,75.92,383000,Sep 2021
+769,Woodlands Dr 60,07 to 09,101,Model A,1997,75.33,393000,Sep 2021
+771,Woodlands Dr 60,01 to 03,103,Model A,1997,75.33,390000,Sep 2021
+778,Woodlands Dr 60,04 to 06,100,Model A,1997,75.33,410000,Sep 2021
+786E,Woodlands Dr 60,13 to 15,92,Model A2,1997,75,406500,Sep 2021
+717,Woodlands Dr 70,01 to 03,100,Model A,1997,74.83,420000,Sep 2021
+607,Woodlands Ring Rd,04 to 06,102,Model A,1998,75.67,405000,Sep 2021
+611,Woodlands Ring Rd,07 to 09,102,Model A,1998,75.58,420000,Sep 2021
+638,Woodlands Ring Rd,01 to 03,102,Model A,1999,77,400000,Sep 2021
+653,Woodlands Ring Rd,10 to 12,101,Model A,1998,75.58,455000,Sep 2021
+657,Woodlands Ring Rd,10 to 12,101,Model A,1998,75.5,428000,Sep 2021
+657,Woodlands Ring Rd,07 to 09,102,Model A,1998,75.5,438888,Sep 2021
+157,Woodlands St 13,04 to 06,103,Model A,1985,62.58,410000,Sep 2021
+159,Woodlands St 13,04 to 06,103,Model A,1990,67.67,438000,Sep 2021
+421,Woodlands St 41,07 to 09,106,Model A,1996,73.5,420000,Sep 2021
+436,Woodlands St 41,07 to 09,104,Model A,1996,74.08,410000,Sep 2021
+436,Woodlands St 41,07 to 09,104,Model A,1996,73.92,412000,Sep 2021
+437,Woodlands St 41,04 to 06,84,Simplified,1996,74.08,340000,Sep 2021
+802,Woodlands St 81,07 to 09,84,Simplified,1989,66.92,380000,Sep 2021
+839,Woodlands St 82,07 to 09,105,Model A,1996,74,450000,Sep 2021
+842,Woodlands St 82,04 to 06,104,Model A,1994,71.83,418000,Sep 2021
+845,Woodlands St 82,04 to 06,84,Simplified,1994,71.83,371000,Sep 2021
+874,Woodlands St 82,01 to 03,111,Model A,1996,73.58,405000,Sep 2021
+874,Woodlands St 82,07 to 09,111,Model A,1996,73.58,410000,Sep 2021
+853,Woodlands St 83,04 to 06,84,Simplified,1993,71,383000,Sep 2021
+5A,Marsiling Dr,07 to 09,90,Model A,2002,79.75,350000,Aug 2021
+8,Marsiling Dr,13 to 15,88,Improved,1976,53.5,348000,Aug 2021
+205,Marsiling Dr,10 to 12,91,New Generation,1980,58.25,265000,Aug 2021
+12A,Marsiling Lane,04 to 06,93,Model A,2013,90.92,425000,Aug 2021
+12B,Marsiling Lane,10 to 12,93,Model A,2013,90.92,450000,Aug 2021
+12C,Marsiling Lane,04 to 06,93,Model A,2013,90.83,439000,Aug 2021
+352,Woodlands Ave 1,01 to 03,105,Model A,1996,74,420000,Aug 2021
+571B,Woodlands Ave 1,07 to 09,92,Model A,2013,91.25,480000,Aug 2021
+347,Woodlands Ave 3,10 to 12,84,Simplified,1988,65.75,406000,Aug 2021
+618,Woodlands Ave 4,10 to 12,92,Model A2,1998,75.92,400000,Aug 2021
+627,Woodlands Ave 6,10 to 12,90,Model A2,1998,76.08,378000,Aug 2021
+627,Woodlands Ave 6,07 to 09,90,Model A2,1998,76.08,398000,Aug 2021
+723,Woodlands Ave 6,07 to 09,102,Model A,1997,75,422000,Aug 2021
+724,Woodlands Ave 6,04 to 06,102,Model A,1997,75.08,430000,Aug 2021
+762,Woodlands Ave 6,04 to 06,102,Model A,1998,75.58,440000,Aug 2021
+763,Woodlands Ave 6,04 to 06,102,Model A,1998,75.75,399800,Aug 2021
+730,Woodlands Circle,07 to 09,101,Model A2,1997,75.17,425000,Aug 2021
+738,Woodlands Circle,04 to 06,103,Model A,1998,75.58,405000,Aug 2021
+742,Woodlands Circle,10 to 12,102,Model A,1997,75.17,420000,Aug 2021
+742,Woodlands Circle,07 to 09,103,Model A,1997,75.08,422500,Aug 2021
+746,Woodlands Circle,04 to 06,103,Model A,1998,75.5,395000,Aug 2021
+766,Woodlands Circle,01 to 03,91,Model A,2003,81,382000,Aug 2021
+780E,Woodlands Cres,10 to 12,92,Model A,2015,93,460000,Aug 2021
+782C,Woodlands Cres,07 to 09,92,Model A,2015,92.92,445000,Aug 2021
+782D,Woodlands Cres,04 to 06,92,Model A,2015,92.92,420000,Aug 2021
+787C,Woodlands Cres,01 to 03,100,Model A,1997,75.17,400000,Aug 2021
+514,Woodlands Dr 14,01 to 03,105,Premium Apartment,1999,76.67,450888,Aug 2021
+531,Woodlands Dr 14,01 to 03,106,Premium Apartment,1999,77.08,420000,Aug 2021
+540,Woodlands Dr 16,01 to 03,100,Model A,2000,78,430000,Aug 2021
+886A,Woodlands Dr 50,01 to 03,92,Premium Apartment,2015,92.58,455000,Aug 2021
+886B,Woodlands Dr 50,10 to 12,92,Premium Apartment,2015,92.58,496000,Aug 2021
+886C,Woodlands Dr 50,10 to 12,92,Premium Apartment,2015,92.58,475000,Aug 2021
+886C,Woodlands Dr 50,13 to 15,95,Premium Apartment,2015,92.58,540000,Aug 2021
+887B,Woodlands Dr 50,04 to 06,92,Premium Apartment,2015,92.58,520000,Aug 2021
+889A,Woodlands Dr 50,10 to 12,93,Model A,2017,95,531000,Aug 2021
+889C,Woodlands Dr 50,10 to 12,93,Model A,2017,95,500000,Aug 2021
+889D,Woodlands Dr 50,04 to 06,93,Model A,2017,95,505000,Aug 2021
+889D,Woodlands Dr 50,16 to 18,93,Model A,2017,94.92,560000,Aug 2021
+890A,Woodlands Dr 50,01 to 03,93,Model A,2017,95,468000,Aug 2021
+890A,Woodlands Dr 50,13 to 15,93,Model A,2017,95,510000,Aug 2021
+890A,Woodlands Dr 50,07 to 09,93,Model A,2017,95,510000,Aug 2021
+897B,Woodlands Dr 50,07 to 09,99,Model A,1997,74.92,406888,Aug 2021
+899C,Woodlands Dr 50,04 to 06,99,Model A,1997,75.17,425000,Aug 2021
+554,Woodlands Dr 53,10 to 12,89,Model A2,1999,77.42,400000,Aug 2021
+554,Woodlands Dr 53,10 to 12,95,Model A2,1999,77.42,400000,Aug 2021
+773,Woodlands Dr 60,10 to 12,93,Model A2,1997,75.25,390000,Aug 2021
+778,Woodlands Dr 60,10 to 12,100,Model A,1997,75.42,420000,Aug 2021
+682B,Woodlands Dr 62,01 to 03,102,Premium Apartment,2000,77.58,400000,Aug 2021
+683D,Woodlands Dr 62,10 to 12,103,Premium Apartment,2000,77.58,458000,Aug 2021
+684C,Woodlands Dr 62,04 to 06,103,Premium Apartment,2000,77.58,430000,Aug 2021
+717A,Woodlands Dr 70,07 to 09,88,Model A,2017,95.42,500000,Aug 2021
+684A,Woodlands Dr 73,10 to 12,105,Premium Apartment,2000,77.67,440000,Aug 2021
+608,Woodlands Ring Rd,07 to 09,102,Model A,1998,75.92,443000,Aug 2021
+640,Woodlands Ring Rd,10 to 12,102,Model A,1999,77,430000,Aug 2021
+649,Woodlands Ring Rd,10 to 12,100,Model A,1998,75.92,460000,Aug 2021
+666,Woodlands Ring Rd,01 to 03,86,Model A2,2000,78.17,385000,Aug 2021
+104,Woodlands St 13,07 to 09,91,New Generation,1985,62.75,395000,Aug 2021
+310,Woodlands St 31,07 to 09,103,Model A,1993,71.17,435000,Aug 2021
+335,Woodlands St 32,01 to 03,104,Model A,1985,63.33,390000,Aug 2021
+401,Woodlands St 41,04 to 06,106,Model A,1995,73.42,388000,Aug 2021
+401,Woodlands St 41,07 to 09,106,Model A,1995,73.42,415000,Aug 2021
+424,Woodlands St 41,07 to 09,100,Model A,1997,74.75,413000,Aug 2021
+426,Woodlands St 41,10 to 12,100,Model A,1997,74.75,395000,Aug 2021
+839,Woodlands St 82,10 to 12,106,Model A,1996,74.08,420000,Aug 2021
+842,Woodlands St 82,01 to 03,104,Model A,1994,71.92,380000,Aug 2021
+842,Woodlands St 82,04 to 06,104,Model A,1994,71.92,395000,Aug 2021
+874,Woodlands St 82,07 to 09,111,Model A,1996,73.67,455000,Aug 2021
+831,Woodlands St 83,07 to 09,83,Simplified,1990,67.67,367000,Aug 2021
+25,Marsiling Dr,04 to 06,92,New Generation,1977,55,305000,Jul 2021
+27,Marsiling Dr,04 to 06,92,New Generation,1977,55.42,320000,Jul 2021
+201,Marsiling Dr,07 to 09,91,New Generation,1980,58.25,338000,Jul 2021
+12B,Marsiling Lane,07 to 09,93,Model A,2013,91,378000,Jul 2021
+570C,Woodlands Ave 1,01 to 03,92,Model A,2013,91.42,435000,Jul 2021
+570C,Woodlands Ave 1,01 to 03,92,Model A,2013,91.42,440000,Jul 2021
+570C,Woodlands Ave 1,07 to 09,92,Model A,2013,91.42,455000,Jul 2021
+571A,Woodlands Ave 1,01 to 03,92,Model A,2013,91.42,440000,Jul 2021
+363,Woodlands Ave 5,04 to 06,102,Model A,1996,74.42,460000,Jul 2021
+759,Woodlands Ave 6,04 to 06,102,Model A,1998,75.83,385000,Jul 2021
+760,Woodlands Ave 6,04 to 06,102,Model A,1998,75.67,395000,Jul 2021
+727,Woodlands Circle,04 to 06,102,Model A,1997,74.92,407000,Jul 2021
+735,Woodlands Circle,10 to 12,101,Model A,1998,75.67,408000,Jul 2021
+737,Woodlands Circle,01 to 03,91,Model A2,1998,75.67,390000,Jul 2021
+738,Woodlands Circle,10 to 12,103,Model A,1998,75.67,420000,Jul 2021
+739,Woodlands Circle,04 to 06,91,Model A2,1997,75.17,390000,Jul 2021
+766,Woodlands Circle,07 to 09,91,Model A,2003,81.08,395000,Jul 2021
+780C,Woodlands Cres,01 to 03,92,Model A,2015,93,425000,Jul 2021
+780C,Woodlands Cres,07 to 09,92,Model A,2015,93.08,435000,Jul 2021
+502A,Woodlands Dr 14,04 to 06,102,Model A,1998,76.42,410000,Jul 2021
+520,Woodlands Dr 14,07 to 09,104,Premium Apartment,2000,78.25,450000,Jul 2021
+523,Woodlands Dr 14,01 to 03,102,Premium Apartment,2000,78,385000,Jul 2021
+530,Woodlands Dr 14,01 to 03,104,Premium Apartment,1999,77.17,423888,Jul 2021
+537,Woodlands Dr 16,01 to 03,100,Model A,2000,78.17,430000,Jul 2021
+539,Woodlands Dr 16,01 to 03,101,Model A,2000,78.17,398000,Jul 2021
+577,Woodlands Dr 16,10 to 12,91,Model A,2000,78.42,410000,Jul 2021
+588,Woodlands Dr 16,07 to 09,91,Model A,2001,78.83,435000,Jul 2021
+605,Woodlands Dr 42,04 to 06,92,Model A2,1997,74.83,390000,Jul 2021
+551,Woodlands Dr 44,10 to 12,100,Model A,2000,77.67,400000,Jul 2021
+886C,Woodlands Dr 50,07 to 09,92,Premium Apartment,2015,92.58,480000,Jul 2021
+887A,Woodlands Dr 50,10 to 12,92,Premium Apartment,2015,92.67,470000,Jul 2021
+887B,Woodlands Dr 50,10 to 12,92,Premium Apartment,2015,92.67,510000,Jul 2021
+889A,Woodlands Dr 50,10 to 12,93,Model A,2017,95.08,498000,Jul 2021
+889B,Woodlands Dr 50,01 to 03,93,Model A,2017,95.08,472000,Jul 2021
+890B,Woodlands Dr 50,13 to 15,93,Model A,2017,95.17,515000,Jul 2021
+894A,Woodlands Dr 50,04 to 06,100,Model A,1996,74.17,430000,Jul 2021
+625A,Woodlands Dr 52,04 to 06,101,Model A,1998,76.33,419000,Jul 2021
+770,Woodlands Dr 60,13 to 15,101,Model A,1997,75.42,395000,Jul 2021
+786B,Woodlands Dr 60,01 to 03,90,Model A2,1997,75.17,372000,Jul 2021
+786B,Woodlands Dr 60,01 to 03,92,Model A2,1997,75.17,380000,Jul 2021
+717B,Woodlands Dr 70,04 to 06,88,Model A,2017,95.5,513000,Jul 2021
+717B,Woodlands Dr 70,13 to 15,88,Model A,2017,95.5,550000,Jul 2021
+684A,Woodlands Dr 73,13 to 15,103,Premium Apartment,2000,77.75,433000,Jul 2021
+687B,Woodlands Dr 75,13 to 15,93,Premium Apartment,2003,80.67,430000,Jul 2021
+689D,Woodlands Dr 75,04 to 06,90,Premium Apartment,2004,81.67,413000,Jul 2021
+690B,Woodlands Dr 75,04 to 06,90,Premium Apartment,2004,81.58,410000,Jul 2021
+611,Woodlands Ring Rd,01 to 03,101,Model A,1998,75.75,385000,Jul 2021
+611,Woodlands Ring Rd,07 to 09,102,Model A,1998,75.75,405000,Jul 2021
+644,Woodlands Ring Rd,07 to 09,101,Model A,1998,76.08,410888,Jul 2021
+660,Woodlands Ring Rd,07 to 09,100,Model A,1998,75.67,410000,Jul 2021
+665,Woodlands Ring Rd,07 to 09,86,Model A2,2000,78.25,380000,Jul 2021
+668,Woodlands Ring Rd,07 to 09,91,Model A,2000,78.25,460000,Jul 2021
+105,Woodlands St 13,01 to 03,92,New Generation,1985,62.75,370000,Jul 2021
+108,Woodlands St 13,07 to 09,91,New Generation,1987,64.58,392000,Jul 2021
+110,Woodlands St 13,13 to 15,96,New Generation,1987,64.58,390000,Jul 2021
+113,Woodlands St 13,07 to 09,91,New Generation,1987,64.75,438000,Jul 2021
+156,Woodlands St 13,01 to 03,91,New Generation,1986,64.25,390000,Jul 2021
+312,Woodlands St 31,04 to 06,84,Simplified,1989,67.25,363000,Jul 2021
+409,Woodlands St 41,04 to 06,106,Model A,1996,73.58,418000,Jul 2021
+429,Woodlands St 41,04 to 06,84,Simplified,1996,74.17,340000,Jul 2021
+801,Woodlands St 81,04 to 06,83,Simplified,1989,67.25,370000,Jul 2021
+842,Woodlands St 82,07 to 09,84,Simplified,1994,72,365000,Jul 2021
+843,Woodlands St 82,10 to 12,104,Model A,1994,72,410000,Jul 2021
+5A,Marsiling Dr,07 to 09,90,Model A,2002,79.92,382000,Jun 2021
+205,Marsiling Dr,01 to 03,91,New Generation,1980,58.42,270000,Jun 2021
+205,Marsiling Dr,04 to 06,91,New Generation,1980,58.42,318000,Jun 2021
+205,Marsiling Dr,07 to 09,92,New Generation,1980,58.42,320000,Jun 2021
+12B,Marsiling Lane,22 to 24,93,Model A,2013,91.08,532000,Jun 2021
+12C,Marsiling Lane,22 to 24,93,Model A,2013,91.08,453800,Jun 2021
+368,Woodlands Ave 1,10 to 12,105,Model A,1997,74.75,462000,Jun 2021
+371,Woodlands Ave 1,10 to 12,102,Model A,1996,74.5,440000,Jun 2021
+617,Woodlands Ave 4,01 to 03,96,Model A2,1998,75.92,348000,Jun 2021
+367,Woodlands Ave 5,10 to 12,105,Model A,1996,74.08,468108,Jun 2021
+719,Woodlands Ave 6,07 to 09,100,Model A,1997,75,457000,Jun 2021
+761,Woodlands Ave 6,01 to 03,103,Model A,1998,75.75,365000,Jun 2021
+728,Woodlands Circle,01 to 03,91,Model A2,1997,75.33,372000,Jun 2021
+728,Woodlands Circle,10 to 12,91,Model A2,1997,75.33,407888,Jun 2021
+729,Woodlands Circle,10 to 12,100,Model A2,1997,75.58,420000,Jun 2021
+737,Woodlands Circle,04 to 06,91,Model A2,1998,75.75,382000,Jun 2021
+779,Woodlands Cres,10 to 12,101,Model A,1997,75.42,400000,Jun 2021
+780D,Woodlands Cres,07 to 09,92,Model A,2015,93.17,435000,Jun 2021
+780E,Woodlands Cres,13 to 15,92,Model A,2015,93.17,450000,Jun 2021
+787E,Woodlands Cres,07 to 09,101,Model A,1997,75.42,410000,Jun 2021
+517,Woodlands Dr 14,10 to 12,105,Premium Apartment,2000,78.33,435000,Jun 2021
+520,Woodlands Dr 14,07 to 09,102,Premium Apartment,2000,78.33,400000,Jun 2021
+526,Woodlands Dr 14,07 to 09,104,Premium Apartment,2000,77.83,420000,Jun 2021
+546,Woodlands Dr 16,10 to 12,101,Model A,2000,78.33,455000,Jun 2021
+575,Woodlands Dr 16,07 to 09,86,Model A2,2000,78.58,390000,Jun 2021
+579,Woodlands Dr 16,10 to 12,90,Model A,2001,78.92,400000,Jun 2021
+588,Woodlands Dr 16,04 to 06,91,Model A,2001,78.92,420000,Jun 2021
+550,Woodlands Dr 44,10 to 12,100,Model A,2000,77.75,410000,Jun 2021
+551,Woodlands Dr 44,04 to 06,100,Model A,2000,77.75,397000,Jun 2021
+552,Woodlands Dr 44,04 to 06,102,Model A,2000,77.75,392000,Jun 2021
+886C,Woodlands Dr 50,01 to 03,92,Premium Apartment,2015,92.75,457000,Jun 2021
+889B,Woodlands Dr 50,07 to 09,93,Model A,2017,95.17,485000,Jun 2021
+889C,Woodlands Dr 50,04 to 06,93,Model A,2017,95.17,470000,Jun 2021
+889D,Woodlands Dr 50,04 to 06,93,Model A,2017,95.17,485000,Jun 2021
+889D,Woodlands Dr 50,07 to 09,93,Model A,2017,95.17,500000,Jun 2021
+890A,Woodlands Dr 50,07 to 09,93,Model A,2017,95.17,485000,Jun 2021
+890B,Woodlands Dr 50,10 to 12,93,Model A,2017,95.08,515000,Jun 2021
+891B,Woodlands Dr 50,07 to 09,100,Model A,1996,74.33,410000,Jun 2021
+892A,Woodlands Dr 50,01 to 03,101,Model A,1996,74.5,398000,Jun 2021
+620,Woodlands Dr 52,07 to 09,92,Model A2,1998,76.17,370000,Jun 2021
+786E,Woodlands Dr 60,04 to 06,91,Model A2,1997,75.25,375000,Jun 2021
+681D,Woodlands Dr 62,04 to 06,104,Premium Apartment,2000,77.75,430000,Jun 2021
+708,Woodlands Dr 70,01 to 03,100,Model A,1996,74.58,420000,Jun 2021
+686A,Woodlands Dr 73,13 to 15,93,Premium Apartment,2003,80.75,420500,Jun 2021
+688C,Woodlands Dr 75,13 to 15,90,Premium Apartment,2004,81.83,410888,Jun 2021
+688D,Woodlands Dr 75,01 to 03,90,Premium Apartment,2004,81.67,392000,Jun 2021
+689C,Woodlands Dr 75,07 to 09,90,Premium Apartment,2004,81.75,400000,Jun 2021
+607,Woodlands Ring Rd,01 to 03,101,Model A,1998,75.92,400000,Jun 2021
+640,Woodlands Ring Rd,01 to 03,102,Model A,1999,77.17,410000,Jun 2021
+644,Woodlands Ring Rd,07 to 09,100,Model A,1998,76.17,450000,Jun 2021
+655,Woodlands Ring Rd,01 to 03,102,Model A,1998,75.83,416888,Jun 2021
+171,Woodlands St 11,10 to 12,96,New Generation,1985,63.5,405000,Jun 2021
+105,Woodlands St 13,07 to 09,91,New Generation,1985,62.92,375000,Jun 2021
+106,Woodlands St 13,01 to 03,92,New Generation,1985,62.92,388000,Jun 2021
+108,Woodlands St 13,04 to 06,91,New Generation,1987,64.67,360000,Jun 2021
+110,Woodlands St 13,10 to 12,93,New Generation,1987,64.67,400000,Jun 2021
+156,Woodlands St 13,01 to 03,91,New Generation,1986,64.33,380000,Jun 2021
+160,Woodlands St 13,07 to 09,103,Model A,1990,68,408000,Jun 2021
+312,Woodlands St 31,01 to 03,89,Simplified,1989,67.33,350000,Jun 2021
+335,Woodlands St 32,04 to 06,83,Simplified,1985,63.5,355000,Jun 2021
+335,Woodlands St 32,10 to 12,83,Simplified,1985,63.5,371000,Jun 2021
+424,Woodlands St 41,07 to 09,100,Model A,1997,74.92,380000,Jun 2021
+428,Woodlands St 41,01 to 03,84,Simplified,1996,74.17,360000,Jun 2021
+437,Woodlands St 41,04 to 06,84,Simplified,1996,74.25,345000,Jun 2021
+805,Woodlands St 81,01 to 03,107,Model A,1994,71.67,430000,Jun 2021
+845,Woodlands St 82,10 to 12,84,Simplified,1994,72.08,370000,Jun 2021
+7,Marsiling Dr,01 to 03,88,Improved,1976,53.75,250000,May 2021
+26,Marsiling Dr,10 to 12,91,New Generation,1977,55.08,310000,May 2021
+12B,Marsiling Lane,04 to 06,93,Model A,2013,91.17,430000,May 2021
+355,Woodlands Ave 1,04 to 06,102,Model A,1996,74.42,443000,May 2021
+719,Woodlands Ave 6,01 to 03,101,Model A,1997,75,410000,May 2021
+724,Woodlands Ave 6,10 to 12,102,Model A,1997,75.33,418000,May 2021
+759,Woodlands Ave 6,01 to 03,103,Model A,1998,76,360000,May 2021
+726,Woodlands Circle,07 to 09,103,Model A,1997,75.25,410000,May 2021
+780D,Woodlands Cres,13 to 15,92,Model A,2015,93.25,460000,May 2021
+780E,Woodlands Cres,07 to 09,92,Model A,2015,93.25,430000,May 2021
+782C,Woodlands Cres,13 to 15,92,Model A,2015,93.17,440000,May 2021
+502A,Woodlands Dr 14,07 to 09,102,Model A,1998,76.58,410000,May 2021
+515,Woodlands Dr 14,10 to 12,107,Premium Apartment,1999,76.92,440000,May 2021
+517,Woodlands Dr 14,01 to 03,104,Premium Apartment,2000,78.33,400000,May 2021
+537,Woodlands Dr 16,07 to 09,101,Model A,2000,78.33,415888,May 2021
+542,Woodlands Dr 16,04 to 06,101,Model A,2000,78.08,425000,May 2021
+543,Woodlands Dr 16,07 to 09,101,Model A,2000,78.17,415000,May 2021
+543,Woodlands Dr 16,10 to 12,101,Model A,2000,78.08,420000,May 2021
+704,Woodlands Dr 40,07 to 09,102,Model A,1996,74.5,420000,May 2021
+704,Woodlands Dr 40,10 to 12,102,Model A,1996,74.5,425000,May 2021
+601,Woodlands Dr 42,07 to 09,91,Model A2,1997,74.92,375000,May 2021
+604,Woodlands Dr 42,04 to 06,92,Model A2,1997,75,375000,May 2021
+550,Woodlands Dr 44,04 to 06,100,Model A,2000,77.83,380000,May 2021
+553,Woodlands Dr 44,07 to 09,101,Model A,2000,78.08,398000,May 2021
+886C,Woodlands Dr 50,07 to 09,92,Premium Apartment,2015,92.83,468000,May 2021
+886C,Woodlands Dr 50,01 to 03,92,Premium Apartment,2015,92.83,480000,May 2021
+889A,Woodlands Dr 50,07 to 09,93,Model A,2017,95.25,497000,May 2021
+889B,Woodlands Dr 50,10 to 12,93,Model A,2017,95.17,538000,May 2021
+889C,Woodlands Dr 50,04 to 06,93,Model A,2017,95.17,480000,May 2021
+890A,Woodlands Dr 50,10 to 12,93,Model A,2017,95.25,492000,May 2021
+890A,Woodlands Dr 50,10 to 12,93,Model A,2017,95.25,501000,May 2021
+890B,Woodlands Dr 50,07 to 09,93,Model A,2017,95.17,490000,May 2021
+890B,Woodlands Dr 50,07 to 09,93,Model A,2017,95.17,492000,May 2021
+895C,Woodlands Dr 50,01 to 03,100,Model A,1997,74.83,375000,May 2021
+620,Woodlands Dr 52,07 to 09,96,Model A2,1998,76.25,398000,May 2021
+621,Woodlands Dr 52,07 to 09,102,Model A,1998,76.17,390000,May 2021
+623,Woodlands Dr 52,07 to 09,102,Model A,1998,76.42,391000,May 2021
+771,Woodlands Dr 60,07 to 09,101,Model A,1997,75.67,390000,May 2021
+681A,Woodlands Dr 62,04 to 06,105,Premium Apartment,2000,77.83,448000,May 2021
+681B,Woodlands Dr 62,04 to 06,105,Premium Apartment,2000,77.83,462000,May 2021
+709,Woodlands Dr 70,10 to 12,100,Model A,1996,74.67,430000,May 2021
+711,Woodlands Dr 70,10 to 12,102,Model A,1997,74.83,400000,May 2021
+717A,Woodlands Dr 70,01 to 03,88,Model A,2017,95.67,455000,May 2021
+684A,Woodlands Dr 73,04 to 06,105,Premium Apartment,2000,77.83,370000,May 2021
+684A,Woodlands Dr 73,07 to 09,104,Premium Apartment,2000,77.83,447000,May 2021
+645,Woodlands Ring Rd,07 to 09,101,Model A,1998,76.17,385000,May 2021
+657,Woodlands Ring Rd,10 to 12,100,Model A,1998,75.92,400000,May 2021
+659,Woodlands Ring Rd,04 to 06,101,Model A,1998,75.83,390000,May 2021
+172,Woodlands St 13,04 to 06,91,New Generation,1985,63.5,373000,May 2021
+413,Woodlands St 41,04 to 06,106,Model A,1996,73.75,398000,May 2021
+831,Woodlands St 83,04 to 06,83,Simplified,1990,67.92,355000,May 2021
+860,Woodlands St 83,07 to 09,106,Model A,1996,74,410000,May 2021
+8,Marsiling Dr,01 to 03,88,Improved,1976,53.83,295000,Apr 2021
+25,Marsiling Dr,04 to 06,91,New Generation,1977,55.25,280000,Apr 2021
+33,Marsiling Dr,07 to 09,98,New Generation,1978,55.75,336088,Apr 2021
+12C,Marsiling Lane,04 to 06,93,Model A,2013,91.25,400000,Apr 2021
+571A,Woodlands Ave 1,01 to 03,92,Model A,2013,91.67,435000,Apr 2021
+571B,Woodlands Ave 1,01 to 03,92,Model A,2013,91.67,450000,Apr 2021
+348,Woodlands Ave 3,13 to 15,84,Simplified,1988,66.42,380000,Apr 2021
+618,Woodlands Ave 4,10 to 12,96,Model A2,1998,76.17,378000,Apr 2021
+755,Woodlands Ave 4,04 to 06,103,Model A,1997,75.75,400000,Apr 2021
+724,Woodlands Ave 6,10 to 12,102,Model A,1997,75.5,385000,Apr 2021
+761,Woodlands Ave 6,04 to 06,102,Model A,1998,75.92,385000,Apr 2021
+729,Woodlands Circle,01 to 03,91,Model A2,1997,75.58,375000,Apr 2021
+747,Woodlands Circle,07 to 09,102,Model A,1998,76.08,365000,Apr 2021
+751,Woodlands Circle,01 to 03,103,Model A,1998,75.83,372000,Apr 2021
+765,Woodlands Circle,10 to 12,90,Model A,2003,81.33,376000,Apr 2021
+774,Woodlands Cres,04 to 06,94,Model A2,1997,75.5,370000,Apr 2021
+776,Woodlands Cres,13 to 15,101,Model A,1998,75.83,380000,Apr 2021
+780E,Woodlands Cres,10 to 12,92,Model A,2015,93.25,450000,Apr 2021
+782E,Woodlands Cres,10 to 12,92,Model A,2015,93.25,425000,Apr 2021
+513,Woodlands Dr 14,04 to 06,107,Premium Apartment,1999,76.92,450888,Apr 2021
+514,Woodlands Dr 14,10 to 12,107,Premium Apartment,1999,77,435000,Apr 2021
+515,Woodlands Dr 14,07 to 09,107,Premium Apartment,1999,77,450000,Apr 2021
+537,Woodlands Dr 16,04 to 06,100,Model A,2000,78.42,413800,Apr 2021
+541,Woodlands Dr 16,04 to 06,101,Model A,2000,78.17,455000,Apr 2021
+542,Woodlands Dr 16,07 to 09,101,Model A,2000,78.08,400000,Apr 2021
+704,Woodlands Dr 40,01 to 03,99,Model A,1996,74.5,390000,Apr 2021
+604,Woodlands Dr 42,07 to 09,99,Model A2,1997,75.08,407000,Apr 2021
+605,Woodlands Dr 42,04 to 06,92,Model A2,1997,75.25,360000,Apr 2021
+549,Woodlands Dr 44,01 to 03,102,Model A,2000,78.17,390000,Apr 2021
+550,Woodlands Dr 44,01 to 03,100,Model A,2000,77.83,358000,Apr 2021
+886C,Woodlands Dr 50,13 to 15,92,Premium Apartment,2015,92.83,492000,Apr 2021
+887A,Woodlands Dr 50,13 to 15,92,Premium Apartment,2015,92.92,490000,Apr 2021
+889A,Woodlands Dr 50,16 to 18,93,Model A,2017,95.33,494000,Apr 2021
+889C,Woodlands Dr 50,13 to 15,93,Model A,2017,95.33,475000,Apr 2021
+889D,Woodlands Dr 50,01 to 03,93,Model A,2017,95.25,440000,Apr 2021
+890A,Woodlands Dr 50,10 to 12,93,Model A,2017,95.25,488000,Apr 2021
+890B,Woodlands Dr 50,16 to 18,93,Model A,2017,95.25,510000,Apr 2021
+891B,Woodlands Dr 50,04 to 06,100,Model A,1996,74.5,385000,Apr 2021
+891B,Woodlands Dr 50,07 to 09,100,Model A,1996,74.58,428000,Apr 2021
+899A,Woodlands Dr 50,07 to 09,99,Model A,1997,75.42,400000,Apr 2021
+899B,Woodlands Dr 50,01 to 03,97,Model A,1997,75.33,378000,Apr 2021
+556,Woodlands Dr 53,10 to 12,101,Model A,1999,77.67,380000,Apr 2021
+769,Woodlands Dr 60,04 to 06,103,Model A,1997,75.75,380000,Apr 2021
+786B,Woodlands Dr 60,10 to 12,90,Model A2,1997,75.33,388000,Apr 2021
+682B,Woodlands Dr 62,01 to 03,101,Premium Apartment,2000,77.83,392000,Apr 2021
+714,Woodlands Dr 70,07 to 09,100,Model A,1997,75.08,430000,Apr 2021
+686A,Woodlands Dr 73,10 to 12,93,Premium Apartment,2003,80.83,390000,Apr 2021
+688D,Woodlands Dr 75,16 to 18,90,Premium Apartment,2004,81.92,406000,Apr 2021
+661,Woodlands Ring Rd,01 to 03,100,Model A,1998,75.92,360000,Apr 2021
+171,Woodlands St 11,04 to 06,91,New Generation,1985,63.75,350000,Apr 2021
+155,Woodlands St 13,04 to 06,103,Model A,1985,62.92,370000,Apr 2021
+322,Woodlands St 32,01 to 03,86,Simplified,1994,72.08,360000,Apr 2021
+411,Woodlands St 41,01 to 03,93,New Generation,1995,73.33,355000,Apr 2021
+428,Woodlands St 41,04 to 06,84,Simplified,1996,74.33,340000,Apr 2021
+437,Woodlands St 41,01 to 03,104,Model A,1996,74.33,335000,Apr 2021
+801,Woodlands St 81,04 to 06,84,Simplified,1989,67.5,330000,Apr 2021
+843,Woodlands St 82,07 to 09,104,Model A,1994,72.25,355000,Apr 2021
+22,Marsiling Dr,10 to 12,92,New Generation,1977,55.33,293000,Mar 2021
+25,Marsiling Dr,10 to 12,91,New Generation,1977,55.25,300000,Mar 2021
+27,Marsiling Dr,10 to 12,91,New Generation,1977,55.67,308800,Mar 2021
+29,Marsiling Dr,04 to 06,97,New Generation,1979,57.67,290000,Mar 2021
+12A,Marsiling Lane,19 to 21,93,Model A,2013,91.33,440000,Mar 2021
+347,Woodlands Ave 3,04 to 06,84,Simplified,1988,66.25,360000,Mar 2021
+347,Woodlands Ave 3,10 to 12,84,Simplified,1988,66.17,388000,Mar 2021
+617,Woodlands Ave 4,07 to 09,91,Model A2,1998,76.08,358000,Mar 2021
+617,Woodlands Ave 4,10 to 12,91,Model A2,1998,76.08,372000,Mar 2021
+876,Woodlands Ave 9,07 to 09,105,Model A,1996,74.17,375000,Mar 2021
+877,Woodlands Ave 9,07 to 09,105,Model A,1996,74,360000,Mar 2021
+877,Woodlands Ave 9,04 to 06,105,Model A,1996,74.17,365000,Mar 2021
+728,Woodlands Circle,04 to 06,91,Model A2,1997,75.5,395000,Mar 2021
+731,Woodlands Circle,01 to 03,102,Model A,1997,75.5,380000,Mar 2021
+740,Woodlands Circle,10 to 12,103,Model A,1997,75.58,395000,Mar 2021
+764,Woodlands Circle,01 to 03,90,Model A,2003,81.33,358000,Mar 2021
+774,Woodlands Cres,13 to 15,91,Model A2,1997,75.58,370000,Mar 2021
+775,Woodlands Cres,10 to 12,93,Model A2,1997,75.67,365000,Mar 2021
+780E,Woodlands Cres,10 to 12,92,Model A,2015,93.42,430000,Mar 2021
+524,Woodlands Dr 14,07 to 09,102,Premium Apartment,2000,78.08,416000,Mar 2021
+530,Woodlands Dr 14,07 to 09,104,Premium Apartment,1999,77.42,420000,Mar 2021
+532,Woodlands Dr 14,10 to 12,105,Premium Apartment,1999,77.42,418000,Mar 2021
+577,Woodlands Dr 16,04 to 06,91,Model A,2000,78.75,400000,Mar 2021
+552,Woodlands Dr 44,04 to 06,101,Model A,2000,77.92,390000,Mar 2021
+886A,Woodlands Dr 50,16 to 18,95,Premium Apartment,2015,93.08,492000,Mar 2021
+887B,Woodlands Dr 50,10 to 12,92,Premium Apartment,2015,92.92,488000,Mar 2021
+889B,Woodlands Dr 50,07 to 09,93,Model A,2017,95.5,465000,Mar 2021
+889C,Woodlands Dr 50,01 to 03,93,Model A,2017,95.33,460000,Mar 2021
+889D,Woodlands Dr 50,07 to 09,93,Model A,2017,95.42,475000,Mar 2021
+889D,Woodlands Dr 50,07 to 09,93,Model A,2017,95.42,475000,Mar 2021
+890A,Woodlands Dr 50,13 to 15,93,Model A,2017,95.33,483888,Mar 2021
+890B,Woodlands Dr 50,07 to 09,93,Model A,2017,95.33,478000,Mar 2021
+896C,Woodlands Dr 50,01 to 03,99,Model A,1997,75.33,365000,Mar 2021
+624A,Woodlands Dr 52,04 to 06,100,Model A,1998,76.58,374000,Mar 2021
+554,Woodlands Dr 53,10 to 12,90,Model A2,1999,77.75,362000,Mar 2021
+771,Woodlands Dr 60,01 to 03,102,Model A,1997,75.75,350000,Mar 2021
+771,Woodlands Dr 60,01 to 03,102,Model A,1997,75.75,355000,Mar 2021
+773,Woodlands Dr 60,04 to 06,92,Model A2,1997,75.58,355000,Mar 2021
+773,Woodlands Dr 60,01 to 03,91,Model A2,1997,75.67,360000,Mar 2021
+778,Woodlands Dr 60,04 to 06,100,Model A,1997,75.75,380000,Mar 2021
+786B,Woodlands Dr 60,13 to 15,91,Model A2,1997,75.42,400000,Mar 2021
+786E,Woodlands Dr 60,07 to 09,92,Model A2,1997,75.42,380000,Mar 2021
+683D,Woodlands Dr 62,10 to 12,103,Premium Apartment,2000,78,432000,Mar 2021
+710,Woodlands Dr 70,10 to 12,101,Model A,1997,75,405088,Mar 2021
+717B,Woodlands Dr 70,07 to 09,88,Model A,2017,95.83,502000,Mar 2021
+688A,Woodlands Dr 75,16 to 18,90,Premium Apartment,2004,81.83,425000,Mar 2021
+690F,Woodlands Dr 75,01 to 03,90,Premium Apartment,2004,81.83,380000,Mar 2021
+609,Woodlands Ring Rd,10 to 12,102,Model A,1998,76.42,400000,Mar 2021
+649,Woodlands Ring Rd,04 to 06,100,Model A,1998,76.33,425000,Mar 2021
+661,Woodlands Ring Rd,04 to 06,101,Model A,1998,75.92,380000,Mar 2021
+661,Woodlands Ring Rd,10 to 12,101,Model A,1998,75.92,390000,Mar 2021
+663,Woodlands Ring Rd,01 to 03,101,Model A,1998,75.92,375000,Mar 2021
+108,Woodlands St 13,01 to 03,91,New Generation,1987,64.83,368000,Mar 2021
+113,Woodlands St 13,07 to 09,96,New Generation,1987,65,373000,Mar 2021
+152,Woodlands St 13,07 to 09,107,Model A,1985,63.17,378000,Mar 2021
+874,Woodlands St 82,04 to 06,111,Model A,1996,74.08,390000,Mar 2021
+854,Woodlands St 83,01 to 03,90,Simplified,1993,71.42,380000,Mar 2021
+860,Woodlands St 83,04 to 06,106,Model A,1996,74.17,380000,Mar 2021
+25,Marsiling Dr,13 to 15,91,New Generation,1977,55.42,290000,Feb 2021
+370,Woodlands Ave 1,01 to 03,104,Model A,1996,74.75,402000,Feb 2021
+613,Woodlands Ave 4,04 to 06,102,Model A,1998,76.58,371000,Feb 2021
+679,Woodlands Ave 6,04 to 06,101,Model A,1998,76.58,430000,Feb 2021
+724,Woodlands Ave 6,07 to 09,102,Model A,1997,75.67,390000,Feb 2021
+738,Woodlands Circle,10 to 12,102,Model A,1998,76,390000,Feb 2021
+743,Woodlands Circle,01 to 03,100,Model A2,1997,75.67,373000,Feb 2021
+766,Woodlands Circle,07 to 09,90,Model A,2003,81.5,360000,Feb 2021
+767,Woodlands Circle,04 to 06,91,Model A,2003,81.58,395000,Feb 2021
+780D,Woodlands Cres,13 to 15,92,Model A,2015,93.5,420000,Feb 2021
+780E,Woodlands Cres,13 to 15,92,Model A,2015,93.42,430000,Feb 2021
+787D,Woodlands Cres,01 to 03,100,Model A,1997,75.67,360001,Feb 2021
+532,Woodlands Dr 14,04 to 06,105,Premium Apartment,1999,77.5,415000,Feb 2021
+575,Woodlands Dr 16,10 to 12,86,Model A2,2000,78.92,370000,Feb 2021
+702,Woodlands Dr 40,01 to 03,99,Model A,1996,74.92,388000,Feb 2021
+703,Woodlands Dr 40,01 to 03,99,Model A,1996,74.75,370000,Feb 2021
+703,Woodlands Dr 40,07 to 09,100,Model A,1996,74.75,400000,Feb 2021
+602,Woodlands Dr 42,01 to 03,103,Model A,1997,75.17,400000,Feb 2021
+887A,Woodlands Dr 50,04 to 06,92,Premium Apartment,2015,93.08,420000,Feb 2021
+889A,Woodlands Dr 50,04 to 06,93,Model A,2017,95.5,462000,Feb 2021
+889A,Woodlands Dr 50,13 to 15,93,Model A,2017,95.42,480000,Feb 2021
+889C,Woodlands Dr 50,07 to 09,93,Model A,2017,95.42,480000,Feb 2021
+890A,Woodlands Dr 50,10 to 12,93,Model A,2017,95.42,458000,Feb 2021
+895C,Woodlands Dr 50,10 to 12,100,Model A,1997,75,391000,Feb 2021
+897C,Woodlands Dr 50,04 to 06,100,Model A,1997,75.5,365000,Feb 2021
+899B,Woodlands Dr 50,01 to 03,99,Model A,1997,75.5,390000,Feb 2021
+619,Woodlands Dr 52,01 to 03,95,Model A2,1998,76.58,330000,Feb 2021
+622,Woodlands Dr 52,01 to 03,102,Model A,1998,76.5,363000,Feb 2021
+554,Woodlands Dr 53,07 to 09,89,Model A2,1999,77.92,408000,Feb 2021
+778,Woodlands Dr 60,10 to 12,101,Model A,1997,75.92,360000,Feb 2021
+681C,Woodlands Dr 62,10 to 12,101,Premium Apartment,2000,78.08,420000,Feb 2021
+715,Woodlands Dr 70,10 to 12,101,Model A,1997,75.25,392000,Feb 2021
+686B,Woodlands Dr 73,10 to 12,94,Premium Apartment,2003,81,401888,Feb 2021
+689B,Woodlands Dr 75,07 to 09,90,Premium Apartment,2004,82.08,385000,Feb 2021
+628A,Woodlands Ring Rd,01 to 03,101,Model A,1998,76.75,380000,Feb 2021
+629,Woodlands Ring Rd,01 to 03,103,Model A,1998,76.58,365000,Feb 2021
+150,Woodlands St 13,01 to 03,97,New Generation,1986,64.67,345000,Feb 2021
+177,Woodlands St 13,04 to 06,91,New Generation,1986,64.08,350000,Feb 2021
+333,Woodlands St 32,01 to 03,104,Model A,1985,63.42,365000,Feb 2021
+421,Woodlands St 41,10 to 12,106,Model A,1996,74,378000,Feb 2021
+427,Woodlands St 41,01 to 03,100,Model A,1997,75.17,360000,Feb 2021
+428,Woodlands St 41,07 to 09,104,Model A,1996,74.58,375000,Feb 2021
+429,Woodlands St 41,10 to 12,84,Simplified,1996,74.5,340000,Feb 2021
+437,Woodlands St 41,10 to 12,84,Simplified,1996,74.58,330000,Feb 2021
+842,Woodlands St 82,04 to 06,84,Simplified,1994,72.33,331000,Feb 2021
+843,Woodlands St 82,01 to 03,84,Simplified,1994,72.42,280000,Feb 2021
+843,Woodlands St 82,10 to 12,84,Simplified,1994,72.42,343000,Feb 2021
+33,Marsiling Dr,04 to 06,98,New Generation,1978,56.08,300000,Jan 2021
+205,Marsiling Dr,13 to 15,91,New Generation,1980,58.83,330000,Jan 2021
+351,Woodlands Ave 1,04 to 06,106,Model A,1996,74.75,425000,Jan 2021
+570A,Woodlands Ave 1,10 to 12,92,Model A,2013,91.83,445000,Jan 2021
+570C,Woodlands Ave 1,07 to 09,92,Model A,2013,91.92,460000,Jan 2021
+612,Woodlands Ave 4,07 to 09,102,Model A,1998,76.67,360000,Jan 2021
+615,Woodlands Ave 4,10 to 12,102,Model A,1998,76.42,370000,Jan 2021
+367,Woodlands Ave 5,01 to 03,105,Model A,1996,74.5,413888,Jan 2021
+626,Woodlands Ave 6,10 to 12,90,Model A2,1998,76.67,340000,Jan 2021
+679,Woodlands Ave 6,10 to 12,101,Model A,1998,76.67,420000,Jan 2021
+722,Woodlands Ave 6,01 to 03,103,Model A,1997,75.5,373000,Jan 2021
+728,Woodlands Circle,10 to 12,91,Model A2,1997,75.67,380000,Jan 2021
+730,Woodlands Circle,10 to 12,91,Model A2,1997,75.75,360000,Jan 2021
+737,Woodlands Circle,01 to 03,100,Model A2,1998,76.17,360000,Jan 2021
+739,Woodlands Circle,04 to 06,102,Model A2,1997,75.67,388000,Jan 2021
+774,Woodlands Cres,04 to 06,93,Model A2,1997,75.83,345000,Jan 2021
+774,Woodlands Cres,13 to 15,93,Model A2,1997,75.83,370500,Jan 2021
+782A,Woodlands Cres,16 to 18,92,Model A,2015,93.5,420000,Jan 2021
+505,Woodlands Dr 14,07 to 09,101,Model A,1999,77.08,400800,Jan 2021
+510,Woodlands Dr 14,10 to 12,107,Premium Apartment,1999,77.25,400000,Jan 2021
+523,Woodlands Dr 14,10 to 12,105,Premium Apartment,2000,78.5,400000,Jan 2021
+542,Woodlands Dr 16,04 to 06,101,Model A,2000,78.42,387500,Jan 2021
+705,Woodlands Dr 40,07 to 09,102,Model A,1996,74.83,372000,Jan 2021
+604,Woodlands Dr 42,01 to 03,91,Model A2,1997,75.42,353000,Jan 2021
+886B,Woodlands Dr 50,16 to 18,95,Premium Apartment,2015,93.17,503000,Jan 2021
+889A,Woodlands Dr 50,04 to 06,93,Model A,2017,95.58,430000,Jan 2021
+889A,Woodlands Dr 50,07 to 09,93,Model A,2017,95.58,463000,Jan 2021
+889A,Woodlands Dr 50,13 to 15,93,Model A,2017,95.5,475000,Jan 2021
+889B,Woodlands Dr 50,04 to 06,93,Model A,2017,95.5,455000,Jan 2021
+889B,Woodlands Dr 50,07 to 09,93,Model A,2017,95.5,455000,Jan 2021
+889C,Woodlands Dr 50,01 to 03,93,Model A,2017,95.67,430000,Jan 2021
+889D,Woodlands Dr 50,07 to 09,93,Model A,2017,95.5,480000,Jan 2021
+896A,Woodlands Dr 50,04 to 06,99,Model A,1997,75.08,373000,Jan 2021
+714,Woodlands Dr 70,10 to 12,101,Model A,1997,75.33,400000,Jan 2021
+686B,Woodlands Dr 73,10 to 12,94,Premium Apartment,2003,81.08,395000,Jan 2021
+690E,Woodlands Dr 75,10 to 12,90,Premium Apartment,2004,82,387000,Jan 2021
+628B,Woodlands Ring Rd,07 to 09,102,Model A,1998,76.83,389000,Jan 2021
+171,Woodlands St 11,04 to 06,91,New Generation,1985,63.92,335000,Jan 2021
+104,Woodlands St 13,10 to 12,91,New Generation,1985,63.33,355000,Jan 2021
+148,Woodlands St 13,01 to 03,93,New Generation,1985,63.25,348000,Jan 2021
+152,Woodlands St 13,04 to 06,103,Model A,1985,63.25,369000,Jan 2021
+157,Woodlands St 13,01 to 03,103,Model A,1985,63.17,363800,Jan 2021
+301,Woodlands St 31,01 to 03,87,Simplified,1993,71.17,345000,Jan 2021
+428,Woodlands St 41,04 to 06,84,Simplified,1996,74.58,322000,Jan 2021
+428,Woodlands St 41,07 to 09,104,Model A,1996,74.58,361000,Jan 2021
+436,Woodlands St 41,04 to 06,84,Simplified,1996,74.58,300000,Jan 2021
+802,Woodlands St 81,07 to 09,84,Simplified,1989,67.5,370000,Jan 2021
+874,Woodlands St 82,01 to 03,111,Model A,1996,74.25,365000,Jan 2021
+874,Woodlands St 82,04 to 06,115,Model A,1996,74.17,385000,Jan 2021
+854,Woodlands St 83,04 to 06,84,Simplified,1993,71.67,348000,Jan 2021
+28,Marsiling Dr,13 to 15,97,New Generation,1977,55.42,298000,Dec 2020
+29,Marsiling Dr,04 to 06,98,New Generation,1979,57.92,290000,Dec 2020
+206,Marsiling Dr,10 to 12,93,New Generation,1981,59.42,310000,Dec 2020
+336,Woodlands Ave 1,07 to 09,83,Simplified,1985,63.92,378000,Dec 2020
+572B,Woodlands Ave 1,07 to 09,92,Model A,2013,91.92,460000,Dec 2020
+348,Woodlands Ave 3,07 to 09,84,Simplified,1988,66.83,340000,Dec 2020
+791,Woodlands Ave 6,01 to 03,100,Model A,1997,76,363000,Dec 2020
+735,Woodlands Circle,01 to 03,102,Model A,1998,76.17,360000,Dec 2020
+752,Woodlands Circle,01 to 03,102,Model A,1998,76.17,345000,Dec 2020
+753,Woodlands Circle,10 to 12,102,Model A,1997,76.17,380000,Dec 2020
+764A,Woodlands Circle,10 to 12,91,Model A,2003,81.67,360000,Dec 2020
+780E,Woodlands Cres,01 to 03,92,Model A,2015,93.58,381000,Dec 2020
+780E,Woodlands Cres,10 to 12,92,Model A,2015,93.75,410000,Dec 2020
+780E,Woodlands Cres,13 to 15,92,Model A,2015,93.67,435000,Dec 2020
+782C,Woodlands Cres,07 to 09,92,Model A,2015,93.58,420000,Dec 2020
+782D,Woodlands Cres,07 to 09,92,Model A,2015,93.5,430000,Dec 2020
+502A,Woodlands Dr 14,07 to 09,101,Model A,1998,77,395000,Dec 2020
+511,Woodlands Dr 14,10 to 12,107,Premium Apartment,1999,77.33,460000,Dec 2020
+546,Woodlands Dr 16,07 to 09,101,Model A,2000,78.83,390000,Dec 2020
+547,Woodlands Dr 16,01 to 03,101,Model A,2000,78.83,375000,Dec 2020
+703,Woodlands Dr 40,07 to 09,102,Model A,1996,74.92,404000,Dec 2020
+705,Woodlands Dr 40,01 to 03,99,Model A,1996,74.83,371000,Dec 2020
+601,Woodlands Dr 42,01 to 03,91,Model A2,1997,75.33,348000,Dec 2020
+886B,Woodlands Dr 50,01 to 03,92,Premium Apartment,2015,93.25,398000,Dec 2020
+886B,Woodlands Dr 50,10 to 12,92,Premium Apartment,2015,93.25,453000,Dec 2020
+886C,Woodlands Dr 50,13 to 15,92,Premium Apartment,2015,93.25,471000,Dec 2020
+889A,Woodlands Dr 50,07 to 09,93,Model A,2017,95.67,476000,Dec 2020
+889A,Woodlands Dr 50,13 to 15,93,Model A,2017,95.58,481000,Dec 2020
+889B,Woodlands Dr 50,04 to 06,93,Model A,2017,95.67,468000,Dec 2020
+897B,Woodlands Dr 50,07 to 09,100,Model A,1997,75.67,370000,Dec 2020
+786B,Woodlands Dr 60,07 to 09,90,Model A2,1997,75.67,378000,Dec 2020
+686B,Woodlands Dr 73,13 to 15,93,Premium Apartment,2003,81.25,390000,Dec 2020
+687B,Woodlands Dr 75,01 to 03,95,Premium Apartment,2003,81.17,362000,Dec 2020
+688B,Woodlands Dr 75,16 to 18,90,Premium Apartment,2004,82.33,393000,Dec 2020
+688F,Woodlands Dr 75,10 to 12,90,Premium Apartment,2004,82.33,390000,Dec 2020
+631,Woodlands Ring Rd,10 to 12,101,Model A,1998,76.75,385000,Dec 2020
+663,Woodlands Ring Rd,07 to 09,101,Model A,1998,76.25,388000,Dec 2020
+156,Woodlands St 13,04 to 06,91,New Generation,1986,64.83,347000,Dec 2020
+162,Woodlands St 13,07 to 09,98,New Generation,1985,63.58,385000,Dec 2020
+306,Woodlands St 31,01 to 03,85,Simplified,1993,71.25,292000,Dec 2020
+310,Woodlands St 31,04 to 06,103,Model A,1993,71.83,385000,Dec 2020
+312,Woodlands St 31,01 to 03,88,Simplified,1989,67.83,320000,Dec 2020
+845,Woodlands St 82,10 to 12,84,Simplified,1994,72.58,335000,Dec 2020
+860,Woodlands St 83,10 to 12,106,Model A,1996,74.33,385000,Dec 2020
+7,Marsiling Dr,04 to 06,88,Improved,1976,54.25,298000,Nov 2020
+24,Marsiling Dr,01 to 03,92,New Generation,1977,55.58,260000,Nov 2020
+205,Marsiling Dr,10 to 12,91,New Generation,1980,59,267000,Nov 2020
+351,Woodlands Ave 1,04 to 06,106,Model A,1996,74.92,370000,Nov 2020
+355,Woodlands Ave 1,10 to 12,105,Model A,1996,74.92,410000,Nov 2020
+571A,Woodlands Ave 1,07 to 09,92,Model A,2013,92.08,458000,Nov 2020
+571A,Woodlands Ave 1,07 to 09,92,Model A,2013,92.08,470000,Nov 2020
+614,Woodlands Ave 4,01 to 03,102,Model A,1998,76.83,335000,Nov 2020
+757,Woodlands Ave 4,04 to 06,102,Model A,1997,76.17,380188,Nov 2020
+759,Woodlands Ave 6,01 to 03,103,Model A,1998,76.5,355000,Nov 2020
+762,Woodlands Ave 6,01 to 03,102,Model A,1998,76.33,375000,Nov 2020
+876,Woodlands Ave 9,07 to 09,105,Model A,1996,74.58,353000,Nov 2020
+721,Woodlands Circle,07 to 09,103,Model A,1997,75.92,360000,Nov 2020
+734,Woodlands Circle,07 to 09,103,Model A,1998,76.25,395000,Nov 2020
+737,Woodlands Circle,01 to 03,100,Model A2,1998,76.42,342000,Nov 2020
+739,Woodlands Circle,01 to 03,91,Model A2,1997,75.83,325000,Nov 2020
+743,Woodlands Circle,01 to 03,91,Model A2,1997,76,300000,Nov 2020
+751,Woodlands Circle,01 to 03,103,Model A,1998,76.25,370000,Nov 2020
+753,Woodlands Circle,10 to 12,103,Model A,1997,76.17,360000,Nov 2020
+777,Woodlands Cres,04 to 06,103,Model A,1998,76.25,355000,Nov 2020
+780E,Woodlands Cres,13 to 15,92,Model A,2015,93.67,430000,Nov 2020
+782A,Woodlands Cres,04 to 06,92,Model A,2015,93.67,380000,Nov 2020
+519,Woodlands Dr 14,01 to 03,104,Premium Apartment,2000,78.83,350000,Nov 2020
+520,Woodlands Dr 14,01 to 03,105,Premium Apartment,2000,78.92,372000,Nov 2020
+575,Woodlands Dr 16,10 to 12,86,Model A2,2000,79.08,368000,Nov 2020
+704,Woodlands Dr 40,01 to 03,102,Model A,1996,75,370000,Nov 2020
+889C,Woodlands Dr 50,04 to 06,93,Model A,2017,95.67,420000,Nov 2020
+895A,Woodlands Dr 50,04 to 06,99,Model A,1997,75.25,367000,Nov 2020
+554,Woodlands Dr 53,07 to 09,89,Model A2,1999,78.17,305000,Nov 2020
+769,Woodlands Dr 60,07 to 09,102,Model A,1997,76.17,375000,Nov 2020
+689B,Woodlands Dr 75,10 to 12,90,Premium Apartment,2004,82.33,375000,Nov 2020
+690F,Woodlands Dr 75,04 to 06,90,Premium Apartment,2004,82.25,365000,Nov 2020
+634,Woodlands Ring Rd,10 to 12,102,Model A,1999,77.83,375000,Nov 2020
+639,Woodlands Ring Rd,01 to 03,101,Model A,1999,77.75,345000,Nov 2020
+653,Woodlands Ring Rd,04 to 06,101,Model A,1998,76.42,382000,Nov 2020
+663,Woodlands Ring Rd,01 to 03,101,Model A,1998,76.33,340000,Nov 2020
+665,Woodlands Ring Rd,04 to 06,86,Model A2,2000,79,350000,Nov 2020
+668,Woodlands Ring Rd,04 to 06,91,Model A,2000,78.92,300000,Nov 2020
+168,Woodlands St 11,01 to 03,94,New Generation,1986,65.08,320000,Nov 2020
+318,Woodlands St 31,10 to 12,119,Model A,1993,72.17,400000,Nov 2020
+437,Woodlands St 41,04 to 06,104,Model A,1996,74.83,340000,Nov 2020
+810,Woodlands St 81,10 to 12,106,Model A,1995,74.08,375000,Nov 2020
+871,Woodlands St 81,04 to 06,111,Model A,1996,74.5,385000,Nov 2020
+33,Marsiling Dr,01 to 03,98,New Generation,1978,55.25,350000,Nov 2021
+618,Woodlands Ave 4,04 to 06,91,Model A2,1998,75.75,395000,Nov 2021
+741,Woodlands Circle,07 to 09,102,Model A,1997,74.83,450000,Nov 2021
+780C,Woodlands Cres,07 to 09,92,Model A,2015,92.83,488000,Nov 2021
+523,Woodlands Dr 14,10 to 12,104,Premium Apartment,2000,77.67,448000,Nov 2021
+588,Woodlands Dr 16,04 to 06,91,Model A,2001,78.5,473000,Nov 2021
+889D,Woodlands Dr 50,04 to 06,93,Model A,2017,94.75,500000,Nov 2021
+890B,Woodlands Dr 50,04 to 06,93,Model A,2017,94.75,508000,Nov 2021
+554,Woodlands Dr 53,07 to 09,90,Model A2,1999,77.17,405000,Nov 2021
+711,Woodlands Dr 70,07 to 09,101,Model A,1997,74.42,435888,Nov 2021
+688F,Woodlands Dr 75,13 to 15,90,Premium Apartment,2004,81.5,438000,Nov 2021
+437,Woodlands St 41,01 to 03,104,Model A,1996,73.83,400000,Nov 2021
+801,Woodlands St 81,04 to 06,84,Simplified,1989,67,373000,Nov 2021
+809,Woodlands St 81,04 to 06,106,Model A,1995,73.08,420000,Nov 2021
+822,Woodlands St 82,01 to 03,111,Model A,1996,73.42,455000,Nov 2021
+856,Woodlands St 83,10 to 12,106,Model A,1996,73.42,425000,Nov 2021
+856,Woodlands St 83,07 to 09,106,Model A,1996,73.42,445000,Nov 2021
+213,Marsiling Cres,01 to 03,104,Model A,1982,60.08,361000,Oct 2021
+29,Marsiling Dr,13 to 15,97,New Generation,1979,57.08,360000,Oct 2021
+33,Marsiling Dr,07 to 09,98,New Generation,1978,55.33,342000,Oct 2021
+201,Marsiling Dr,04 to 06,91,New Generation,1980,58,340000,Oct 2021
+337,Woodlands Ave 1,07 to 09,83,Simplified,1985,63.17,382000,Oct 2021
+338,Woodlands Ave 1,04 to 06,84,Simplified,1989,67,380000,Oct 2021
+352,Woodlands Ave 1,10 to 12,105,Model A,1996,73.83,458000,Oct 2021
+371,Woodlands Ave 1,04 to 06,105,Model A,1996,74.17,458000,Oct 2021
+570C,Woodlands Ave 1,07 to 09,92,Model A,2013,91.17,480000,Oct 2021
+615,Woodlands Ave 4,07 to 09,102,Model A,1998,75.83,395000,Oct 2021
+755,Woodlands Ave 4,10 to 12,102,Model A,1997,75.25,425000,Oct 2021
+756,Woodlands Ave 4,10 to 12,101,Model A,1998,75.42,422000,Oct 2021
+720,Woodlands Ave 6,10 to 12,100,Model A,1997,74.58,485000,Oct 2021
+729,Woodlands Circle,04 to 06,101,Model A2,1997,75.17,430000,Oct 2021
+731,Woodlands Circle,04 to 06,102,Model A,1997,75,410000,Oct 2021
+766,Woodlands Circle,04 to 06,91,Model A,2003,80.83,405000,Oct 2021
+780D,Woodlands Cres,13 to 15,92,Model A,2015,92.83,485000,Oct 2021
+787B,Woodlands Cres,04 to 06,101,Model A,1997,75.08,415000,Oct 2021
+787C,Woodlands Cres,10 to 12,100,Model A,1997,75,438000,Oct 2021
+531,Woodlands Dr 14,04 to 06,105,Premium Apartment,1999,76.92,441000,Oct 2021
+536,Woodlands Dr 14,01 to 03,106,Premium Apartment,1999,76.92,444444,Oct 2021
+577,Woodlands Dr 16,01 to 03,91,Model A,2000,78.17,400000,Oct 2021
+703,Woodlands Dr 40,01 to 03,100,Model A,1996,74.08,420000,Oct 2021
+886A,Woodlands Dr 50,13 to 15,92,Premium Apartment,2015,92.42,495000,Oct 2021
+887B,Woodlands Dr 50,07 to 09,92,Premium Apartment,2015,92.42,528000,Oct 2021
+889C,Woodlands Dr 50,13 to 15,93,Model A,2017,94.83,538888,Oct 2021
+889D,Woodlands Dr 50,01 to 03,93,Model A,2017,94.83,465000,Oct 2021
+891B,Woodlands Dr 50,01 to 03,100,Model A,1996,74.08,415000,Oct 2021
+894A,Woodlands Dr 50,01 to 03,100,Model A,1996,73.92,420000,Oct 2021
+895A,Woodlands Dr 50,01 to 03,99,Model A,1997,74.33,438000,Oct 2021
+899A,Woodlands Dr 50,04 to 06,99,Model A,1997,75,415000,Oct 2021
+557,Woodlands Dr 53,04 to 06,100,Model A,1999,77.17,412000,Oct 2021
+771,Woodlands Dr 60,04 to 06,101,Model A,1997,75.25,420000,Oct 2021
+772,Woodlands Dr 60,04 to 06,102,Model A,1997,75.17,420000,Oct 2021
+786D,Woodlands Dr 60,07 to 09,100,Model A,1997,74.92,428000,Oct 2021
+786E,Woodlands Dr 60,13 to 15,92,Model A2,1997,74.83,432000,Oct 2021
+682A,Woodlands Dr 62,04 to 06,105,Premium Apartment,2000,77.42,450000,Oct 2021
+795,Woodlands Dr 72,13 to 15,101,Model A,1998,75.33,445000,Oct 2021
+688B,Woodlands Dr 75,07 to 09,90,Premium Apartment,2004,81.5,428000,Oct 2021
+634,Woodlands Ring Rd,07 to 09,101,Model A,1999,76.83,426000,Oct 2021
+651,Woodlands Ring Rd,04 to 06,100,Model A,1998,75.75,460888,Oct 2021
+171,Woodlands St 11,07 to 09,93,New Generation,1985,63.25,390000,Oct 2021
+156,Woodlands St 13,01 to 03,91,New Generation,1986,64,400000,Oct 2021
+313,Woodlands St 31,01 to 03,103,Model A,1993,71,415000,Oct 2021
+315,Woodlands St 31,01 to 03,85,Simplified,1989,67.17,400000,Oct 2021
+317,Woodlands St 31,07 to 09,103,Model A,1993,70.5,435000,Oct 2021
+319,Woodlands St 31,10 to 12,107,Model A,1993,70.58,420000,Oct 2021
+335,Woodlands St 32,07 to 09,83,Simplified,1985,63.17,395000,Oct 2021
+418,Woodlands St 41,04 to 06,106,Model A,1996,73.42,402000,Oct 2021
+425,Woodlands St 41,04 to 06,100,Model A,1997,74.5,410000,Oct 2021
+429,Woodlands St 41,07 to 09,84,Simplified,1996,73.92,360000,Oct 2021
+429,Woodlands St 41,07 to 09,84,Simplified,1996,73.92,360000,Oct 2021
+810,Woodlands St 81,10 to 12,106,Model A,1995,73.08,458000,Oct 2021
+874,Woodlands St 82,04 to 06,115,Model A,1996,73.5,420000,Oct 2021
+853,Woodlands St 83,04 to 06,104,Model A,1993,70.83,420000,Oct 2021
+22,Marsiling Dr,01 to 03,92,New Generation,1977,54.83,323000,Sep 2021
+33,Marsiling Dr,10 to 12,98,New Generation,1978,55.42,340000,Sep 2021
+203,Marsiling Dr,04 to 06,93,New Generation,1981,59.25,335000,Sep 2021
+12A,Marsiling Lane,10 to 12,93,Model A,2013,90.83,445000,Sep 2021
+309,Woodlands Ave 1,04 to 06,85,Simplified,1989,66.92,376000,Sep 2021
+571A,Woodlands Ave 1,10 to 12,92,Model A,2013,91.25,495000,Sep 2021
+720,Woodlands Ave 6,04 to 06,100,Model A,1997,74.75,458000,Sep 2021
+722,Woodlands Ave 6,07 to 09,103,Model A,1997,74.92,425000,Sep 2021
+759,Woodlands Ave 6,10 to 12,103,Model A,1998,75.67,417500,Sep 2021
+738,Woodlands Circle,10 to 12,103,Model A,1998,75.5,425000,Sep 2021
+738,Woodlands Circle,04 to 06,101,Model A,1998,75.5,430000,Sep 2021
+752,Woodlands Circle,04 to 06,102,Model A,1998,75.42,390000,Sep 2021
+775,Woodlands Cres,10 to 12,93,Model A2,1997,75.17,405000,Sep 2021
+780D,Woodlands Cres,13 to 15,92,Model A,2015,92.92,465000,Sep 2021
+780D,Woodlands Cres,16 to 18,92,Model A,2015,92.92,472000,Sep 2021
+780E,Woodlands Cres,01 to 03,92,Model A,2015,92.92,425000,Sep 2021
+501,Woodlands Dr 14,01 to 03,101,Model A,1998,76.33,425000,Sep 2021
+514,Woodlands Dr 14,10 to 12,107,Premium Apartment,1999,76.58,463888,Sep 2021
+527,Woodlands Dr 14,04 to 06,106,Premium Apartment,1999,77,429000,Sep 2021
+545,Woodlands Dr 16,07 to 09,101,Model A,2000,78.08,470000,Sep 2021
+602,Woodlands Dr 42,07 to 09,102,Model A,1997,74.67,445000,Sep 2021
+603,Woodlands Dr 42,07 to 09,100,Model A,1997,74.67,440000,Sep 2021
+886A,Woodlands Dr 50,07 to 09,92,Premium Apartment,2015,92.5,493000,Sep 2021
+886A,Woodlands Dr 50,10 to 12,92,Premium Apartment,2015,92.5,508000,Sep 2021
+886C,Woodlands Dr 50,01 to 03,92,Premium Apartment,2015,92.5,455000,Sep 2021
+887A,Woodlands Dr 50,13 to 15,95,Premium Apartment,2015,92.5,538500,Sep 2021
+890A,Woodlands Dr 50,10 to 12,93,Model A,2017,94.83,525000,Sep 2021
+891B,Woodlands Dr 50,01 to 03,100,Model A,1996,74.25,405000,Sep 2021
+894C,Woodlands Dr 50,01 to 03,100,Model A,1996,74,430000,Sep 2021
+894C,Woodlands Dr 50,04 to 06,100,Model A,1996,74,440000,Sep 2021
+898A,Woodlands Dr 50,07 to 09,100,Model A,1997,74.92,420000,Sep 2021
+899A,Woodlands Dr 50,04 to 06,100,Model A,1997,75.08,405000,Sep 2021
+619,Woodlands Dr 52,04 to 06,96,Model A2,1998,76,400000,Sep 2021
+620,Woodlands Dr 52,10 to 12,91,Model A2,1998,75.92,383000,Sep 2021
+769,Woodlands Dr 60,07 to 09,101,Model A,1997,75.33,393000,Sep 2021
+771,Woodlands Dr 60,01 to 03,103,Model A,1997,75.33,390000,Sep 2021
+778,Woodlands Dr 60,04 to 06,100,Model A,1997,75.33,410000,Sep 2021
+786E,Woodlands Dr 60,13 to 15,92,Model A2,1997,75,406500,Sep 2021
+717,Woodlands Dr 70,01 to 03,100,Model A,1997,74.83,420000,Sep 2021
+607,Woodlands Ring Rd,04 to 06,102,Model A,1998,75.67,405000,Sep 2021
+611,Woodlands Ring Rd,07 to 09,102,Model A,1998,75.58,420000,Sep 2021
+638,Woodlands Ring Rd,01 to 03,102,Model A,1999,77,400000,Sep 2021
+653,Woodlands Ring Rd,10 to 12,101,Model A,1998,75.58,455000,Sep 2021
+657,Woodlands Ring Rd,10 to 12,101,Model A,1998,75.5,428000,Sep 2021
+657,Woodlands Ring Rd,07 to 09,102,Model A,1998,75.5,438888,Sep 2021
+157,Woodlands St 13,04 to 06,103,Model A,1985,62.58,410000,Sep 2021
+159,Woodlands St 13,04 to 06,103,Model A,1990,67.67,438000,Sep 2021
+421,Woodlands St 41,07 to 09,106,Model A,1996,73.5,420000,Sep 2021
+436,Woodlands St 41,07 to 09,104,Model A,1996,74.08,410000,Sep 2021
+436,Woodlands St 41,07 to 09,104,Model A,1996,73.92,412000,Sep 2021
+437,Woodlands St 41,04 to 06,84,Simplified,1996,74.08,340000,Sep 2021
+802,Woodlands St 81,07 to 09,84,Simplified,1989,66.92,380000,Sep 2021
+839,Woodlands St 82,07 to 09,105,Model A,1996,74,450000,Sep 2021
+842,Woodlands St 82,04 to 06,104,Model A,1994,71.83,418000,Sep 2021
+845,Woodlands St 82,04 to 06,84,Simplified,1994,71.83,371000,Sep 2021
+874,Woodlands St 82,01 to 03,111,Model A,1996,73.58,405000,Sep 2021
+874,Woodlands St 82,07 to 09,111,Model A,1996,73.58,410000,Sep 2021
+853,Woodlands St 83,04 to 06,84,Simplified,1993,71,383000,Sep 2021
+5A,Marsiling Dr,07 to 09,90,Model A,2002,79.75,350000,Aug 2021
+8,Marsiling Dr,13 to 15,88,Improved,1976,53.5,348000,Aug 2021
+205,Marsiling Dr,10 to 12,91,New Generation,1980,58.25,265000,Aug 2021
+12A,Marsiling Lane,04 to 06,93,Model A,2013,90.92,425000,Aug 2021
+12B,Marsiling Lane,10 to 12,93,Model A,2013,90.92,450000,Aug 2021
+12C,Marsiling Lane,04 to 06,93,Model A,2013,90.83,439000,Aug 2021
+352,Woodlands Ave 1,01 to 03,105,Model A,1996,74,420000,Aug 2021
+571B,Woodlands Ave 1,07 to 09,92,Model A,2013,91.25,480000,Aug 2021
+347,Woodlands Ave 3,10 to 12,84,Simplified,1988,65.75,406000,Aug 2021
+618,Woodlands Ave 4,10 to 12,92,Model A2,1998,75.92,400000,Aug 2021
+627,Woodlands Ave 6,10 to 12,90,Model A2,1998,76.08,378000,Aug 2021
+627,Woodlands Ave 6,07 to 09,90,Model A2,1998,76.08,398000,Aug 2021
+723,Woodlands Ave 6,07 to 09,102,Model A,1997,75,422000,Aug 2021
+724,Woodlands Ave 6,04 to 06,102,Model A,1997,75.08,430000,Aug 2021
+762,Woodlands Ave 6,04 to 06,102,Model A,1998,75.58,440000,Aug 2021
+763,Woodlands Ave 6,04 to 06,102,Model A,1998,75.75,399800,Aug 2021
+730,Woodlands Circle,07 to 09,101,Model A2,1997,75.17,425000,Aug 2021
+738,Woodlands Circle,04 to 06,103,Model A,1998,75.58,405000,Aug 2021
+742,Woodlands Circle,10 to 12,102,Model A,1997,75.17,420000,Aug 2021
+742,Woodlands Circle,07 to 09,103,Model A,1997,75.08,422500,Aug 2021
+746,Woodlands Circle,04 to 06,103,Model A,1998,75.5,395000,Aug 2021
+766,Woodlands Circle,01 to 03,91,Model A,2003,81,382000,Aug 2021
+780E,Woodlands Cres,10 to 12,92,Model A,2015,93,460000,Aug 2021
+782C,Woodlands Cres,07 to 09,92,Model A,2015,92.92,445000,Aug 2021
+782D,Woodlands Cres,04 to 06,92,Model A,2015,92.92,420000,Aug 2021
+787C,Woodlands Cres,01 to 03,100,Model A,1997,75.17,400000,Aug 2021
+514,Woodlands Dr 14,01 to 03,105,Premium Apartment,1999,76.67,450888,Aug 2021
+531,Woodlands Dr 14,01 to 03,106,Premium Apartment,1999,77.08,420000,Aug 2021
+540,Woodlands Dr 16,01 to 03,100,Model A,2000,78,430000,Aug 2021
+886A,Woodlands Dr 50,01 to 03,92,Premium Apartment,2015,92.58,455000,Aug 2021
+886B,Woodlands Dr 50,10 to 12,92,Premium Apartment,2015,92.58,496000,Aug 2021
+886C,Woodlands Dr 50,10 to 12,92,Premium Apartment,2015,92.58,475000,Aug 2021
+886C,Woodlands Dr 50,13 to 15,95,Premium Apartment,2015,92.58,540000,Aug 2021
+887B,Woodlands Dr 50,04 to 06,92,Premium Apartment,2015,92.58,520000,Aug 2021
+889A,Woodlands Dr 50,10 to 12,93,Model A,2017,95,531000,Aug 2021
+889C,Woodlands Dr 50,10 to 12,93,Model A,2017,95,500000,Aug 2021
+889D,Woodlands Dr 50,04 to 06,93,Model A,2017,95,505000,Aug 2021
+889D,Woodlands Dr 50,16 to 18,93,Model A,2017,94.92,560000,Aug 2021
+890A,Woodlands Dr 50,01 to 03,93,Model A,2017,95,468000,Aug 2021
+890A,Woodlands Dr 50,13 to 15,93,Model A,2017,95,510000,Aug 2021
+890A,Woodlands Dr 50,07 to 09,93,Model A,2017,95,510000,Aug 2021
+897B,Woodlands Dr 50,07 to 09,99,Model A,1997,74.92,406888,Aug 2021
+899C,Woodlands Dr 50,04 to 06,99,Model A,1997,75.17,425000,Aug 2021
+554,Woodlands Dr 53,10 to 12,89,Model A2,1999,77.42,400000,Aug 2021
+554,Woodlands Dr 53,10 to 12,95,Model A2,1999,77.42,400000,Aug 2021
+773,Woodlands Dr 60,10 to 12,93,Model A2,1997,75.25,390000,Aug 2021
+778,Woodlands Dr 60,10 to 12,100,Model A,1997,75.42,420000,Aug 2021
+682B,Woodlands Dr 62,01 to 03,102,Premium Apartment,2000,77.58,400000,Aug 2021
+683D,Woodlands Dr 62,10 to 12,103,Premium Apartment,2000,77.58,458000,Aug 2021
+684C,Woodlands Dr 62,04 to 06,103,Premium Apartment,2000,77.58,430000,Aug 2021
+717A,Woodlands Dr 70,07 to 09,88,Model A,2017,95.42,500000,Aug 2021
+684A,Woodlands Dr 73,10 to 12,105,Premium Apartment,2000,77.67,440000,Aug 2021
+608,Woodlands Ring Rd,07 to 09,102,Model A,1998,75.92,443000,Aug 2021
+640,Woodlands Ring Rd,10 to 12,102,Model A,1999,77,430000,Aug 2021
+649,Woodlands Ring Rd,10 to 12,100,Model A,1998,75.92,460000,Aug 2021
+666,Woodlands Ring Rd,01 to 03,86,Model A2,2000,78.17,385000,Aug 2021
+104,Woodlands St 13,07 to 09,91,New Generation,1985,62.75,395000,Aug 2021
+310,Woodlands St 31,07 to 09,103,Model A,1993,71.17,435000,Aug 2021
+335,Woodlands St 32,01 to 03,104,Model A,1985,63.33,390000,Aug 2021
+401,Woodlands St 41,04 to 06,106,Model A,1995,73.42,388000,Aug 2021
+401,Woodlands St 41,07 to 09,106,Model A,1995,73.42,415000,Aug 2021
+424,Woodlands St 41,07 to 09,100,Model A,1997,74.75,413000,Aug 2021
+426,Woodlands St 41,10 to 12,100,Model A,1997,74.75,395000,Aug 2021
+839,Woodlands St 82,10 to 12,106,Model A,1996,74.08,420000,Aug 2021
+842,Woodlands St 82,01 to 03,104,Model A,1994,71.92,380000,Aug 2021
+842,Woodlands St 82,04 to 06,104,Model A,1994,71.92,395000,Aug 2021
+874,Woodlands St 82,07 to 09,111,Model A,1996,73.67,455000,Aug 2021
+831,Woodlands St 83,07 to 09,83,Simplified,1990,67.67,367000,Aug 2021
+25,Marsiling Dr,04 to 06,92,New Generation,1977,55,305000,Jul 2021
+27,Marsiling Dr,04 to 06,92,New Generation,1977,55.42,320000,Jul 2021
+201,Marsiling Dr,07 to 09,91,New Generation,1980,58.25,338000,Jul 2021
+12B,Marsiling Lane,07 to 09,93,Model A,2013,91,378000,Jul 2021
+570C,Woodlands Ave 1,01 to 03,92,Model A,2013,91.42,435000,Jul 2021
+570C,Woodlands Ave 1,01 to 03,92,Model A,2013,91.42,440000,Jul 2021
+570C,Woodlands Ave 1,07 to 09,92,Model A,2013,91.42,455000,Jul 2021
+571A,Woodlands Ave 1,01 to 03,92,Model A,2013,91.42,440000,Jul 2021
+363,Woodlands Ave 5,04 to 06,102,Model A,1996,74.42,460000,Jul 2021
+759,Woodlands Ave 6,04 to 06,102,Model A,1998,75.83,385000,Jul 2021
+760,Woodlands Ave 6,04 to 06,102,Model A,1998,75.67,395000,Jul 2021
+727,Woodlands Circle,04 to 06,102,Model A,1997,74.92,407000,Jul 2021
+735,Woodlands Circle,10 to 12,101,Model A,1998,75.67,408000,Jul 2021
+737,Woodlands Circle,01 to 03,91,Model A2,1998,75.67,390000,Jul 2021
+738,Woodlands Circle,10 to 12,103,Model A,1998,75.67,420000,Jul 2021
+739,Woodlands Circle,04 to 06,91,Model A2,1997,75.17,390000,Jul 2021
+766,Woodlands Circle,07 to 09,91,Model A,2003,81.08,395000,Jul 2021
+780C,Woodlands Cres,01 to 03,92,Model A,2015,93,425000,Jul 2021
+780C,Woodlands Cres,07 to 09,92,Model A,2015,93.08,435000,Jul 2021
+502A,Woodlands Dr 14,04 to 06,102,Model A,1998,76.42,410000,Jul 2021
+520,Woodlands Dr 14,07 to 09,104,Premium Apartment,2000,78.25,450000,Jul 2021
+523,Woodlands Dr 14,01 to 03,102,Premium Apartment,2000,78,385000,Jul 2021
+530,Woodlands Dr 14,01 to 03,104,Premium Apartment,1999,77.17,423888,Jul 2021
+537,Woodlands Dr 16,01 to 03,100,Model A,2000,78.17,430000,Jul 2021
+539,Woodlands Dr 16,01 to 03,101,Model A,2000,78.17,398000,Jul 2021
+577,Woodlands Dr 16,10 to 12,91,Model A,2000,78.42,410000,Jul 2021
+588,Woodlands Dr 16,07 to 09,91,Model A,2001,78.83,435000,Jul 2021
+605,Woodlands Dr 42,04 to 06,92,Model A2,1997,74.83,390000,Jul 2021
+551,Woodlands Dr 44,10 to 12,100,Model A,2000,77.67,400000,Jul 2021
+886C,Woodlands Dr 50,07 to 09,92,Premium Apartment,2015,92.58,480000,Jul 2021
+887A,Woodlands Dr 50,10 to 12,92,Premium Apartment,2015,92.67,470000,Jul 2021
+887B,Woodlands Dr 50,10 to 12,92,Premium Apartment,2015,92.67,510000,Jul 2021
+889A,Woodlands Dr 50,10 to 12,93,Model A,2017,95.08,498000,Jul 2021
+889B,Woodlands Dr 50,01 to 03,93,Model A,2017,95.08,472000,Jul 2021
+890B,Woodlands Dr 50,13 to 15,93,Model A,2017,95.17,515000,Jul 2021
+894A,Woodlands Dr 50,04 to 06,100,Model A,1996,74.17,430000,Jul 2021
+625A,Woodlands Dr 52,04 to 06,101,Model A,1998,76.33,419000,Jul 2021
+770,Woodlands Dr 60,13 to 15,101,Model A,1997,75.42,395000,Jul 2021
+786B,Woodlands Dr 60,01 to 03,90,Model A2,1997,75.17,372000,Jul 2021
+786B,Woodlands Dr 60,01 to 03,92,Model A2,1997,75.17,380000,Jul 2021
+717B,Woodlands Dr 70,04 to 06,88,Model A,2017,95.5,513000,Jul 2021
+717B,Woodlands Dr 70,13 to 15,88,Model A,2017,95.5,550000,Jul 2021
+684A,Woodlands Dr 73,13 to 15,103,Premium Apartment,2000,77.75,433000,Jul 2021
+687B,Woodlands Dr 75,13 to 15,93,Premium Apartment,2003,80.67,430000,Jul 2021
+689D,Woodlands Dr 75,04 to 06,90,Premium Apartment,2004,81.67,413000,Jul 2021
+690B,Woodlands Dr 75,04 to 06,90,Premium Apartment,2004,81.58,410000,Jul 2021
+611,Woodlands Ring Rd,01 to 03,101,Model A,1998,75.75,385000,Jul 2021
+611,Woodlands Ring Rd,07 to 09,102,Model A,1998,75.75,405000,Jul 2021
+644,Woodlands Ring Rd,07 to 09,101,Model A,1998,76.08,410888,Jul 2021
+660,Woodlands Ring Rd,07 to 09,100,Model A,1998,75.67,410000,Jul 2021
+665,Woodlands Ring Rd,07 to 09,86,Model A2,2000,78.25,380000,Jul 2021
+668,Woodlands Ring Rd,07 to 09,91,Model A,2000,78.25,460000,Jul 2021
+105,Woodlands St 13,01 to 03,92,New Generation,1985,62.75,370000,Jul 2021
+108,Woodlands St 13,07 to 09,91,New Generation,1987,64.58,392000,Jul 2021
+110,Woodlands St 13,13 to 15,96,New Generation,1987,64.58,390000,Jul 2021
+113,Woodlands St 13,07 to 09,91,New Generation,1987,64.75,438000,Jul 2021
+156,Woodlands St 13,01 to 03,91,New Generation,1986,64.25,390000,Jul 2021
+312,Woodlands St 31,04 to 06,84,Simplified,1989,67.25,363000,Jul 2021
+409,Woodlands St 41,04 to 06,106,Model A,1996,73.58,418000,Jul 2021
+429,Woodlands St 41,04 to 06,84,Simplified,1996,74.17,340000,Jul 2021
+801,Woodlands St 81,04 to 06,83,Simplified,1989,67.25,370000,Jul 2021
+842,Woodlands St 82,07 to 09,84,Simplified,1994,72,365000,Jul 2021
+843,Woodlands St 82,10 to 12,104,Model A,1994,72,410000,Jul 2021
+5A,Marsiling Dr,07 to 09,90,Model A,2002,79.92,382000,Jun 2021
+205,Marsiling Dr,01 to 03,91,New Generation,1980,58.42,270000,Jun 2021
+205,Marsiling Dr,04 to 06,91,New Generation,1980,58.42,318000,Jun 2021
+205,Marsiling Dr,07 to 09,92,New Generation,1980,58.42,320000,Jun 2021
+12B,Marsiling Lane,22 to 24,93,Model A,2013,91.08,532000,Jun 2021
+12C,Marsiling Lane,22 to 24,93,Model A,2013,91.08,453800,Jun 2021
+368,Woodlands Ave 1,10 to 12,105,Model A,1997,74.75,462000,Jun 2021
+371,Woodlands Ave 1,10 to 12,102,Model A,1996,74.5,440000,Jun 2021
+617,Woodlands Ave 4,01 to 03,96,Model A2,1998,75.92,348000,Jun 2021
+367,Woodlands Ave 5,10 to 12,105,Model A,1996,74.08,468108,Jun 2021
+719,Woodlands Ave 6,07 to 09,100,Model A,1997,75,457000,Jun 2021
+761,Woodlands Ave 6,01 to 03,103,Model A,1998,75.75,365000,Jun 2021
+728,Woodlands Circle,01 to 03,91,Model A2,1997,75.33,372000,Jun 2021
+728,Woodlands Circle,10 to 12,91,Model A2,1997,75.33,407888,Jun 2021
+729,Woodlands Circle,10 to 12,100,Model A2,1997,75.58,420000,Jun 2021
+737,Woodlands Circle,04 to 06,91,Model A2,1998,75.75,382000,Jun 2021
+779,Woodlands Cres,10 to 12,101,Model A,1997,75.42,400000,Jun 2021
+780D,Woodlands Cres,07 to 09,92,Model A,2015,93.17,435000,Jun 2021
+780E,Woodlands Cres,13 to 15,92,Model A,2015,93.17,450000,Jun 2021
+787E,Woodlands Cres,07 to 09,101,Model A,1997,75.42,410000,Jun 2021
+517,Woodlands Dr 14,10 to 12,105,Premium Apartment,2000,78.33,435000,Jun 2021
+520,Woodlands Dr 14,07 to 09,102,Premium Apartment,2000,78.33,400000,Jun 2021
+526,Woodlands Dr 14,07 to 09,104,Premium Apartment,2000,77.83,420000,Jun 2021
+546,Woodlands Dr 16,10 to 12,101,Model A,2000,78.33,455000,Jun 2021
+575,Woodlands Dr 16,07 to 09,86,Model A2,2000,78.58,390000,Jun 2021
+579,Woodlands Dr 16,10 to 12,90,Model A,2001,78.92,400000,Jun 2021
+588,Woodlands Dr 16,04 to 06,91,Model A,2001,78.92,420000,Jun 2021
+550,Woodlands Dr 44,10 to 12,100,Model A,2000,77.75,410000,Jun 2021
+551,Woodlands Dr 44,04 to 06,100,Model A,2000,77.75,397000,Jun 2021
+552,Woodlands Dr 44,04 to 06,102,Model A,2000,77.75,392000,Jun 2021
+886C,Woodlands Dr 50,01 to 03,92,Premium Apartment,2015,92.75,457000,Jun 2021
+889B,Woodlands Dr 50,07 to 09,93,Model A,2017,95.17,485000,Jun 2021
+889C,Woodlands Dr 50,04 to 06,93,Model A,2017,95.17,470000,Jun 2021
+889D,Woodlands Dr 50,04 to 06,93,Model A,2017,95.17,485000,Jun 2021
+889D,Woodlands Dr 50,07 to 09,93,Model A,2017,95.17,500000,Jun 2021
+890A,Woodlands Dr 50,07 to 09,93,Model A,2017,95.17,485000,Jun 2021
+890B,Woodlands Dr 50,10 to 12,93,Model A,2017,95.08,515000,Jun 2021
+891B,Woodlands Dr 50,07 to 09,100,Model A,1996,74.33,410000,Jun 2021
+892A,Woodlands Dr 50,01 to 03,101,Model A,1996,74.5,398000,Jun 2021
+620,Woodlands Dr 52,07 to 09,92,Model A2,1998,76.17,370000,Jun 2021
+786E,Woodlands Dr 60,04 to 06,91,Model A2,1997,75.25,375000,Jun 2021
+681D,Woodlands Dr 62,04 to 06,104,Premium Apartment,2000,77.75,430000,Jun 2021
+708,Woodlands Dr 70,01 to 03,100,Model A,1996,74.58,420000,Jun 2021
+686A,Woodlands Dr 73,13 to 15,93,Premium Apartment,2003,80.75,420500,Jun 2021
+688C,Woodlands Dr 75,13 to 15,90,Premium Apartment,2004,81.83,410888,Jun 2021
+688D,Woodlands Dr 75,01 to 03,90,Premium Apartment,2004,81.67,392000,Jun 2021
+689C,Woodlands Dr 75,07 to 09,90,Premium Apartment,2004,81.75,400000,Jun 2021
+607,Woodlands Ring Rd,01 to 03,101,Model A,1998,75.92,400000,Jun 2021
+640,Woodlands Ring Rd,01 to 03,102,Model A,1999,77.17,410000,Jun 2021
+644,Woodlands Ring Rd,07 to 09,100,Model A,1998,76.17,450000,Jun 2021
+655,Woodlands Ring Rd,01 to 03,102,Model A,1998,75.83,416888,Jun 2021
+171,Woodlands St 11,10 to 12,96,New Generation,1985,63.5,405000,Jun 2021
+105,Woodlands St 13,07 to 09,91,New Generation,1985,62.92,375000,Jun 2021
+106,Woodlands St 13,01 to 03,92,New Generation,1985,62.92,388000,Jun 2021
+108,Woodlands St 13,04 to 06,91,New Generation,1987,64.67,360000,Jun 2021
+110,Woodlands St 13,10 to 12,93,New Generation,1987,64.67,400000,Jun 2021
+156,Woodlands St 13,01 to 03,91,New Generation,1986,64.33,380000,Jun 2021
+160,Woodlands St 13,07 to 09,103,Model A,1990,68,408000,Jun 2021
+312,Woodlands St 31,01 to 03,89,Simplified,1989,67.33,350000,Jun 2021
+335,Woodlands St 32,04 to 06,83,Simplified,1985,63.5,355000,Jun 2021
+335,Woodlands St 32,10 to 12,83,Simplified,1985,63.5,371000,Jun 2021
+424,Woodlands St 41,07 to 09,100,Model A,1997,74.92,380000,Jun 2021
+428,Woodlands St 41,01 to 03,84,Simplified,1996,74.17,360000,Jun 2021
+437,Woodlands St 41,04 to 06,84,Simplified,1996,74.25,345000,Jun 2021
+805,Woodlands St 81,01 to 03,107,Model A,1994,71.67,430000,Jun 2021
+845,Woodlands St 82,10 to 12,84,Simplified,1994,72.08,370000,Jun 2021
+7,Marsiling Dr,01 to 03,88,Improved,1976,53.75,250000,May 2021
+26,Marsiling Dr,10 to 12,91,New Generation,1977,55.08,310000,May 2021
+12B,Marsiling Lane,04 to 06,93,Model A,2013,91.17,430000,May 2021
+355,Woodlands Ave 1,04 to 06,102,Model A,1996,74.42,443000,May 2021
+719,Woodlands Ave 6,01 to 03,101,Model A,1997,75,410000,May 2021
+724,Woodlands Ave 6,10 to 12,102,Model A,1997,75.33,418000,May 2021
+759,Woodlands Ave 6,01 to 03,103,Model A,1998,76,360000,May 2021
+726,Woodlands Circle,07 to 09,103,Model A,1997,75.25,410000,May 2021
+780D,Woodlands Cres,13 to 15,92,Model A,2015,93.25,460000,May 2021
+780E,Woodlands Cres,07 to 09,92,Model A,2015,93.25,430000,May 2021
+782C,Woodlands Cres,13 to 15,92,Model A,2015,93.17,440000,May 2021
+502A,Woodlands Dr 14,07 to 09,102,Model A,1998,76.58,410000,May 2021
+515,Woodlands Dr 14,10 to 12,107,Premium Apartment,1999,76.92,440000,May 2021
+517,Woodlands Dr 14,01 to 03,104,Premium Apartment,2000,78.33,400000,May 2021
+537,Woodlands Dr 16,07 to 09,101,Model A,2000,78.33,415888,May 2021
+542,Woodlands Dr 16,04 to 06,101,Model A,2000,78.08,425000,May 2021
+543,Woodlands Dr 16,07 to 09,101,Model A,2000,78.17,415000,May 2021
+543,Woodlands Dr 16,10 to 12,101,Model A,2000,78.08,420000,May 2021
+704,Woodlands Dr 40,07 to 09,102,Model A,1996,74.5,420000,May 2021
+704,Woodlands Dr 40,10 to 12,102,Model A,1996,74.5,425000,May 2021
+601,Woodlands Dr 42,07 to 09,91,Model A2,1997,74.92,375000,May 2021
+604,Woodlands Dr 42,04 to 06,92,Model A2,1997,75,375000,May 2021
+550,Woodlands Dr 44,04 to 06,100,Model A,2000,77.83,380000,May 2021
+553,Woodlands Dr 44,07 to 09,101,Model A,2000,78.08,398000,May 2021
+886C,Woodlands Dr 50,07 to 09,92,Premium Apartment,2015,92.83,468000,May 2021
+886C,Woodlands Dr 50,01 to 03,92,Premium Apartment,2015,92.83,480000,May 2021
+889A,Woodlands Dr 50,07 to 09,93,Model A,2017,95.25,497000,May 2021
+889B,Woodlands Dr 50,10 to 12,93,Model A,2017,95.17,538000,May 2021
+889C,Woodlands Dr 50,04 to 06,93,Model A,2017,95.17,480000,May 2021
+890A,Woodlands Dr 50,10 to 12,93,Model A,2017,95.25,492000,May 2021
+890A,Woodlands Dr 50,10 to 12,93,Model A,2017,95.25,501000,May 2021
+890B,Woodlands Dr 50,07 to 09,93,Model A,2017,95.17,490000,May 2021
+890B,Woodlands Dr 50,07 to 09,93,Model A,2017,95.17,492000,May 2021
+895C,Woodlands Dr 50,01 to 03,100,Model A,1997,74.83,375000,May 2021
+620,Woodlands Dr 52,07 to 09,96,Model A2,1998,76.25,398000,May 2021
+621,Woodlands Dr 52,07 to 09,102,Model A,1998,76.17,390000,May 2021
+623,Woodlands Dr 52,07 to 09,102,Model A,1998,76.42,391000,May 2021
+771,Woodlands Dr 60,07 to 09,101,Model A,1997,75.67,390000,May 2021
+681A,Woodlands Dr 62,04 to 06,105,Premium Apartment,2000,77.83,448000,May 2021
+681B,Woodlands Dr 62,04 to 06,105,Premium Apartment,2000,77.83,462000,May 2021
+709,Woodlands Dr 70,10 to 12,100,Model A,1996,74.67,430000,May 2021
+711,Woodlands Dr 70,10 to 12,102,Model A,1997,74.83,400000,May 2021
+717A,Woodlands Dr 70,01 to 03,88,Model A,2017,95.67,455000,May 2021
+684A,Woodlands Dr 73,04 to 06,105,Premium Apartment,2000,77.83,370000,May 2021
+684A,Woodlands Dr 73,07 to 09,104,Premium Apartment,2000,77.83,447000,May 2021
+645,Woodlands Ring Rd,07 to 09,101,Model A,1998,76.17,385000,May 2021
+657,Woodlands Ring Rd,10 to 12,100,Model A,1998,75.92,400000,May 2021
+659,Woodlands Ring Rd,04 to 06,101,Model A,1998,75.83,390000,May 2021
+172,Woodlands St 13,04 to 06,91,New Generation,1985,63.5,373000,May 2021
+413,Woodlands St 41,04 to 06,106,Model A,1996,73.75,398000,May 2021
+831,Woodlands St 83,04 to 06,83,Simplified,1990,67.92,355000,May 2021
+860,Woodlands St 83,07 to 09,106,Model A,1996,74,410000,May 2021
+8,Marsiling Dr,01 to 03,88,Improved,1976,53.83,295000,Apr 2021
+25,Marsiling Dr,04 to 06,91,New Generation,1977,55.25,280000,Apr 2021
+33,Marsiling Dr,07 to 09,98,New Generation,1978,55.75,336088,Apr 2021
+12C,Marsiling Lane,04 to 06,93,Model A,2013,91.25,400000,Apr 2021
+571A,Woodlands Ave 1,01 to 03,92,Model A,2013,91.67,435000,Apr 2021
+571B,Woodlands Ave 1,01 to 03,92,Model A,2013,91.67,450000,Apr 2021
+348,Woodlands Ave 3,13 to 15,84,Simplified,1988,66.42,380000,Apr 2021
+618,Woodlands Ave 4,10 to 12,96,Model A2,1998,76.17,378000,Apr 2021
+755,Woodlands Ave 4,04 to 06,103,Model A,1997,75.75,400000,Apr 2021
+724,Woodlands Ave 6,10 to 12,102,Model A,1997,75.5,385000,Apr 2021
+761,Woodlands Ave 6,04 to 06,102,Model A,1998,75.92,385000,Apr 2021
+729,Woodlands Circle,01 to 03,91,Model A2,1997,75.58,375000,Apr 2021
+747,Woodlands Circle,07 to 09,102,Model A,1998,76.08,365000,Apr 2021
+751,Woodlands Circle,01 to 03,103,Model A,1998,75.83,372000,Apr 2021
+765,Woodlands Circle,10 to 12,90,Model A,2003,81.33,376000,Apr 2021
+774,Woodlands Cres,04 to 06,94,Model A2,1997,75.5,370000,Apr 2021
+776,Woodlands Cres,13 to 15,101,Model A,1998,75.83,380000,Apr 2021
+780E,Woodlands Cres,10 to 12,92,Model A,2015,93.25,450000,Apr 2021
+782E,Woodlands Cres,10 to 12,92,Model A,2015,93.25,425000,Apr 2021
+513,Woodlands Dr 14,04 to 06,107,Premium Apartment,1999,76.92,450888,Apr 2021
+514,Woodlands Dr 14,10 to 12,107,Premium Apartment,1999,77,435000,Apr 2021
+515,Woodlands Dr 14,07 to 09,107,Premium Apartment,1999,77,450000,Apr 2021
+537,Woodlands Dr 16,04 to 06,100,Model A,2000,78.42,413800,Apr 2021
+541,Woodlands Dr 16,04 to 06,101,Model A,2000,78.17,455000,Apr 2021
+542,Woodlands Dr 16,07 to 09,101,Model A,2000,78.08,400000,Apr 2021
+704,Woodlands Dr 40,01 to 03,99,Model A,1996,74.5,390000,Apr 2021
+604,Woodlands Dr 42,07 to 09,99,Model A2,1997,75.08,407000,Apr 2021
+605,Woodlands Dr 42,04 to 06,92,Model A2,1997,75.25,360000,Apr 2021
+549,Woodlands Dr 44,01 to 03,102,Model A,2000,78.17,390000,Apr 2021
+550,Woodlands Dr 44,01 to 03,100,Model A,2000,77.83,358000,Apr 2021
+886C,Woodlands Dr 50,13 to 15,92,Premium Apartment,2015,92.83,492000,Apr 2021
+887A,Woodlands Dr 50,13 to 15,92,Premium Apartment,2015,92.92,490000,Apr 2021
+889A,Woodlands Dr 50,16 to 18,93,Model A,2017,95.33,494000,Apr 2021
+889C,Woodlands Dr 50,13 to 15,93,Model A,2017,95.33,475000,Apr 2021
+889D,Woodlands Dr 50,01 to 03,93,Model A,2017,95.25,440000,Apr 2021
+890A,Woodlands Dr 50,10 to 12,93,Model A,2017,95.25,488000,Apr 2021
+890B,Woodlands Dr 50,16 to 18,93,Model A,2017,95.25,510000,Apr 2021
+891B,Woodlands Dr 50,04 to 06,100,Model A,1996,74.5,385000,Apr 2021
+891B,Woodlands Dr 50,07 to 09,100,Model A,1996,74.58,428000,Apr 2021
+899A,Woodlands Dr 50,07 to 09,99,Model A,1997,75.42,400000,Apr 2021
+899B,Woodlands Dr 50,01 to 03,97,Model A,1997,75.33,378000,Apr 2021
+556,Woodlands Dr 53,10 to 12,101,Model A,1999,77.67,380000,Apr 2021
+769,Woodlands Dr 60,04 to 06,103,Model A,1997,75.75,380000,Apr 2021
+786B,Woodlands Dr 60,10 to 12,90,Model A2,1997,75.33,388000,Apr 2021
+682B,Woodlands Dr 62,01 to 03,101,Premium Apartment,2000,77.83,392000,Apr 2021
+714,Woodlands Dr 70,07 to 09,100,Model A,1997,75.08,430000,Apr 2021
+686A,Woodlands Dr 73,10 to 12,93,Premium Apartment,2003,80.83,390000,Apr 2021
+688D,Woodlands Dr 75,16 to 18,90,Premium Apartment,2004,81.92,406000,Apr 2021
+661,Woodlands Ring Rd,01 to 03,100,Model A,1998,75.92,360000,Apr 2021
+171,Woodlands St 11,04 to 06,91,New Generation,1985,63.75,350000,Apr 2021
+155,Woodlands St 13,04 to 06,103,Model A,1985,62.92,370000,Apr 2021
+322,Woodlands St 32,01 to 03,86,Simplified,1994,72.08,360000,Apr 2021
+411,Woodlands St 41,01 to 03,93,New Generation,1995,73.33,355000,Apr 2021
+428,Woodlands St 41,04 to 06,84,Simplified,1996,74.33,340000,Apr 2021
+437,Woodlands St 41,01 to 03,104,Model A,1996,74.33,335000,Apr 2021
+801,Woodlands St 81,04 to 06,84,Simplified,1989,67.5,330000,Apr 2021
+843,Woodlands St 82,07 to 09,104,Model A,1994,72.25,355000,Apr 2021
+22,Marsiling Dr,10 to 12,92,New Generation,1977,55.33,293000,Mar 2021
+25,Marsiling Dr,10 to 12,91,New Generation,1977,55.25,300000,Mar 2021
+27,Marsiling Dr,10 to 12,91,New Generation,1977,55.67,308800,Mar 2021
+29,Marsiling Dr,04 to 06,97,New Generation,1979,57.67,290000,Mar 2021
+12A,Marsiling Lane,19 to 21,93,Model A,2013,91.33,440000,Mar 2021
+347,Woodlands Ave 3,04 to 06,84,Simplified,1988,66.25,360000,Mar 2021
+347,Woodlands Ave 3,10 to 12,84,Simplified,1988,66.17,388000,Mar 2021
+617,Woodlands Ave 4,07 to 09,91,Model A2,1998,76.08,358000,Mar 2021
+617,Woodlands Ave 4,10 to 12,91,Model A2,1998,76.08,372000,Mar 2021
+876,Woodlands Ave 9,07 to 09,105,Model A,1996,74.17,375000,Mar 2021
+877,Woodlands Ave 9,07 to 09,105,Model A,1996,74,360000,Mar 2021
+877,Woodlands Ave 9,04 to 06,105,Model A,1996,74.17,365000,Mar 2021
+728,Woodlands Circle,04 to 06,91,Model A2,1997,75.5,395000,Mar 2021
+731,Woodlands Circle,01 to 03,102,Model A,1997,75.5,380000,Mar 2021
+740,Woodlands Circle,10 to 12,103,Model A,1997,75.58,395000,Mar 2021
+764,Woodlands Circle,01 to 03,90,Model A,2003,81.33,358000,Mar 2021
+774,Woodlands Cres,13 to 15,91,Model A2,1997,75.58,370000,Mar 2021
+775,Woodlands Cres,10 to 12,93,Model A2,1997,75.67,365000,Mar 2021
+780E,Woodlands Cres,10 to 12,92,Model A,2015,93.42,430000,Mar 2021
+524,Woodlands Dr 14,07 to 09,102,Premium Apartment,2000,78.08,416000,Mar 2021
+530,Woodlands Dr 14,07 to 09,104,Premium Apartment,1999,77.42,420000,Mar 2021
+532,Woodlands Dr 14,10 to 12,105,Premium Apartment,1999,77.42,418000,Mar 2021
+577,Woodlands Dr 16,04 to 06,91,Model A,2000,78.75,400000,Mar 2021
+552,Woodlands Dr 44,04 to 06,101,Model A,2000,77.92,390000,Mar 2021
+886A,Woodlands Dr 50,16 to 18,95,Premium Apartment,2015,93.08,492000,Mar 2021
+887B,Woodlands Dr 50,10 to 12,92,Premium Apartment,2015,92.92,488000,Mar 2021
+889B,Woodlands Dr 50,07 to 09,93,Model A,2017,95.5,465000,Mar 2021
+889C,Woodlands Dr 50,01 to 03,93,Model A,2017,95.33,460000,Mar 2021
+889D,Woodlands Dr 50,07 to 09,93,Model A,2017,95.42,475000,Mar 2021
+889D,Woodlands Dr 50,07 to 09,93,Model A,2017,95.42,475000,Mar 2021
+890A,Woodlands Dr 50,13 to 15,93,Model A,2017,95.33,483888,Mar 2021
+890B,Woodlands Dr 50,07 to 09,93,Model A,2017,95.33,478000,Mar 2021
+896C,Woodlands Dr 50,01 to 03,99,Model A,1997,75.33,365000,Mar 2021
+624A,Woodlands Dr 52,04 to 06,100,Model A,1998,76.58,374000,Mar 2021
+554,Woodlands Dr 53,10 to 12,90,Model A2,1999,77.75,362000,Mar 2021
+771,Woodlands Dr 60,01 to 03,102,Model A,1997,75.75,350000,Mar 2021
+771,Woodlands Dr 60,01 to 03,102,Model A,1997,75.75,355000,Mar 2021
+773,Woodlands Dr 60,04 to 06,92,Model A2,1997,75.58,355000,Mar 2021
+773,Woodlands Dr 60,01 to 03,91,Model A2,1997,75.67,360000,Mar 2021
+778,Woodlands Dr 60,04 to 06,100,Model A,1997,75.75,380000,Mar 2021
+786B,Woodlands Dr 60,13 to 15,91,Model A2,1997,75.42,400000,Mar 2021
+786E,Woodlands Dr 60,07 to 09,92,Model A2,1997,75.42,380000,Mar 2021
+683D,Woodlands Dr 62,10 to 12,103,Premium Apartment,2000,78,432000,Mar 2021
+710,Woodlands Dr 70,10 to 12,101,Model A,1997,75,405088,Mar 2021
+717B,Woodlands Dr 70,07 to 09,88,Model A,2017,95.83,502000,Mar 2021
+688A,Woodlands Dr 75,16 to 18,90,Premium Apartment,2004,81.83,425000,Mar 2021
+690F,Woodlands Dr 75,01 to 03,90,Premium Apartment,2004,81.83,380000,Mar 2021
+609,Woodlands Ring Rd,10 to 12,102,Model A,1998,76.42,400000,Mar 2021
+649,Woodlands Ring Rd,04 to 06,100,Model A,1998,76.33,425000,Mar 2021
+661,Woodlands Ring Rd,04 to 06,101,Model A,1998,75.92,380000,Mar 2021
+661,Woodlands Ring Rd,10 to 12,101,Model A,1998,75.92,390000,Mar 2021
+663,Woodlands Ring Rd,01 to 03,101,Model A,1998,75.92,375000,Mar 2021
+108,Woodlands St 13,01 to 03,91,New Generation,1987,64.83,368000,Mar 2021
+113,Woodlands St 13,07 to 09,96,New Generation,1987,65,373000,Mar 2021
+152,Woodlands St 13,07 to 09,107,Model A,1985,63.17,378000,Mar 2021
+874,Woodlands St 82,04 to 06,111,Model A,1996,74.08,390000,Mar 2021
+854,Woodlands St 83,01 to 03,90,Simplified,1993,71.42,380000,Mar 2021
+860,Woodlands St 83,04 to 06,106,Model A,1996,74.17,380000,Mar 2021
+25,Marsiling Dr,13 to 15,91,New Generation,1977,55.42,290000,Feb 2021
+370,Woodlands Ave 1,01 to 03,104,Model A,1996,74.75,402000,Feb 2021
+613,Woodlands Ave 4,04 to 06,102,Model A,1998,76.58,371000,Feb 2021
+679,Woodlands Ave 6,04 to 06,101,Model A,1998,76.58,430000,Feb 2021
+724,Woodlands Ave 6,07 to 09,102,Model A,1997,75.67,390000,Feb 2021
+738,Woodlands Circle,10 to 12,102,Model A,1998,76,390000,Feb 2021
+743,Woodlands Circle,01 to 03,100,Model A2,1997,75.67,373000,Feb 2021
+766,Woodlands Circle,07 to 09,90,Model A,2003,81.5,360000,Feb 2021
+767,Woodlands Circle,04 to 06,91,Model A,2003,81.58,395000,Feb 2021
+780D,Woodlands Cres,13 to 15,92,Model A,2015,93.5,420000,Feb 2021
+780E,Woodlands Cres,13 to 15,92,Model A,2015,93.42,430000,Feb 2021
+787D,Woodlands Cres,01 to 03,100,Model A,1997,75.67,360001,Feb 2021
+532,Woodlands Dr 14,04 to 06,105,Premium Apartment,1999,77.5,415000,Feb 2021
+575,Woodlands Dr 16,10 to 12,86,Model A2,2000,78.92,370000,Feb 2021
+702,Woodlands Dr 40,01 to 03,99,Model A,1996,74.92,388000,Feb 2021
+703,Woodlands Dr 40,01 to 03,99,Model A,1996,74.75,370000,Feb 2021
+703,Woodlands Dr 40,07 to 09,100,Model A,1996,74.75,400000,Feb 2021
+602,Woodlands Dr 42,01 to 03,103,Model A,1997,75.17,400000,Feb 2021
+887A,Woodlands Dr 50,04 to 06,92,Premium Apartment,2015,93.08,420000,Feb 2021
+889A,Woodlands Dr 50,04 to 06,93,Model A,2017,95.5,462000,Feb 2021
+889A,Woodlands Dr 50,13 to 15,93,Model A,2017,95.42,480000,Feb 2021
+889C,Woodlands Dr 50,07 to 09,93,Model A,2017,95.42,480000,Feb 2021
+890A,Woodlands Dr 50,10 to 12,93,Model A,2017,95.42,458000,Feb 2021
+895C,Woodlands Dr 50,10 to 12,100,Model A,1997,75,391000,Feb 2021
+897C,Woodlands Dr 50,04 to 06,100,Model A,1997,75.5,365000,Feb 2021
+899B,Woodlands Dr 50,01 to 03,99,Model A,1997,75.5,390000,Feb 2021
+619,Woodlands Dr 52,01 to 03,95,Model A2,1998,76.58,330000,Feb 2021
+622,Woodlands Dr 52,01 to 03,102,Model A,1998,76.5,363000,Feb 2021
+554,Woodlands Dr 53,07 to 09,89,Model A2,1999,77.92,408000,Feb 2021
+778,Woodlands Dr 60,10 to 12,101,Model A,1997,75.92,360000,Feb 2021
+681C,Woodlands Dr 62,10 to 12,101,Premium Apartment,2000,78.08,420000,Feb 2021
+715,Woodlands Dr 70,10 to 12,101,Model A,1997,75.25,392000,Feb 2021
+686B,Woodlands Dr 73,10 to 12,94,Premium Apartment,2003,81,401888,Feb 2021
+689B,Woodlands Dr 75,07 to 09,90,Premium Apartment,2004,82.08,385000,Feb 2021
+628A,Woodlands Ring Rd,01 to 03,101,Model A,1998,76.75,380000,Feb 2021
+629,Woodlands Ring Rd,01 to 03,103,Model A,1998,76.58,365000,Feb 2021
+150,Woodlands St 13,01 to 03,97,New Generation,1986,64.67,345000,Feb 2021
+177,Woodlands St 13,04 to 06,91,New Generation,1986,64.08,350000,Feb 2021
+333,Woodlands St 32,01 to 03,104,Model A,1985,63.42,365000,Feb 2021
+421,Woodlands St 41,10 to 12,106,Model A,1996,74,378000,Feb 2021
+427,Woodlands St 41,01 to 03,100,Model A,1997,75.17,360000,Feb 2021
+428,Woodlands St 41,07 to 09,104,Model A,1996,74.58,375000,Feb 2021
+429,Woodlands St 41,10 to 12,84,Simplified,1996,74.5,340000,Feb 2021
+437,Woodlands St 41,10 to 12,84,Simplified,1996,74.58,330000,Feb 2021
+842,Woodlands St 82,04 to 06,84,Simplified,1994,72.33,331000,Feb 2021
+843,Woodlands St 82,01 to 03,84,Simplified,1994,72.42,280000,Feb 2021
+843,Woodlands St 82,10 to 12,84,Simplified,1994,72.42,343000,Feb 2021
+33,Marsiling Dr,04 to 06,98,New Generation,1978,56.08,300000,Jan 2021
+205,Marsiling Dr,13 to 15,91,New Generation,1980,58.83,330000,Jan 2021
+351,Woodlands Ave 1,04 to 06,106,Model A,1996,74.75,425000,Jan 2021
+570A,Woodlands Ave 1,10 to 12,92,Model A,2013,91.83,445000,Jan 2021
+570C,Woodlands Ave 1,07 to 09,92,Model A,2013,91.92,460000,Jan 2021
+612,Woodlands Ave 4,07 to 09,102,Model A,1998,76.67,360000,Jan 2021
+615,Woodlands Ave 4,10 to 12,102,Model A,1998,76.42,370000,Jan 2021
+367,Woodlands Ave 5,01 to 03,105,Model A,1996,74.5,413888,Jan 2021
+626,Woodlands Ave 6,10 to 12,90,Model A2,1998,76.67,340000,Jan 2021
+679,Woodlands Ave 6,10 to 12,101,Model A,1998,76.67,420000,Jan 2021
+722,Woodlands Ave 6,01 to 03,103,Model A,1997,75.5,373000,Jan 2021
+728,Woodlands Circle,10 to 12,91,Model A2,1997,75.67,380000,Jan 2021
+730,Woodlands Circle,10 to 12,91,Model A2,1997,75.75,360000,Jan 2021
+737,Woodlands Circle,01 to 03,100,Model A2,1998,76.17,360000,Jan 2021
+739,Woodlands Circle,04 to 06,102,Model A2,1997,75.67,388000,Jan 2021
+774,Woodlands Cres,04 to 06,93,Model A2,1997,75.83,345000,Jan 2021
+774,Woodlands Cres,13 to 15,93,Model A2,1997,75.83,370500,Jan 2021
+782A,Woodlands Cres,16 to 18,92,Model A,2015,93.5,420000,Jan 2021
+505,Woodlands Dr 14,07 to 09,101,Model A,1999,77.08,400800,Jan 2021
+510,Woodlands Dr 14,10 to 12,107,Premium Apartment,1999,77.25,400000,Jan 2021
+523,Woodlands Dr 14,10 to 12,105,Premium Apartment,2000,78.5,400000,Jan 2021
+542,Woodlands Dr 16,04 to 06,101,Model A,2000,78.42,387500,Jan 2021
+705,Woodlands Dr 40,07 to 09,102,Model A,1996,74.83,372000,Jan 2021
+604,Woodlands Dr 42,01 to 03,91,Model A2,1997,75.42,353000,Jan 2021
+886B,Woodlands Dr 50,16 to 18,95,Premium Apartment,2015,93.17,503000,Jan 2021
+889A,Woodlands Dr 50,04 to 06,93,Model A,2017,95.58,430000,Jan 2021
+889A,Woodlands Dr 50,07 to 09,93,Model A,2017,95.58,463000,Jan 2021
+889A,Woodlands Dr 50,13 to 15,93,Model A,2017,95.5,475000,Jan 2021
+889B,Woodlands Dr 50,04 to 06,93,Model A,2017,95.5,455000,Jan 2021
+889B,Woodlands Dr 50,07 to 09,93,Model A,2017,95.5,455000,Jan 2021
+889C,Woodlands Dr 50,01 to 03,93,Model A,2017,95.67,430000,Jan 2021
+889D,Woodlands Dr 50,07 to 09,93,Model A,2017,95.5,480000,Jan 2021
+896A,Woodlands Dr 50,04 to 06,99,Model A,1997,75.08,373000,Jan 2021
+714,Woodlands Dr 70,10 to 12,101,Model A,1997,75.33,400000,Jan 2021
+686B,Woodlands Dr 73,10 to 12,94,Premium Apartment,2003,81.08,395000,Jan 2021
+690E,Woodlands Dr 75,10 to 12,90,Premium Apartment,2004,82,387000,Jan 2021
+628B,Woodlands Ring Rd,07 to 09,102,Model A,1998,76.83,389000,Jan 2021
+171,Woodlands St 11,04 to 06,91,New Generation,1985,63.92,335000,Jan 2021
+104,Woodlands St 13,10 to 12,91,New Generation,1985,63.33,355000,Jan 2021
+148,Woodlands St 13,01 to 03,93,New Generation,1985,63.25,348000,Jan 2021
+152,Woodlands St 13,04 to 06,103,Model A,1985,63.25,369000,Jan 2021
+157,Woodlands St 13,01 to 03,103,Model A,1985,63.17,363800,Jan 2021
+301,Woodlands St 31,01 to 03,87,Simplified,1993,71.17,345000,Jan 2021
+428,Woodlands St 41,04 to 06,84,Simplified,1996,74.58,322000,Jan 2021
+428,Woodlands St 41,07 to 09,104,Model A,1996,74.58,361000,Jan 2021
+436,Woodlands St 41,04 to 06,84,Simplified,1996,74.58,300000,Jan 2021
+802,Woodlands St 81,07 to 09,84,Simplified,1989,67.5,370000,Jan 2021
+874,Woodlands St 82,01 to 03,111,Model A,1996,74.25,365000,Jan 2021
+874,Woodlands St 82,04 to 06,115,Model A,1996,74.17,385000,Jan 2021
+854,Woodlands St 83,04 to 06,84,Simplified,1993,71.67,348000,Jan 2021
+28,Marsiling Dr,13 to 15,97,New Generation,1977,55.42,298000,Dec 2020
+29,Marsiling Dr,04 to 06,98,New Generation,1979,57.92,290000,Dec 2020
+206,Marsiling Dr,10 to 12,93,New Generation,1981,59.42,310000,Dec 2020
+336,Woodlands Ave 1,07 to 09,83,Simplified,1985,63.92,378000,Dec 2020
+572B,Woodlands Ave 1,07 to 09,92,Model A,2013,91.92,460000,Dec 2020
+348,Woodlands Ave 3,07 to 09,84,Simplified,1988,66.83,340000,Dec 2020
+791,Woodlands Ave 6,01 to 03,100,Model A,1997,76,363000,Dec 2020
+735,Woodlands Circle,01 to 03,102,Model A,1998,76.17,360000,Dec 2020
+752,Woodlands Circle,01 to 03,102,Model A,1998,76.17,345000,Dec 2020
+753,Woodlands Circle,10 to 12,102,Model A,1997,76.17,380000,Dec 2020
+764A,Woodlands Circle,10 to 12,91,Model A,2003,81.67,360000,Dec 2020
+780E,Woodlands Cres,01 to 03,92,Model A,2015,93.58,381000,Dec 2020
+780E,Woodlands Cres,10 to 12,92,Model A,2015,93.75,410000,Dec 2020
+780E,Woodlands Cres,13 to 15,92,Model A,2015,93.67,435000,Dec 2020
+782C,Woodlands Cres,07 to 09,92,Model A,2015,93.58,420000,Dec 2020
+782D,Woodlands Cres,07 to 09,92,Model A,2015,93.5,430000,Dec 2020
+502A,Woodlands Dr 14,07 to 09,101,Model A,1998,77,395000,Dec 2020
+511,Woodlands Dr 14,10 to 12,107,Premium Apartment,1999,77.33,460000,Dec 2020
+546,Woodlands Dr 16,07 to 09,101,Model A,2000,78.83,390000,Dec 2020
+547,Woodlands Dr 16,01 to 03,101,Model A,2000,78.83,375000,Dec 2020
+703,Woodlands Dr 40,07 to 09,102,Model A,1996,74.92,404000,Dec 2020
+705,Woodlands Dr 40,01 to 03,99,Model A,1996,74.83,371000,Dec 2020
+601,Woodlands Dr 42,01 to 03,91,Model A2,1997,75.33,348000,Dec 2020
+886B,Woodlands Dr 50,01 to 03,92,Premium Apartment,2015,93.25,398000,Dec 2020
+886B,Woodlands Dr 50,10 to 12,92,Premium Apartment,2015,93.25,453000,Dec 2020
+886C,Woodlands Dr 50,13 to 15,92,Premium Apartment,2015,93.25,471000,Dec 2020
+889A,Woodlands Dr 50,07 to 09,93,Model A,2017,95.67,476000,Dec 2020
+889A,Woodlands Dr 50,13 to 15,93,Model A,2017,95.58,481000,Dec 2020
+889B,Woodlands Dr 50,04 to 06,93,Model A,2017,95.67,468000,Dec 2020
+897B,Woodlands Dr 50,07 to 09,100,Model A,1997,75.67,370000,Dec 2020
+786B,Woodlands Dr 60,07 to 09,90,Model A2,1997,75.67,378000,Dec 2020
+686B,Woodlands Dr 73,13 to 15,93,Premium Apartment,2003,81.25,390000,Dec 2020
+687B,Woodlands Dr 75,01 to 03,95,Premium Apartment,2003,81.17,362000,Dec 2020
+688B,Woodlands Dr 75,16 to 18,90,Premium Apartment,2004,82.33,393000,Dec 2020
+688F,Woodlands Dr 75,10 to 12,90,Premium Apartment,2004,82.33,390000,Dec 2020
+631,Woodlands Ring Rd,10 to 12,101,Model A,1998,76.75,385000,Dec 2020
+663,Woodlands Ring Rd,07 to 09,101,Model A,1998,76.25,388000,Dec 2020
+156,Woodlands St 13,04 to 06,91,New Generation,1986,64.83,347000,Dec 2020
+162,Woodlands St 13,07 to 09,98,New Generation,1985,63.58,385000,Dec 2020
+306,Woodlands St 31,01 to 03,85,Simplified,1993,71.25,292000,Dec 2020
+310,Woodlands St 31,04 to 06,103,Model A,1993,71.83,385000,Dec 2020
+312,Woodlands St 31,01 to 03,88,Simplified,1989,67.83,320000,Dec 2020
+845,Woodlands St 82,10 to 12,84,Simplified,1994,72.58,335000,Dec 2020
+860,Woodlands St 83,10 to 12,106,Model A,1996,74.33,385000,Dec 2020
+7,Marsiling Dr,04 to 06,88,Improved,1976,54.25,298000,Nov 2020
+24,Marsiling Dr,01 to 03,92,New Generation,1977,55.58,260000,Nov 2020
+205,Marsiling Dr,10 to 12,91,New Generation,1980,59,267000,Nov 2020
+351,Woodlands Ave 1,04 to 06,106,Model A,1996,74.92,370000,Nov 2020
+355,Woodlands Ave 1,10 to 12,105,Model A,1996,74.92,410000,Nov 2020
+571A,Woodlands Ave 1,07 to 09,92,Model A,2013,92.08,458000,Nov 2020
+571A,Woodlands Ave 1,07 to 09,92,Model A,2013,92.08,470000,Nov 2020
+614,Woodlands Ave 4,01 to 03,102,Model A,1998,76.83,335000,Nov 2020
+757,Woodlands Ave 4,04 to 06,102,Model A,1997,76.17,380188,Nov 2020
+759,Woodlands Ave 6,01 to 03,103,Model A,1998,76.5,355000,Nov 2020
+762,Woodlands Ave 6,01 to 03,102,Model A,1998,76.33,375000,Nov 2020
+876,Woodlands Ave 9,07 to 09,105,Model A,1996,74.58,353000,Nov 2020
+721,Woodlands Circle,07 to 09,103,Model A,1997,75.92,360000,Nov 2020
+734,Woodlands Circle,07 to 09,103,Model A,1998,76.25,395000,Nov 2020
+737,Woodlands Circle,01 to 03,100,Model A2,1998,76.42,342000,Nov 2020
+739,Woodlands Circle,01 to 03,91,Model A2,1997,75.83,325000,Nov 2020
+743,Woodlands Circle,01 to 03,91,Model A2,1997,76,300000,Nov 2020
+751,Woodlands Circle,01 to 03,103,Model A,1998,76.25,370000,Nov 2020
+753,Woodlands Circle,10 to 12,103,Model A,1997,76.17,360000,Nov 2020
+777,Woodlands Cres,04 to 06,103,Model A,1998,76.25,355000,Nov 2020
+780E,Woodlands Cres,13 to 15,92,Model A,2015,93.67,430000,Nov 2020
+782A,Woodlands Cres,04 to 06,92,Model A,2015,93.67,380000,Nov 2020
+519,Woodlands Dr 14,01 to 03,104,Premium Apartment,2000,78.83,350000,Nov 2020
+520,Woodlands Dr 14,01 to 03,105,Premium Apartment,2000,78.92,372000,Nov 2020
+575,Woodlands Dr 16,10 to 12,86,Model A2,2000,79.08,368000,Nov 2020
+704,Woodlands Dr 40,01 to 03,102,Model A,1996,75,370000,Nov 2020
+889C,Woodlands Dr 50,04 to 06,93,Model A,2017,95.67,420000,Nov 2020
+895A,Woodlands Dr 50,04 to 06,99,Model A,1997,75.25,367000,Nov 2020
+554,Woodlands Dr 53,07 to 09,89,Model A2,1999,78.17,305000,Nov 2020
+769,Woodlands Dr 60,07 to 09,102,Model A,1997,76.17,375000,Nov 2020
+689B,Woodlands Dr 75,10 to 12,90,Premium Apartment,2004,82.33,375000,Nov 2020
+690F,Woodlands Dr 75,04 to 06,90,Premium Apartment,2004,82.25,365000,Nov 2020
+634,Woodlands Ring Rd,10 to 12,102,Model A,1999,77.83,375000,Nov 2020
+639,Woodlands Ring Rd,01 to 03,101,Model A,1999,77.75,345000,Nov 2020
+653,Woodlands Ring Rd,04 to 06,101,Model A,1998,76.42,382000,Nov 2020
+663,Woodlands Ring Rd,01 to 03,101,Model A,1998,76.33,340000,Nov 2020
+665,Woodlands Ring Rd,04 to 06,86,Model A2,2000,79,350000,Nov 2020
+668,Woodlands Ring Rd,04 to 06,91,Model A,2000,78.92,300000,Nov 2020
+168,Woodlands St 11,01 to 03,94,New Generation,1986,65.08,320000,Nov 2020
+318,Woodlands St 31,10 to 12,119,Model A,1993,72.17,400000,Nov 2020
+437,Woodlands St 41,04 to 06,104,Model A,1996,74.83,340000,Nov 2020
+810,Woodlands St 81,10 to 12,106,Model A,1995,74.08,375000,Nov 2020
+871,Woodlands St 81,04 to 06,111,Model A,1996,74.5,385000,Nov 2020

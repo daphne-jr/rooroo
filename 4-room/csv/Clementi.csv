@@ -1,0 +1,581 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date
+421,Clementi Ave 1,16 to 18,91,Model A,2013,90.92,750000,Nov 2021
+421,Clementi Ave 1,16 to 18,92,Model A,2013,90.92,760000,Nov 2021
+454,Clementi Ave 3,13 to 15,90,Model A,2002,80.17,732888,Nov 2021
+462,Clementi Ave 3,04 to 06,90,Model A,2006,83.75,672000,Nov 2021
+311C,Clementi Ave 4,37 to 39,80,Dbss,2014,92.17,788000,Nov 2021
+411,C'wealth Ave West,04 to 06,97,New Generation,1978,55.42,538000,Oct 2021
+412,C'wealth Ave West,13 to 15,97,New Generation,1978,55.5,565000,Oct 2021
+420,Clementi Ave 1,07 to 09,96,Model A,2013,91,695000,Oct 2021
+423,Clementi Ave 1,13 to 15,100,Model A,2013,91,760000,Oct 2021
+424,Clementi Ave 1,10 to 12,99,Model A,2013,91,755000,Oct 2021
+332,Clementi Ave 2,10 to 12,92,New Generation,1978,55.92,530000,Oct 2021
+332,Clementi Ave 2,04 to 06,92,New Generation,1978,55.83,545000,Oct 2021
+333,Clementi Ave 2,04 to 06,92,New Generation,1978,55.83,508000,Oct 2021
+359,Clementi Ave 2,10 to 12,92,New Generation,1978,55.33,475000,Oct 2021
+362,Clementi Ave 2,01 to 03,90,New Generation,1978,55.33,465000,Oct 2021
+454,Clementi Ave 3,16 to 18,91,Model A,2002,80.25,708000,Oct 2021
+454,Clementi Ave 3,10 to 12,90,Model A,2002,80.33,715000,Oct 2021
+456,Clementi Ave 3,13 to 15,91,Model A,2002,80.25,720000,Oct 2021
+460,Clementi Ave 3,01 to 03,85,Model A,2002,80.25,630100,Oct 2021
+460,Clementi Ave 3,13 to 15,90,Model A,2002,80.25,750000,Oct 2021
+307,Clementi Ave 4,07 to 09,92,New Generation,1979,57.17,560000,Oct 2021
+311A,Clementi Ave 4,16 to 18,80,Dbss,2014,92.25,750000,Oct 2021
+311A,Clementi Ave 4,34 to 36,80,Dbss,2014,92.25,775000,Oct 2021
+311C,Clementi Ave 4,28 to 30,80,Dbss,2014,92.25,745000,Oct 2021
+311C,Clementi Ave 4,28 to 30,80,Dbss,2014,92.25,762000,Oct 2021
+311C,Clementi Ave 4,28 to 30,82,Dbss,2014,92.25,790000,Oct 2021
+312B,Clementi Ave 4,34 to 36,93,Model A,2017,94.92,870888,Oct 2021
+312C,Clementi Ave 4,28 to 30,93,Model A,2017,94.92,872888,Oct 2021
+312C,Clementi Ave 4,25 to 27,93,Model A,2017,95,878000,Oct 2021
+117,Clementi St 13,04 to 06,104,Model A,1984,62.08,580000,Oct 2021
+709,Clementi West St 2,01 to 03,91,New Generation,1980,57.83,423000,Oct 2021
+715,Clementi West St 2,07 to 09,91,New Generation,1981,59,440000,Oct 2021
+424,Clementi Ave 1,19 to 21,100,Model A,2013,91.08,760000,Sep 2021
+330,Clementi Ave 2,04 to 06,83,New Generation,1978,55.92,495000,Sep 2021
+456,Clementi Ave 3,19 to 21,92,Model A,2002,80.25,728000,Sep 2021
+460,Clementi Ave 3,10 to 12,90,Model A,2002,80.33,660000,Sep 2021
+462,Clementi Ave 3,10 to 12,90,Model A,2006,83.92,715000,Sep 2021
+302,Clementi Ave 4,01 to 03,92,New Generation,1979,56.58,455000,Sep 2021
+311A,Clementi Ave 4,07 to 09,80,Dbss,2014,92.33,730000,Sep 2021
+311A,Clementi Ave 4,28 to 30,82,Dbss,2014,92.33,752888,Sep 2021
+311A,Clementi Ave 4,16 to 18,82,Dbss,2014,92.33,770000,Sep 2021
+311B,Clementi Ave 4,13 to 15,82,Dbss,2014,92.33,718000,Sep 2021
+311C,Clementi Ave 4,19 to 21,80,Dbss,2014,92.33,743000,Sep 2021
+311C,Clementi Ave 4,28 to 30,80,Dbss,2014,92.25,750000,Sep 2021
+311C,Clementi Ave 4,34 to 36,82,Dbss,2014,92.33,795000,Sep 2021
+312C,Clementi Ave 4,01 to 03,93,Model A,2017,94.92,705000,Sep 2021
+312C,Clementi Ave 4,10 to 12,93,Model A,2017,95,795000,Sep 2021
+312C,Clementi Ave 4,28 to 30,93,Model A,2017,94.92,872000,Sep 2021
+317,Clementi Ave 4,04 to 06,91,New Generation,1979,56.75,530000,Sep 2021
+346,Clementi Ave 5,04 to 06,92,New Generation,1979,56.5,485000,Sep 2021
+118,Clementi St 13,01 to 03,104,Model A,1984,62.17,540000,Sep 2021
+601,Clementi West St 1,04 to 06,92,New Generation,1979,57.25,446800,Sep 2021
+602,Clementi West St 1,07 to 09,92,New Generation,1979,57.25,473000,Sep 2021
+712,Clementi West St 2,10 to 12,92,New Generation,1980,57.75,435000,Sep 2021
+507,West Coast Dr,10 to 12,83,New Generation,1978,56,408000,Sep 2021
+330,Clementi Ave 2,10 to 12,92,New Generation,1978,56,548000,Aug 2021
+428,Clementi Ave 3,04 to 06,91,New Generation,1978,55.75,555000,Aug 2021
+454,Clementi Ave 3,10 to 12,86,Model A,2002,80.42,700000,Aug 2021
+462,Clementi Ave 3,19 to 21,90,Model A,2006,84,762000,Aug 2021
+301,Clementi Ave 4,13 to 15,92,New Generation,1979,56.67,453000,Aug 2021
+311A,Clementi Ave 4,07 to 09,81,Dbss,2014,92.42,720000,Aug 2021
+311A,Clementi Ave 4,37 to 39,82,Dbss,2014,92.42,780000,Aug 2021
+311A,Clementi Ave 4,37 to 39,82,Dbss,2014,92.42,790000,Aug 2021
+311B,Clementi Ave 4,04 to 06,81,Dbss,2014,92.42,700000,Aug 2021
+311B,Clementi Ave 4,10 to 12,82,Dbss,2014,92.33,718000,Aug 2021
+311B,Clementi Ave 4,10 to 12,80,Dbss,2014,92.33,725000,Aug 2021
+311B,Clementi Ave 4,16 to 18,80,Dbss,2014,92.42,745000,Aug 2021
+311B,Clementi Ave 4,19 to 21,81,Dbss,2014,92.42,745000,Aug 2021
+311C,Clementi Ave 4,22 to 24,82,Dbss,2014,92.42,760000,Aug 2021
+312B,Clementi Ave 4,37 to 39,93,Model A,2017,95.08,868888,Aug 2021
+312C,Clementi Ave 4,04 to 06,93,Model A,2017,95.08,808000,Aug 2021
+312C,Clementi Ave 4,31 to 33,93,Model A,2017,95.08,838000,Aug 2021
+312C,Clementi Ave 4,19 to 21,93,Model A,2017,95.08,845000,Aug 2021
+318,Clementi Ave 4,01 to 03,91,New Generation,1979,56.83,545000,Aug 2021
+324,Clementi Ave 5,10 to 12,91,New Generation,1978,55.58,615000,Aug 2021
+379,Clementi Ave 5,04 to 06,91,New Generation,1980,58.08,522888,Aug 2021
+204,Clementi Ave 6,13 to 15,98,New Generation,1984,62.33,528000,Aug 2021
+612,Clementi West St 1,10 to 12,104,Model A,1983,61.42,515000,Aug 2021
+707,Clementi West St 2,01 to 03,91,New Generation,1980,58,375000,Aug 2021
+712,Clementi West St 2,01 to 03,91,New Generation,1980,57.83,415000,Aug 2021
+511,West Coast Dr,07 to 09,91,New Generation,1978,55.5,420000,Aug 2021
+512,West Coast Dr,04 to 06,92,New Generation,1978,55.42,380000,Aug 2021
+411,C'wealth Ave West,07 to 09,97,New Generation,1978,55.75,510000,Jul 2021
+418,Clementi Ave 1,10 to 12,99,Model A,2013,91.17,760000,Jul 2021
+421,Clementi Ave 1,37 to 39,96,Model A,2013,91.25,790000,Jul 2021
+421,Clementi Ave 1,37 to 39,96,Model A,2013,91.25,828888,Jul 2021
+335,Clementi Ave 2,04 to 06,83,New Generation,1978,56.42,438000,Jul 2021
+358,Clementi Ave 2,01 to 03,92,New Generation,1978,55.58,422000,Jul 2021
+441B,Clementi Ave 3,31 to 33,93,Model A,2012,90.08,900000,Jul 2021
+302,Clementi Ave 4,01 to 03,92,New Generation,1979,56.75,425000,Jul 2021
+311A,Clementi Ave 4,34 to 36,82,Dbss,2014,92.5,763000,Jul 2021
+311A,Clementi Ave 4,37 to 39,82,Dbss,2014,92.5,770000,Jul 2021
+311A,Clementi Ave 4,34 to 36,80,Dbss,2014,92.5,775000,Jul 2021
+311B,Clementi Ave 4,19 to 21,80,Dbss,2014,92.5,750000,Jul 2021
+311B,Clementi Ave 4,37 to 39,82,Dbss,2014,92.5,758000,Jul 2021
+311C,Clementi Ave 4,25 to 27,80,Dbss,2014,92.5,730000,Jul 2021
+311C,Clementi Ave 4,28 to 30,80,Dbss,2014,92.58,755888,Jul 2021
+311C,Clementi Ave 4,19 to 21,80,Dbss,2014,92.5,770000,Jul 2021
+312C,Clementi Ave 4,10 to 12,93,Model A,2017,95.17,798000,Jul 2021
+312C,Clementi Ave 4,16 to 18,93,Model A,2017,95.17,815000,Jul 2021
+312C,Clementi Ave 4,31 to 33,93,Model A,2017,95.17,828888,Jul 2021
+312C,Clementi Ave 4,34 to 36,93,Model A,2017,95.17,843000,Jul 2021
+312C,Clementi Ave 4,31 to 33,93,Model A,2017,95.08,874000,Jul 2021
+312C,Clementi Ave 4,25 to 27,93,Model A,2017,95.17,900888,Jul 2021
+316,Clementi Ave 4,10 to 12,91,New Generation,1979,56.92,536000,Jul 2021
+348,Clementi Ave 5,04 to 06,92,New Generation,1979,56.75,455000,Jul 2021
+348,Clementi Ave 5,07 to 09,92,New Generation,1979,56.75,480000,Jul 2021
+117,Clementi St 13,13 to 15,104,Model A,1984,62.25,616000,Jul 2021
+611,Clementi West St 1,01 to 03,104,Model A,1983,61.33,448000,Jul 2021
+712,Clementi West St 2,07 to 09,91,New Generation,1980,57.92,440000,Jul 2021
+512,West Coast Dr,07 to 09,91,New Generation,1978,55.58,417000,Jul 2021
+416,Clementi Ave 1,28 to 30,100,Model A,2013,91.25,808000,Jun 2021
+420,Clementi Ave 1,31 to 33,100,Model A,2013,91.33,782000,Jun 2021
+363,Clementi Ave 2,01 to 03,90,New Generation,1978,55.67,490000,Jun 2021
+457,Clementi Ave 3,07 to 09,90,Model A,2002,80.58,700000,Jun 2021
+462,Clementi Ave 3,25 to 27,90,Model A,2006,84.17,760000,Jun 2021
+307,Clementi Ave 4,04 to 06,92,New Generation,1979,57.5,520000,Jun 2021
+311A,Clementi Ave 4,13 to 15,80,Dbss,2014,92.58,738000,Jun 2021
+311B,Clementi Ave 4,31 to 33,80,Dbss,2014,92.58,778000,Jun 2021
+311C,Clementi Ave 4,10 to 12,82,Dbss,2014,92.58,695000,Jun 2021
+311C,Clementi Ave 4,34 to 36,80,Dbss,2014,92.58,745000,Jun 2021
+312C,Clementi Ave 4,16 to 18,93,Model A,2017,95.25,820000,Jun 2021
+312C,Clementi Ave 4,13 to 15,93,Model A,2017,95.25,828000,Jun 2021
+118,Clementi St 13,07 to 09,104,Model A,1984,62.42,568000,Jun 2021
+715,Clementi West St 2,04 to 06,92,New Generation,1981,59.33,425000,Jun 2021
+716,Clementi West St 2,16 to 18,91,New Generation,1981,59.33,438888,Jun 2021
+510,West Coast Dr,07 to 09,83,New Generation,1978,55.67,400000,Jun 2021
+512,West Coast Dr,10 to 12,91,New Generation,1978,55.67,408000,Jun 2021
+331,Clementi Ave 2,01 to 03,92,New Generation,1978,56.25,488000,May 2021
+335,Clementi Ave 2,01 to 03,92,New Generation,1978,56.58,485000,May 2021
+461,Clementi Ave 3,19 to 21,90,Model A,2006,84.58,728000,May 2021
+311A,Clementi Ave 4,40 to 42,80,Dbss,2014,92.67,779000,May 2021
+311A,Clementi Ave 4,34 to 36,80,Dbss,2014,92.67,785000,May 2021
+311B,Clementi Ave 4,22 to 24,82,Dbss,2014,92.67,730000,May 2021
+311B,Clementi Ave 4,28 to 30,80,Dbss,2014,92.58,750000,May 2021
+311C,Clementi Ave 4,28 to 30,80,Dbss,2014,92.67,768000,May 2021
+311C,Clementi Ave 4,34 to 36,80,Dbss,2014,92.67,770888,May 2021
+311C,Clementi Ave 4,37 to 39,82,Dbss,2014,92.67,795000,May 2021
+312C,Clementi Ave 4,07 to 09,93,Model A,2017,95.33,823888,May 2021
+117,Clementi St 13,10 to 12,104,Model A,1984,62.5,580000,May 2021
+716,Clementi West St 2,04 to 06,91,New Generation,1981,59.42,420000,May 2021
+508,West Coast Dr,07 to 09,83,New Generation,1978,56.33,368000,May 2021
+417,Clementi Ave 1,04 to 06,100,Model A,2013,91.5,690000,Apr 2021
+420,Clementi Ave 1,31 to 33,91,Model A,2013,91.42,750888,Apr 2021
+425,Clementi Ave 1,04 to 06,100,Model A,2013,91.42,685000,Apr 2021
+425,Clementi Ave 1,13 to 15,100,Model A,2013,91.5,695000,Apr 2021
+358,Clementi Ave 2,04 to 06,92,New Generation,1978,55.83,465000,Apr 2021
+364,Clementi Ave 2,07 to 09,90,New Generation,1978,55.83,459000,Apr 2021
+440A,Clementi Ave 3,10 to 12,87,Model A,2018,96.33,800000,Apr 2021
+460,Clementi Ave 3,01 to 03,90,Model A,2002,80.75,540000,Apr 2021
+462,Clementi Ave 3,01 to 03,90,Model A,2006,84.25,600000,Apr 2021
+304,Clementi Ave 4,07 to 09,92,New Generation,1979,56.92,480000,Apr 2021
+311A,Clementi Ave 4,22 to 24,80,Dbss,2014,92.67,790000,Apr 2021
+311B,Clementi Ave 4,10 to 12,81,Dbss,2014,92.83,743000,Apr 2021
+311B,Clementi Ave 4,34 to 36,81,Dbss,2014,92.75,770000,Apr 2021
+311B,Clementi Ave 4,34 to 36,81,Dbss,2014,92.67,770000,Apr 2021
+312C,Clementi Ave 4,22 to 24,93,Model A,2017,95.42,825000,Apr 2021
+312C,Clementi Ave 4,37 to 39,93,Model A,2017,95.33,832888,Apr 2021
+348,Clementi Ave 5,04 to 06,92,New Generation,1979,56.92,400000,Apr 2021
+380,Clementi Ave 5,01 to 03,93,New Generation,1980,58.58,473000,Apr 2021
+202,Clementi Ave 6,01 to 03,96,New Generation,1985,62.83,435000,Apr 2021
+205,Clementi Ave 6,04 to 06,93,New Generation,1984,62.58,520000,Apr 2021
+117,Clementi St 13,13 to 15,104,Model A,1984,62.5,600000,Apr 2021
+601,Clementi West St 1,10 to 12,92,New Generation,1979,57.67,425000,Apr 2021
+705,Clementi West St 2,07 to 09,92,New Generation,1980,58.42,424000,Apr 2021
+712,Clementi West St 2,07 to 09,91,New Generation,1980,58.08,416000,Apr 2021
+713,Clementi West St 2,07 to 09,93,New Generation,1985,63.33,415000,Apr 2021
+715,Clementi West St 2,04 to 06,93,New Generation,1981,59.5,420000,Apr 2021
+411,C'wealth Ave West,01 to 03,97,New Generation,1978,56,400000,Mar 2021
+411,C'wealth Ave West,01 to 03,97,New Generation,1978,56.08,428088,Mar 2021
+411,C'wealth Ave West,10 to 12,97,New Generation,1978,56,471000,Mar 2021
+417,Clementi Ave 1,19 to 21,100,Model A,2013,91.58,750000,Mar 2021
+420,Clementi Ave 1,37 to 39,96,Model A,2013,91.5,800000,Mar 2021
+332,Clementi Ave 2,10 to 12,92,New Generation,1978,56.42,520500,Mar 2021
+333,Clementi Ave 2,13 to 15,92,New Generation,1978,56.42,560000,Mar 2021
+434,Clementi Ave 3,10 to 12,91,New Generation,1978,56.75,520000,Mar 2021
+440B,Clementi Ave 3,07 to 09,94,Model A,2018,96.42,823828,Mar 2021
+460,Clementi Ave 3,10 to 12,85,Model A,2002,80.83,688000,Mar 2021
+461,Clementi Ave 3,19 to 21,90,Model A,2006,84.75,731000,Mar 2021
+302,Clementi Ave 4,01 to 03,92,New Generation,1979,57,420000,Mar 2021
+311B,Clementi Ave 4,40 to 42,80,Dbss,2014,92.83,715000,Mar 2021
+311B,Clementi Ave 4,28 to 30,80,Dbss,2014,92.75,740000,Mar 2021
+311B,Clementi Ave 4,16 to 18,82,Dbss,2014,92.75,750000,Mar 2021
+311B,Clementi Ave 4,22 to 24,82,Dbss,2014,92.75,750000,Mar 2021
+311C,Clementi Ave 4,31 to 33,80,Dbss,2014,92.92,745000,Mar 2021
+373,Clementi Ave 4,01 to 03,92,New Generation,1981,59.5,470000,Mar 2021
+117,Clementi St 13,07 to 09,108,Model A,1984,62.58,510000,Mar 2021
+117,Clementi St 13,13 to 15,104,Model A,1984,62.67,533000,Mar 2021
+607,Clementi West St 1,07 to 09,92,New Generation,1979,57.75,426000,Mar 2021
+708,Clementi West St 2,01 to 03,91,New Generation,1980,58.33,386888,Mar 2021
+716,Clementi West St 2,01 to 03,91,New Generation,1981,59.58,385000,Mar 2021
+716,Clementi West St 2,04 to 06,91,New Generation,1981,59.5,415000,Mar 2021
+506,West Coast Dr,01 to 03,83,New Generation,1978,56.5,360000,Mar 2021
+410,C'wealth Ave West,01 to 03,97,New Generation,1978,56.08,415000,Feb 2021
+411,C'wealth Ave West,04 to 06,98,New Generation,1978,56.17,493000,Feb 2021
+420,Clementi Ave 1,04 to 06,91,Model A,2013,91.58,630000,Feb 2021
+350,Clementi Ave 2,01 to 03,92,New Generation,1978,56.58,408000,Feb 2021
+441B,Clementi Ave 3,34 to 36,93,Model A,2012,90.42,880000,Feb 2021
+462,Clementi Ave 3,19 to 21,90,Model A,2006,84.5,725888,Feb 2021
+304,Clementi Ave 4,01 to 03,92,New Generation,1979,57.17,370000,Feb 2021
+311A,Clementi Ave 4,25 to 27,80,Dbss,2014,92.92,763000,Feb 2021
+311B,Clementi Ave 4,10 to 12,81,Dbss,2014,92.92,727000,Feb 2021
+311B,Clementi Ave 4,19 to 21,82,Dbss,2014,92.92,730000,Feb 2021
+311B,Clementi Ave 4,22 to 24,81,Dbss,2014,92.92,755000,Feb 2021
+311C,Clementi Ave 4,04 to 06,82,Dbss,2014,92.92,650000,Feb 2021
+311C,Clementi Ave 4,28 to 30,82,Dbss,2014,92.83,770000,Feb 2021
+316,Clementi Ave 4,07 to 09,91,New Generation,1979,57.33,533000,Feb 2021
+381,Clementi Ave 5,10 to 12,91,New Generation,1981,59.5,538000,Feb 2021
+118,Clementi St 13,01 to 03,104,Model A,1984,62.75,555000,Feb 2021
+101,Clementi St 14,13 to 15,98,New Generation,1984,62.75,555000,Feb 2021
+708,Clementi West St 2,04 to 06,91,New Generation,1980,58.5,410000,Feb 2021
+712,Clementi West St 2,10 to 12,91,New Generation,1980,58.25,415000,Feb 2021
+716,Clementi West St 2,07 to 09,91,New Generation,1981,59.67,411000,Feb 2021
+730,Clementi West St 2,04 to 06,93,New Generation,1980,58.58,420000,Feb 2021
+412,C'wealth Ave West,13 to 15,97,New Generation,1978,56.25,445000,Jan 2021
+425,Clementi Ave 1,04 to 06,100,Model A,2013,91.67,738888,Jan 2021
+333,Clementi Ave 2,07 to 09,92,New Generation,1978,56.67,512000,Jan 2021
+358,Clementi Ave 2,01 to 03,92,New Generation,1978,56,400000,Jan 2021
+440B,Clementi Ave 3,37 to 39,94,Model A,2018,96.58,880000,Jan 2021
+456,Clementi Ave 3,22 to 24,91,Model A,2002,81,710000,Jan 2021
+460,Clementi Ave 3,01 to 03,86,Model A,2002,81,585000,Jan 2021
+460,Clementi Ave 3,04 to 06,85,Model A,2002,81,635000,Jan 2021
+301,Clementi Ave 4,10 to 12,92,New Generation,1979,57.17,418000,Jan 2021
+311A,Clementi Ave 4,16 to 18,82,Dbss,2014,93,745000,Jan 2021
+311A,Clementi Ave 4,31 to 33,82,Dbss,2014,93,755000,Jan 2021
+311A,Clementi Ave 4,34 to 36,82,Dbss,2014,93,770000,Jan 2021
+311B,Clementi Ave 4,10 to 12,82,Dbss,2014,92.92,715000,Jan 2021
+311B,Clementi Ave 4,31 to 33,82,Dbss,2014,92.92,777000,Jan 2021
+311C,Clementi Ave 4,19 to 21,82,Dbss,2014,93,748000,Jan 2021
+311C,Clementi Ave 4,25 to 27,80,Dbss,2014,93,775000,Jan 2021
+311C,Clementi Ave 4,37 to 39,82,Dbss,2014,92.92,785000,Jan 2021
+316,Clementi Ave 4,07 to 09,91,New Generation,1979,57.42,536000,Jan 2021
+113,Clementi St 13,04 to 06,104,Model A,1984,62.83,550000,Jan 2021
+611,Clementi West St 1,01 to 03,103,Model A,1983,61.75,430000,Jan 2021
+711,Clementi West St 2,10 to 12,92,New Generation,1980,59,375000,Jan 2021
+713,Clementi West St 2,04 to 06,93,New Generation,1985,63.58,415000,Jan 2021
+511,West Coast Dr,10 to 12,92,New Generation,1978,56.08,405000,Jan 2021
+359,Clementi Ave 2,04 to 06,92,New Generation,1978,56.17,475000,Dec 2020
+429,Clementi Ave 3,10 to 12,91,New Generation,1978,56.42,490000,Dec 2020
+441B,Clementi Ave 3,07 to 09,93,Model A,2012,90.67,800000,Dec 2020
+441B,Clementi Ave 3,37 to 39,91,Model A,2012,90.67,855000,Dec 2020
+454,Clementi Ave 3,10 to 12,86,Model A,2002,81.08,680000,Dec 2020
+454,Clementi Ave 3,10 to 12,90,Model A,2002,81.08,715000,Dec 2020
+460,Clementi Ave 3,22 to 24,90,Model A,2002,81.08,685000,Dec 2020
+301,Clementi Ave 4,04 to 06,92,New Generation,1979,57.25,480000,Dec 2020
+311A,Clementi Ave 4,25 to 27,82,Dbss,2014,93.08,750000,Dec 2020
+311A,Clementi Ave 4,31 to 33,82,Dbss,2014,93,785000,Dec 2020
+311B,Clementi Ave 4,13 to 15,80,Dbss,2014,93.08,715000,Dec 2020
+311C,Clementi Ave 4,34 to 36,80,Dbss,2014,93.08,780000,Dec 2020
+318,Clementi Ave 4,10 to 12,91,New Generation,1979,57.5,538000,Dec 2020
+347,Clementi Ave 5,10 to 12,92,New Generation,1979,57.08,480000,Dec 2020
+348,Clementi Ave 5,01 to 03,92,New Generation,1979,57.25,438000,Dec 2020
+707,Clementi West St 2,10 to 12,91,New Generation,1980,58.67,396000,Dec 2020
+716,Clementi West St 2,07 to 09,91,New Generation,1981,59.83,410000,Dec 2020
+729,Clementi West St 2,07 to 09,93,New Generation,1983,61.83,430000,Dec 2020
+511,West Coast Dr,04 to 06,92,New Generation,1978,56.25,355000,Dec 2020
+511,West Coast Dr,10 to 12,91,New Generation,1978,56.08,388000,Dec 2020
+512,West Coast Dr,07 to 09,91,New Generation,1978,56.17,385000,Dec 2020
+423,Clementi Ave 1,04 to 06,100,Model A,2013,91.92,738000,Nov 2020
+423,Clementi Ave 1,10 to 12,100,Model A,2013,91.92,748000,Nov 2020
+332,Clementi Ave 2,10 to 12,92,New Generation,1978,56.75,520000,Nov 2020
+349,Clementi Ave 2,01 to 03,92,New Generation,1978,56.92,401888,Nov 2020
+350,Clementi Ave 2,01 to 03,92,New Generation,1978,56.83,370000,Nov 2020
+351,Clementi Ave 2,07 to 09,92,New Generation,1978,56.92,410000,Nov 2020
+432,Clementi Ave 3,01 to 03,91,New Generation,1978,57.17,490000,Nov 2020
+433,Clementi Ave 3,07 to 09,91,New Generation,1978,57.08,510000,Nov 2020
+434,Clementi Ave 3,10 to 12,91,New Generation,1978,57.17,495000,Nov 2020
+441B,Clementi Ave 3,22 to 24,96,Model A,2012,90.67,848000,Nov 2020
+441B,Clementi Ave 3,37 to 39,96,Model A,2012,90.67,885000,Nov 2020
+454,Clementi Ave 3,07 to 09,90,Model A,2002,81.08,675000,Nov 2020
+301,Clementi Ave 4,01 to 03,92,New Generation,1979,57.42,364000,Nov 2020
+301,Clementi Ave 4,01 to 03,92,New Generation,1979,57.5,388000,Nov 2020
+309,Clementi Ave 4,07 to 09,92,New Generation,1980,58.17,418000,Nov 2020
+311A,Clementi Ave 4,28 to 30,82,Dbss,2014,93.17,780000,Nov 2020
+311B,Clementi Ave 4,37 to 39,81,Dbss,2014,93.08,768000,Nov 2020
+311B,Clementi Ave 4,31 to 33,81,Dbss,2014,93.17,772000,Nov 2020
+316,Clementi Ave 4,07 to 09,91,New Generation,1979,57.58,511888,Nov 2020
+340,Clementi Ave 5,04 to 06,98,New Generation,1979,58.08,470000,Nov 2020
+341,Clementi Ave 5,04 to 06,92,New Generation,1979,57.5,450000,Nov 2020
+348,Clementi Ave 5,07 to 09,92,New Generation,1979,57.42,448000,Nov 2020
+202,Clementi Ave 6,01 to 03,93,New Generation,1985,63.25,418888,Nov 2020
+117,Clementi St 13,10 to 12,104,Model A,1984,63,520000,Nov 2020
+117,Clementi St 13,01 to 03,104,Model A,1984,63,530000,Nov 2020
+103,Clementi St 14,04 to 06,98,New Generation,1984,63.08,500000,Nov 2020
+103,Clementi St 14,04 to 06,98,New Generation,1984,63.17,525000,Nov 2020
+705,Clementi West St 2,07 to 09,92,New Generation,1980,58.83,415000,Nov 2020
+707,Clementi West St 2,01 to 03,91,New Generation,1980,58.75,320000,Nov 2020
+708,Clementi West St 2,10 to 12,91,New Generation,1980,58.75,405000,Nov 2020
+507,West Coast Dr,04 to 06,83,New Generation,1978,56.83,340000,Nov 2020
+511,West Coast Dr,10 to 12,92,New Generation,1978,56.17,410000,Nov 2020
+421,Clementi Ave 1,16 to 18,91,Model A,2013,90.92,750000,Nov 2021
+421,Clementi Ave 1,16 to 18,92,Model A,2013,90.92,760000,Nov 2021
+454,Clementi Ave 3,13 to 15,90,Model A,2002,80.17,732888,Nov 2021
+462,Clementi Ave 3,04 to 06,90,Model A,2006,83.75,672000,Nov 2021
+311C,Clementi Ave 4,37 to 39,80,Dbss,2014,92.17,788000,Nov 2021
+411,C'wealth Ave West,04 to 06,97,New Generation,1978,55.42,538000,Oct 2021
+412,C'wealth Ave West,13 to 15,97,New Generation,1978,55.5,565000,Oct 2021
+420,Clementi Ave 1,07 to 09,96,Model A,2013,91,695000,Oct 2021
+423,Clementi Ave 1,13 to 15,100,Model A,2013,91,760000,Oct 2021
+424,Clementi Ave 1,10 to 12,99,Model A,2013,91,755000,Oct 2021
+332,Clementi Ave 2,10 to 12,92,New Generation,1978,55.92,530000,Oct 2021
+332,Clementi Ave 2,04 to 06,92,New Generation,1978,55.83,545000,Oct 2021
+333,Clementi Ave 2,04 to 06,92,New Generation,1978,55.83,508000,Oct 2021
+359,Clementi Ave 2,10 to 12,92,New Generation,1978,55.33,475000,Oct 2021
+362,Clementi Ave 2,01 to 03,90,New Generation,1978,55.33,465000,Oct 2021
+454,Clementi Ave 3,16 to 18,91,Model A,2002,80.25,708000,Oct 2021
+454,Clementi Ave 3,10 to 12,90,Model A,2002,80.33,715000,Oct 2021
+456,Clementi Ave 3,13 to 15,91,Model A,2002,80.25,720000,Oct 2021
+460,Clementi Ave 3,01 to 03,85,Model A,2002,80.25,630100,Oct 2021
+460,Clementi Ave 3,13 to 15,90,Model A,2002,80.25,750000,Oct 2021
+307,Clementi Ave 4,07 to 09,92,New Generation,1979,57.17,560000,Oct 2021
+311A,Clementi Ave 4,16 to 18,80,Dbss,2014,92.25,750000,Oct 2021
+311A,Clementi Ave 4,34 to 36,80,Dbss,2014,92.25,775000,Oct 2021
+311C,Clementi Ave 4,28 to 30,80,Dbss,2014,92.25,745000,Oct 2021
+311C,Clementi Ave 4,28 to 30,80,Dbss,2014,92.25,762000,Oct 2021
+311C,Clementi Ave 4,28 to 30,82,Dbss,2014,92.25,790000,Oct 2021
+312B,Clementi Ave 4,34 to 36,93,Model A,2017,94.92,870888,Oct 2021
+312C,Clementi Ave 4,28 to 30,93,Model A,2017,94.92,872888,Oct 2021
+312C,Clementi Ave 4,25 to 27,93,Model A,2017,95,878000,Oct 2021
+117,Clementi St 13,04 to 06,104,Model A,1984,62.08,580000,Oct 2021
+709,Clementi West St 2,01 to 03,91,New Generation,1980,57.83,423000,Oct 2021
+715,Clementi West St 2,07 to 09,91,New Generation,1981,59,440000,Oct 2021
+424,Clementi Ave 1,19 to 21,100,Model A,2013,91.08,760000,Sep 2021
+330,Clementi Ave 2,04 to 06,83,New Generation,1978,55.92,495000,Sep 2021
+456,Clementi Ave 3,19 to 21,92,Model A,2002,80.25,728000,Sep 2021
+460,Clementi Ave 3,10 to 12,90,Model A,2002,80.33,660000,Sep 2021
+462,Clementi Ave 3,10 to 12,90,Model A,2006,83.92,715000,Sep 2021
+302,Clementi Ave 4,01 to 03,92,New Generation,1979,56.58,455000,Sep 2021
+311A,Clementi Ave 4,07 to 09,80,Dbss,2014,92.33,730000,Sep 2021
+311A,Clementi Ave 4,28 to 30,82,Dbss,2014,92.33,752888,Sep 2021
+311A,Clementi Ave 4,16 to 18,82,Dbss,2014,92.33,770000,Sep 2021
+311B,Clementi Ave 4,13 to 15,82,Dbss,2014,92.33,718000,Sep 2021
+311C,Clementi Ave 4,19 to 21,80,Dbss,2014,92.33,743000,Sep 2021
+311C,Clementi Ave 4,28 to 30,80,Dbss,2014,92.25,750000,Sep 2021
+311C,Clementi Ave 4,34 to 36,82,Dbss,2014,92.33,795000,Sep 2021
+312C,Clementi Ave 4,01 to 03,93,Model A,2017,94.92,705000,Sep 2021
+312C,Clementi Ave 4,10 to 12,93,Model A,2017,95,795000,Sep 2021
+312C,Clementi Ave 4,28 to 30,93,Model A,2017,94.92,872000,Sep 2021
+317,Clementi Ave 4,04 to 06,91,New Generation,1979,56.75,530000,Sep 2021
+346,Clementi Ave 5,04 to 06,92,New Generation,1979,56.5,485000,Sep 2021
+118,Clementi St 13,01 to 03,104,Model A,1984,62.17,540000,Sep 2021
+601,Clementi West St 1,04 to 06,92,New Generation,1979,57.25,446800,Sep 2021
+602,Clementi West St 1,07 to 09,92,New Generation,1979,57.25,473000,Sep 2021
+712,Clementi West St 2,10 to 12,92,New Generation,1980,57.75,435000,Sep 2021
+507,West Coast Dr,10 to 12,83,New Generation,1978,56,408000,Sep 2021
+330,Clementi Ave 2,10 to 12,92,New Generation,1978,56,548000,Aug 2021
+428,Clementi Ave 3,04 to 06,91,New Generation,1978,55.75,555000,Aug 2021
+454,Clementi Ave 3,10 to 12,86,Model A,2002,80.42,700000,Aug 2021
+462,Clementi Ave 3,19 to 21,90,Model A,2006,84,762000,Aug 2021
+301,Clementi Ave 4,13 to 15,92,New Generation,1979,56.67,453000,Aug 2021
+311A,Clementi Ave 4,07 to 09,81,Dbss,2014,92.42,720000,Aug 2021
+311A,Clementi Ave 4,37 to 39,82,Dbss,2014,92.42,780000,Aug 2021
+311A,Clementi Ave 4,37 to 39,82,Dbss,2014,92.42,790000,Aug 2021
+311B,Clementi Ave 4,04 to 06,81,Dbss,2014,92.42,700000,Aug 2021
+311B,Clementi Ave 4,10 to 12,82,Dbss,2014,92.33,718000,Aug 2021
+311B,Clementi Ave 4,10 to 12,80,Dbss,2014,92.33,725000,Aug 2021
+311B,Clementi Ave 4,16 to 18,80,Dbss,2014,92.42,745000,Aug 2021
+311B,Clementi Ave 4,19 to 21,81,Dbss,2014,92.42,745000,Aug 2021
+311C,Clementi Ave 4,22 to 24,82,Dbss,2014,92.42,760000,Aug 2021
+312B,Clementi Ave 4,37 to 39,93,Model A,2017,95.08,868888,Aug 2021
+312C,Clementi Ave 4,04 to 06,93,Model A,2017,95.08,808000,Aug 2021
+312C,Clementi Ave 4,31 to 33,93,Model A,2017,95.08,838000,Aug 2021
+312C,Clementi Ave 4,19 to 21,93,Model A,2017,95.08,845000,Aug 2021
+318,Clementi Ave 4,01 to 03,91,New Generation,1979,56.83,545000,Aug 2021
+324,Clementi Ave 5,10 to 12,91,New Generation,1978,55.58,615000,Aug 2021
+379,Clementi Ave 5,04 to 06,91,New Generation,1980,58.08,522888,Aug 2021
+204,Clementi Ave 6,13 to 15,98,New Generation,1984,62.33,528000,Aug 2021
+612,Clementi West St 1,10 to 12,104,Model A,1983,61.42,515000,Aug 2021
+707,Clementi West St 2,01 to 03,91,New Generation,1980,58,375000,Aug 2021
+712,Clementi West St 2,01 to 03,91,New Generation,1980,57.83,415000,Aug 2021
+511,West Coast Dr,07 to 09,91,New Generation,1978,55.5,420000,Aug 2021
+512,West Coast Dr,04 to 06,92,New Generation,1978,55.42,380000,Aug 2021
+411,C'wealth Ave West,07 to 09,97,New Generation,1978,55.75,510000,Jul 2021
+418,Clementi Ave 1,10 to 12,99,Model A,2013,91.17,760000,Jul 2021
+421,Clementi Ave 1,37 to 39,96,Model A,2013,91.25,790000,Jul 2021
+421,Clementi Ave 1,37 to 39,96,Model A,2013,91.25,828888,Jul 2021
+335,Clementi Ave 2,04 to 06,83,New Generation,1978,56.42,438000,Jul 2021
+358,Clementi Ave 2,01 to 03,92,New Generation,1978,55.58,422000,Jul 2021
+441B,Clementi Ave 3,31 to 33,93,Model A,2012,90.08,900000,Jul 2021
+302,Clementi Ave 4,01 to 03,92,New Generation,1979,56.75,425000,Jul 2021
+311A,Clementi Ave 4,34 to 36,82,Dbss,2014,92.5,763000,Jul 2021
+311A,Clementi Ave 4,37 to 39,82,Dbss,2014,92.5,770000,Jul 2021
+311A,Clementi Ave 4,34 to 36,80,Dbss,2014,92.5,775000,Jul 2021
+311B,Clementi Ave 4,19 to 21,80,Dbss,2014,92.5,750000,Jul 2021
+311B,Clementi Ave 4,37 to 39,82,Dbss,2014,92.5,758000,Jul 2021
+311C,Clementi Ave 4,25 to 27,80,Dbss,2014,92.5,730000,Jul 2021
+311C,Clementi Ave 4,28 to 30,80,Dbss,2014,92.58,755888,Jul 2021
+311C,Clementi Ave 4,19 to 21,80,Dbss,2014,92.5,770000,Jul 2021
+312C,Clementi Ave 4,10 to 12,93,Model A,2017,95.17,798000,Jul 2021
+312C,Clementi Ave 4,16 to 18,93,Model A,2017,95.17,815000,Jul 2021
+312C,Clementi Ave 4,31 to 33,93,Model A,2017,95.17,828888,Jul 2021
+312C,Clementi Ave 4,34 to 36,93,Model A,2017,95.17,843000,Jul 2021
+312C,Clementi Ave 4,31 to 33,93,Model A,2017,95.08,874000,Jul 2021
+312C,Clementi Ave 4,25 to 27,93,Model A,2017,95.17,900888,Jul 2021
+316,Clementi Ave 4,10 to 12,91,New Generation,1979,56.92,536000,Jul 2021
+348,Clementi Ave 5,04 to 06,92,New Generation,1979,56.75,455000,Jul 2021
+348,Clementi Ave 5,07 to 09,92,New Generation,1979,56.75,480000,Jul 2021
+117,Clementi St 13,13 to 15,104,Model A,1984,62.25,616000,Jul 2021
+611,Clementi West St 1,01 to 03,104,Model A,1983,61.33,448000,Jul 2021
+712,Clementi West St 2,07 to 09,91,New Generation,1980,57.92,440000,Jul 2021
+512,West Coast Dr,07 to 09,91,New Generation,1978,55.58,417000,Jul 2021
+416,Clementi Ave 1,28 to 30,100,Model A,2013,91.25,808000,Jun 2021
+420,Clementi Ave 1,31 to 33,100,Model A,2013,91.33,782000,Jun 2021
+363,Clementi Ave 2,01 to 03,90,New Generation,1978,55.67,490000,Jun 2021
+457,Clementi Ave 3,07 to 09,90,Model A,2002,80.58,700000,Jun 2021
+462,Clementi Ave 3,25 to 27,90,Model A,2006,84.17,760000,Jun 2021
+307,Clementi Ave 4,04 to 06,92,New Generation,1979,57.5,520000,Jun 2021
+311A,Clementi Ave 4,13 to 15,80,Dbss,2014,92.58,738000,Jun 2021
+311B,Clementi Ave 4,31 to 33,80,Dbss,2014,92.58,778000,Jun 2021
+311C,Clementi Ave 4,10 to 12,82,Dbss,2014,92.58,695000,Jun 2021
+311C,Clementi Ave 4,34 to 36,80,Dbss,2014,92.58,745000,Jun 2021
+312C,Clementi Ave 4,16 to 18,93,Model A,2017,95.25,820000,Jun 2021
+312C,Clementi Ave 4,13 to 15,93,Model A,2017,95.25,828000,Jun 2021
+118,Clementi St 13,07 to 09,104,Model A,1984,62.42,568000,Jun 2021
+715,Clementi West St 2,04 to 06,92,New Generation,1981,59.33,425000,Jun 2021
+716,Clementi West St 2,16 to 18,91,New Generation,1981,59.33,438888,Jun 2021
+510,West Coast Dr,07 to 09,83,New Generation,1978,55.67,400000,Jun 2021
+512,West Coast Dr,10 to 12,91,New Generation,1978,55.67,408000,Jun 2021
+331,Clementi Ave 2,01 to 03,92,New Generation,1978,56.25,488000,May 2021
+335,Clementi Ave 2,01 to 03,92,New Generation,1978,56.58,485000,May 2021
+461,Clementi Ave 3,19 to 21,90,Model A,2006,84.58,728000,May 2021
+311A,Clementi Ave 4,40 to 42,80,Dbss,2014,92.67,779000,May 2021
+311A,Clementi Ave 4,34 to 36,80,Dbss,2014,92.67,785000,May 2021
+311B,Clementi Ave 4,22 to 24,82,Dbss,2014,92.67,730000,May 2021
+311B,Clementi Ave 4,28 to 30,80,Dbss,2014,92.58,750000,May 2021
+311C,Clementi Ave 4,28 to 30,80,Dbss,2014,92.67,768000,May 2021
+311C,Clementi Ave 4,34 to 36,80,Dbss,2014,92.67,770888,May 2021
+311C,Clementi Ave 4,37 to 39,82,Dbss,2014,92.67,795000,May 2021
+312C,Clementi Ave 4,07 to 09,93,Model A,2017,95.33,823888,May 2021
+117,Clementi St 13,10 to 12,104,Model A,1984,62.5,580000,May 2021
+716,Clementi West St 2,04 to 06,91,New Generation,1981,59.42,420000,May 2021
+508,West Coast Dr,07 to 09,83,New Generation,1978,56.33,368000,May 2021
+417,Clementi Ave 1,04 to 06,100,Model A,2013,91.5,690000,Apr 2021
+420,Clementi Ave 1,31 to 33,91,Model A,2013,91.42,750888,Apr 2021
+425,Clementi Ave 1,04 to 06,100,Model A,2013,91.42,685000,Apr 2021
+425,Clementi Ave 1,13 to 15,100,Model A,2013,91.5,695000,Apr 2021
+358,Clementi Ave 2,04 to 06,92,New Generation,1978,55.83,465000,Apr 2021
+364,Clementi Ave 2,07 to 09,90,New Generation,1978,55.83,459000,Apr 2021
+440A,Clementi Ave 3,10 to 12,87,Model A,2018,96.33,800000,Apr 2021
+460,Clementi Ave 3,01 to 03,90,Model A,2002,80.75,540000,Apr 2021
+462,Clementi Ave 3,01 to 03,90,Model A,2006,84.25,600000,Apr 2021
+304,Clementi Ave 4,07 to 09,92,New Generation,1979,56.92,480000,Apr 2021
+311A,Clementi Ave 4,22 to 24,80,Dbss,2014,92.67,790000,Apr 2021
+311B,Clementi Ave 4,10 to 12,81,Dbss,2014,92.83,743000,Apr 2021
+311B,Clementi Ave 4,34 to 36,81,Dbss,2014,92.75,770000,Apr 2021
+311B,Clementi Ave 4,34 to 36,81,Dbss,2014,92.67,770000,Apr 2021
+312C,Clementi Ave 4,22 to 24,93,Model A,2017,95.42,825000,Apr 2021
+312C,Clementi Ave 4,37 to 39,93,Model A,2017,95.33,832888,Apr 2021
+348,Clementi Ave 5,04 to 06,92,New Generation,1979,56.92,400000,Apr 2021
+380,Clementi Ave 5,01 to 03,93,New Generation,1980,58.58,473000,Apr 2021
+202,Clementi Ave 6,01 to 03,96,New Generation,1985,62.83,435000,Apr 2021
+205,Clementi Ave 6,04 to 06,93,New Generation,1984,62.58,520000,Apr 2021
+117,Clementi St 13,13 to 15,104,Model A,1984,62.5,600000,Apr 2021
+601,Clementi West St 1,10 to 12,92,New Generation,1979,57.67,425000,Apr 2021
+705,Clementi West St 2,07 to 09,92,New Generation,1980,58.42,424000,Apr 2021
+712,Clementi West St 2,07 to 09,91,New Generation,1980,58.08,416000,Apr 2021
+713,Clementi West St 2,07 to 09,93,New Generation,1985,63.33,415000,Apr 2021
+715,Clementi West St 2,04 to 06,93,New Generation,1981,59.5,420000,Apr 2021
+411,C'wealth Ave West,01 to 03,97,New Generation,1978,56,400000,Mar 2021
+411,C'wealth Ave West,01 to 03,97,New Generation,1978,56.08,428088,Mar 2021
+411,C'wealth Ave West,10 to 12,97,New Generation,1978,56,471000,Mar 2021
+417,Clementi Ave 1,19 to 21,100,Model A,2013,91.58,750000,Mar 2021
+420,Clementi Ave 1,37 to 39,96,Model A,2013,91.5,800000,Mar 2021
+332,Clementi Ave 2,10 to 12,92,New Generation,1978,56.42,520500,Mar 2021
+333,Clementi Ave 2,13 to 15,92,New Generation,1978,56.42,560000,Mar 2021
+434,Clementi Ave 3,10 to 12,91,New Generation,1978,56.75,520000,Mar 2021
+440B,Clementi Ave 3,07 to 09,94,Model A,2018,96.42,823828,Mar 2021
+460,Clementi Ave 3,10 to 12,85,Model A,2002,80.83,688000,Mar 2021
+461,Clementi Ave 3,19 to 21,90,Model A,2006,84.75,731000,Mar 2021
+302,Clementi Ave 4,01 to 03,92,New Generation,1979,57,420000,Mar 2021
+311B,Clementi Ave 4,40 to 42,80,Dbss,2014,92.83,715000,Mar 2021
+311B,Clementi Ave 4,28 to 30,80,Dbss,2014,92.75,740000,Mar 2021
+311B,Clementi Ave 4,16 to 18,82,Dbss,2014,92.75,750000,Mar 2021
+311B,Clementi Ave 4,22 to 24,82,Dbss,2014,92.75,750000,Mar 2021
+311C,Clementi Ave 4,31 to 33,80,Dbss,2014,92.92,745000,Mar 2021
+373,Clementi Ave 4,01 to 03,92,New Generation,1981,59.5,470000,Mar 2021
+117,Clementi St 13,07 to 09,108,Model A,1984,62.58,510000,Mar 2021
+117,Clementi St 13,13 to 15,104,Model A,1984,62.67,533000,Mar 2021
+607,Clementi West St 1,07 to 09,92,New Generation,1979,57.75,426000,Mar 2021
+708,Clementi West St 2,01 to 03,91,New Generation,1980,58.33,386888,Mar 2021
+716,Clementi West St 2,01 to 03,91,New Generation,1981,59.58,385000,Mar 2021
+716,Clementi West St 2,04 to 06,91,New Generation,1981,59.5,415000,Mar 2021
+506,West Coast Dr,01 to 03,83,New Generation,1978,56.5,360000,Mar 2021
+410,C'wealth Ave West,01 to 03,97,New Generation,1978,56.08,415000,Feb 2021
+411,C'wealth Ave West,04 to 06,98,New Generation,1978,56.17,493000,Feb 2021
+420,Clementi Ave 1,04 to 06,91,Model A,2013,91.58,630000,Feb 2021
+350,Clementi Ave 2,01 to 03,92,New Generation,1978,56.58,408000,Feb 2021
+441B,Clementi Ave 3,34 to 36,93,Model A,2012,90.42,880000,Feb 2021
+462,Clementi Ave 3,19 to 21,90,Model A,2006,84.5,725888,Feb 2021
+304,Clementi Ave 4,01 to 03,92,New Generation,1979,57.17,370000,Feb 2021
+311A,Clementi Ave 4,25 to 27,80,Dbss,2014,92.92,763000,Feb 2021
+311B,Clementi Ave 4,10 to 12,81,Dbss,2014,92.92,727000,Feb 2021
+311B,Clementi Ave 4,19 to 21,82,Dbss,2014,92.92,730000,Feb 2021
+311B,Clementi Ave 4,22 to 24,81,Dbss,2014,92.92,755000,Feb 2021
+311C,Clementi Ave 4,04 to 06,82,Dbss,2014,92.92,650000,Feb 2021
+311C,Clementi Ave 4,28 to 30,82,Dbss,2014,92.83,770000,Feb 2021
+316,Clementi Ave 4,07 to 09,91,New Generation,1979,57.33,533000,Feb 2021
+381,Clementi Ave 5,10 to 12,91,New Generation,1981,59.5,538000,Feb 2021
+118,Clementi St 13,01 to 03,104,Model A,1984,62.75,555000,Feb 2021
+101,Clementi St 14,13 to 15,98,New Generation,1984,62.75,555000,Feb 2021
+708,Clementi West St 2,04 to 06,91,New Generation,1980,58.5,410000,Feb 2021
+712,Clementi West St 2,10 to 12,91,New Generation,1980,58.25,415000,Feb 2021
+716,Clementi West St 2,07 to 09,91,New Generation,1981,59.67,411000,Feb 2021
+730,Clementi West St 2,04 to 06,93,New Generation,1980,58.58,420000,Feb 2021
+412,C'wealth Ave West,13 to 15,97,New Generation,1978,56.25,445000,Jan 2021
+425,Clementi Ave 1,04 to 06,100,Model A,2013,91.67,738888,Jan 2021
+333,Clementi Ave 2,07 to 09,92,New Generation,1978,56.67,512000,Jan 2021
+358,Clementi Ave 2,01 to 03,92,New Generation,1978,56,400000,Jan 2021
+440B,Clementi Ave 3,37 to 39,94,Model A,2018,96.58,880000,Jan 2021
+456,Clementi Ave 3,22 to 24,91,Model A,2002,81,710000,Jan 2021
+460,Clementi Ave 3,01 to 03,86,Model A,2002,81,585000,Jan 2021
+460,Clementi Ave 3,04 to 06,85,Model A,2002,81,635000,Jan 2021
+301,Clementi Ave 4,10 to 12,92,New Generation,1979,57.17,418000,Jan 2021
+311A,Clementi Ave 4,16 to 18,82,Dbss,2014,93,745000,Jan 2021
+311A,Clementi Ave 4,31 to 33,82,Dbss,2014,93,755000,Jan 2021
+311A,Clementi Ave 4,34 to 36,82,Dbss,2014,93,770000,Jan 2021
+311B,Clementi Ave 4,10 to 12,82,Dbss,2014,92.92,715000,Jan 2021
+311B,Clementi Ave 4,31 to 33,82,Dbss,2014,92.92,777000,Jan 2021
+311C,Clementi Ave 4,19 to 21,82,Dbss,2014,93,748000,Jan 2021
+311C,Clementi Ave 4,25 to 27,80,Dbss,2014,93,775000,Jan 2021
+311C,Clementi Ave 4,37 to 39,82,Dbss,2014,92.92,785000,Jan 2021
+316,Clementi Ave 4,07 to 09,91,New Generation,1979,57.42,536000,Jan 2021
+113,Clementi St 13,04 to 06,104,Model A,1984,62.83,550000,Jan 2021
+611,Clementi West St 1,01 to 03,103,Model A,1983,61.75,430000,Jan 2021
+711,Clementi West St 2,10 to 12,92,New Generation,1980,59,375000,Jan 2021
+713,Clementi West St 2,04 to 06,93,New Generation,1985,63.58,415000,Jan 2021
+511,West Coast Dr,10 to 12,92,New Generation,1978,56.08,405000,Jan 2021
+359,Clementi Ave 2,04 to 06,92,New Generation,1978,56.17,475000,Dec 2020
+429,Clementi Ave 3,10 to 12,91,New Generation,1978,56.42,490000,Dec 2020
+441B,Clementi Ave 3,07 to 09,93,Model A,2012,90.67,800000,Dec 2020
+441B,Clementi Ave 3,37 to 39,91,Model A,2012,90.67,855000,Dec 2020
+454,Clementi Ave 3,10 to 12,86,Model A,2002,81.08,680000,Dec 2020
+454,Clementi Ave 3,10 to 12,90,Model A,2002,81.08,715000,Dec 2020
+460,Clementi Ave 3,22 to 24,90,Model A,2002,81.08,685000,Dec 2020
+301,Clementi Ave 4,04 to 06,92,New Generation,1979,57.25,480000,Dec 2020
+311A,Clementi Ave 4,25 to 27,82,Dbss,2014,93.08,750000,Dec 2020
+311A,Clementi Ave 4,31 to 33,82,Dbss,2014,93,785000,Dec 2020
+311B,Clementi Ave 4,13 to 15,80,Dbss,2014,93.08,715000,Dec 2020
+311C,Clementi Ave 4,34 to 36,80,Dbss,2014,93.08,780000,Dec 2020
+318,Clementi Ave 4,10 to 12,91,New Generation,1979,57.5,538000,Dec 2020
+347,Clementi Ave 5,10 to 12,92,New Generation,1979,57.08,480000,Dec 2020
+348,Clementi Ave 5,01 to 03,92,New Generation,1979,57.25,438000,Dec 2020
+707,Clementi West St 2,10 to 12,91,New Generation,1980,58.67,396000,Dec 2020
+716,Clementi West St 2,07 to 09,91,New Generation,1981,59.83,410000,Dec 2020
+729,Clementi West St 2,07 to 09,93,New Generation,1983,61.83,430000,Dec 2020
+511,West Coast Dr,04 to 06,92,New Generation,1978,56.25,355000,Dec 2020
+511,West Coast Dr,10 to 12,91,New Generation,1978,56.08,388000,Dec 2020
+512,West Coast Dr,07 to 09,91,New Generation,1978,56.17,385000,Dec 2020
+423,Clementi Ave 1,04 to 06,100,Model A,2013,91.92,738000,Nov 2020
+423,Clementi Ave 1,10 to 12,100,Model A,2013,91.92,748000,Nov 2020
+332,Clementi Ave 2,10 to 12,92,New Generation,1978,56.75,520000,Nov 2020
+349,Clementi Ave 2,01 to 03,92,New Generation,1978,56.92,401888,Nov 2020
+350,Clementi Ave 2,01 to 03,92,New Generation,1978,56.83,370000,Nov 2020
+351,Clementi Ave 2,07 to 09,92,New Generation,1978,56.92,410000,Nov 2020
+432,Clementi Ave 3,01 to 03,91,New Generation,1978,57.17,490000,Nov 2020
+433,Clementi Ave 3,07 to 09,91,New Generation,1978,57.08,510000,Nov 2020
+434,Clementi Ave 3,10 to 12,91,New Generation,1978,57.17,495000,Nov 2020
+441B,Clementi Ave 3,22 to 24,96,Model A,2012,90.67,848000,Nov 2020
+441B,Clementi Ave 3,37 to 39,96,Model A,2012,90.67,885000,Nov 2020
+454,Clementi Ave 3,07 to 09,90,Model A,2002,81.08,675000,Nov 2020
+301,Clementi Ave 4,01 to 03,92,New Generation,1979,57.42,364000,Nov 2020
+301,Clementi Ave 4,01 to 03,92,New Generation,1979,57.5,388000,Nov 2020
+309,Clementi Ave 4,07 to 09,92,New Generation,1980,58.17,418000,Nov 2020
+311A,Clementi Ave 4,28 to 30,82,Dbss,2014,93.17,780000,Nov 2020
+311B,Clementi Ave 4,37 to 39,81,Dbss,2014,93.08,768000,Nov 2020
+311B,Clementi Ave 4,31 to 33,81,Dbss,2014,93.17,772000,Nov 2020
+316,Clementi Ave 4,07 to 09,91,New Generation,1979,57.58,511888,Nov 2020
+340,Clementi Ave 5,04 to 06,98,New Generation,1979,58.08,470000,Nov 2020
+341,Clementi Ave 5,04 to 06,92,New Generation,1979,57.5,450000,Nov 2020
+348,Clementi Ave 5,07 to 09,92,New Generation,1979,57.42,448000,Nov 2020
+202,Clementi Ave 6,01 to 03,93,New Generation,1985,63.25,418888,Nov 2020
+117,Clementi St 13,10 to 12,104,Model A,1984,63,520000,Nov 2020
+117,Clementi St 13,01 to 03,104,Model A,1984,63,530000,Nov 2020
+103,Clementi St 14,04 to 06,98,New Generation,1984,63.08,500000,Nov 2020
+103,Clementi St 14,04 to 06,98,New Generation,1984,63.17,525000,Nov 2020
+705,Clementi West St 2,07 to 09,92,New Generation,1980,58.83,415000,Nov 2020
+707,Clementi West St 2,01 to 03,91,New Generation,1980,58.75,320000,Nov 2020
+708,Clementi West St 2,10 to 12,91,New Generation,1980,58.75,405000,Nov 2020
+507,West Coast Dr,04 to 06,83,New Generation,1978,56.83,340000,Nov 2020
+511,West Coast Dr,10 to 12,92,New Generation,1978,56.17,410000,Nov 2020

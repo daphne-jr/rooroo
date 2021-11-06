@@ -1,0 +1,1299 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date
+987C,Buangkok Green,10 to 12,92,Model A,2015,92.33,512000,Nov 2021
+988A,Buangkok Green,13 to 15,93,Model A,2015,92.33,500000,Nov 2021
+443,Hougang Ave 8,10 to 12,103,Model A,1990,68,500000,Nov 2021
+614,Hougang Ave 8,07 to 09,84,Simplified,1986,63.25,388888,Nov 2021
+637,Hougang Ave 8,07 to 09,84,Simplified,1987,64.92,400000,Nov 2021
+932A,Hougang Ave 9,04 to 06,92,Model A,2017,95.08,534000,Nov 2021
+910,Hougang St 91,07 to 09,90,Model A2,1997,75.08,409000,Nov 2021
+926,Hougang St 91,10 to 12,101,Model A,1998,75.75,464000,Nov 2021
+364B,Upp Serangoon Rd,04 to 06,92,Model A,2018,95.33,618000,Nov 2021
+365A,Upp Serangoon Rd,16 to 18,92,Model A,2018,95.33,638000,Nov 2021
+365A,Upp Serangoon Rd,13 to 15,93,Model A,2018,95.33,640000,Nov 2021
+979C,Buangkok Cres,04 to 06,90,Model A,2003,80.83,423000,Oct 2021
+981A,Buangkok Cres,13 to 15,90,Model A,2003,80.67,448000,Oct 2021
+988B,Buangkok Green,04 to 06,93,Model A,2015,92.42,478000,Oct 2021
+988B,Buangkok Green,04 to 06,93,Model A,2015,92.42,495000,Oct 2021
+988C,Buangkok Green,13 to 15,93,Model A,2015,92.42,500000,Oct 2021
+101,Hougang Ave 1,07 to 09,103,Model A,1984,61.42,442000,Oct 2021
+165,Hougang Ave 1,10 to 12,92,Model A2,1997,75.17,425000,Oct 2021
+169,Hougang Ave 1,04 to 06,102,Model A,1997,75.25,445000,Oct 2021
+172,Hougang Ave 1,01 to 03,103,Model A,1997,75.25,465000,Oct 2021
+405,Hougang Ave 10,04 to 06,91,New Generation,1985,63.17,435000,Oct 2021
+247,Hougang Ave 3,07 to 09,93,New Generation,1984,61.67,453000,Oct 2021
+667,Hougang Ave 4,01 to 03,104,Model A,1987,64.75,435000,Oct 2021
+302,Hougang Ave 5,07 to 09,103,Model A,1983,61.08,490000,Oct 2021
+308,Hougang Ave 5,01 to 03,93,New Generation,1983,61.08,390000,Oct 2021
+315,Hougang Ave 5,04 to 06,92,New Generation,1993,70.58,455000,Oct 2021
+422,Hougang Ave 6,01 to 03,110,Model A,1990,67.42,498000,Oct 2021
+337,Hougang Ave 7,04 to 06,103,New Generation,1985,62.92,438000,Oct 2021
+434,Hougang Ave 8,04 to 06,103,Model A,1989,66.75,450000,Oct 2021
+435,Hougang Ave 8,04 to 06,113,Model A,1991,68.67,538000,Oct 2021
+439,Hougang Ave 8,04 to 06,103,Model A,1990,68,425000,Oct 2021
+611,Hougang Ave 8,10 to 12,84,Simplified,1986,63.33,395000,Oct 2021
+617,Hougang Ave 8,01 to 03,104,Model A,1986,63.25,470000,Oct 2021
+660,Hougang Ave 8,04 to 06,103,Model A,1987,64.75,445000,Oct 2021
+677,Hougang Ave 8,01 to 03,89,Simplified,1988,66,390000,Oct 2021
+680,Hougang Ave 8,04 to 06,84,Simplified,1987,64.42,390000,Oct 2021
+932B,Hougang Ave 9,13 to 15,92,Model A,2017,95.17,570000,Oct 2021
+933A,Hougang Ave 9,13 to 15,92,Model A,2017,95.17,560000,Oct 2021
+555,Hougang St 51,10 to 12,103,Model A,1992,70,450000,Oct 2021
+565,Hougang St 51,07 to 09,107,Model A,1992,70,430000,Oct 2021
+909,Hougang St 91,13 to 15,103,Model A,1997,75.17,455000,Oct 2021
+909,Hougang St 91,04 to 06,102,Model A,1997,75.17,458000,Oct 2021
+910,Hougang St 91,04 to 06,92,Model A2,1997,75.17,428000,Oct 2021
+925,Hougang St 91,04 to 06,100,Model A,1998,76,422000,Oct 2021
+943,Hougang St 92,01 to 03,101,Model A,1998,76,440000,Oct 2021
+143,Lor Ah Soo,04 to 06,108,Model A,1984,62.25,440000,Oct 2021
+473C,Upp Serangoon Cres,10 to 12,93,Model A,2017,94.75,570000,Oct 2021
+475A,Upp Serangoon Cres,04 to 06,92,Dbss,2014,92.08,590000,Oct 2021
+364A,Upp Serangoon Rd,01 to 03,92,Model A,2018,95.33,570000,Oct 2021
+364B,Upp Serangoon Rd,04 to 06,92,Model A,2018,95.42,625000,Oct 2021
+365A,Upp Serangoon Rd,07 to 09,93,Model A,2018,95.42,568000,Oct 2021
+476A,Upp Serangoon View,04 to 06,95,Premium Apartment,2016,93.5,565000,Oct 2021
+476B,Upp Serangoon View,13 to 15,92,Premium Apartment,2016,93.42,588000,Oct 2021
+978D,Buangkok Cres,04 to 06,90,Model A,2003,80.92,410000,Sep 2021
+979A,Buangkok Cres,07 to 09,90,Model A,2003,80.92,450000,Sep 2021
+980B,Buangkok Cres,07 to 09,90,Model A,2003,80.83,410000,Sep 2021
+987C,Buangkok Green,16 to 18,93,Model A,2015,92.5,518000,Sep 2021
+988C,Buangkok Green,04 to 06,93,Model A,2015,92.5,475000,Sep 2021
+988C,Buangkok Green,13 to 15,93,Model A,2015,92.5,520000,Sep 2021
+166,Hougang Ave 1,04 to 06,101,Model A,1997,75.25,438000,Sep 2021
+172,Hougang Ave 1,07 to 09,101,Model A,1997,75.33,455000,Sep 2021
+404,Hougang Ave 10,01 to 03,91,New Generation,1985,62.92,438888,Sep 2021
+409,Hougang Ave 10,10 to 12,98,New Generation,1985,63.33,488888,Sep 2021
+411,Hougang Ave 10,13 to 15,93,New Generation,1986,63.42,445000,Sep 2021
+414,Hougang Ave 10,07 to 09,93,New Generation,1986,63.42,470000,Sep 2021
+509,Hougang Ave 10,04 to 06,103,Model A,1986,63.75,450000,Sep 2021
+711,Hougang Ave 2,10 to 12,91,New Generation,1986,63.83,410000,Sep 2021
+601,Hougang Ave 4,04 to 06,84,Simplified,1986,63.83,370888,Sep 2021
+303,Hougang Ave 5,01 to 03,105,Model A,1983,60.67,398000,Sep 2021
+319,Hougang Ave 5,01 to 03,93,New Generation,1983,60.92,386000,Sep 2021
+332,Hougang Ave 5,10 to 12,104,Model A,1983,60.67,450000,Sep 2021
+424,Hougang Ave 6,07 to 09,105,Model A,1989,67.33,501000,Sep 2021
+432,Hougang Ave 6,10 to 12,113,Model A,1989,66.75,530000,Sep 2021
+521,Hougang Ave 6,01 to 03,84,Simplified,1987,65.08,403000,Sep 2021
+352,Hougang Ave 7,13 to 15,91,New Generation,1986,63.5,416000,Sep 2021
+434,Hougang Ave 8,01 to 03,105,Model A,1989,66.83,430000,Sep 2021
+437,Hougang Ave 8,10 to 12,103,Model A,1991,68.67,468000,Sep 2021
+501,Hougang Ave 8,07 to 09,84,Simplified,1986,63.75,425000,Sep 2021
+504,Hougang Ave 8,07 to 09,84,Simplified,1987,65,418000,Sep 2021
+627,Hougang Ave 8,04 to 06,84,Simplified,1986,63.83,390000,Sep 2021
+636,Hougang Ave 8,04 to 06,84,Simplified,1987,65.33,380000,Sep 2021
+678,Hougang Ave 8,04 to 06,84,Simplified,1988,66.25,380000,Sep 2021
+917,Hougang Ave 9,01 to 03,100,Model A,1998,75.67,410000,Sep 2021
+932A,Hougang Ave 9,04 to 06,92,Model A,2017,95.25,500000,Sep 2021
+932A,Hougang Ave 9,07 to 09,92,Model A,2017,95.25,515000,Sep 2021
+968,Hougang Ave 9,04 to 06,90,Model A2,1999,77,380000,Sep 2021
+832,Hougang Ctrl,07 to 09,107,Model A,1992,70.17,515000,Sep 2021
+158,Hougang St 11,04 to 06,101,Model A,1997,75.33,480000,Sep 2021
+371,Hougang St 31,10 to 12,100,Model A,1999,77.17,520000,Sep 2021
+372,Hougang St 31,01 to 03,102,Model A,1999,77.17,430000,Sep 2021
+548,Hougang St 51,04 to 06,102,Model A,1992,70.17,455000,Sep 2021
+551,Hougang St 51,04 to 06,103,Model A,1992,69.92,440000,Sep 2021
+557,Hougang St 51,07 to 09,103,Model A,1992,70.08,442000,Sep 2021
+699B,Hougang St 52,13 to 15,100,Model A,1998,76.25,480888,Sep 2021
+699C,Hougang St 52,04 to 06,100,Model A,1998,76.25,480000,Sep 2021
+689,Hougang St 61,01 to 03,103,Model A,1987,65,432000,Sep 2021
+690,Hougang St 61,04 to 06,84,Simplified,1987,65.25,390000,Sep 2021
+697,Hougang St 61,04 to 06,84,Simplified,1987,64.75,388000,Sep 2021
+910,Hougang St 91,04 to 06,93,Model A2,1997,75.25,420000,Sep 2021
+910,Hougang St 91,10 to 12,94,Model A2,1997,75.25,433000,Sep 2021
+912,Hougang St 91,10 to 12,102,Model A,1997,75.25,437000,Sep 2021
+137,Lor Ah Soo,10 to 12,106,Model A,1985,62.67,390000,Sep 2021
+471A,Upp Serangoon Cres,13 to 15,92,Model A,2015,92.67,490000,Sep 2021
+473A,Upp Serangoon Cres,01 to 03,93,Model A,2017,94.75,453000,Sep 2021
+473C,Upp Serangoon Cres,01 to 03,93,Model A,2017,94.83,460000,Sep 2021
+473C,Upp Serangoon Cres,16 to 18,93,Model A,2017,94.83,600000,Sep 2021
+473D,Upp Serangoon Cres,07 to 09,93,Model A,2017,94.83,538000,Sep 2021
+475A,Upp Serangoon Cres,01 to 03,92,Dbss,2014,92.25,560000,Sep 2021
+475A,Upp Serangoon Cres,04 to 06,92,Dbss,2014,92.17,560000,Sep 2021
+475B,Upp Serangoon Cres,01 to 03,92,Dbss,2014,92.17,610000,Sep 2021
+475C,Upp Serangoon Cres,01 to 03,92,Dbss,2014,92.17,625000,Sep 2021
+364A,Upp Serangoon Rd,04 to 06,92,Model A,2018,95.5,610000,Sep 2021
+365A,Upp Serangoon Rd,04 to 06,93,Model A,2018,95.42,600000,Sep 2021
+365B,Upp Serangoon Rd,16 to 18,92,Model A,2018,95.5,635000,Sep 2021
+476A,Upp Serangoon View,07 to 09,95,Premium Apartment,2016,93.5,640000,Sep 2021
+476B,Upp Serangoon View,10 to 12,92,Premium Apartment,2016,93.58,520000,Sep 2021
+477A,Upp Serangoon View,16 to 18,92,Premium Apartment,2016,93.58,588000,Sep 2021
+477C,Upp Serangoon View,04 to 06,92,Premium Apartment,2016,93.5,500000,Sep 2021
+978D,Buangkok Cres,04 to 06,90,Model A,2003,81,415000,Aug 2021
+987C,Buangkok Green,16 to 18,93,Model A,2015,92.58,510000,Aug 2021
+988C,Buangkok Green,19 to 21,93,Model A,2015,92.58,505000,Aug 2021
+114,Hougang Ave 1,07 to 09,95,New Generation,1982,59.5,380000,Aug 2021
+125,Hougang Ave 1,04 to 06,91,New Generation,1981,59.08,405000,Aug 2021
+236,Hougang Ave 1,01 to 03,104,Model A,1984,61.83,460000,Aug 2021
+402,Hougang Ave 10,10 to 12,91,New Generation,1985,63.25,405000,Aug 2021
+412,Hougang Ave 10,01 to 03,93,New Generation,1985,63.08,508000,Aug 2021
+512,Hougang Ave 10,10 to 12,84,Simplified,1987,64.83,430000,Aug 2021
+517,Hougang Ave 10,04 to 06,85,Simplified,1987,64.58,440000,Aug 2021
+701,Hougang Ave 2,04 to 06,91,New Generation,1985,63.25,350000,Aug 2021
+701,Hougang Ave 2,04 to 06,91,New Generation,1985,63.25,380000,Aug 2021
+707,Hougang Ave 2,04 to 06,98,New Generation,1986,64.25,385000,Aug 2021
+20,Hougang Ave 3,04 to 06,98,New Generation,1978,55.75,380000,Aug 2021
+251,Hougang Ave 3,04 to 06,98,New Generation,1985,62.58,390000,Aug 2021
+576,Hougang Ave 4,04 to 06,100,Model A,1997,75.25,418000,Aug 2021
+667,Hougang Ave 4,10 to 12,104,Model A,1987,64.92,437000,Aug 2021
+327,Hougang Ave 5,07 to 09,93,New Generation,1983,60.75,425000,Aug 2021
+325,Hougang Ave 7,10 to 12,98,New Generation,1983,60.75,431000,Aug 2021
+435,Hougang Ave 8,07 to 09,103,Model A,1991,68.83,445000,Aug 2021
+614,Hougang Ave 8,07 to 09,84,Simplified,1986,63.5,383000,Aug 2021
+635,Hougang Ave 8,07 to 09,105,Model A,1987,65.08,456888,Aug 2021
+673,Hougang Ave 8,04 to 06,104,Model A,1986,64.08,438000,Aug 2021
+675,Hougang Ave 8,07 to 09,104,Model A,1986,64.42,445000,Aug 2021
+678,Hougang Ave 8,04 to 06,84,Simplified,1988,66.33,378000,Aug 2021
+918,Hougang Ave 9,10 to 12,100,Model A,1998,75.75,420000,Aug 2021
+932B,Hougang Ave 9,10 to 12,92,Model A,2017,95.25,552000,Aug 2021
+932B,Hougang Ave 9,13 to 15,92,Model A,2017,95.33,560000,Aug 2021
+954,Hougang Ave 9,10 to 12,101,Model A,1999,76.75,450000,Aug 2021
+158,Hougang St 11,10 to 12,101,Model A,1997,75.42,520888,Aug 2021
+159,Hougang St 11,07 to 09,103,Model A,1998,75.5,520000,Aug 2021
+161,Hougang St 11,07 to 09,103,Model A,1997,75.42,518000,Aug 2021
+697,Hougang St 61,04 to 06,85,Simplified,1987,64.83,408000,Aug 2021
+913,Hougang St 91,04 to 06,101,Model A,1997,75.33,430000,Aug 2021
+925,Hougang St 91,10 to 12,101,Model A,1998,76.17,462000,Aug 2021
+927,Hougang St 91,04 to 06,100,Model A,1998,76.33,429000,Aug 2021
+937,Hougang St 92,10 to 12,101,Model A,1998,75.58,535000,Aug 2021
+946,Hougang St 92,01 to 03,100,Model A,1998,76.17,420000,Aug 2021
+470A,Upp Serangoon Cres,13 to 15,92,Model A,2015,92.83,505000,Aug 2021
+470C,Upp Serangoon Cres,07 to 09,92,Model A,2015,92.75,465000,Aug 2021
+471A,Upp Serangoon Cres,16 to 18,92,Model A,2015,92.83,508000,Aug 2021
+473A,Upp Serangoon Cres,01 to 03,93,Model A,2017,95.08,455000,Aug 2021
+473B,Upp Serangoon Cres,01 to 03,93,Model A,2017,94.92,470000,Aug 2021
+473B,Upp Serangoon Cres,13 to 15,93,Model A,2017,94.92,540000,Aug 2021
+475A,Upp Serangoon Cres,04 to 06,92,Dbss,2014,92.33,568000,Aug 2021
+475A,Upp Serangoon Cres,04 to 06,92,Dbss,2014,92.25,575000,Aug 2021
+475A,Upp Serangoon Cres,16 to 18,92,Dbss,2014,92.33,690000,Aug 2021
+475D,Upp Serangoon Cres,04 to 06,92,Dbss,2014,92.25,580000,Aug 2021
+475D,Upp Serangoon Cres,10 to 12,92,Dbss,2014,92.25,635000,Aug 2021
+477A,Upp Serangoon View,04 to 06,92,Premium Apartment,2016,93.58,475000,Aug 2021
+477B,Upp Serangoon View,01 to 03,95,Premium Apartment,2016,93.67,530000,Aug 2021
+477B,Upp Serangoon View,01 to 03,95,Premium Apartment,2016,93.67,575000,Aug 2021
+980A,Buangkok Cres,10 to 12,85,Model A2,2003,81,410000,Jul 2021
+987C,Buangkok Green,01 to 03,93,Model A,2015,92.67,438000,Jul 2021
+987C,Buangkok Green,10 to 12,93,Model A,2015,92.67,475000,Jul 2021
+165,Hougang Ave 1,07 to 09,92,Model A2,1997,75.5,405000,Jul 2021
+168,Hougang Ave 1,07 to 09,102,Model A,1997,75.5,415000,Jul 2021
+171,Hougang Ave 1,01 to 03,100,Model A,1998,75.58,390000,Jul 2021
+173,Hougang Ave 1,01 to 03,100,Model A,1997,75.5,430000,Jul 2021
+463,Hougang Ave 10,10 to 12,105,Model A,1992,70.25,525888,Jul 2021
+515,Hougang Ave 10,10 to 12,84,Simplified,1986,64.25,410000,Jul 2021
+517,Hougang Ave 10,01 to 03,89,Simplified,1987,64.67,375000,Jul 2021
+701,Hougang Ave 2,07 to 09,91,New Generation,1985,63.33,374000,Jul 2021
+252,Hougang Ave 3,10 to 12,91,New Generation,1985,62.58,418000,Jul 2021
+602,Hougang Ave 4,10 to 12,104,Model A,1985,63.17,450000,Jul 2021
+662,Hougang Ave 4,07 to 09,104,Model A,1987,65.17,430000,Jul 2021
+332,Hougang Ave 5,10 to 12,104,Model A,1983,60.92,439000,Jul 2021
+332,Hougang Ave 5,07 to 09,104,Model A,1983,60.92,440000,Jul 2021
+426,Hougang Ave 6,10 to 12,113,Model A,1989,67.42,510000,Jul 2021
+527,Hougang Ave 6,07 to 09,84,Simplified,1987,65.42,390000,Jul 2021
+341,Hougang Ave 7,13 to 15,91,New Generation,1985,63.17,400000,Jul 2021
+352,Hougang Ave 7,01 to 03,93,New Generation,1986,63.67,386000,Jul 2021
+436,Hougang Ave 8,01 to 03,105,Model A,1990,68.5,440000,Jul 2021
+437,Hougang Ave 8,10 to 12,103,Model A,1991,68.92,445000,Jul 2021
+439,Hougang Ave 8,16 to 18,103,Model A,1990,68.17,475000,Jul 2021
+627,Hougang Ave 8,04 to 06,84,Simplified,1986,64.08,375000,Jul 2021
+635,Hougang Ave 8,07 to 09,104,Model A,1987,65.25,438000,Jul 2021
+637,Hougang Ave 8,01 to 03,84,Simplified,1987,65.17,398000,Jul 2021
+648,Hougang Ave 8,01 to 03,104,Model A,1987,65.33,400888,Jul 2021
+660,Hougang Ave 8,04 to 06,104,Model A,1987,65,440000,Jul 2021
+676,Hougang Ave 8,01 to 03,84,Simplified,1986,64.33,365000,Jul 2021
+924,Hougang Ave 9,07 to 09,100,Model A,1998,76.25,430000,Jul 2021
+932B,Hougang Ave 9,07 to 09,92,Model A,2017,95.33,523000,Jul 2021
+954,Hougang Ave 9,07 to 09,101,Model A,1999,76.83,445000,Jul 2021
+964,Hougang Ave 9,04 to 06,101,Model A,1999,77.17,428000,Jul 2021
+832,Hougang Ctrl,07 to 09,106,Model A,1992,70.25,590000,Jul 2021
+838,Hougang Ctrl,04 to 06,98,Model A,1997,74.67,564000,Jul 2021
+244,Hougang St 22,01 to 03,92,New Generation,1984,62.25,380000,Jul 2021
+551,Hougang St 51,04 to 06,106,Model A,1992,70.33,438000,Jul 2021
+565,Hougang St 51,04 to 06,104,Model A,1992,70.42,420000,Jul 2021
+568,Hougang St 51,01 to 03,100,Model A,1997,74.75,420000,Jul 2021
+575,Hougang St 51,07 to 09,100,Model A,1997,74.67,460000,Jul 2021
+686,Hougang St 61,10 to 12,84,Simplified,1987,65.08,365000,Jul 2021
+910,Hougang St 91,10 to 12,90,Model A2,1997,75.42,405888,Jul 2021
+914,Hougang St 91,04 to 06,100,Model A,1998,75.58,450000,Jul 2021
+950,Hougang St 91,04 to 06,101,Model A,1999,76.92,448000,Jul 2021
+969,Hougang St 91,04 to 06,95,Model A2,1999,77.5,387500,Jul 2021
+134,Lor Ah Soo,04 to 06,103,Model A,1984,61.75,425000,Jul 2021
+470A,Upp Serangoon Cres,13 to 15,92,Model A,2015,92.92,500000,Jul 2021
+470B,Upp Serangoon Cres,07 to 09,93,Model A,2015,92.83,478000,Jul 2021
+471A,Upp Serangoon Cres,04 to 06,92,Model A,2015,93,442000,Jul 2021
+473A,Upp Serangoon Cres,04 to 06,93,Model A,2017,95,460000,Jul 2021
+473B,Upp Serangoon Cres,04 to 06,93,Model A,2017,95,470000,Jul 2021
+473B,Upp Serangoon Cres,04 to 06,93,Model A,2017,95,480000,Jul 2021
+473C,Upp Serangoon Cres,04 to 06,93,Model A,2017,95,480000,Jul 2021
+473C,Upp Serangoon Cres,10 to 12,93,Model A,2017,95,540000,Jul 2021
+473C,Upp Serangoon Cres,13 to 15,93,Model A,2017,95,555000,Jul 2021
+473D,Upp Serangoon Cres,13 to 15,93,Model A,2017,94.92,530000,Jul 2021
+475A,Upp Serangoon Cres,10 to 12,92,Dbss,2014,92.42,642000,Jul 2021
+475C,Upp Serangoon Cres,01 to 03,92,Dbss,2014,92.42,550000,Jul 2021
+475C,Upp Serangoon Cres,10 to 12,92,Dbss,2014,92.42,640000,Jul 2021
+475D,Upp Serangoon Cres,01 to 03,92,Dbss,2014,92.42,575000,Jul 2021
+475D,Upp Serangoon Cres,16 to 18,92,Dbss,2014,92.42,668888,Jul 2021
+464,Upp Serangoon Rd,01 to 03,105,Model A,1992,70.25,508000,Jul 2021
+465,Upp Serangoon Rd,01 to 03,105,Model A,1992,70.25,450000,Jul 2021
+476C,Upp Serangoon View,07 to 09,92,Premium Apartment,2016,93.75,521000,Jul 2021
+477B,Upp Serangoon View,07 to 09,92,Premium Apartment,2016,93.75,545000,Jul 2021
+477B,Upp Serangoon View,13 to 15,92,Premium Apartment,2016,93.83,575000,Jul 2021
+988C,Buangkok Green,16 to 18,93,Model A,2015,92.75,518000,Jun 2021
+401,Hougang Ave 10,01 to 03,92,New Generation,1985,63,376000,Jun 2021
+405,Hougang Ave 10,07 to 09,93,New Generation,1985,63.58,441000,Jun 2021
+413,Hougang Ave 10,13 to 15,91,New Generation,1986,63.83,439888,Jun 2021
+421,Hougang Ave 10,07 to 09,103,Model A,1989,67.17,450000,Jun 2021
+458,Hougang Ave 10,04 to 06,102,Model A,1992,70.42,448000,Jun 2021
+709,Hougang Ave 2,10 to 12,91,New Generation,1985,63.08,402000,Jun 2021
+17,Hougang Ave 3,04 to 06,98,New Generation,1978,56,400000,Jun 2021
+18,Hougang Ave 3,10 to 12,92,New Generation,1978,56,375000,Jun 2021
+605,Hougang Ave 4,04 to 06,84,Simplified,1985,63.42,365000,Jun 2021
+665,Hougang Ave 4,01 to 03,104,Model A,1988,66.58,408000,Jun 2021
+310,Hougang Ave 5,04 to 06,98,New Generation,1984,61.75,385000,Jun 2021
+314,Hougang Ave 5,07 to 09,93,New Generation,1993,70.92,395000,Jun 2021
+359,Hougang Ave 5,04 to 06,104,Model A,1992,70.42,480000,Jun 2021
+361,Hougang Ave 5,07 to 09,104,Model A,1992,70.33,450000,Jun 2021
+361,Hougang Ave 5,01 to 03,106,Model A,1992,70.33,460000,Jun 2021
+526,Hougang Ave 6,07 to 09,84,Simplified,1988,65.83,380000,Jun 2021
+337,Hougang Ave 7,01 to 03,91,New Generation,1985,63.33,340000,Jun 2021
+351,Hougang Ave 7,10 to 12,97,New Generation,1985,63.08,380000,Jun 2021
+433,Hougang Ave 8,13 to 15,113,Model A,1989,67.17,535000,Jun 2021
+445,Hougang Ave 8,04 to 06,105,Model A,1990,67.92,415000,Jun 2021
+445,Hougang Ave 8,04 to 06,113,Model A,1990,67.92,503888,Jun 2021
+507,Hougang Ave 8,01 to 03,84,Simplified,1986,64.25,368000,Jun 2021
+616,Hougang Ave 8,07 to 09,84,Simplified,1986,64.25,388000,Jun 2021
+660,Hougang Ave 8,07 to 09,104,Model A,1987,65.08,412000,Jun 2021
+673,Hougang Ave 8,10 to 12,104,Model A,1986,64.25,436000,Jun 2021
+161,Hougang St 11,10 to 12,103,Model A,1997,75.58,510000,Jun 2021
+373,Hougang St 31,10 to 12,100,Model A,2000,77.67,500000,Jun 2021
+557,Hougang St 51,07 to 09,103,Model A,1992,70.42,437000,Jun 2021
+699B,Hougang St 52,13 to 15,100,Model A,1998,76.5,453000,Jun 2021
+695,Hougang St 61,07 to 09,103,Model A,1987,65.42,435000,Jun 2021
+696,Hougang St 61,01 to 03,103,Model A,1987,65.42,400000,Jun 2021
+910,Hougang St 91,10 to 12,90,Model A2,1997,75.5,400000,Jun 2021
+910,Hougang St 91,07 to 09,93,Model A2,1997,75.42,405000,Jun 2021
+969,Hougang St 91,10 to 12,90,Model A2,1999,77.58,398000,Jun 2021
+976,Hougang St 91,01 to 03,100,Model A,1999,77.5,395000,Jun 2021
+941,Hougang St 92,04 to 06,101,Model A,1998,75.75,408000,Jun 2021
+133,Lor Ah Soo,04 to 06,104,Model A,1985,62.83,428000,Jun 2021
+134,Lor Ah Soo,01 to 03,103,Model A,1984,61.83,395000,Jun 2021
+135,Lor Ah Soo,10 to 12,106,Model A,1985,62.92,433000,Jun 2021
+470A,Upp Serangoon Cres,16 to 18,92,Model A,2015,93,500000,Jun 2021
+471A,Upp Serangoon Cres,04 to 06,92,Model A,2015,93,460000,Jun 2021
+471A,Upp Serangoon Cres,16 to 18,92,Model A,2015,93,503800,Jun 2021
+473B,Upp Serangoon Cres,01 to 03,93,Model A,2017,95.08,450000,Jun 2021
+473B,Upp Serangoon Cres,13 to 15,93,Model A,2017,95.08,510000,Jun 2021
+473B,Upp Serangoon Cres,13 to 15,93,Model A,2017,95.08,538888,Jun 2021
+473D,Upp Serangoon Cres,10 to 12,93,Model A,2017,95.08,546888,Jun 2021
+473D,Upp Serangoon Cres,07 to 09,93,Model A,2017,95,552888,Jun 2021
+475A,Upp Serangoon Cres,13 to 15,92,Dbss,2014,92.42,625000,Jun 2021
+475A,Upp Serangoon Cres,13 to 15,92,Dbss,2014,92.5,630000,Jun 2021
+475C,Upp Serangoon Cres,13 to 15,92,Dbss,2014,92.5,612000,Jun 2021
+475D,Upp Serangoon Cres,13 to 15,92,Dbss,2014,92.42,620000,Jun 2021
+476B,Upp Serangoon View,07 to 09,92,Premium Apartment,2016,93.83,540000,Jun 2021
+477A,Upp Serangoon View,07 to 09,92,Premium Apartment,2016,93.83,475000,Jun 2021
+477C,Upp Serangoon View,04 to 06,92,Premium Apartment,2016,93.83,550000,Jun 2021
+980A,Buangkok Cres,04 to 06,85,Model A2,2003,81.08,400000,May 2021
+981A,Buangkok Cres,01 to 03,90,Model A,2003,81.08,380000,May 2021
+987A,Buangkok Green,07 to 09,93,Model A,2015,92.75,450000,May 2021
+987C,Buangkok Green,07 to 09,92,Model A,2015,92.83,448000,May 2021
+984A,Buangkok Link,04 to 06,85,Model A2,2004,81.83,380000,May 2021
+234,Hougang Ave 1,04 to 06,109,Model A,1984,62.25,478000,May 2021
+704,Hougang Ave 2,07 to 09,96,New Generation,1985,63.58,412000,May 2021
+15,Hougang Ave 3,04 to 06,82,Improved,1975,53.58,350000,May 2021
+18,Hougang Ave 3,10 to 12,92,New Generation,1978,56.08,381000,May 2021
+667,Hougang Ave 4,04 to 06,103,Model A,1987,65.17,425000,May 2021
+424,Hougang Ave 6,10 to 12,105,Model A,1989,67.67,495000,May 2021
+326,Hougang Ave 7,10 to 12,104,Model A,1983,61,410000,May 2021
+326,Hougang Ave 7,07 to 09,104,Model A,1983,61,430000,May 2021
+443,Hougang Ave 8,10 to 12,103,Model A,1990,68.42,460000,May 2021
+544,Hougang Ave 8,10 to 12,104,Model A,1992,70.42,475000,May 2021
+632,Hougang Ave 8,07 to 09,89,Simplified,1986,64.17,395000,May 2021
+674,Hougang Ave 8,13 to 15,104,Model A,1987,64.75,430000,May 2021
+830,Hougang Ctrl,04 to 06,111,Model A,1992,70.42,502000,May 2021
+830,Hougang Ctrl,10 to 12,104,Model A,1992,70.42,530000,May 2021
+835,Hougang Ctrl,07 to 09,106,Model A,1992,70.5,505000,May 2021
+154,Hougang St 11,07 to 09,93,New Generation,1984,62.67,400000,May 2021
+244,Hougang St 22,04 to 06,96,New Generation,1984,62.42,390000,May 2021
+376A,Hougang St 32,01 to 03,92,Model A,2016,93.92,460000,May 2021
+573,Hougang St 51,04 to 06,100,Model A,1997,75.17,412000,May 2021
+537,Hougang St 52,04 to 06,115,Model A,1992,70.42,473000,May 2021
+911,Hougang St 91,10 to 12,94,Model A2,1998,75.75,425000,May 2021
+925,Hougang St 91,10 to 12,100,Model A,1998,76.42,435000,May 2021
+926,Hougang St 91,13 to 15,100,Model A,1998,76.17,462000,May 2021
+930,Hougang St 91,07 to 09,100,Model A,1998,76.25,418888,May 2021
+944,Hougang St 92,10 to 12,100,Model A,1998,76.42,459000,May 2021
+143,Lor Ah Soo,01 to 03,108,Model A,1984,62.67,388000,May 2021
+473C,Upp Serangoon Cres,13 to 15,93,Model A,2017,95.17,522000,May 2021
+473C,Upp Serangoon Cres,10 to 12,93,Model A,2017,95.08,533000,May 2021
+475A,Upp Serangoon Cres,10 to 12,92,Dbss,2014,92.58,625000,May 2021
+475D,Upp Serangoon Cres,01 to 03,92,Dbss,2014,92.58,560000,May 2021
+476B,Upp Serangoon View,04 to 06,92,Premium Apartment,2016,93.92,548000,May 2021
+476B,Upp Serangoon View,04 to 06,92,Premium Apartment,2016,94,550000,May 2021
+477A,Upp Serangoon View,13 to 15,92,Premium Apartment,2016,93.92,550000,May 2021
+477A,Upp Serangoon View,07 to 09,95,Premium Apartment,2016,93.92,610000,May 2021
+988A,Buangkok Green,07 to 09,93,Model A,2015,92.92,449000,Apr 2021
+988A,Buangkok Green,13 to 15,93,Model A,2015,92.83,465000,Apr 2021
+988C,Buangkok Green,01 to 03,93,Model A,2015,92.83,425000,Apr 2021
+984A,Buangkok Link,04 to 06,85,Model A2,2004,82,382000,Apr 2021
+101,Hougang Ave 1,01 to 03,108,Model A,1984,61.92,395000,Apr 2021
+124,Hougang Ave 1,04 to 06,91,New Generation,1981,59.58,368888,Apr 2021
+165,Hougang Ave 1,10 to 12,101,Model A2,1997,75.67,435000,Apr 2021
+169,Hougang Ave 1,10 to 12,101,Model A,1997,75.67,420000,Apr 2021
+169,Hougang Ave 1,13 to 15,101,Model A,1997,75.67,450000,Apr 2021
+420,Hougang Ave 10,01 to 03,105,Model A,1989,67.33,438000,Apr 2021
+15,Hougang Ave 3,04 to 06,82,Improved,1975,53.67,325000,Apr 2021
+602,Hougang Ave 4,04 to 06,84,Simplified,1985,63.42,355000,Apr 2021
+607,Hougang Ave 4,01 to 03,84,Simplified,1986,64.25,360000,Apr 2021
+665,Hougang Ave 4,07 to 09,103,Model A,1988,66.75,420000,Apr 2021
+309,Hougang Ave 5,01 to 03,93,New Generation,1982,60.58,360000,Apr 2021
+321,Hougang Ave 5,10 to 12,93,New Generation,1983,60.83,388000,Apr 2021
+324,Hougang Ave 5,07 to 09,104,Model A,1983,61,418000,Apr 2021
+523,Hougang Ave 6,01 to 03,104,Model A,1986,64.58,442000,Apr 2021
+526,Hougang Ave 6,07 to 09,84,Simplified,1988,66,355000,Apr 2021
+417,Hougang Ave 8,04 to 06,105,Model A,1989,67.42,418000,Apr 2021
+417,Hougang Ave 8,07 to 09,105,Model A,1989,67.33,460000,Apr 2021
+501,Hougang Ave 8,07 to 09,84,Simplified,1986,64.08,400000,Apr 2021
+613,Hougang Ave 8,04 to 06,84,Simplified,1986,64.25,380000,Apr 2021
+650,Hougang Ave 8,07 to 09,84,Simplified,1987,65.67,360000,Apr 2021
+650,Hougang Ave 8,07 to 09,84,Simplified,1987,65.5,370000,Apr 2021
+917,Hougang Ave 9,13 to 15,100,Model A,1998,76.08,397000,Apr 2021
+835,Hougang Ctrl,07 to 09,110,Model A,1992,70.5,555000,Apr 2021
+838,Hougang Ctrl,10 to 12,100,Model A,1997,75,515000,Apr 2021
+155,Hougang St 11,07 to 09,91,New Generation,1984,62.5,400000,Apr 2021
+155,Hougang St 11,07 to 09,93,New Generation,1984,62.5,410888,Apr 2021
+242,Hougang St 22,01 to 03,96,New Generation,1984,62.58,388000,Apr 2021
+376A,Hougang St 32,04 to 06,92,Model A,2016,93.92,461800,Apr 2021
+376A,Hougang St 32,10 to 12,92,Model A,2016,94,560000,Apr 2021
+548,Hougang St 51,04 to 06,103,Model A,1992,70.5,440888,Apr 2021
+556,Hougang St 51,01 to 03,103,Model A,1992,70.5,396000,Apr 2021
+566,Hougang St 51,04 to 06,104,Model A,1992,70.5,420000,Apr 2021
+690,Hougang St 61,10 to 12,84,Simplified,1987,65.67,353000,Apr 2021
+690,Hougang St 61,04 to 06,103,Model A,1987,65.67,405000,Apr 2021
+692,Hougang St 61,04 to 06,85,Simplified,1987,65.67,370000,Apr 2021
+695,Hougang St 61,04 to 06,107,Model A,1987,65.67,430000,Apr 2021
+697,Hougang St 61,04 to 06,89,Simplified,1987,65.08,390000,Apr 2021
+698A,Hougang St 61,07 to 09,100,Model A,1999,77,453888,Apr 2021
+909,Hougang St 91,10 to 12,102,Model A,1997,75.67,425200,Apr 2021
+911,Hougang St 91,04 to 06,93,Model A2,1998,75.92,370000,Apr 2021
+970,Hougang St 91,13 to 15,101,Model A,1999,77.67,420000,Apr 2021
+135,Lor Ah Soo,04 to 06,106,Model A,1985,63,415000,Apr 2021
+470A,Upp Serangoon Cres,07 to 09,92,Model A,2015,93.17,463000,Apr 2021
+473B,Upp Serangoon Cres,01 to 03,93,Model A,2017,95.17,440000,Apr 2021
+473D,Upp Serangoon Cres,13 to 15,93,Model A,2017,95.17,560000,Apr 2021
+475A,Upp Serangoon Cres,07 to 09,92,Dbss,2014,92.58,580000,Apr 2021
+475A,Upp Serangoon Cres,13 to 15,92,Dbss,2014,92.58,635000,Apr 2021
+475C,Upp Serangoon Cres,01 to 03,92,Dbss,2014,92.67,572000,Apr 2021
+475D,Upp Serangoon Cres,16 to 18,92,Dbss,2014,92.67,680000,Apr 2021
+476A,Upp Serangoon View,10 to 12,95,Premium Apartment,2016,93.92,600000,Apr 2021
+476C,Upp Serangoon View,16 to 18,95,Premium Apartment,2016,93.92,628000,Apr 2021
+477A,Upp Serangoon View,13 to 15,92,Premium Apartment,2016,93.92,520000,Apr 2021
+477A,Upp Serangoon View,16 to 18,92,Premium Apartment,2016,93.92,585888,Apr 2021
+477B,Upp Serangoon View,10 to 12,95,Premium Apartment,2016,93.92,570000,Apr 2021
+978C,Buangkok Cres,10 to 12,90,Model A,2003,81.42,408000,Mar 2021
+980B,Buangkok Cres,04 to 06,90,Model A,2003,81.25,380000,Mar 2021
+985A,Buangkok Cres,10 to 12,85,Model A2,2004,82,430000,Mar 2021
+987C,Buangkok Green,01 to 03,93,Model A,2015,92.92,420000,Mar 2021
+987C,Buangkok Green,10 to 12,93,Model A,2015,93,445000,Mar 2021
+988A,Buangkok Green,16 to 18,93,Model A,2015,93,491688,Mar 2021
+988B,Buangkok Green,01 to 03,93,Model A,2015,92.92,408000,Mar 2021
+984A,Buangkok Link,07 to 09,85,Model A2,2004,82.08,388000,Mar 2021
+167,Hougang Ave 1,04 to 06,100,Model A,1997,75.58,410000,Mar 2021
+172,Hougang Ave 1,10 to 12,101,Model A,1997,75.83,435000,Mar 2021
+230,Hougang Ave 1,07 to 09,103,Model A,1984,62.83,480000,Mar 2021
+451,Hougang Ave 10,01 to 03,105,Model A,1990,68.17,400000,Mar 2021
+453,Hougang Ave 10,07 to 09,102,Model A,1992,70.58,420000,Mar 2021
+512,Hougang Ave 10,01 to 03,84,Simplified,1987,65.25,355000,Mar 2021
+516,Hougang Ave 10,07 to 09,84,Simplified,1986,64.42,390000,Mar 2021
+701,Hougang Ave 2,01 to 03,93,New Generation,1985,63.58,370000,Mar 2021
+704,Hougang Ave 2,01 to 03,96,New Generation,1985,63.67,344000,Mar 2021
+606,Hougang Ave 4,07 to 09,104,Model A,1985,63.58,450000,Mar 2021
+332,Hougang Ave 5,10 to 12,104,Model A,1983,61.17,432000,Mar 2021
+527,Hougang Ave 6,07 to 09,84,Simplified,1987,65.75,373000,Mar 2021
+337,Hougang Ave 7,07 to 09,91,New Generation,1985,63.5,345000,Mar 2021
+434,Hougang Ave 8,07 to 09,105,Model A,1989,67.42,440000,Mar 2021
+541,Hougang Ave 8,01 to 03,104,Model A,1989,67.58,405000,Mar 2021
+544,Hougang Ave 8,07 to 09,106,Model A,1992,70.58,455000,Mar 2021
+637,Hougang Ave 8,04 to 06,84,Simplified,1987,65.58,360000,Mar 2021
+637,Hougang Ave 8,07 to 09,84,Simplified,1987,65.5,360000,Mar 2021
+648,Hougang Ave 8,04 to 06,84,Simplified,1987,65.75,345000,Mar 2021
+648,Hougang Ave 8,07 to 09,105,Model A,1987,65.58,426800,Mar 2021
+672,Hougang Ave 8,01 to 03,84,Simplified,1987,64.92,364900,Mar 2021
+673,Hougang Ave 8,07 to 09,104,Model A,1986,64.5,450000,Mar 2021
+918,Hougang Ave 9,04 to 06,101,Model A,1998,76.08,395000,Mar 2021
+951,Hougang Ave 9,01 to 03,101,Model A,1999,77.17,408000,Mar 2021
+231,Hougang St 21,07 to 09,109,Model A,1984,62.5,535000,Mar 2021
+242,Hougang St 22,01 to 03,96,New Generation,1984,62.58,350000,Mar 2021
+376A,Hougang St 32,07 to 09,92,Model A,2016,94.08,490000,Mar 2021
+376A,Hougang St 32,10 to 12,92,Model A,2016,94.08,495000,Mar 2021
+376B,Hougang St 32,10 to 12,92,Model A,2016,94,523000,Mar 2021
+376C,Hougang St 32,04 to 06,92,Model A,2016,94,470000,Mar 2021
+557,Hougang St 51,04 to 06,103,Model A,1992,70.58,418000,Mar 2021
+695,Hougang St 61,10 to 12,107,Model A,1987,65.58,435000,Mar 2021
+911,Hougang St 91,10 to 12,90,Model A2,1998,76,445000,Mar 2021
+915,Hougang St 91,07 to 09,100,Model A,1998,76,407000,Mar 2021
+926,Hougang St 91,01 to 03,100,Model A,1998,76.42,395000,Mar 2021
+939,Hougang St 92,07 to 09,101,Model A,1998,75.83,420000,Mar 2021
+129,Lor Ah Soo,10 to 12,105,Model A,1985,63.33,465000,Mar 2021
+135,Lor Ah Soo,10 to 12,106,Model A,1985,63.08,420000,Mar 2021
+470A,Upp Serangoon Cres,04 to 06,92,Model A,2015,93.17,415000,Mar 2021
+470B,Upp Serangoon Cres,16 to 18,92,Model A,2015,93.25,495000,Mar 2021
+473B,Upp Serangoon Cres,10 to 12,93,Model A,2017,95.25,500000,Mar 2021
+473B,Upp Serangoon Cres,16 to 18,93,Model A,2017,95.25,525000,Mar 2021
+475A,Upp Serangoon Cres,07 to 09,92,Dbss,2014,92.75,625000,Mar 2021
+475D,Upp Serangoon Cres,16 to 18,92,Dbss,2014,92.67,661888,Mar 2021
+476B,Upp Serangoon View,16 to 18,92,Premium Apartment,2016,94,575000,Mar 2021
+477B,Upp Serangoon View,07 to 09,95,Premium Apartment,2016,94.08,588000,Mar 2021
+477B,Upp Serangoon View,13 to 15,95,Premium Apartment,2016,94.08,610000,Mar 2021
+987A,Buangkok Green,13 to 15,93,Model A,2015,93,450000,Feb 2021
+987A,Buangkok Green,10 to 12,93,Model A,2015,93.08,462000,Feb 2021
+987A,Buangkok Green,13 to 15,93,Model A,2015,93,462000,Feb 2021
+113,Hougang Ave 1,07 to 09,96,New Generation,1982,59.92,350000,Feb 2021
+115,Hougang Ave 1,07 to 09,91,New Generation,1981,59.58,375000,Feb 2021
+119,Hougang Ave 1,07 to 09,91,New Generation,1981,59.75,375000,Feb 2021
+169,Hougang Ave 1,04 to 06,101,Model A,1997,75.92,410000,Feb 2021
+169,Hougang Ave 1,07 to 09,102,Model A,1997,75.83,420000,Feb 2021
+402,Hougang Ave 10,07 to 09,91,New Generation,1985,63.67,415000,Feb 2021
+406,Hougang Ave 10,07 to 09,91,New Generation,1985,63.92,418000,Feb 2021
+411,Hougang Ave 10,07 to 09,91,New Generation,1986,64,438000,Feb 2021
+416,Hougang Ave 10,04 to 06,98,New Generation,1985,63.75,430000,Feb 2021
+448,Hougang Ave 10,04 to 06,103,Model A,1990,68.25,425000,Feb 2021
+513,Hougang Ave 10,01 to 03,84,Simplified,1986,64.67,360000,Feb 2021
+701,Hougang Ave 2,07 to 09,91,New Generation,1985,63.67,363000,Feb 2021
+709,Hougang Ave 2,01 to 03,93,New Generation,1985,63.5,350000,Feb 2021
+666,Hougang Ave 4,01 to 03,103,Model A,1988,66.17,415000,Feb 2021
+308,Hougang Ave 5,04 to 06,93,New Generation,1983,61.83,380000,Feb 2021
+422,Hougang Ave 6,10 to 12,110,Model A,1990,68,465000,Feb 2021
+417,Hougang Ave 8,01 to 03,109,Model A,1989,67.5,415000,Feb 2021
+419,Hougang Ave 8,07 to 09,103,Model A,1989,67.5,438000,Feb 2021
+436,Hougang Ave 8,07 to 09,103,Model A,1990,68.83,435000,Feb 2021
+504,Hougang Ave 8,07 to 09,103,Model A,1987,65.5,425000,Feb 2021
+617,Hougang Ave 8,10 to 12,104,Model A,1986,64,430000,Feb 2021
+618,Hougang Ave 8,01 to 03,90,Simplified,1986,63.92,363000,Feb 2021
+650,Hougang Ave 8,04 to 06,84,Simplified,1987,65.75,370000,Feb 2021
+674,Hougang Ave 8,07 to 09,104,Model A,1987,65,410000,Feb 2021
+951,Hougang Ave 9,13 to 15,101,Model A,1999,77.25,423000,Feb 2021
+952,Hougang Ave 9,16 to 18,101,Model A,1999,77.25,440000,Feb 2021
+954,Hougang Ave 9,10 to 12,101,Model A,1999,77.25,415000,Feb 2021
+964,Hougang Ave 9,01 to 03,100,Model A,1999,77.67,380000,Feb 2021
+965,Hougang Ave 9,07 to 09,101,Model A,1999,77.67,399888,Feb 2021
+158,Hougang St 11,07 to 09,101,Model A,1997,75.83,468000,Feb 2021
+220,Hougang St 21,13 to 15,104,Model A,1992,70.67,550000,Feb 2021
+376A,Hougang St 32,07 to 09,92,Model A,2016,94.17,490000,Feb 2021
+555,Hougang St 51,04 to 06,103,Model A,1992,70.67,396000,Feb 2021
+556,Hougang St 51,07 to 09,103,Model A,1992,70.67,395000,Feb 2021
+557,Hougang St 51,07 to 09,103,Model A,1992,70.67,420000,Feb 2021
+699B,Hougang St 52,04 to 06,100,Model A,1998,76.75,422000,Feb 2021
+699C,Hougang St 52,04 to 06,100,Model A,1998,76.75,450000,Feb 2021
+690,Hougang St 61,10 to 12,84,Simplified,1987,65.75,360000,Feb 2021
+926,Hougang St 91,01 to 03,100,Model A,1998,76.5,380000,Feb 2021
+133,Lor Ah Soo,10 to 12,104,Model A,1985,63.17,405000,Feb 2021
+137,Lor Ah Soo,04 to 06,104,Model A,1985,63.25,381000,Feb 2021
+138,Lor Ah Soo,04 to 06,108,Model A,1984,62.67,395000,Feb 2021
+470C,Upp Serangoon Cres,04 to 06,93,Model A,2015,93.25,450000,Feb 2021
+475D,Upp Serangoon Cres,04 to 06,92,Dbss,2014,92.83,580000,Feb 2021
+476B,Upp Serangoon View,07 to 09,92,Premium Apartment,2016,94.08,503000,Feb 2021
+476B,Upp Serangoon View,13 to 15,92,Premium Apartment,2016,94.08,540000,Feb 2021
+476B,Upp Serangoon View,07 to 09,92,Premium Apartment,2016,94.17,548000,Feb 2021
+476C,Upp Serangoon View,10 to 12,92,Premium Apartment,2016,94.17,500000,Feb 2021
+477C,Upp Serangoon View,19 to 21,92,Premium Apartment,2016,94.17,555000,Feb 2021
+980C,Buangkok Cres,07 to 09,85,Model A2,2003,81.42,400000,Jan 2021
+988C,Buangkok Green,16 to 18,93,Model A,2015,93.17,495000,Jan 2021
+984A,Buangkok Link,01 to 03,85,Model A2,2004,82.17,360000,Jan 2021
+984A,Buangkok Link,16 to 18,85,Model A2,2004,82.25,388000,Jan 2021
+101,Hougang Ave 1,04 to 06,108,Model A,1984,62.25,413000,Jan 2021
+167,Hougang Ave 1,07 to 09,101,Model A,1997,75.75,428000,Jan 2021
+453,Hougang Ave 10,10 to 12,104,Model A,1992,70.83,433000,Jan 2021
+515,Hougang Ave 10,07 to 09,84,Simplified,1986,64.75,410000,Jan 2021
+703,Hougang Ave 2,07 to 09,93,New Generation,1986,64.42,371000,Jan 2021
+15,Hougang Ave 3,04 to 06,82,Improved,1975,53.92,315000,Jan 2021
+580,Hougang Ave 4,01 to 03,101,Model A,1997,76,399000,Jan 2021
+607,Hougang Ave 4,01 to 03,84,Simplified,1986,64.5,350000,Jan 2021
+608,Hougang Ave 4,01 to 03,89,Simplified,1985,63.67,350000,Jan 2021
+682,Hougang Ave 4,01 to 03,85,Simplified,1989,67.58,350000,Jan 2021
+310,Hougang Ave 5,04 to 06,98,New Generation,1984,62.08,373000,Jan 2021
+332,Hougang Ave 5,07 to 09,104,Model A,1983,61.42,398000,Jan 2021
+445,Hougang Ave 8,10 to 12,103,Model A,1990,68.42,443000,Jan 2021
+468,Hougang Ave 8,07 to 09,105,Model A,1992,70.75,452000,Jan 2021
+501,Hougang Ave 8,07 to 09,84,Simplified,1986,64.33,392000,Jan 2021
+504,Hougang Ave 8,04 to 06,84,Simplified,1987,65.58,370000,Jan 2021
+613,Hougang Ave 8,07 to 09,84,Simplified,1986,64.5,365000,Jan 2021
+671,Hougang Ave 8,01 to 03,104,Model A,1987,65.92,383000,Jan 2021
+963,Hougang Ave 9,13 to 15,101,Model A,1999,77.58,388000,Jan 2021
+160,Hougang St 11,10 to 12,100,Model A,1997,75.92,478888,Jan 2021
+220,Hougang St 21,13 to 15,104,Model A,1992,70.75,590000,Jan 2021
+548,Hougang St 51,07 to 09,103,Model A,1992,70.75,415000,Jan 2021
+549,Hougang St 51,07 to 09,103,Model A,1992,70.83,420000,Jan 2021
+555,Hougang St 51,01 to 03,103,Model A,1992,70.75,408000,Jan 2021
+699B,Hougang St 52,01 to 03,100,Model A,1998,76.83,400000,Jan 2021
+690,Hougang St 61,10 to 12,84,Simplified,1987,65.83,352000,Jan 2021
+931,Hougang St 91,04 to 06,100,Model A,1998,76.5,400000,Jan 2021
+941,Hougang St 92,01 to 03,100,Model A,1998,76.25,368000,Jan 2021
+129,Lor Ah Soo,04 to 06,105,Model A,1985,63.58,400000,Jan 2021
+137,Lor Ah Soo,10 to 12,106,Model A,1985,63.25,355000,Jan 2021
+137,Lor Ah Soo,07 to 09,105,Model A,1985,63.33,359000,Jan 2021
+470A,Upp Serangoon Cres,13 to 15,93,Model A,2015,93.33,490000,Jan 2021
+471A,Upp Serangoon Cres,10 to 12,92,Model A,2015,93.33,460000,Jan 2021
+471A,Upp Serangoon Cres,10 to 12,92,Model A,2015,93.42,465000,Jan 2021
+471A,Upp Serangoon Cres,13 to 15,92,Model A,2015,93.42,478888,Jan 2021
+475A,Upp Serangoon Cres,07 to 09,92,Dbss,2014,92.83,580000,Jan 2021
+475C,Upp Serangoon Cres,07 to 09,92,Dbss,2014,92.92,500000,Jan 2021
+476A,Upp Serangoon View,10 to 12,95,Premium Apartment,2016,94.17,580000,Jan 2021
+476B,Upp Serangoon View,07 to 09,92,Premium Apartment,2016,94.25,510000,Jan 2021
+477A,Upp Serangoon View,07 to 09,92,Premium Apartment,2016,94.17,505000,Jan 2021
+477A,Upp Serangoon View,16 to 18,95,Premium Apartment,2016,94.17,625000,Jan 2021
+477C,Upp Serangoon View,10 to 12,92,Premium Apartment,2016,94.25,525000,Jan 2021
+979B,Buangkok Cres,10 to 12,90,Model A,2003,81.67,380000,Dec 2020
+980C,Buangkok Cres,10 to 12,85,Model A2,2003,81.42,380000,Dec 2020
+981B,Buangkok Cres,04 to 06,90,Model A,2003,81.58,363000,Dec 2020
+987A,Buangkok Green,10 to 12,93,Model A,2015,93.25,418000,Dec 2020
+232,Hougang Ave 1,04 to 06,104,Model A,1984,62.92,440000,Dec 2020
+232,Hougang Ave 1,10 to 12,104,Model A,1984,62.92,500000,Dec 2020
+405,Hougang Ave 10,07 to 09,91,New Generation,1985,64.08,455888,Dec 2020
+406,Hougang Ave 10,01 to 03,91,New Generation,1985,64,355000,Dec 2020
+413,Hougang Ave 10,01 to 03,91,New Generation,1986,64.25,390000,Dec 2020
+415,Hougang Ave 10,01 to 03,93,New Generation,1985,63.92,368000,Dec 2020
+448,Hougang Ave 10,07 to 09,105,Model A,1990,68.42,420000,Dec 2020
+706,Hougang Ave 2,10 to 12,94,New Generation,1985,64,366000,Dec 2020
+606,Hougang Ave 4,10 to 12,84,Simplified,1985,63.83,360000,Dec 2020
+308,Hougang Ave 5,07 to 09,93,New Generation,1983,61.83,360000,Dec 2020
+334,Hougang Ave 5,01 to 03,104,Model A,1983,61.33,377000,Dec 2020
+422,Hougang Ave 6,04 to 06,103,Model A,1990,68.25,445000,Dec 2020
+340,Hougang Ave 7,04 to 06,91,New Generation,1985,63.33,350000,Dec 2020
+417,Hougang Ave 8,07 to 09,105,Model A,1989,67.67,430000,Dec 2020
+440,Hougang Ave 8,01 to 03,105,Model A,1990,68.92,380888,Dec 2020
+440,Hougang Ave 8,04 to 06,103,Model A,1990,68.92,442888,Dec 2020
+444,Hougang Ave 8,01 to 03,105,Model A,1991,69.75,420000,Dec 2020
+502,Hougang Ave 8,04 to 06,84,Simplified,1987,65.5,350000,Dec 2020
+504,Hougang Ave 8,04 to 06,84,Simplified,1987,65.75,350000,Dec 2020
+617,Hougang Ave 8,01 to 03,104,Model A,1986,64.17,370000,Dec 2020
+626,Hougang Ave 8,10 to 12,104,Model A,1986,65,388000,Dec 2020
+637,Hougang Ave 8,04 to 06,84,Simplified,1987,65.75,363000,Dec 2020
+637,Hougang Ave 8,07 to 09,105,Model A,1987,65.83,395000,Dec 2020
+650,Hougang Ave 8,13 to 15,84,Simplified,1987,65.92,350000,Dec 2020
+681,Hougang Ave 8,01 to 03,85,Simplified,1989,67.75,345000,Dec 2020
+239,Hougang St 22,07 to 09,104,Model A,1984,63,410000,Dec 2020
+370,Hougang St 31,04 to 06,101,Model A,1999,77.92,410000,Dec 2020
+376B,Hougang St 32,01 to 03,92,Model A,2016,94.25,436000,Dec 2020
+547,Hougang St 51,04 to 06,103,Model A,1992,70.83,385000,Dec 2020
+548,Hougang St 51,10 to 12,103,Model A,1992,70.83,430000,Dec 2020
+549,Hougang St 51,07 to 09,103,Model A,1992,70.83,422000,Dec 2020
+550,Hougang St 51,04 to 06,111,Model A,1992,70.83,422000,Dec 2020
+572,Hougang St 51,10 to 12,98,Model A,1997,75.25,439000,Dec 2020
+537,Hougang St 52,13 to 15,105,Model A,1992,70.83,450000,Dec 2020
+696,Hougang St 61,01 to 03,104,Model A,1987,65.83,390000,Dec 2020
+910,Hougang St 91,07 to 09,92,Model A2,1997,75.92,378000,Dec 2020
+914,Hougang St 91,07 to 09,100,Model A,1998,76.17,408000,Dec 2020
+926,Hougang St 91,10 to 12,101,Model A,1998,76.67,398000,Dec 2020
+929,Hougang St 91,04 to 06,101,Model A,1998,76.67,405000,Dec 2020
+950,Hougang St 91,01 to 03,100,Model A,1999,77.5,385000,Dec 2020
+976,Hougang St 91,01 to 03,101,Model A,1999,78,377000,Dec 2020
+976,Hougang St 91,07 to 09,101,Model A,1999,78,400000,Dec 2020
+944,Hougang St 92,07 to 09,102,Model A,1998,76.92,425000,Dec 2020
+135,Lor Ah Soo,01 to 03,113,Model A,1985,63.42,375000,Dec 2020
+135,Lor Ah Soo,07 to 09,106,Model A,1985,63.42,425000,Dec 2020
+470A,Upp Serangoon Cres,01 to 03,93,Model A,2015,93.5,400000,Dec 2020
+470A,Upp Serangoon Cres,07 to 09,93,Model A,2015,93.42,460000,Dec 2020
+470A,Upp Serangoon Cres,16 to 18,92,Model A,2015,93.5,510000,Dec 2020
+470B,Upp Serangoon Cres,04 to 06,92,Model A,2015,93.5,442888,Dec 2020
+471A,Upp Serangoon Cres,10 to 12,92,Model A,2015,93.5,465000,Dec 2020
+475B,Upp Serangoon Cres,10 to 12,92,Dbss,2014,92.92,635000,Dec 2020
+475D,Upp Serangoon Cres,13 to 15,92,Dbss,2014,93,615000,Dec 2020
+475D,Upp Serangoon Cres,13 to 15,92,Dbss,2014,92.92,625000,Dec 2020
+476A,Upp Serangoon View,16 to 18,95,Premium Apartment,2016,94.33,612000,Dec 2020
+476B,Upp Serangoon View,04 to 06,92,Premium Apartment,2016,94.33,543000,Dec 2020
+476B,Upp Serangoon View,10 to 12,92,Premium Apartment,2016,94.33,547000,Dec 2020
+477A,Upp Serangoon View,10 to 12,92,Premium Apartment,2016,94.33,520000,Dec 2020
+477B,Upp Serangoon View,10 to 12,92,Premium Apartment,2016,94.33,488000,Dec 2020
+477C,Upp Serangoon View,19 to 21,92,Premium Apartment,2016,94.33,550000,Dec 2020
+978C,Buangkok Cres,13 to 15,90,Model A,2003,81.75,355000,Nov 2020
+978C,Buangkok Cres,16 to 18,90,Model A,2003,81.75,380000,Nov 2020
+405,Hougang Ave 10,10 to 12,91,New Generation,1985,64.17,421888,Nov 2020
+406,Hougang Ave 10,10 to 12,91,New Generation,1985,64.17,362000,Nov 2020
+411,Hougang Ave 10,10 to 12,91,New Generation,1986,64.25,380000,Nov 2020
+701,Hougang Ave 2,07 to 09,91,New Generation,1985,64,368000,Nov 2020
+18,Hougang Ave 3,10 to 12,92,New Generation,1978,56.5,368000,Nov 2020
+580,Hougang Ave 4,04 to 06,100,Model A,1997,76.08,416000,Nov 2020
+605,Hougang Ave 4,04 to 06,104,Model A,1985,63.92,420000,Nov 2020
+304,Hougang Ave 5,01 to 03,105,Model A,1983,61.83,397000,Nov 2020
+320,Hougang Ave 5,10 to 12,98,New Generation,1983,61.92,388800,Nov 2020
+322,Hougang Ave 5,07 to 09,97,New Generation,1983,61.42,385000,Nov 2020
+327,Hougang Ave 5,04 to 06,93,New Generation,1983,61.42,385000,Nov 2020
+317,Hougang Ave 7,10 to 12,93,New Generation,1983,61.67,394000,Nov 2020
+336,Hougang Ave 7,10 to 12,91,New Generation,1985,63.67,365000,Nov 2020
+337,Hougang Ave 7,04 to 06,93,New Generation,1985,63.83,355000,Nov 2020
+417,Hougang Ave 8,04 to 06,103,Model A,1989,67.83,425000,Nov 2020
+542,Hougang Ave 8,04 to 06,103,Model A,1992,70.92,420000,Nov 2020
+613,Hougang Ave 8,10 to 12,84,Simplified,1986,64.67,346000,Nov 2020
+636,Hougang Ave 8,10 to 12,84,Simplified,1987,66.17,355000,Nov 2020
+660,Hougang Ave 8,10 to 12,107,Model A,1987,65.67,400000,Nov 2020
+677,Hougang Ave 8,13 to 15,84,Simplified,1988,66.92,390000,Nov 2020
+963,Hougang Ave 9,13 to 15,100,Model A,1999,77.83,420000,Nov 2020
+965,Hougang Ave 9,13 to 15,100,Model A,1999,77.92,413000,Nov 2020
+968,Hougang Ave 9,01 to 03,90,Model A2,1999,77.83,352000,Nov 2020
+835,Hougang Ctrl,13 to 15,104,Model A,1992,70.92,505000,Nov 2020
+246,Hougang St 22,01 to 03,93,New Generation,1984,62.83,345000,Nov 2020
+551,Hougang St 51,01 to 03,102,Model A,1992,71,400000,Nov 2020
+574,Hougang St 51,04 to 06,100,Model A,1997,75.58,385000,Nov 2020
+696,Hougang St 61,10 to 12,104,Model A,1987,66,416000,Nov 2020
+698A,Hougang St 61,01 to 03,100,Model A,1999,77.42,480000,Nov 2020
+926,Hougang St 91,10 to 12,100,Model A,1998,76.75,408000,Nov 2020
+969,Hougang St 91,04 to 06,90,Model A2,1999,78.08,368000,Nov 2020
+133,Lor Ah Soo,01 to 03,106,Model A,1985,63.33,380000,Nov 2020
+137,Lor Ah Soo,10 to 12,105,Model A,1985,63.5,390000,Nov 2020
+142,Lor Ah Soo,10 to 12,103,Model A,1984,63.08,428000,Nov 2020
+143,Lor Ah Soo,04 to 06,108,Model A,1984,63.17,407000,Nov 2020
+470A,Upp Serangoon Cres,04 to 06,92,Model A,2015,93.58,435000,Nov 2020
+470A,Upp Serangoon Cres,07 to 09,92,Model A,2015,93.58,458000,Nov 2020
+470A,Upp Serangoon Cres,13 to 15,92,Model A,2015,93.58,468888,Nov 2020
+470C,Upp Serangoon Cres,04 to 06,92,Model A,2015,93.58,430000,Nov 2020
+471A,Upp Serangoon Cres,16 to 18,92,Model A,2015,93.58,479000,Nov 2020
+476A,Upp Serangoon View,16 to 18,95,Premium Apartment,2016,94.42,580000,Nov 2020
+476A,Upp Serangoon View,07 to 09,95,Premium Apartment,2016,94.33,595000,Nov 2020
+477C,Upp Serangoon View,10 to 12,92,Premium Apartment,2016,94.33,580000,Nov 2020
+987C,Buangkok Green,10 to 12,92,Model A,2015,92.33,512000,Nov 2021
+988A,Buangkok Green,13 to 15,93,Model A,2015,92.33,500000,Nov 2021
+443,Hougang Ave 8,10 to 12,103,Model A,1990,68,500000,Nov 2021
+614,Hougang Ave 8,07 to 09,84,Simplified,1986,63.25,388888,Nov 2021
+637,Hougang Ave 8,07 to 09,84,Simplified,1987,64.92,400000,Nov 2021
+932A,Hougang Ave 9,04 to 06,92,Model A,2017,95.08,534000,Nov 2021
+910,Hougang St 91,07 to 09,90,Model A2,1997,75.08,409000,Nov 2021
+926,Hougang St 91,10 to 12,101,Model A,1998,75.75,464000,Nov 2021
+364B,Upp Serangoon Rd,04 to 06,92,Model A,2018,95.33,618000,Nov 2021
+365A,Upp Serangoon Rd,16 to 18,92,Model A,2018,95.33,638000,Nov 2021
+365A,Upp Serangoon Rd,13 to 15,93,Model A,2018,95.33,640000,Nov 2021
+979C,Buangkok Cres,04 to 06,90,Model A,2003,80.83,423000,Oct 2021
+981A,Buangkok Cres,13 to 15,90,Model A,2003,80.67,448000,Oct 2021
+988B,Buangkok Green,04 to 06,93,Model A,2015,92.42,478000,Oct 2021
+988B,Buangkok Green,04 to 06,93,Model A,2015,92.42,495000,Oct 2021
+988C,Buangkok Green,13 to 15,93,Model A,2015,92.42,500000,Oct 2021
+101,Hougang Ave 1,07 to 09,103,Model A,1984,61.42,442000,Oct 2021
+165,Hougang Ave 1,10 to 12,92,Model A2,1997,75.17,425000,Oct 2021
+169,Hougang Ave 1,04 to 06,102,Model A,1997,75.25,445000,Oct 2021
+172,Hougang Ave 1,01 to 03,103,Model A,1997,75.25,465000,Oct 2021
+405,Hougang Ave 10,04 to 06,91,New Generation,1985,63.17,435000,Oct 2021
+247,Hougang Ave 3,07 to 09,93,New Generation,1984,61.67,453000,Oct 2021
+667,Hougang Ave 4,01 to 03,104,Model A,1987,64.75,435000,Oct 2021
+302,Hougang Ave 5,07 to 09,103,Model A,1983,61.08,490000,Oct 2021
+308,Hougang Ave 5,01 to 03,93,New Generation,1983,61.08,390000,Oct 2021
+315,Hougang Ave 5,04 to 06,92,New Generation,1993,70.58,455000,Oct 2021
+422,Hougang Ave 6,01 to 03,110,Model A,1990,67.42,498000,Oct 2021
+337,Hougang Ave 7,04 to 06,103,New Generation,1985,62.92,438000,Oct 2021
+434,Hougang Ave 8,04 to 06,103,Model A,1989,66.75,450000,Oct 2021
+435,Hougang Ave 8,04 to 06,113,Model A,1991,68.67,538000,Oct 2021
+439,Hougang Ave 8,04 to 06,103,Model A,1990,68,425000,Oct 2021
+611,Hougang Ave 8,10 to 12,84,Simplified,1986,63.33,395000,Oct 2021
+617,Hougang Ave 8,01 to 03,104,Model A,1986,63.25,470000,Oct 2021
+660,Hougang Ave 8,04 to 06,103,Model A,1987,64.75,445000,Oct 2021
+677,Hougang Ave 8,01 to 03,89,Simplified,1988,66,390000,Oct 2021
+680,Hougang Ave 8,04 to 06,84,Simplified,1987,64.42,390000,Oct 2021
+932B,Hougang Ave 9,13 to 15,92,Model A,2017,95.17,570000,Oct 2021
+933A,Hougang Ave 9,13 to 15,92,Model A,2017,95.17,560000,Oct 2021
+555,Hougang St 51,10 to 12,103,Model A,1992,70,450000,Oct 2021
+565,Hougang St 51,07 to 09,107,Model A,1992,70,430000,Oct 2021
+909,Hougang St 91,13 to 15,103,Model A,1997,75.17,455000,Oct 2021
+909,Hougang St 91,04 to 06,102,Model A,1997,75.17,458000,Oct 2021
+910,Hougang St 91,04 to 06,92,Model A2,1997,75.17,428000,Oct 2021
+925,Hougang St 91,04 to 06,100,Model A,1998,76,422000,Oct 2021
+943,Hougang St 92,01 to 03,101,Model A,1998,76,440000,Oct 2021
+143,Lor Ah Soo,04 to 06,108,Model A,1984,62.25,440000,Oct 2021
+473C,Upp Serangoon Cres,10 to 12,93,Model A,2017,94.75,570000,Oct 2021
+475A,Upp Serangoon Cres,04 to 06,92,Dbss,2014,92.08,590000,Oct 2021
+364A,Upp Serangoon Rd,01 to 03,92,Model A,2018,95.33,570000,Oct 2021
+364B,Upp Serangoon Rd,04 to 06,92,Model A,2018,95.42,625000,Oct 2021
+365A,Upp Serangoon Rd,07 to 09,93,Model A,2018,95.42,568000,Oct 2021
+476A,Upp Serangoon View,04 to 06,95,Premium Apartment,2016,93.5,565000,Oct 2021
+476B,Upp Serangoon View,13 to 15,92,Premium Apartment,2016,93.42,588000,Oct 2021
+978D,Buangkok Cres,04 to 06,90,Model A,2003,80.92,410000,Sep 2021
+979A,Buangkok Cres,07 to 09,90,Model A,2003,80.92,450000,Sep 2021
+980B,Buangkok Cres,07 to 09,90,Model A,2003,80.83,410000,Sep 2021
+987C,Buangkok Green,16 to 18,93,Model A,2015,92.5,518000,Sep 2021
+988C,Buangkok Green,04 to 06,93,Model A,2015,92.5,475000,Sep 2021
+988C,Buangkok Green,13 to 15,93,Model A,2015,92.5,520000,Sep 2021
+166,Hougang Ave 1,04 to 06,101,Model A,1997,75.25,438000,Sep 2021
+172,Hougang Ave 1,07 to 09,101,Model A,1997,75.33,455000,Sep 2021
+404,Hougang Ave 10,01 to 03,91,New Generation,1985,62.92,438888,Sep 2021
+409,Hougang Ave 10,10 to 12,98,New Generation,1985,63.33,488888,Sep 2021
+411,Hougang Ave 10,13 to 15,93,New Generation,1986,63.42,445000,Sep 2021
+414,Hougang Ave 10,07 to 09,93,New Generation,1986,63.42,470000,Sep 2021
+509,Hougang Ave 10,04 to 06,103,Model A,1986,63.75,450000,Sep 2021
+711,Hougang Ave 2,10 to 12,91,New Generation,1986,63.83,410000,Sep 2021
+601,Hougang Ave 4,04 to 06,84,Simplified,1986,63.83,370888,Sep 2021
+303,Hougang Ave 5,01 to 03,105,Model A,1983,60.67,398000,Sep 2021
+319,Hougang Ave 5,01 to 03,93,New Generation,1983,60.92,386000,Sep 2021
+332,Hougang Ave 5,10 to 12,104,Model A,1983,60.67,450000,Sep 2021
+424,Hougang Ave 6,07 to 09,105,Model A,1989,67.33,501000,Sep 2021
+432,Hougang Ave 6,10 to 12,113,Model A,1989,66.75,530000,Sep 2021
+521,Hougang Ave 6,01 to 03,84,Simplified,1987,65.08,403000,Sep 2021
+352,Hougang Ave 7,13 to 15,91,New Generation,1986,63.5,416000,Sep 2021
+434,Hougang Ave 8,01 to 03,105,Model A,1989,66.83,430000,Sep 2021
+437,Hougang Ave 8,10 to 12,103,Model A,1991,68.67,468000,Sep 2021
+501,Hougang Ave 8,07 to 09,84,Simplified,1986,63.75,425000,Sep 2021
+504,Hougang Ave 8,07 to 09,84,Simplified,1987,65,418000,Sep 2021
+627,Hougang Ave 8,04 to 06,84,Simplified,1986,63.83,390000,Sep 2021
+636,Hougang Ave 8,04 to 06,84,Simplified,1987,65.33,380000,Sep 2021
+678,Hougang Ave 8,04 to 06,84,Simplified,1988,66.25,380000,Sep 2021
+917,Hougang Ave 9,01 to 03,100,Model A,1998,75.67,410000,Sep 2021
+932A,Hougang Ave 9,04 to 06,92,Model A,2017,95.25,500000,Sep 2021
+932A,Hougang Ave 9,07 to 09,92,Model A,2017,95.25,515000,Sep 2021
+968,Hougang Ave 9,04 to 06,90,Model A2,1999,77,380000,Sep 2021
+832,Hougang Ctrl,07 to 09,107,Model A,1992,70.17,515000,Sep 2021
+158,Hougang St 11,04 to 06,101,Model A,1997,75.33,480000,Sep 2021
+371,Hougang St 31,10 to 12,100,Model A,1999,77.17,520000,Sep 2021
+372,Hougang St 31,01 to 03,102,Model A,1999,77.17,430000,Sep 2021
+548,Hougang St 51,04 to 06,102,Model A,1992,70.17,455000,Sep 2021
+551,Hougang St 51,04 to 06,103,Model A,1992,69.92,440000,Sep 2021
+557,Hougang St 51,07 to 09,103,Model A,1992,70.08,442000,Sep 2021
+699B,Hougang St 52,13 to 15,100,Model A,1998,76.25,480888,Sep 2021
+699C,Hougang St 52,04 to 06,100,Model A,1998,76.25,480000,Sep 2021
+689,Hougang St 61,01 to 03,103,Model A,1987,65,432000,Sep 2021
+690,Hougang St 61,04 to 06,84,Simplified,1987,65.25,390000,Sep 2021
+697,Hougang St 61,04 to 06,84,Simplified,1987,64.75,388000,Sep 2021
+910,Hougang St 91,04 to 06,93,Model A2,1997,75.25,420000,Sep 2021
+910,Hougang St 91,10 to 12,94,Model A2,1997,75.25,433000,Sep 2021
+912,Hougang St 91,10 to 12,102,Model A,1997,75.25,437000,Sep 2021
+137,Lor Ah Soo,10 to 12,106,Model A,1985,62.67,390000,Sep 2021
+471A,Upp Serangoon Cres,13 to 15,92,Model A,2015,92.67,490000,Sep 2021
+473A,Upp Serangoon Cres,01 to 03,93,Model A,2017,94.75,453000,Sep 2021
+473C,Upp Serangoon Cres,01 to 03,93,Model A,2017,94.83,460000,Sep 2021
+473C,Upp Serangoon Cres,16 to 18,93,Model A,2017,94.83,600000,Sep 2021
+473D,Upp Serangoon Cres,07 to 09,93,Model A,2017,94.83,538000,Sep 2021
+475A,Upp Serangoon Cres,01 to 03,92,Dbss,2014,92.25,560000,Sep 2021
+475A,Upp Serangoon Cres,04 to 06,92,Dbss,2014,92.17,560000,Sep 2021
+475B,Upp Serangoon Cres,01 to 03,92,Dbss,2014,92.17,610000,Sep 2021
+475C,Upp Serangoon Cres,01 to 03,92,Dbss,2014,92.17,625000,Sep 2021
+364A,Upp Serangoon Rd,04 to 06,92,Model A,2018,95.5,610000,Sep 2021
+365A,Upp Serangoon Rd,04 to 06,93,Model A,2018,95.42,600000,Sep 2021
+365B,Upp Serangoon Rd,16 to 18,92,Model A,2018,95.5,635000,Sep 2021
+476A,Upp Serangoon View,07 to 09,95,Premium Apartment,2016,93.5,640000,Sep 2021
+476B,Upp Serangoon View,10 to 12,92,Premium Apartment,2016,93.58,520000,Sep 2021
+477A,Upp Serangoon View,16 to 18,92,Premium Apartment,2016,93.58,588000,Sep 2021
+477C,Upp Serangoon View,04 to 06,92,Premium Apartment,2016,93.5,500000,Sep 2021
+978D,Buangkok Cres,04 to 06,90,Model A,2003,81,415000,Aug 2021
+987C,Buangkok Green,16 to 18,93,Model A,2015,92.58,510000,Aug 2021
+988C,Buangkok Green,19 to 21,93,Model A,2015,92.58,505000,Aug 2021
+114,Hougang Ave 1,07 to 09,95,New Generation,1982,59.5,380000,Aug 2021
+125,Hougang Ave 1,04 to 06,91,New Generation,1981,59.08,405000,Aug 2021
+236,Hougang Ave 1,01 to 03,104,Model A,1984,61.83,460000,Aug 2021
+402,Hougang Ave 10,10 to 12,91,New Generation,1985,63.25,405000,Aug 2021
+412,Hougang Ave 10,01 to 03,93,New Generation,1985,63.08,508000,Aug 2021
+512,Hougang Ave 10,10 to 12,84,Simplified,1987,64.83,430000,Aug 2021
+517,Hougang Ave 10,04 to 06,85,Simplified,1987,64.58,440000,Aug 2021
+701,Hougang Ave 2,04 to 06,91,New Generation,1985,63.25,350000,Aug 2021
+701,Hougang Ave 2,04 to 06,91,New Generation,1985,63.25,380000,Aug 2021
+707,Hougang Ave 2,04 to 06,98,New Generation,1986,64.25,385000,Aug 2021
+20,Hougang Ave 3,04 to 06,98,New Generation,1978,55.75,380000,Aug 2021
+251,Hougang Ave 3,04 to 06,98,New Generation,1985,62.58,390000,Aug 2021
+576,Hougang Ave 4,04 to 06,100,Model A,1997,75.25,418000,Aug 2021
+667,Hougang Ave 4,10 to 12,104,Model A,1987,64.92,437000,Aug 2021
+327,Hougang Ave 5,07 to 09,93,New Generation,1983,60.75,425000,Aug 2021
+325,Hougang Ave 7,10 to 12,98,New Generation,1983,60.75,431000,Aug 2021
+435,Hougang Ave 8,07 to 09,103,Model A,1991,68.83,445000,Aug 2021
+614,Hougang Ave 8,07 to 09,84,Simplified,1986,63.5,383000,Aug 2021
+635,Hougang Ave 8,07 to 09,105,Model A,1987,65.08,456888,Aug 2021
+673,Hougang Ave 8,04 to 06,104,Model A,1986,64.08,438000,Aug 2021
+675,Hougang Ave 8,07 to 09,104,Model A,1986,64.42,445000,Aug 2021
+678,Hougang Ave 8,04 to 06,84,Simplified,1988,66.33,378000,Aug 2021
+918,Hougang Ave 9,10 to 12,100,Model A,1998,75.75,420000,Aug 2021
+932B,Hougang Ave 9,10 to 12,92,Model A,2017,95.25,552000,Aug 2021
+932B,Hougang Ave 9,13 to 15,92,Model A,2017,95.33,560000,Aug 2021
+954,Hougang Ave 9,10 to 12,101,Model A,1999,76.75,450000,Aug 2021
+158,Hougang St 11,10 to 12,101,Model A,1997,75.42,520888,Aug 2021
+159,Hougang St 11,07 to 09,103,Model A,1998,75.5,520000,Aug 2021
+161,Hougang St 11,07 to 09,103,Model A,1997,75.42,518000,Aug 2021
+697,Hougang St 61,04 to 06,85,Simplified,1987,64.83,408000,Aug 2021
+913,Hougang St 91,04 to 06,101,Model A,1997,75.33,430000,Aug 2021
+925,Hougang St 91,10 to 12,101,Model A,1998,76.17,462000,Aug 2021
+927,Hougang St 91,04 to 06,100,Model A,1998,76.33,429000,Aug 2021
+937,Hougang St 92,10 to 12,101,Model A,1998,75.58,535000,Aug 2021
+946,Hougang St 92,01 to 03,100,Model A,1998,76.17,420000,Aug 2021
+470A,Upp Serangoon Cres,13 to 15,92,Model A,2015,92.83,505000,Aug 2021
+470C,Upp Serangoon Cres,07 to 09,92,Model A,2015,92.75,465000,Aug 2021
+471A,Upp Serangoon Cres,16 to 18,92,Model A,2015,92.83,508000,Aug 2021
+473A,Upp Serangoon Cres,01 to 03,93,Model A,2017,95.08,455000,Aug 2021
+473B,Upp Serangoon Cres,01 to 03,93,Model A,2017,94.92,470000,Aug 2021
+473B,Upp Serangoon Cres,13 to 15,93,Model A,2017,94.92,540000,Aug 2021
+475A,Upp Serangoon Cres,04 to 06,92,Dbss,2014,92.33,568000,Aug 2021
+475A,Upp Serangoon Cres,04 to 06,92,Dbss,2014,92.25,575000,Aug 2021
+475A,Upp Serangoon Cres,16 to 18,92,Dbss,2014,92.33,690000,Aug 2021
+475D,Upp Serangoon Cres,04 to 06,92,Dbss,2014,92.25,580000,Aug 2021
+475D,Upp Serangoon Cres,10 to 12,92,Dbss,2014,92.25,635000,Aug 2021
+477A,Upp Serangoon View,04 to 06,92,Premium Apartment,2016,93.58,475000,Aug 2021
+477B,Upp Serangoon View,01 to 03,95,Premium Apartment,2016,93.67,530000,Aug 2021
+477B,Upp Serangoon View,01 to 03,95,Premium Apartment,2016,93.67,575000,Aug 2021
+980A,Buangkok Cres,10 to 12,85,Model A2,2003,81,410000,Jul 2021
+987C,Buangkok Green,01 to 03,93,Model A,2015,92.67,438000,Jul 2021
+987C,Buangkok Green,10 to 12,93,Model A,2015,92.67,475000,Jul 2021
+165,Hougang Ave 1,07 to 09,92,Model A2,1997,75.5,405000,Jul 2021
+168,Hougang Ave 1,07 to 09,102,Model A,1997,75.5,415000,Jul 2021
+171,Hougang Ave 1,01 to 03,100,Model A,1998,75.58,390000,Jul 2021
+173,Hougang Ave 1,01 to 03,100,Model A,1997,75.5,430000,Jul 2021
+463,Hougang Ave 10,10 to 12,105,Model A,1992,70.25,525888,Jul 2021
+515,Hougang Ave 10,10 to 12,84,Simplified,1986,64.25,410000,Jul 2021
+517,Hougang Ave 10,01 to 03,89,Simplified,1987,64.67,375000,Jul 2021
+701,Hougang Ave 2,07 to 09,91,New Generation,1985,63.33,374000,Jul 2021
+252,Hougang Ave 3,10 to 12,91,New Generation,1985,62.58,418000,Jul 2021
+602,Hougang Ave 4,10 to 12,104,Model A,1985,63.17,450000,Jul 2021
+662,Hougang Ave 4,07 to 09,104,Model A,1987,65.17,430000,Jul 2021
+332,Hougang Ave 5,10 to 12,104,Model A,1983,60.92,439000,Jul 2021
+332,Hougang Ave 5,07 to 09,104,Model A,1983,60.92,440000,Jul 2021
+426,Hougang Ave 6,10 to 12,113,Model A,1989,67.42,510000,Jul 2021
+527,Hougang Ave 6,07 to 09,84,Simplified,1987,65.42,390000,Jul 2021
+341,Hougang Ave 7,13 to 15,91,New Generation,1985,63.17,400000,Jul 2021
+352,Hougang Ave 7,01 to 03,93,New Generation,1986,63.67,386000,Jul 2021
+436,Hougang Ave 8,01 to 03,105,Model A,1990,68.5,440000,Jul 2021
+437,Hougang Ave 8,10 to 12,103,Model A,1991,68.92,445000,Jul 2021
+439,Hougang Ave 8,16 to 18,103,Model A,1990,68.17,475000,Jul 2021
+627,Hougang Ave 8,04 to 06,84,Simplified,1986,64.08,375000,Jul 2021
+635,Hougang Ave 8,07 to 09,104,Model A,1987,65.25,438000,Jul 2021
+637,Hougang Ave 8,01 to 03,84,Simplified,1987,65.17,398000,Jul 2021
+648,Hougang Ave 8,01 to 03,104,Model A,1987,65.33,400888,Jul 2021
+660,Hougang Ave 8,04 to 06,104,Model A,1987,65,440000,Jul 2021
+676,Hougang Ave 8,01 to 03,84,Simplified,1986,64.33,365000,Jul 2021
+924,Hougang Ave 9,07 to 09,100,Model A,1998,76.25,430000,Jul 2021
+932B,Hougang Ave 9,07 to 09,92,Model A,2017,95.33,523000,Jul 2021
+954,Hougang Ave 9,07 to 09,101,Model A,1999,76.83,445000,Jul 2021
+964,Hougang Ave 9,04 to 06,101,Model A,1999,77.17,428000,Jul 2021
+832,Hougang Ctrl,07 to 09,106,Model A,1992,70.25,590000,Jul 2021
+838,Hougang Ctrl,04 to 06,98,Model A,1997,74.67,564000,Jul 2021
+244,Hougang St 22,01 to 03,92,New Generation,1984,62.25,380000,Jul 2021
+551,Hougang St 51,04 to 06,106,Model A,1992,70.33,438000,Jul 2021
+565,Hougang St 51,04 to 06,104,Model A,1992,70.42,420000,Jul 2021
+568,Hougang St 51,01 to 03,100,Model A,1997,74.75,420000,Jul 2021
+575,Hougang St 51,07 to 09,100,Model A,1997,74.67,460000,Jul 2021
+686,Hougang St 61,10 to 12,84,Simplified,1987,65.08,365000,Jul 2021
+910,Hougang St 91,10 to 12,90,Model A2,1997,75.42,405888,Jul 2021
+914,Hougang St 91,04 to 06,100,Model A,1998,75.58,450000,Jul 2021
+950,Hougang St 91,04 to 06,101,Model A,1999,76.92,448000,Jul 2021
+969,Hougang St 91,04 to 06,95,Model A2,1999,77.5,387500,Jul 2021
+134,Lor Ah Soo,04 to 06,103,Model A,1984,61.75,425000,Jul 2021
+470A,Upp Serangoon Cres,13 to 15,92,Model A,2015,92.92,500000,Jul 2021
+470B,Upp Serangoon Cres,07 to 09,93,Model A,2015,92.83,478000,Jul 2021
+471A,Upp Serangoon Cres,04 to 06,92,Model A,2015,93,442000,Jul 2021
+473A,Upp Serangoon Cres,04 to 06,93,Model A,2017,95,460000,Jul 2021
+473B,Upp Serangoon Cres,04 to 06,93,Model A,2017,95,470000,Jul 2021
+473B,Upp Serangoon Cres,04 to 06,93,Model A,2017,95,480000,Jul 2021
+473C,Upp Serangoon Cres,04 to 06,93,Model A,2017,95,480000,Jul 2021
+473C,Upp Serangoon Cres,10 to 12,93,Model A,2017,95,540000,Jul 2021
+473C,Upp Serangoon Cres,13 to 15,93,Model A,2017,95,555000,Jul 2021
+473D,Upp Serangoon Cres,13 to 15,93,Model A,2017,94.92,530000,Jul 2021
+475A,Upp Serangoon Cres,10 to 12,92,Dbss,2014,92.42,642000,Jul 2021
+475C,Upp Serangoon Cres,01 to 03,92,Dbss,2014,92.42,550000,Jul 2021
+475C,Upp Serangoon Cres,10 to 12,92,Dbss,2014,92.42,640000,Jul 2021
+475D,Upp Serangoon Cres,01 to 03,92,Dbss,2014,92.42,575000,Jul 2021
+475D,Upp Serangoon Cres,16 to 18,92,Dbss,2014,92.42,668888,Jul 2021
+464,Upp Serangoon Rd,01 to 03,105,Model A,1992,70.25,508000,Jul 2021
+465,Upp Serangoon Rd,01 to 03,105,Model A,1992,70.25,450000,Jul 2021
+476C,Upp Serangoon View,07 to 09,92,Premium Apartment,2016,93.75,521000,Jul 2021
+477B,Upp Serangoon View,07 to 09,92,Premium Apartment,2016,93.75,545000,Jul 2021
+477B,Upp Serangoon View,13 to 15,92,Premium Apartment,2016,93.83,575000,Jul 2021
+988C,Buangkok Green,16 to 18,93,Model A,2015,92.75,518000,Jun 2021
+401,Hougang Ave 10,01 to 03,92,New Generation,1985,63,376000,Jun 2021
+405,Hougang Ave 10,07 to 09,93,New Generation,1985,63.58,441000,Jun 2021
+413,Hougang Ave 10,13 to 15,91,New Generation,1986,63.83,439888,Jun 2021
+421,Hougang Ave 10,07 to 09,103,Model A,1989,67.17,450000,Jun 2021
+458,Hougang Ave 10,04 to 06,102,Model A,1992,70.42,448000,Jun 2021
+709,Hougang Ave 2,10 to 12,91,New Generation,1985,63.08,402000,Jun 2021
+17,Hougang Ave 3,04 to 06,98,New Generation,1978,56,400000,Jun 2021
+18,Hougang Ave 3,10 to 12,92,New Generation,1978,56,375000,Jun 2021
+605,Hougang Ave 4,04 to 06,84,Simplified,1985,63.42,365000,Jun 2021
+665,Hougang Ave 4,01 to 03,104,Model A,1988,66.58,408000,Jun 2021
+310,Hougang Ave 5,04 to 06,98,New Generation,1984,61.75,385000,Jun 2021
+314,Hougang Ave 5,07 to 09,93,New Generation,1993,70.92,395000,Jun 2021
+359,Hougang Ave 5,04 to 06,104,Model A,1992,70.42,480000,Jun 2021
+361,Hougang Ave 5,07 to 09,104,Model A,1992,70.33,450000,Jun 2021
+361,Hougang Ave 5,01 to 03,106,Model A,1992,70.33,460000,Jun 2021
+526,Hougang Ave 6,07 to 09,84,Simplified,1988,65.83,380000,Jun 2021
+337,Hougang Ave 7,01 to 03,91,New Generation,1985,63.33,340000,Jun 2021
+351,Hougang Ave 7,10 to 12,97,New Generation,1985,63.08,380000,Jun 2021
+433,Hougang Ave 8,13 to 15,113,Model A,1989,67.17,535000,Jun 2021
+445,Hougang Ave 8,04 to 06,105,Model A,1990,67.92,415000,Jun 2021
+445,Hougang Ave 8,04 to 06,113,Model A,1990,67.92,503888,Jun 2021
+507,Hougang Ave 8,01 to 03,84,Simplified,1986,64.25,368000,Jun 2021
+616,Hougang Ave 8,07 to 09,84,Simplified,1986,64.25,388000,Jun 2021
+660,Hougang Ave 8,07 to 09,104,Model A,1987,65.08,412000,Jun 2021
+673,Hougang Ave 8,10 to 12,104,Model A,1986,64.25,436000,Jun 2021
+161,Hougang St 11,10 to 12,103,Model A,1997,75.58,510000,Jun 2021
+373,Hougang St 31,10 to 12,100,Model A,2000,77.67,500000,Jun 2021
+557,Hougang St 51,07 to 09,103,Model A,1992,70.42,437000,Jun 2021
+699B,Hougang St 52,13 to 15,100,Model A,1998,76.5,453000,Jun 2021
+695,Hougang St 61,07 to 09,103,Model A,1987,65.42,435000,Jun 2021
+696,Hougang St 61,01 to 03,103,Model A,1987,65.42,400000,Jun 2021
+910,Hougang St 91,10 to 12,90,Model A2,1997,75.5,400000,Jun 2021
+910,Hougang St 91,07 to 09,93,Model A2,1997,75.42,405000,Jun 2021
+969,Hougang St 91,10 to 12,90,Model A2,1999,77.58,398000,Jun 2021
+976,Hougang St 91,01 to 03,100,Model A,1999,77.5,395000,Jun 2021
+941,Hougang St 92,04 to 06,101,Model A,1998,75.75,408000,Jun 2021
+133,Lor Ah Soo,04 to 06,104,Model A,1985,62.83,428000,Jun 2021
+134,Lor Ah Soo,01 to 03,103,Model A,1984,61.83,395000,Jun 2021
+135,Lor Ah Soo,10 to 12,106,Model A,1985,62.92,433000,Jun 2021
+470A,Upp Serangoon Cres,16 to 18,92,Model A,2015,93,500000,Jun 2021
+471A,Upp Serangoon Cres,04 to 06,92,Model A,2015,93,460000,Jun 2021
+471A,Upp Serangoon Cres,16 to 18,92,Model A,2015,93,503800,Jun 2021
+473B,Upp Serangoon Cres,01 to 03,93,Model A,2017,95.08,450000,Jun 2021
+473B,Upp Serangoon Cres,13 to 15,93,Model A,2017,95.08,510000,Jun 2021
+473B,Upp Serangoon Cres,13 to 15,93,Model A,2017,95.08,538888,Jun 2021
+473D,Upp Serangoon Cres,10 to 12,93,Model A,2017,95.08,546888,Jun 2021
+473D,Upp Serangoon Cres,07 to 09,93,Model A,2017,95,552888,Jun 2021
+475A,Upp Serangoon Cres,13 to 15,92,Dbss,2014,92.42,625000,Jun 2021
+475A,Upp Serangoon Cres,13 to 15,92,Dbss,2014,92.5,630000,Jun 2021
+475C,Upp Serangoon Cres,13 to 15,92,Dbss,2014,92.5,612000,Jun 2021
+475D,Upp Serangoon Cres,13 to 15,92,Dbss,2014,92.42,620000,Jun 2021
+476B,Upp Serangoon View,07 to 09,92,Premium Apartment,2016,93.83,540000,Jun 2021
+477A,Upp Serangoon View,07 to 09,92,Premium Apartment,2016,93.83,475000,Jun 2021
+477C,Upp Serangoon View,04 to 06,92,Premium Apartment,2016,93.83,550000,Jun 2021
+980A,Buangkok Cres,04 to 06,85,Model A2,2003,81.08,400000,May 2021
+981A,Buangkok Cres,01 to 03,90,Model A,2003,81.08,380000,May 2021
+987A,Buangkok Green,07 to 09,93,Model A,2015,92.75,450000,May 2021
+987C,Buangkok Green,07 to 09,92,Model A,2015,92.83,448000,May 2021
+984A,Buangkok Link,04 to 06,85,Model A2,2004,81.83,380000,May 2021
+234,Hougang Ave 1,04 to 06,109,Model A,1984,62.25,478000,May 2021
+704,Hougang Ave 2,07 to 09,96,New Generation,1985,63.58,412000,May 2021
+15,Hougang Ave 3,04 to 06,82,Improved,1975,53.58,350000,May 2021
+18,Hougang Ave 3,10 to 12,92,New Generation,1978,56.08,381000,May 2021
+667,Hougang Ave 4,04 to 06,103,Model A,1987,65.17,425000,May 2021
+424,Hougang Ave 6,10 to 12,105,Model A,1989,67.67,495000,May 2021
+326,Hougang Ave 7,10 to 12,104,Model A,1983,61,410000,May 2021
+326,Hougang Ave 7,07 to 09,104,Model A,1983,61,430000,May 2021
+443,Hougang Ave 8,10 to 12,103,Model A,1990,68.42,460000,May 2021
+544,Hougang Ave 8,10 to 12,104,Model A,1992,70.42,475000,May 2021
+632,Hougang Ave 8,07 to 09,89,Simplified,1986,64.17,395000,May 2021
+674,Hougang Ave 8,13 to 15,104,Model A,1987,64.75,430000,May 2021
+830,Hougang Ctrl,04 to 06,111,Model A,1992,70.42,502000,May 2021
+830,Hougang Ctrl,10 to 12,104,Model A,1992,70.42,530000,May 2021
+835,Hougang Ctrl,07 to 09,106,Model A,1992,70.5,505000,May 2021
+154,Hougang St 11,07 to 09,93,New Generation,1984,62.67,400000,May 2021
+244,Hougang St 22,04 to 06,96,New Generation,1984,62.42,390000,May 2021
+376A,Hougang St 32,01 to 03,92,Model A,2016,93.92,460000,May 2021
+573,Hougang St 51,04 to 06,100,Model A,1997,75.17,412000,May 2021
+537,Hougang St 52,04 to 06,115,Model A,1992,70.42,473000,May 2021
+911,Hougang St 91,10 to 12,94,Model A2,1998,75.75,425000,May 2021
+925,Hougang St 91,10 to 12,100,Model A,1998,76.42,435000,May 2021
+926,Hougang St 91,13 to 15,100,Model A,1998,76.17,462000,May 2021
+930,Hougang St 91,07 to 09,100,Model A,1998,76.25,418888,May 2021
+944,Hougang St 92,10 to 12,100,Model A,1998,76.42,459000,May 2021
+143,Lor Ah Soo,01 to 03,108,Model A,1984,62.67,388000,May 2021
+473C,Upp Serangoon Cres,13 to 15,93,Model A,2017,95.17,522000,May 2021
+473C,Upp Serangoon Cres,10 to 12,93,Model A,2017,95.08,533000,May 2021
+475A,Upp Serangoon Cres,10 to 12,92,Dbss,2014,92.58,625000,May 2021
+475D,Upp Serangoon Cres,01 to 03,92,Dbss,2014,92.58,560000,May 2021
+476B,Upp Serangoon View,04 to 06,92,Premium Apartment,2016,93.92,548000,May 2021
+476B,Upp Serangoon View,04 to 06,92,Premium Apartment,2016,94,550000,May 2021
+477A,Upp Serangoon View,13 to 15,92,Premium Apartment,2016,93.92,550000,May 2021
+477A,Upp Serangoon View,07 to 09,95,Premium Apartment,2016,93.92,610000,May 2021
+988A,Buangkok Green,07 to 09,93,Model A,2015,92.92,449000,Apr 2021
+988A,Buangkok Green,13 to 15,93,Model A,2015,92.83,465000,Apr 2021
+988C,Buangkok Green,01 to 03,93,Model A,2015,92.83,425000,Apr 2021
+984A,Buangkok Link,04 to 06,85,Model A2,2004,82,382000,Apr 2021
+101,Hougang Ave 1,01 to 03,108,Model A,1984,61.92,395000,Apr 2021
+124,Hougang Ave 1,04 to 06,91,New Generation,1981,59.58,368888,Apr 2021
+165,Hougang Ave 1,10 to 12,101,Model A2,1997,75.67,435000,Apr 2021
+169,Hougang Ave 1,10 to 12,101,Model A,1997,75.67,420000,Apr 2021
+169,Hougang Ave 1,13 to 15,101,Model A,1997,75.67,450000,Apr 2021
+420,Hougang Ave 10,01 to 03,105,Model A,1989,67.33,438000,Apr 2021
+15,Hougang Ave 3,04 to 06,82,Improved,1975,53.67,325000,Apr 2021
+602,Hougang Ave 4,04 to 06,84,Simplified,1985,63.42,355000,Apr 2021
+607,Hougang Ave 4,01 to 03,84,Simplified,1986,64.25,360000,Apr 2021
+665,Hougang Ave 4,07 to 09,103,Model A,1988,66.75,420000,Apr 2021
+309,Hougang Ave 5,01 to 03,93,New Generation,1982,60.58,360000,Apr 2021
+321,Hougang Ave 5,10 to 12,93,New Generation,1983,60.83,388000,Apr 2021
+324,Hougang Ave 5,07 to 09,104,Model A,1983,61,418000,Apr 2021
+523,Hougang Ave 6,01 to 03,104,Model A,1986,64.58,442000,Apr 2021
+526,Hougang Ave 6,07 to 09,84,Simplified,1988,66,355000,Apr 2021
+417,Hougang Ave 8,04 to 06,105,Model A,1989,67.42,418000,Apr 2021
+417,Hougang Ave 8,07 to 09,105,Model A,1989,67.33,460000,Apr 2021
+501,Hougang Ave 8,07 to 09,84,Simplified,1986,64.08,400000,Apr 2021
+613,Hougang Ave 8,04 to 06,84,Simplified,1986,64.25,380000,Apr 2021
+650,Hougang Ave 8,07 to 09,84,Simplified,1987,65.67,360000,Apr 2021
+650,Hougang Ave 8,07 to 09,84,Simplified,1987,65.5,370000,Apr 2021
+917,Hougang Ave 9,13 to 15,100,Model A,1998,76.08,397000,Apr 2021
+835,Hougang Ctrl,07 to 09,110,Model A,1992,70.5,555000,Apr 2021
+838,Hougang Ctrl,10 to 12,100,Model A,1997,75,515000,Apr 2021
+155,Hougang St 11,07 to 09,91,New Generation,1984,62.5,400000,Apr 2021
+155,Hougang St 11,07 to 09,93,New Generation,1984,62.5,410888,Apr 2021
+242,Hougang St 22,01 to 03,96,New Generation,1984,62.58,388000,Apr 2021
+376A,Hougang St 32,04 to 06,92,Model A,2016,93.92,461800,Apr 2021
+376A,Hougang St 32,10 to 12,92,Model A,2016,94,560000,Apr 2021
+548,Hougang St 51,04 to 06,103,Model A,1992,70.5,440888,Apr 2021
+556,Hougang St 51,01 to 03,103,Model A,1992,70.5,396000,Apr 2021
+566,Hougang St 51,04 to 06,104,Model A,1992,70.5,420000,Apr 2021
+690,Hougang St 61,10 to 12,84,Simplified,1987,65.67,353000,Apr 2021
+690,Hougang St 61,04 to 06,103,Model A,1987,65.67,405000,Apr 2021
+692,Hougang St 61,04 to 06,85,Simplified,1987,65.67,370000,Apr 2021
+695,Hougang St 61,04 to 06,107,Model A,1987,65.67,430000,Apr 2021
+697,Hougang St 61,04 to 06,89,Simplified,1987,65.08,390000,Apr 2021
+698A,Hougang St 61,07 to 09,100,Model A,1999,77,453888,Apr 2021
+909,Hougang St 91,10 to 12,102,Model A,1997,75.67,425200,Apr 2021
+911,Hougang St 91,04 to 06,93,Model A2,1998,75.92,370000,Apr 2021
+970,Hougang St 91,13 to 15,101,Model A,1999,77.67,420000,Apr 2021
+135,Lor Ah Soo,04 to 06,106,Model A,1985,63,415000,Apr 2021
+470A,Upp Serangoon Cres,07 to 09,92,Model A,2015,93.17,463000,Apr 2021
+473B,Upp Serangoon Cres,01 to 03,93,Model A,2017,95.17,440000,Apr 2021
+473D,Upp Serangoon Cres,13 to 15,93,Model A,2017,95.17,560000,Apr 2021
+475A,Upp Serangoon Cres,07 to 09,92,Dbss,2014,92.58,580000,Apr 2021
+475A,Upp Serangoon Cres,13 to 15,92,Dbss,2014,92.58,635000,Apr 2021
+475C,Upp Serangoon Cres,01 to 03,92,Dbss,2014,92.67,572000,Apr 2021
+475D,Upp Serangoon Cres,16 to 18,92,Dbss,2014,92.67,680000,Apr 2021
+476A,Upp Serangoon View,10 to 12,95,Premium Apartment,2016,93.92,600000,Apr 2021
+476C,Upp Serangoon View,16 to 18,95,Premium Apartment,2016,93.92,628000,Apr 2021
+477A,Upp Serangoon View,13 to 15,92,Premium Apartment,2016,93.92,520000,Apr 2021
+477A,Upp Serangoon View,16 to 18,92,Premium Apartment,2016,93.92,585888,Apr 2021
+477B,Upp Serangoon View,10 to 12,95,Premium Apartment,2016,93.92,570000,Apr 2021
+978C,Buangkok Cres,10 to 12,90,Model A,2003,81.42,408000,Mar 2021
+980B,Buangkok Cres,04 to 06,90,Model A,2003,81.25,380000,Mar 2021
+985A,Buangkok Cres,10 to 12,85,Model A2,2004,82,430000,Mar 2021
+987C,Buangkok Green,01 to 03,93,Model A,2015,92.92,420000,Mar 2021
+987C,Buangkok Green,10 to 12,93,Model A,2015,93,445000,Mar 2021
+988A,Buangkok Green,16 to 18,93,Model A,2015,93,491688,Mar 2021
+988B,Buangkok Green,01 to 03,93,Model A,2015,92.92,408000,Mar 2021
+984A,Buangkok Link,07 to 09,85,Model A2,2004,82.08,388000,Mar 2021
+167,Hougang Ave 1,04 to 06,100,Model A,1997,75.58,410000,Mar 2021
+172,Hougang Ave 1,10 to 12,101,Model A,1997,75.83,435000,Mar 2021
+230,Hougang Ave 1,07 to 09,103,Model A,1984,62.83,480000,Mar 2021
+451,Hougang Ave 10,01 to 03,105,Model A,1990,68.17,400000,Mar 2021
+453,Hougang Ave 10,07 to 09,102,Model A,1992,70.58,420000,Mar 2021
+512,Hougang Ave 10,01 to 03,84,Simplified,1987,65.25,355000,Mar 2021
+516,Hougang Ave 10,07 to 09,84,Simplified,1986,64.42,390000,Mar 2021
+701,Hougang Ave 2,01 to 03,93,New Generation,1985,63.58,370000,Mar 2021
+704,Hougang Ave 2,01 to 03,96,New Generation,1985,63.67,344000,Mar 2021
+606,Hougang Ave 4,07 to 09,104,Model A,1985,63.58,450000,Mar 2021
+332,Hougang Ave 5,10 to 12,104,Model A,1983,61.17,432000,Mar 2021
+527,Hougang Ave 6,07 to 09,84,Simplified,1987,65.75,373000,Mar 2021
+337,Hougang Ave 7,07 to 09,91,New Generation,1985,63.5,345000,Mar 2021
+434,Hougang Ave 8,07 to 09,105,Model A,1989,67.42,440000,Mar 2021
+541,Hougang Ave 8,01 to 03,104,Model A,1989,67.58,405000,Mar 2021
+544,Hougang Ave 8,07 to 09,106,Model A,1992,70.58,455000,Mar 2021
+637,Hougang Ave 8,04 to 06,84,Simplified,1987,65.58,360000,Mar 2021
+637,Hougang Ave 8,07 to 09,84,Simplified,1987,65.5,360000,Mar 2021
+648,Hougang Ave 8,04 to 06,84,Simplified,1987,65.75,345000,Mar 2021
+648,Hougang Ave 8,07 to 09,105,Model A,1987,65.58,426800,Mar 2021
+672,Hougang Ave 8,01 to 03,84,Simplified,1987,64.92,364900,Mar 2021
+673,Hougang Ave 8,07 to 09,104,Model A,1986,64.5,450000,Mar 2021
+918,Hougang Ave 9,04 to 06,101,Model A,1998,76.08,395000,Mar 2021
+951,Hougang Ave 9,01 to 03,101,Model A,1999,77.17,408000,Mar 2021
+231,Hougang St 21,07 to 09,109,Model A,1984,62.5,535000,Mar 2021
+242,Hougang St 22,01 to 03,96,New Generation,1984,62.58,350000,Mar 2021
+376A,Hougang St 32,07 to 09,92,Model A,2016,94.08,490000,Mar 2021
+376A,Hougang St 32,10 to 12,92,Model A,2016,94.08,495000,Mar 2021
+376B,Hougang St 32,10 to 12,92,Model A,2016,94,523000,Mar 2021
+376C,Hougang St 32,04 to 06,92,Model A,2016,94,470000,Mar 2021
+557,Hougang St 51,04 to 06,103,Model A,1992,70.58,418000,Mar 2021
+695,Hougang St 61,10 to 12,107,Model A,1987,65.58,435000,Mar 2021
+911,Hougang St 91,10 to 12,90,Model A2,1998,76,445000,Mar 2021
+915,Hougang St 91,07 to 09,100,Model A,1998,76,407000,Mar 2021
+926,Hougang St 91,01 to 03,100,Model A,1998,76.42,395000,Mar 2021
+939,Hougang St 92,07 to 09,101,Model A,1998,75.83,420000,Mar 2021
+129,Lor Ah Soo,10 to 12,105,Model A,1985,63.33,465000,Mar 2021
+135,Lor Ah Soo,10 to 12,106,Model A,1985,63.08,420000,Mar 2021
+470A,Upp Serangoon Cres,04 to 06,92,Model A,2015,93.17,415000,Mar 2021
+470B,Upp Serangoon Cres,16 to 18,92,Model A,2015,93.25,495000,Mar 2021
+473B,Upp Serangoon Cres,10 to 12,93,Model A,2017,95.25,500000,Mar 2021
+473B,Upp Serangoon Cres,16 to 18,93,Model A,2017,95.25,525000,Mar 2021
+475A,Upp Serangoon Cres,07 to 09,92,Dbss,2014,92.75,625000,Mar 2021
+475D,Upp Serangoon Cres,16 to 18,92,Dbss,2014,92.67,661888,Mar 2021
+476B,Upp Serangoon View,16 to 18,92,Premium Apartment,2016,94,575000,Mar 2021
+477B,Upp Serangoon View,07 to 09,95,Premium Apartment,2016,94.08,588000,Mar 2021
+477B,Upp Serangoon View,13 to 15,95,Premium Apartment,2016,94.08,610000,Mar 2021
+987A,Buangkok Green,13 to 15,93,Model A,2015,93,450000,Feb 2021
+987A,Buangkok Green,10 to 12,93,Model A,2015,93.08,462000,Feb 2021
+987A,Buangkok Green,13 to 15,93,Model A,2015,93,462000,Feb 2021
+113,Hougang Ave 1,07 to 09,96,New Generation,1982,59.92,350000,Feb 2021
+115,Hougang Ave 1,07 to 09,91,New Generation,1981,59.58,375000,Feb 2021
+119,Hougang Ave 1,07 to 09,91,New Generation,1981,59.75,375000,Feb 2021
+169,Hougang Ave 1,04 to 06,101,Model A,1997,75.92,410000,Feb 2021
+169,Hougang Ave 1,07 to 09,102,Model A,1997,75.83,420000,Feb 2021
+402,Hougang Ave 10,07 to 09,91,New Generation,1985,63.67,415000,Feb 2021
+406,Hougang Ave 10,07 to 09,91,New Generation,1985,63.92,418000,Feb 2021
+411,Hougang Ave 10,07 to 09,91,New Generation,1986,64,438000,Feb 2021
+416,Hougang Ave 10,04 to 06,98,New Generation,1985,63.75,430000,Feb 2021
+448,Hougang Ave 10,04 to 06,103,Model A,1990,68.25,425000,Feb 2021
+513,Hougang Ave 10,01 to 03,84,Simplified,1986,64.67,360000,Feb 2021
+701,Hougang Ave 2,07 to 09,91,New Generation,1985,63.67,363000,Feb 2021
+709,Hougang Ave 2,01 to 03,93,New Generation,1985,63.5,350000,Feb 2021
+666,Hougang Ave 4,01 to 03,103,Model A,1988,66.17,415000,Feb 2021
+308,Hougang Ave 5,04 to 06,93,New Generation,1983,61.83,380000,Feb 2021
+422,Hougang Ave 6,10 to 12,110,Model A,1990,68,465000,Feb 2021
+417,Hougang Ave 8,01 to 03,109,Model A,1989,67.5,415000,Feb 2021
+419,Hougang Ave 8,07 to 09,103,Model A,1989,67.5,438000,Feb 2021
+436,Hougang Ave 8,07 to 09,103,Model A,1990,68.83,435000,Feb 2021
+504,Hougang Ave 8,07 to 09,103,Model A,1987,65.5,425000,Feb 2021
+617,Hougang Ave 8,10 to 12,104,Model A,1986,64,430000,Feb 2021
+618,Hougang Ave 8,01 to 03,90,Simplified,1986,63.92,363000,Feb 2021
+650,Hougang Ave 8,04 to 06,84,Simplified,1987,65.75,370000,Feb 2021
+674,Hougang Ave 8,07 to 09,104,Model A,1987,65,410000,Feb 2021
+951,Hougang Ave 9,13 to 15,101,Model A,1999,77.25,423000,Feb 2021
+952,Hougang Ave 9,16 to 18,101,Model A,1999,77.25,440000,Feb 2021
+954,Hougang Ave 9,10 to 12,101,Model A,1999,77.25,415000,Feb 2021
+964,Hougang Ave 9,01 to 03,100,Model A,1999,77.67,380000,Feb 2021
+965,Hougang Ave 9,07 to 09,101,Model A,1999,77.67,399888,Feb 2021
+158,Hougang St 11,07 to 09,101,Model A,1997,75.83,468000,Feb 2021
+220,Hougang St 21,13 to 15,104,Model A,1992,70.67,550000,Feb 2021
+376A,Hougang St 32,07 to 09,92,Model A,2016,94.17,490000,Feb 2021
+555,Hougang St 51,04 to 06,103,Model A,1992,70.67,396000,Feb 2021
+556,Hougang St 51,07 to 09,103,Model A,1992,70.67,395000,Feb 2021
+557,Hougang St 51,07 to 09,103,Model A,1992,70.67,420000,Feb 2021
+699B,Hougang St 52,04 to 06,100,Model A,1998,76.75,422000,Feb 2021
+699C,Hougang St 52,04 to 06,100,Model A,1998,76.75,450000,Feb 2021
+690,Hougang St 61,10 to 12,84,Simplified,1987,65.75,360000,Feb 2021
+926,Hougang St 91,01 to 03,100,Model A,1998,76.5,380000,Feb 2021
+133,Lor Ah Soo,10 to 12,104,Model A,1985,63.17,405000,Feb 2021
+137,Lor Ah Soo,04 to 06,104,Model A,1985,63.25,381000,Feb 2021
+138,Lor Ah Soo,04 to 06,108,Model A,1984,62.67,395000,Feb 2021
+470C,Upp Serangoon Cres,04 to 06,93,Model A,2015,93.25,450000,Feb 2021
+475D,Upp Serangoon Cres,04 to 06,92,Dbss,2014,92.83,580000,Feb 2021
+476B,Upp Serangoon View,07 to 09,92,Premium Apartment,2016,94.08,503000,Feb 2021
+476B,Upp Serangoon View,13 to 15,92,Premium Apartment,2016,94.08,540000,Feb 2021
+476B,Upp Serangoon View,07 to 09,92,Premium Apartment,2016,94.17,548000,Feb 2021
+476C,Upp Serangoon View,10 to 12,92,Premium Apartment,2016,94.17,500000,Feb 2021
+477C,Upp Serangoon View,19 to 21,92,Premium Apartment,2016,94.17,555000,Feb 2021
+980C,Buangkok Cres,07 to 09,85,Model A2,2003,81.42,400000,Jan 2021
+988C,Buangkok Green,16 to 18,93,Model A,2015,93.17,495000,Jan 2021
+984A,Buangkok Link,01 to 03,85,Model A2,2004,82.17,360000,Jan 2021
+984A,Buangkok Link,16 to 18,85,Model A2,2004,82.25,388000,Jan 2021
+101,Hougang Ave 1,04 to 06,108,Model A,1984,62.25,413000,Jan 2021
+167,Hougang Ave 1,07 to 09,101,Model A,1997,75.75,428000,Jan 2021
+453,Hougang Ave 10,10 to 12,104,Model A,1992,70.83,433000,Jan 2021
+515,Hougang Ave 10,07 to 09,84,Simplified,1986,64.75,410000,Jan 2021
+703,Hougang Ave 2,07 to 09,93,New Generation,1986,64.42,371000,Jan 2021
+15,Hougang Ave 3,04 to 06,82,Improved,1975,53.92,315000,Jan 2021
+580,Hougang Ave 4,01 to 03,101,Model A,1997,76,399000,Jan 2021
+607,Hougang Ave 4,01 to 03,84,Simplified,1986,64.5,350000,Jan 2021
+608,Hougang Ave 4,01 to 03,89,Simplified,1985,63.67,350000,Jan 2021
+682,Hougang Ave 4,01 to 03,85,Simplified,1989,67.58,350000,Jan 2021
+310,Hougang Ave 5,04 to 06,98,New Generation,1984,62.08,373000,Jan 2021
+332,Hougang Ave 5,07 to 09,104,Model A,1983,61.42,398000,Jan 2021
+445,Hougang Ave 8,10 to 12,103,Model A,1990,68.42,443000,Jan 2021
+468,Hougang Ave 8,07 to 09,105,Model A,1992,70.75,452000,Jan 2021
+501,Hougang Ave 8,07 to 09,84,Simplified,1986,64.33,392000,Jan 2021
+504,Hougang Ave 8,04 to 06,84,Simplified,1987,65.58,370000,Jan 2021
+613,Hougang Ave 8,07 to 09,84,Simplified,1986,64.5,365000,Jan 2021
+671,Hougang Ave 8,01 to 03,104,Model A,1987,65.92,383000,Jan 2021
+963,Hougang Ave 9,13 to 15,101,Model A,1999,77.58,388000,Jan 2021
+160,Hougang St 11,10 to 12,100,Model A,1997,75.92,478888,Jan 2021
+220,Hougang St 21,13 to 15,104,Model A,1992,70.75,590000,Jan 2021
+548,Hougang St 51,07 to 09,103,Model A,1992,70.75,415000,Jan 2021
+549,Hougang St 51,07 to 09,103,Model A,1992,70.83,420000,Jan 2021
+555,Hougang St 51,01 to 03,103,Model A,1992,70.75,408000,Jan 2021
+699B,Hougang St 52,01 to 03,100,Model A,1998,76.83,400000,Jan 2021
+690,Hougang St 61,10 to 12,84,Simplified,1987,65.83,352000,Jan 2021
+931,Hougang St 91,04 to 06,100,Model A,1998,76.5,400000,Jan 2021
+941,Hougang St 92,01 to 03,100,Model A,1998,76.25,368000,Jan 2021
+129,Lor Ah Soo,04 to 06,105,Model A,1985,63.58,400000,Jan 2021
+137,Lor Ah Soo,10 to 12,106,Model A,1985,63.25,355000,Jan 2021
+137,Lor Ah Soo,07 to 09,105,Model A,1985,63.33,359000,Jan 2021
+470A,Upp Serangoon Cres,13 to 15,93,Model A,2015,93.33,490000,Jan 2021
+471A,Upp Serangoon Cres,10 to 12,92,Model A,2015,93.33,460000,Jan 2021
+471A,Upp Serangoon Cres,10 to 12,92,Model A,2015,93.42,465000,Jan 2021
+471A,Upp Serangoon Cres,13 to 15,92,Model A,2015,93.42,478888,Jan 2021
+475A,Upp Serangoon Cres,07 to 09,92,Dbss,2014,92.83,580000,Jan 2021
+475C,Upp Serangoon Cres,07 to 09,92,Dbss,2014,92.92,500000,Jan 2021
+476A,Upp Serangoon View,10 to 12,95,Premium Apartment,2016,94.17,580000,Jan 2021
+476B,Upp Serangoon View,07 to 09,92,Premium Apartment,2016,94.25,510000,Jan 2021
+477A,Upp Serangoon View,07 to 09,92,Premium Apartment,2016,94.17,505000,Jan 2021
+477A,Upp Serangoon View,16 to 18,95,Premium Apartment,2016,94.17,625000,Jan 2021
+477C,Upp Serangoon View,10 to 12,92,Premium Apartment,2016,94.25,525000,Jan 2021
+979B,Buangkok Cres,10 to 12,90,Model A,2003,81.67,380000,Dec 2020
+980C,Buangkok Cres,10 to 12,85,Model A2,2003,81.42,380000,Dec 2020
+981B,Buangkok Cres,04 to 06,90,Model A,2003,81.58,363000,Dec 2020
+987A,Buangkok Green,10 to 12,93,Model A,2015,93.25,418000,Dec 2020
+232,Hougang Ave 1,04 to 06,104,Model A,1984,62.92,440000,Dec 2020
+232,Hougang Ave 1,10 to 12,104,Model A,1984,62.92,500000,Dec 2020
+405,Hougang Ave 10,07 to 09,91,New Generation,1985,64.08,455888,Dec 2020
+406,Hougang Ave 10,01 to 03,91,New Generation,1985,64,355000,Dec 2020
+413,Hougang Ave 10,01 to 03,91,New Generation,1986,64.25,390000,Dec 2020
+415,Hougang Ave 10,01 to 03,93,New Generation,1985,63.92,368000,Dec 2020
+448,Hougang Ave 10,07 to 09,105,Model A,1990,68.42,420000,Dec 2020
+706,Hougang Ave 2,10 to 12,94,New Generation,1985,64,366000,Dec 2020
+606,Hougang Ave 4,10 to 12,84,Simplified,1985,63.83,360000,Dec 2020
+308,Hougang Ave 5,07 to 09,93,New Generation,1983,61.83,360000,Dec 2020
+334,Hougang Ave 5,01 to 03,104,Model A,1983,61.33,377000,Dec 2020
+422,Hougang Ave 6,04 to 06,103,Model A,1990,68.25,445000,Dec 2020
+340,Hougang Ave 7,04 to 06,91,New Generation,1985,63.33,350000,Dec 2020
+417,Hougang Ave 8,07 to 09,105,Model A,1989,67.67,430000,Dec 2020
+440,Hougang Ave 8,01 to 03,105,Model A,1990,68.92,380888,Dec 2020
+440,Hougang Ave 8,04 to 06,103,Model A,1990,68.92,442888,Dec 2020
+444,Hougang Ave 8,01 to 03,105,Model A,1991,69.75,420000,Dec 2020
+502,Hougang Ave 8,04 to 06,84,Simplified,1987,65.5,350000,Dec 2020
+504,Hougang Ave 8,04 to 06,84,Simplified,1987,65.75,350000,Dec 2020
+617,Hougang Ave 8,01 to 03,104,Model A,1986,64.17,370000,Dec 2020
+626,Hougang Ave 8,10 to 12,104,Model A,1986,65,388000,Dec 2020
+637,Hougang Ave 8,04 to 06,84,Simplified,1987,65.75,363000,Dec 2020
+637,Hougang Ave 8,07 to 09,105,Model A,1987,65.83,395000,Dec 2020
+650,Hougang Ave 8,13 to 15,84,Simplified,1987,65.92,350000,Dec 2020
+681,Hougang Ave 8,01 to 03,85,Simplified,1989,67.75,345000,Dec 2020
+239,Hougang St 22,07 to 09,104,Model A,1984,63,410000,Dec 2020
+370,Hougang St 31,04 to 06,101,Model A,1999,77.92,410000,Dec 2020
+376B,Hougang St 32,01 to 03,92,Model A,2016,94.25,436000,Dec 2020
+547,Hougang St 51,04 to 06,103,Model A,1992,70.83,385000,Dec 2020
+548,Hougang St 51,10 to 12,103,Model A,1992,70.83,430000,Dec 2020
+549,Hougang St 51,07 to 09,103,Model A,1992,70.83,422000,Dec 2020
+550,Hougang St 51,04 to 06,111,Model A,1992,70.83,422000,Dec 2020
+572,Hougang St 51,10 to 12,98,Model A,1997,75.25,439000,Dec 2020
+537,Hougang St 52,13 to 15,105,Model A,1992,70.83,450000,Dec 2020
+696,Hougang St 61,01 to 03,104,Model A,1987,65.83,390000,Dec 2020
+910,Hougang St 91,07 to 09,92,Model A2,1997,75.92,378000,Dec 2020
+914,Hougang St 91,07 to 09,100,Model A,1998,76.17,408000,Dec 2020
+926,Hougang St 91,10 to 12,101,Model A,1998,76.67,398000,Dec 2020
+929,Hougang St 91,04 to 06,101,Model A,1998,76.67,405000,Dec 2020
+950,Hougang St 91,01 to 03,100,Model A,1999,77.5,385000,Dec 2020
+976,Hougang St 91,01 to 03,101,Model A,1999,78,377000,Dec 2020
+976,Hougang St 91,07 to 09,101,Model A,1999,78,400000,Dec 2020
+944,Hougang St 92,07 to 09,102,Model A,1998,76.92,425000,Dec 2020
+135,Lor Ah Soo,01 to 03,113,Model A,1985,63.42,375000,Dec 2020
+135,Lor Ah Soo,07 to 09,106,Model A,1985,63.42,425000,Dec 2020
+470A,Upp Serangoon Cres,01 to 03,93,Model A,2015,93.5,400000,Dec 2020
+470A,Upp Serangoon Cres,07 to 09,93,Model A,2015,93.42,460000,Dec 2020
+470A,Upp Serangoon Cres,16 to 18,92,Model A,2015,93.5,510000,Dec 2020
+470B,Upp Serangoon Cres,04 to 06,92,Model A,2015,93.5,442888,Dec 2020
+471A,Upp Serangoon Cres,10 to 12,92,Model A,2015,93.5,465000,Dec 2020
+475B,Upp Serangoon Cres,10 to 12,92,Dbss,2014,92.92,635000,Dec 2020
+475D,Upp Serangoon Cres,13 to 15,92,Dbss,2014,93,615000,Dec 2020
+475D,Upp Serangoon Cres,13 to 15,92,Dbss,2014,92.92,625000,Dec 2020
+476A,Upp Serangoon View,16 to 18,95,Premium Apartment,2016,94.33,612000,Dec 2020
+476B,Upp Serangoon View,04 to 06,92,Premium Apartment,2016,94.33,543000,Dec 2020
+476B,Upp Serangoon View,10 to 12,92,Premium Apartment,2016,94.33,547000,Dec 2020
+477A,Upp Serangoon View,10 to 12,92,Premium Apartment,2016,94.33,520000,Dec 2020
+477B,Upp Serangoon View,10 to 12,92,Premium Apartment,2016,94.33,488000,Dec 2020
+477C,Upp Serangoon View,19 to 21,92,Premium Apartment,2016,94.33,550000,Dec 2020
+978C,Buangkok Cres,13 to 15,90,Model A,2003,81.75,355000,Nov 2020
+978C,Buangkok Cres,16 to 18,90,Model A,2003,81.75,380000,Nov 2020
+405,Hougang Ave 10,10 to 12,91,New Generation,1985,64.17,421888,Nov 2020
+406,Hougang Ave 10,10 to 12,91,New Generation,1985,64.17,362000,Nov 2020
+411,Hougang Ave 10,10 to 12,91,New Generation,1986,64.25,380000,Nov 2020
+701,Hougang Ave 2,07 to 09,91,New Generation,1985,64,368000,Nov 2020
+18,Hougang Ave 3,10 to 12,92,New Generation,1978,56.5,368000,Nov 2020
+580,Hougang Ave 4,04 to 06,100,Model A,1997,76.08,416000,Nov 2020
+605,Hougang Ave 4,04 to 06,104,Model A,1985,63.92,420000,Nov 2020
+304,Hougang Ave 5,01 to 03,105,Model A,1983,61.83,397000,Nov 2020
+320,Hougang Ave 5,10 to 12,98,New Generation,1983,61.92,388800,Nov 2020
+322,Hougang Ave 5,07 to 09,97,New Generation,1983,61.42,385000,Nov 2020
+327,Hougang Ave 5,04 to 06,93,New Generation,1983,61.42,385000,Nov 2020
+317,Hougang Ave 7,10 to 12,93,New Generation,1983,61.67,394000,Nov 2020
+336,Hougang Ave 7,10 to 12,91,New Generation,1985,63.67,365000,Nov 2020
+337,Hougang Ave 7,04 to 06,93,New Generation,1985,63.83,355000,Nov 2020
+417,Hougang Ave 8,04 to 06,103,Model A,1989,67.83,425000,Nov 2020
+542,Hougang Ave 8,04 to 06,103,Model A,1992,70.92,420000,Nov 2020
+613,Hougang Ave 8,10 to 12,84,Simplified,1986,64.67,346000,Nov 2020
+636,Hougang Ave 8,10 to 12,84,Simplified,1987,66.17,355000,Nov 2020
+660,Hougang Ave 8,10 to 12,107,Model A,1987,65.67,400000,Nov 2020
+677,Hougang Ave 8,13 to 15,84,Simplified,1988,66.92,390000,Nov 2020
+963,Hougang Ave 9,13 to 15,100,Model A,1999,77.83,420000,Nov 2020
+965,Hougang Ave 9,13 to 15,100,Model A,1999,77.92,413000,Nov 2020
+968,Hougang Ave 9,01 to 03,90,Model A2,1999,77.83,352000,Nov 2020
+835,Hougang Ctrl,13 to 15,104,Model A,1992,70.92,505000,Nov 2020
+246,Hougang St 22,01 to 03,93,New Generation,1984,62.83,345000,Nov 2020
+551,Hougang St 51,01 to 03,102,Model A,1992,71,400000,Nov 2020
+574,Hougang St 51,04 to 06,100,Model A,1997,75.58,385000,Nov 2020
+696,Hougang St 61,10 to 12,104,Model A,1987,66,416000,Nov 2020
+698A,Hougang St 61,01 to 03,100,Model A,1999,77.42,480000,Nov 2020
+926,Hougang St 91,10 to 12,100,Model A,1998,76.75,408000,Nov 2020
+969,Hougang St 91,04 to 06,90,Model A2,1999,78.08,368000,Nov 2020
+133,Lor Ah Soo,01 to 03,106,Model A,1985,63.33,380000,Nov 2020
+137,Lor Ah Soo,10 to 12,105,Model A,1985,63.5,390000,Nov 2020
+142,Lor Ah Soo,10 to 12,103,Model A,1984,63.08,428000,Nov 2020
+143,Lor Ah Soo,04 to 06,108,Model A,1984,63.17,407000,Nov 2020
+470A,Upp Serangoon Cres,04 to 06,92,Model A,2015,93.58,435000,Nov 2020
+470A,Upp Serangoon Cres,07 to 09,92,Model A,2015,93.58,458000,Nov 2020
+470A,Upp Serangoon Cres,13 to 15,92,Model A,2015,93.58,468888,Nov 2020
+470C,Upp Serangoon Cres,04 to 06,92,Model A,2015,93.58,430000,Nov 2020
+471A,Upp Serangoon Cres,16 to 18,92,Model A,2015,93.58,479000,Nov 2020
+476A,Upp Serangoon View,16 to 18,95,Premium Apartment,2016,94.42,580000,Nov 2020
+476A,Upp Serangoon View,07 to 09,95,Premium Apartment,2016,94.33,595000,Nov 2020
+477C,Upp Serangoon View,10 to 12,92,Premium Apartment,2016,94.33,580000,Nov 2020

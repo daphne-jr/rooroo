@@ -1,0 +1,577 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date
+241,Bt Batok East Ave 5,07 to 09,93,New Generation,1985,63,415000,Nov 2021
+251,Bt Batok East Ave 5,04 to 06,93,New Generation,1985,62.5,428000,Nov 2021
+291D,Bt Batok St 24,07 to 09,103,Model A,1998,75.33,505000,Nov 2021
+289G,Bt Batok St 25,01 to 03,101,Model A,1998,75.75,450000,Nov 2021
+194B,Bt Batok West Ave 6,13 to 15,92,Premium Apartment,2017,94.75,628000,Nov 2021
+227,Bt Batok Ctrl,04 to 06,93,New Generation,1985,62.42,425000,Oct 2021
+267,Bt Batok East Ave 4,01 to 03,89,Simplified,1987,64.33,395000,Oct 2021
+206,Bt Batok St 21,07 to 09,104,Model A,1983,61.17,425000,Oct 2021
+210,Bt Batok St 21,04 to 06,104,Model A,1985,62.67,430000,Oct 2021
+210,Bt Batok St 21,01 to 03,103,Model A,1985,62.67,440000,Oct 2021
+210,Bt Batok St 21,04 to 06,108,Model A,1985,62.67,485000,Oct 2021
+297,Bt Batok St 22,04 to 06,100,Model A,1997,74.83,485000,Oct 2021
+290A,Bt Batok St 24,04 to 06,103,Model A,1998,75.42,470000,Oct 2021
+290E,Bt Batok St 24,16 to 18,102,Model A,1997,75.25,550000,Oct 2021
+291B,Bt Batok St 24,04 to 06,103,Model A,1998,75.33,470000,Oct 2021
+288C,Bt Batok St 25,04 to 06,93,Model A2,1998,75.92,445000,Oct 2021
+288D,Bt Batok St 25,04 to 06,92,Model A2,1998,75.58,405000,Oct 2021
+288D,Bt Batok St 25,07 to 09,92,Model A2,1998,75.5,440000,Oct 2021
+288E,Bt Batok St 25,04 to 06,103,Model A,1998,75.83,460000,Oct 2021
+369,Bt Batok St 31,07 to 09,84,Simplified,1985,63.25,405000,Oct 2021
+319,Bt Batok St 33,07 to 09,84,Simplified,1986,64,363000,Oct 2021
+321,Bt Batok St 33,10 to 12,93,New Generation,1986,63.5,408000,Oct 2021
+338,Bt Batok St 34,10 to 12,84,Simplified,1986,63.5,390000,Oct 2021
+340,Bt Batok St 34,07 to 09,107,Model A,1987,64.67,430000,Oct 2021
+345,Bt Batok St 34,10 to 12,103,Model A,1987,64.42,438000,Oct 2021
+532,Bt Batok St 51,01 to 03,83,Simplified,1986,64.25,367000,Oct 2021
+513,Bt Batok St 52,04 to 06,84,Simplified,1987,64.67,390000,Oct 2021
+417,Bt Batok West Ave 4,04 to 06,103,Model A,1986,63.75,395000,Oct 2021
+383,Bt Batok West Ave 5,22 to 24,86,Model A,2005,82.33,525000,Oct 2021
+384,Bt Batok West Ave 5,25 to 27,90,Model A,2005,82.33,510000,Oct 2021
+391,Bt Batok West Ave 5,22 to 24,92,Model A,2004,81.92,476000,Oct 2021
+392,Bt Batok West Ave 5,04 to 06,92,Model A,2004,82.08,492000,Oct 2021
+107,Bt Batok West Ave 6,07 to 09,104,Model A,1985,62.5,485000,Oct 2021
+112,Bt Batok West Ave 6,10 to 12,106,Model A,1984,62.08,475000,Oct 2021
+113,Bt Batok West Ave 6,01 to 03,104,Model A,1984,61.83,430000,Oct 2021
+129,Bt Batok West Ave 6,10 to 12,103,Model A,1984,62.08,480888,Oct 2021
+194A,Bt Batok West Ave 6,22 to 24,95,Premium Apartment,2017,94.75,710000,Oct 2021
+194B,Bt Batok West Ave 6,07 to 09,92,Premium Apartment,2017,94.75,605000,Oct 2021
+194B,Bt Batok West Ave 6,28 to 30,92,Premium Apartment,2017,94.83,640000,Oct 2021
+105,Bt Batok Ctrl,04 to 06,104,Model A,1985,62.58,410000,Sep 2021
+228,Bt Batok Ctrl,10 to 12,100,New Generation,1985,62.75,455000,Sep 2021
+639,Bt Batok Ctrl,01 to 03,104,Model A,1989,67,483000,Sep 2021
+253,Bt Batok East Ave 5,01 to 03,96,New Generation,1985,62.67,408000,Sep 2021
+210,Bt Batok St 21,07 to 09,117,Model A,1985,62.75,438000,Sep 2021
+215,Bt Batok St 21,04 to 06,96,New Generation,1984,62.33,417000,Sep 2021
+291A,Bt Batok St 24,01 to 03,104,Model A,1997,75.33,455000,Sep 2021
+289G,Bt Batok St 25,07 to 09,101,Model A,1998,75.83,452000,Sep 2021
+289G,Bt Batok St 25,07 to 09,103,Model A,1998,75.92,480000,Sep 2021
+308,Bt Batok St 31,10 to 12,93,New Generation,1985,62.83,420000,Sep 2021
+313,Bt Batok St 32,04 to 06,98,New Generation,1986,63.58,415000,Sep 2021
+338,Bt Batok St 34,01 to 03,84,Simplified,1986,63.67,380000,Sep 2021
+392,Bt Batok West Ave 5,01 to 03,92,Model A,2004,82.08,438000,Sep 2021
+393,Bt Batok West Ave 5,04 to 06,92,Model A,2004,82.17,480000,Sep 2021
+394,Bt Batok West Ave 5,10 to 12,92,Model A,2004,82.08,460000,Sep 2021
+101,Bt Batok West Ave 6,01 to 03,111,Model A,1985,62.83,485000,Sep 2021
+102,Bt Batok West Ave 6,07 to 09,104,Model A,1985,62.92,488000,Sep 2021
+114,Bt Batok West Ave 6,04 to 06,104,Model A,1984,62,455000,Sep 2021
+130,Bt Batok West Ave 6,10 to 12,103,Model A,1984,62.25,465000,Sep 2021
+194A,Bt Batok West Ave 6,04 to 06,95,Premium Apartment,2017,94.92,628000,Sep 2021
+194B,Bt Batok West Ave 6,07 to 09,92,Premium Apartment,2017,94.83,595000,Sep 2021
+194B,Bt Batok West Ave 6,07 to 09,92,Premium Apartment,2017,94.92,615000,Sep 2021
+194B,Bt Batok West Ave 6,07 to 09,95,Premium Apartment,2017,94.83,640000,Sep 2021
+194B,Bt Batok West Ave 6,28 to 30,92,Premium Apartment,2017,94.92,675000,Sep 2021
+106,Bt Batok Ctrl,04 to 06,104,Model A,1985,62.67,431000,Aug 2021
+625,Bt Batok Ctrl,04 to 06,101,Model A,1997,74.92,521000,Aug 2021
+625,Bt Batok Ctrl,07 to 09,101,Model A,1997,74.83,550000,Aug 2021
+257,Bt Batok East Ave 4,10 to 12,98,New Generation,1985,63,455000,Aug 2021
+258,Bt Batok East Ave 4,01 to 03,103,Model A,1985,62.58,400000,Aug 2021
+202,Bt Batok St 21,01 to 03,104,Model A,1985,62.92,468000,Aug 2021
+290G,Bt Batok St 24,10 to 12,100,Model A,1998,75.5,490000,Aug 2021
+290G,Bt Batok St 24,16 to 18,103,Model A,1998,75.5,492000,Aug 2021
+291E,Bt Batok St 24,13 to 15,100,Model A,1998,75.58,490000,Aug 2021
+288C,Bt Batok St 25,01 to 03,92,Model A2,1998,76.08,393000,Aug 2021
+288C,Bt Batok St 25,13 to 15,92,Model A2,1998,76.08,465000,Aug 2021
+289E,Bt Batok St 25,01 to 03,102,Model A,1998,75.5,415000,Aug 2021
+289F,Bt Batok St 25,01 to 03,92,Model A2,1998,76,390000,Aug 2021
+319,Bt Batok St 33,04 to 06,84,Simplified,1986,64.17,350000,Aug 2021
+321,Bt Batok St 33,04 to 06,98,New Generation,1986,63.67,385000,Aug 2021
+321,Bt Batok St 33,04 to 06,93,New Generation,1986,63.67,400000,Aug 2021
+322,Bt Batok St 33,04 to 06,93,New Generation,1985,63.25,405000,Aug 2021
+501,Bt Batok St 52,07 to 09,84,Simplified,1986,64.5,380000,Aug 2021
+537,Bt Batok St 52,10 to 12,103,Model A,1987,64.83,420000,Aug 2021
+541,Bt Batok St 52,04 to 06,84,Simplified,1986,64.08,358000,Aug 2021
+416,Bt Batok West Ave 4,07 to 09,103,Model A,1987,65.33,405000,Aug 2021
+417,Bt Batok West Ave 4,04 to 06,103,Model A,1986,63.83,408000,Aug 2021
+392,Bt Batok West Ave 5,13 to 15,92,Model A,2004,82.25,444000,Aug 2021
+393,Bt Batok West Ave 5,01 to 03,92,Model A,2004,82.17,450000,Aug 2021
+395,Bt Batok West Ave 5,13 to 15,92,Model A,2004,82.08,465000,Aug 2021
+119,Bt Batok West Ave 6,07 to 09,110,Model A,1984,61.83,500000,Aug 2021
+187,Bt Batok West Ave 6,07 to 09,107,Model A,1989,66.58,495000,Aug 2021
+194A,Bt Batok West Ave 6,07 to 09,92,Premium Apartment,2017,95,620000,Aug 2021
+194A,Bt Batok West Ave 6,19 to 21,95,Premium Apartment,2017,95,675000,Aug 2021
+126,Bt Batok Ctrl,01 to 03,98,New Generation,1985,62.5,422000,Jul 2021
+266,Bt Batok East Ave 4,04 to 06,84,Simplified,1985,63.25,352888,Jul 2021
+204,Bt Batok St 21,10 to 12,104,Model A,1985,62.83,463000,Jul 2021
+209,Bt Batok St 21,04 to 06,108,Model A,1985,62.75,438000,Jul 2021
+224,Bt Batok St 21,01 to 03,97,New Generation,1984,62.5,448000,Jul 2021
+291C,Bt Batok St 24,13 to 15,102,Model A,1998,75.67,485000,Jul 2021
+288E,Bt Batok St 25,04 to 06,101,Model A,1998,76.08,425000,Jul 2021
+304,Bt Batok St 31,10 to 12,93,New Generation,1985,63,383000,Jul 2021
+370,Bt Batok St 31,07 to 09,104,Model A,1985,63.42,410000,Jul 2021
+311,Bt Batok St 32,01 to 03,89,Simplified,1988,65.5,380000,Jul 2021
+325,Bt Batok St 33,01 to 03,84,Simplified,1986,64.42,360000,Jul 2021
+536,Bt Batok St 52,10 to 12,103,Model A,1986,64.17,430000,Jul 2021
+540,Bt Batok St 52,01 to 03,103,Model A,1987,65.25,385000,Jul 2021
+411,Bt Batok West Ave 4,01 to 03,103,Model A,1986,63.75,352000,Jul 2021
+416,Bt Batok West Ave 4,04 to 06,103,Model A,1987,65.33,385000,Jul 2021
+383,Bt Batok West Ave 5,10 to 12,86,Model A,2005,82.58,480000,Jul 2021
+383,Bt Batok West Ave 5,28 to 30,86,Model A,2005,82.58,485000,Jul 2021
+385,Bt Batok West Ave 5,04 to 06,86,Model A,2005,82.58,460000,Jul 2021
+391,Bt Batok West Ave 5,16 to 18,86,Model A,2004,82.25,455000,Jul 2021
+395,Bt Batok West Ave 5,22 to 24,90,Model A,2004,82.25,518000,Jul 2021
+108,Bt Batok West Ave 6,04 to 06,107,Model A,1985,62.92,470000,Jul 2021
+116,Bt Batok West Ave 6,01 to 03,103,Model A,1984,62.42,418000,Jul 2021
+146,Bt Batok West Ave 6,07 to 09,93,New Generation,1984,62.17,410000,Jul 2021
+187,Bt Batok West Ave 6,04 to 06,113,Model A,1989,66.67,470000,Jul 2021
+194A,Bt Batok West Ave 6,13 to 15,95,Premium Apartment,2017,95.08,627800,Jul 2021
+194A,Bt Batok West Ave 6,16 to 18,92,Premium Apartment,2017,95.08,630000,Jul 2021
+194B,Bt Batok West Ave 6,19 to 21,92,Premium Apartment,2017,95.08,600000,Jul 2021
+194B,Bt Batok West Ave 6,25 to 27,92,Premium Apartment,2017,95.08,638000,Jul 2021
+194B,Bt Batok West Ave 6,31 to 33,92,Premium Apartment,2017,95.08,650000,Jul 2021
+179,Bt Batok West Ave 8,04 to 06,93,New Generation,1985,62.58,378000,Jul 2021
+103,Bt Batok Ctrl,07 to 09,117,Model A,1985,62.67,520000,Jun 2021
+227,Bt Batok Ctrl,10 to 12,93,New Generation,1985,62.83,500000,Jun 2021
+623,Bt Batok Ctrl,04 to 06,101,Model A,1997,75.17,545000,Jun 2021
+215,Bt Batok St 21,07 to 09,93,New Generation,1984,62.5,396000,Jun 2021
+290E,Bt Batok St 24,10 to 12,103,Model A,1997,75.58,490000,Jun 2021
+291A,Bt Batok St 24,13 to 15,103,Model A,1997,75.58,445000,Jun 2021
+291A,Bt Batok St 24,07 to 09,102,Model A,1997,75.58,475000,Jun 2021
+288C,Bt Batok St 25,04 to 06,92,Model A2,1998,76.17,415000,Jun 2021
+289F,Bt Batok St 25,07 to 09,90,Model A2,1998,76.17,402000,Jun 2021
+306,Bt Batok St 31,01 to 03,90,Simplified,1985,62.83,395000,Jun 2021
+336,Bt Batok St 32,07 to 09,84,Simplified,1986,64.5,368000,Jun 2021
+323,Bt Batok St 33,04 to 06,84,Simplified,1987,65.5,365000,Jun 2021
+331,Bt Batok St 33,10 to 12,84,Simplified,1986,64.5,360000,Jun 2021
+343,Bt Batok St 34,07 to 09,103,Model A,1987,64.83,410000,Jun 2021
+514,Bt Batok St 52,07 to 09,84,Simplified,1986,64.5,365000,Jun 2021
+536,Bt Batok St 52,04 to 06,103,Model A,1986,64.25,420000,Jun 2021
+409,Bt Batok West Ave 4,07 to 09,94,New Generation,1988,66,375000,Jun 2021
+414,Bt Batok West Ave 4,04 to 06,103,Model A,1987,65.33,383888,Jun 2021
+385,Bt Batok West Ave 5,25 to 27,90,Model A,2005,82.67,462888,Jun 2021
+393,Bt Batok West Ave 5,04 to 06,92,Model A,2004,82.42,430000,Jun 2021
+102,Bt Batok West Ave 6,01 to 03,104,Model A,1985,63.17,460000,Jun 2021
+112,Bt Batok West Ave 6,04 to 06,106,Model A,1984,62.42,385000,Jun 2021
+119,Bt Batok West Ave 6,04 to 06,116,Model A,1984,62.08,475000,Jun 2021
+194B,Bt Batok West Ave 6,13 to 15,92,Premium Apartment,2017,95.17,605000,Jun 2021
+105,Bt Batok Ctrl,04 to 06,104,Model A,1985,62.92,435000,May 2021
+228,Bt Batok Ctrl,01 to 03,93,New Generation,1985,63.08,394000,May 2021
+241,Bt Batok East Ave 5,01 to 03,97,New Generation,1985,63.42,400000,May 2021
+208,Bt Batok St 21,04 to 06,104,Model A,1983,61.33,420000,May 2021
+289E,Bt Batok St 25,07 to 09,101,Model A,1998,75.75,430000,May 2021
+289F,Bt Batok St 25,01 to 03,92,Model A2,1998,76.25,380000,May 2021
+289F,Bt Batok St 25,07 to 09,92,Model A2,1998,76.17,408000,May 2021
+304,Bt Batok St 31,04 to 06,93,New Generation,1985,63.08,403000,May 2021
+369,Bt Batok St 31,04 to 06,84,Simplified,1985,63.67,380000,May 2021
+316,Bt Batok St 32,10 to 12,93,New Generation,1986,63.75,405000,May 2021
+341,Bt Batok St 34,07 to 09,103,Model A,1986,64,403888,May 2021
+513,Bt Batok St 52,01 to 03,89,Simplified,1987,65.08,373000,May 2021
+393,Bt Batok West Ave 5,01 to 03,92,Model A,2004,82.5,450000,May 2021
+102,Bt Batok West Ave 6,04 to 06,105,Model A,1985,63.17,431000,May 2021
+134,Bt Batok West Ave 6,10 to 12,93,New Generation,1984,62.5,408000,May 2021
+186,Bt Batok West Ave 6,04 to 06,105,Model A,1989,66.83,460000,May 2021
+106,Bt Batok Ctrl,01 to 03,104,Model A,1985,63.08,440000,Apr 2021
+220,Bt Batok East Ave 3,01 to 03,98,New Generation,1985,63,385000,Apr 2021
+290D,Bt Batok East Ave 3,07 to 09,103,Model A,1998,75.83,436000,Apr 2021
+248,Bt Batok East Ave 5,10 to 12,103,Model A,1985,63.33,400000,Apr 2021
+248,Bt Batok East Ave 5,01 to 03,103,Model A,1985,63.25,400000,Apr 2021
+161,Bt Batok St 11,04 to 06,104,Model A,1984,62.25,415000,Apr 2021
+204,Bt Batok St 21,01 to 03,104,Model A,1985,63.08,435000,Apr 2021
+207,Bt Batok St 21,10 to 12,104,Model A,1983,61.33,400000,Apr 2021
+210,Bt Batok St 21,01 to 03,104,Model A,1985,63.08,370000,Apr 2021
+210,Bt Batok St 21,13 to 15,104,Model A,1985,63.08,470000,Apr 2021
+290E,Bt Batok St 24,07 to 09,102,Model A,1997,75.67,475000,Apr 2021
+369,Bt Batok St 31,04 to 06,104,Model A,1985,63.75,495000,Apr 2021
+336,Bt Batok St 32,04 to 06,84,Simplified,1986,64.58,340000,Apr 2021
+321,Bt Batok St 33,04 to 06,93,New Generation,1986,64,380000,Apr 2021
+327,Bt Batok St 33,01 to 03,89,Simplified,1987,65.58,365000,Apr 2021
+350,Bt Batok St 34,07 to 09,84,Simplified,1987,64.83,360000,Apr 2021
+511,Bt Batok St 52,04 to 06,84,Simplified,1986,64.5,345000,Apr 2021
+513,Bt Batok St 52,01 to 03,84,Simplified,1987,65.17,340000,Apr 2021
+541,Bt Batok St 52,01 to 03,84,Simplified,1986,64.5,339000,Apr 2021
+421,Bt Batok West Ave 2,07 to 09,94,New Generation,1988,66,380000,Apr 2021
+384,Bt Batok West Ave 5,25 to 27,92,Model A,2005,82.75,483000,Apr 2021
+189,Bt Batok West Ave 6,04 to 06,100,Model A,1997,75,460000,Apr 2021
+183,Bt Batok West Ave 8,07 to 09,91,New Generation,1984,62.5,392000,Apr 2021
+236,Bt Batok East Ave 5,07 to 09,98,New Generation,1985,63.33,400000,Mar 2021
+240,Bt Batok East Ave 5,07 to 09,99,New Generation,1985,63.67,418000,Mar 2021
+212,Bt Batok St 21,10 to 12,93,New Generation,1985,63.42,420000,Mar 2021
+291C,Bt Batok St 24,10 to 12,102,Model A,1998,76.17,430000,Mar 2021
+291D,Bt Batok St 24,13 to 15,102,Model A,1998,75.92,473000,Mar 2021
+359,Bt Batok St 31,04 to 06,84,Simplified,1988,66.33,350000,Mar 2021
+359,Bt Batok St 31,01 to 03,84,Simplified,1988,66.25,358000,Mar 2021
+360,Bt Batok St 31,01 to 03,94,New Generation,1987,65.5,380000,Mar 2021
+336,Bt Batok St 32,07 to 09,103,Model A,1986,64.67,380000,Mar 2021
+341,Bt Batok St 34,07 to 09,103,Model A,1986,64.17,427000,Mar 2021
+514,Bt Batok St 52,04 to 06,103,Model A,1986,64.75,393000,Mar 2021
+525,Bt Batok St 52,01 to 03,88,Simplified,1987,65.5,395000,Mar 2021
+536,Bt Batok St 52,07 to 09,103,Model A,1986,64.42,397000,Mar 2021
+419,Bt Batok West Ave 2,01 to 03,83,Simplified,1986,64.58,330000,Mar 2021
+385,Bt Batok West Ave 5,16 to 18,90,Model A,2005,82.92,458888,Mar 2021
+391,Bt Batok West Ave 5,07 to 09,92,Model A,2004,82.58,445000,Mar 2021
+391,Bt Batok West Ave 5,22 to 24,92,Model A,2004,82.5,475000,Mar 2021
+103,Bt Batok Ctrl,07 to 09,103,Model A,1985,63,450000,Feb 2021
+207,Bt Batok St 21,01 to 03,104,Model A,1983,61.5,400800,Feb 2021
+207,Bt Batok St 21,13 to 15,104,Model A,1983,61.58,428000,Feb 2021
+208,Bt Batok St 21,04 to 06,104,Model A,1983,61.58,413000,Feb 2021
+208,Bt Batok St 21,10 to 12,104,Model A,1983,61.5,428000,Feb 2021
+291A,Bt Batok St 24,04 to 06,102,Model A,1997,75.83,420000,Feb 2021
+289E,Bt Batok St 25,01 to 03,101,Model A,1998,76,400000,Feb 2021
+360,Bt Batok St 31,10 to 12,94,New Generation,1987,65.58,418000,Feb 2021
+369,Bt Batok St 31,07 to 09,84,Simplified,1985,63.92,308888,Feb 2021
+419,Bt Batok West Ave 2,10 to 12,83,Simplified,1986,64.58,333000,Feb 2021
+410,Bt Batok West Ave 4,04 to 06,94,New Generation,1988,66.33,325000,Feb 2021
+385,Bt Batok West Ave 5,07 to 09,86,Model A,2005,83,428000,Feb 2021
+393,Bt Batok West Ave 5,19 to 21,92,Model A,2004,82.67,452000,Feb 2021
+113,Bt Batok West Ave 6,01 to 03,106,Model A,1984,62.5,368000,Feb 2021
+185,Bt Batok West Ave 6,04 to 06,105,Model A,1989,67.08,418000,Feb 2021
+290D,Bt Batok East Ave 3,07 to 09,103,Model A,1998,76.17,425000,Jan 2021
+265,Bt Batok East Ave 4,07 to 09,93,New Generation,1985,63.75,375000,Jan 2021
+268,Bt Batok East Ave 4,04 to 06,104,Model A,1985,63.67,375000,Jan 2021
+241,Bt Batok East Ave 5,01 to 03,97,New Generation,1985,63.67,400000,Jan 2021
+252,Bt Batok East Ave 5,04 to 06,93,New Generation,1985,63.25,350000,Jan 2021
+201,Bt Batok St 21,04 to 06,104,Model A,1985,63.5,448000,Jan 2021
+204,Bt Batok St 21,07 to 09,116,Model A,1985,63.25,460000,Jan 2021
+289F,Bt Batok St 25,07 to 09,92,Model A2,1998,76.58,380000,Jan 2021
+370,Bt Batok St 31,01 to 03,104,Model A,1985,63.92,370000,Jan 2021
+318,Bt Batok St 32,04 to 06,93,New Generation,1986,64.33,358000,Jan 2021
+331,Bt Batok St 33,07 to 09,84,Simplified,1986,64.92,352000,Jan 2021
+338,Bt Batok St 34,01 to 03,84,Simplified,1986,64.25,330000,Jan 2021
+503,Bt Batok St 52,07 to 09,84,Simplified,1987,65.5,350000,Jan 2021
+385,Bt Batok West Ave 5,25 to 27,86,Model A,2005,83.08,460000,Jan 2021
+391,Bt Batok West Ave 5,04 to 06,92,Model A,2004,82.75,400000,Jan 2021
+393,Bt Batok West Ave 5,07 to 09,92,Model A,2004,82.83,445000,Jan 2021
+395,Bt Batok West Ave 5,10 to 12,90,Model A,2004,82.67,452000,Jan 2021
+112,Bt Batok West Ave 6,04 to 06,104,Model A,1984,62.83,400000,Jan 2021
+187,Bt Batok West Ave 6,01 to 03,107,Model A,1989,67.08,410000,Jan 2021
+272,Bt Batok East Ave 4,10 to 12,84,Simplified,1986,64.83,340000,Dec 2020
+253,Bt Batok East Ave 5,01 to 03,96,New Generation,1985,63.42,370000,Dec 2020
+290E,Bt Batok St 24,13 to 15,103,Model A,1997,76.08,452000,Dec 2020
+361,Bt Batok St 31,10 to 12,94,New Generation,1987,65.25,370000,Dec 2020
+311,Bt Batok St 32,01 to 03,89,Simplified,1988,66.08,310000,Dec 2020
+313,Bt Batok St 32,01 to 03,93,New Generation,1986,64.33,350000,Dec 2020
+316,Bt Batok St 32,10 to 12,93,New Generation,1986,64.17,380000,Dec 2020
+336,Bt Batok St 32,10 to 12,84,Simplified,1986,65,320000,Dec 2020
+336,Bt Batok St 32,10 to 12,84,Simplified,1986,64.92,356000,Dec 2020
+322,Bt Batok St 33,10 to 12,93,New Generation,1985,63.92,375000,Dec 2020
+331,Bt Batok St 33,07 to 09,84,Simplified,1986,65,345000,Dec 2020
+337,Bt Batok St 34,04 to 06,84,Simplified,1986,64.92,330000,Dec 2020
+420,Bt Batok West Ave 2,01 to 03,94,New Generation,1988,66.58,335000,Dec 2020
+416,Bt Batok West Ave 4,07 to 09,103,Model A,1987,66,385000,Dec 2020
+383,Bt Batok West Ave 5,01 to 03,90,Model A,2005,83.25,400000,Dec 2020
+383,Bt Batok West Ave 5,07 to 09,90,Model A,2005,83.25,400000,Dec 2020
+384,Bt Batok West Ave 5,01 to 03,92,Model A,2005,83.17,448000,Dec 2020
+385,Bt Batok West Ave 5,22 to 24,90,Model A,2005,83.08,418000,Dec 2020
+391,Bt Batok West Ave 5,01 to 03,90,Model A,2004,82.83,365000,Dec 2020
+395,Bt Batok West Ave 5,25 to 27,90,Model A,2004,82.75,455000,Dec 2020
+193,Bt Batok West Ave 6,10 to 12,100,Model A,1997,75.58,468000,Dec 2020
+193,Bt Batok West Ave 6,13 to 15,100,Model A,1997,75.58,500000,Dec 2020
+165,Bt Batok West Ave 8,04 to 06,104,Model A,1984,62.83,400000,Dec 2020
+179,Bt Batok West Ave 8,01 to 03,99,New Generation,1985,63.17,390000,Dec 2020
+124,Bt Batok Ctrl,01 to 03,98,New Generation,1985,63.25,398000,Nov 2020
+225,Bt Batok Ctrl,01 to 03,96,New Generation,1985,63.83,388000,Nov 2020
+228,Bt Batok Ctrl,07 to 09,96,New Generation,1985,63.58,385000,Nov 2020
+268,Bt Batok East Ave 4,07 to 09,84,Simplified,1985,63.75,350000,Nov 2020
+269,Bt Batok East Ave 4,04 to 06,89,Simplified,1986,65,363000,Nov 2020
+238,Bt Batok East Ave 5,07 to 09,93,New Generation,1986,65.08,388000,Nov 2020
+240,Bt Batok East Ave 5,07 to 09,93,New Generation,1985,63.92,400000,Nov 2020
+210,Bt Batok St 21,10 to 12,104,Model A,1985,63.5,408000,Nov 2020
+212,Bt Batok St 21,04 to 06,93,New Generation,1985,63.83,410000,Nov 2020
+297,Bt Batok St 22,04 to 06,100,Model A,1997,75.75,405000,Nov 2020
+289E,Bt Batok St 25,13 to 15,102,Model A,1998,76.25,425000,Nov 2020
+318,Bt Batok St 32,07 to 09,93,New Generation,1986,64.5,358000,Nov 2020
+336,Bt Batok St 32,07 to 09,84,Simplified,1986,65,350000,Nov 2020
+321,Bt Batok St 33,07 to 09,93,New Generation,1986,64.33,405888,Nov 2020
+337,Bt Batok St 34,01 to 03,104,Model A,1986,64.92,350000,Nov 2020
+511,Bt Batok St 52,01 to 03,84,Simplified,1986,65,330000,Nov 2020
+536,Bt Batok St 52,04 to 06,103,Model A,1986,64.83,350000,Nov 2020
+407,Bt Batok West Ave 4,04 to 06,94,New Generation,1988,66.5,340000,Nov 2020
+391,Bt Batok West Ave 5,07 to 09,92,Model A,2004,82.92,428000,Nov 2020
+394,Bt Batok West Ave 5,19 to 21,92,Model A,2004,82.92,445000,Nov 2020
+112,Bt Batok West Ave 6,04 to 06,104,Model A,1984,62.92,388000,Nov 2020
+118,Bt Batok West Ave 6,01 to 03,103,Model A,1984,62.75,350000,Nov 2020
+118,Bt Batok West Ave 6,01 to 03,103,Model A,1984,62.75,385000,Nov 2020
+133,Bt Batok West Ave 6,04 to 06,93,New Generation,1984,62.5,333000,Nov 2020
+185,Bt Batok West Ave 6,01 to 03,105,Model A,1989,67.42,400000,Nov 2020
+185,Bt Batok West Ave 6,07 to 09,111,Model A,1989,67.33,412000,Nov 2020
+185,Bt Batok West Ave 6,10 to 12,104,Model A,1989,67.42,445000,Nov 2020
+171,Bt Batok West Ave 8,16 to 18,103,Model A,1985,63.5,400000,Nov 2020
+241,Bt Batok East Ave 5,07 to 09,93,New Generation,1985,63,415000,Nov 2021
+251,Bt Batok East Ave 5,04 to 06,93,New Generation,1985,62.5,428000,Nov 2021
+291D,Bt Batok St 24,07 to 09,103,Model A,1998,75.33,505000,Nov 2021
+289G,Bt Batok St 25,01 to 03,101,Model A,1998,75.75,450000,Nov 2021
+194B,Bt Batok West Ave 6,13 to 15,92,Premium Apartment,2017,94.75,628000,Nov 2021
+227,Bt Batok Ctrl,04 to 06,93,New Generation,1985,62.42,425000,Oct 2021
+267,Bt Batok East Ave 4,01 to 03,89,Simplified,1987,64.33,395000,Oct 2021
+206,Bt Batok St 21,07 to 09,104,Model A,1983,61.17,425000,Oct 2021
+210,Bt Batok St 21,04 to 06,104,Model A,1985,62.67,430000,Oct 2021
+210,Bt Batok St 21,01 to 03,103,Model A,1985,62.67,440000,Oct 2021
+210,Bt Batok St 21,04 to 06,108,Model A,1985,62.67,485000,Oct 2021
+297,Bt Batok St 22,04 to 06,100,Model A,1997,74.83,485000,Oct 2021
+290A,Bt Batok St 24,04 to 06,103,Model A,1998,75.42,470000,Oct 2021
+290E,Bt Batok St 24,16 to 18,102,Model A,1997,75.25,550000,Oct 2021
+291B,Bt Batok St 24,04 to 06,103,Model A,1998,75.33,470000,Oct 2021
+288C,Bt Batok St 25,04 to 06,93,Model A2,1998,75.92,445000,Oct 2021
+288D,Bt Batok St 25,04 to 06,92,Model A2,1998,75.58,405000,Oct 2021
+288D,Bt Batok St 25,07 to 09,92,Model A2,1998,75.5,440000,Oct 2021
+288E,Bt Batok St 25,04 to 06,103,Model A,1998,75.83,460000,Oct 2021
+369,Bt Batok St 31,07 to 09,84,Simplified,1985,63.25,405000,Oct 2021
+319,Bt Batok St 33,07 to 09,84,Simplified,1986,64,363000,Oct 2021
+321,Bt Batok St 33,10 to 12,93,New Generation,1986,63.5,408000,Oct 2021
+338,Bt Batok St 34,10 to 12,84,Simplified,1986,63.5,390000,Oct 2021
+340,Bt Batok St 34,07 to 09,107,Model A,1987,64.67,430000,Oct 2021
+345,Bt Batok St 34,10 to 12,103,Model A,1987,64.42,438000,Oct 2021
+532,Bt Batok St 51,01 to 03,83,Simplified,1986,64.25,367000,Oct 2021
+513,Bt Batok St 52,04 to 06,84,Simplified,1987,64.67,390000,Oct 2021
+417,Bt Batok West Ave 4,04 to 06,103,Model A,1986,63.75,395000,Oct 2021
+383,Bt Batok West Ave 5,22 to 24,86,Model A,2005,82.33,525000,Oct 2021
+384,Bt Batok West Ave 5,25 to 27,90,Model A,2005,82.33,510000,Oct 2021
+391,Bt Batok West Ave 5,22 to 24,92,Model A,2004,81.92,476000,Oct 2021
+392,Bt Batok West Ave 5,04 to 06,92,Model A,2004,82.08,492000,Oct 2021
+107,Bt Batok West Ave 6,07 to 09,104,Model A,1985,62.5,485000,Oct 2021
+112,Bt Batok West Ave 6,10 to 12,106,Model A,1984,62.08,475000,Oct 2021
+113,Bt Batok West Ave 6,01 to 03,104,Model A,1984,61.83,430000,Oct 2021
+129,Bt Batok West Ave 6,10 to 12,103,Model A,1984,62.08,480888,Oct 2021
+194A,Bt Batok West Ave 6,22 to 24,95,Premium Apartment,2017,94.75,710000,Oct 2021
+194B,Bt Batok West Ave 6,07 to 09,92,Premium Apartment,2017,94.75,605000,Oct 2021
+194B,Bt Batok West Ave 6,28 to 30,92,Premium Apartment,2017,94.83,640000,Oct 2021
+105,Bt Batok Ctrl,04 to 06,104,Model A,1985,62.58,410000,Sep 2021
+228,Bt Batok Ctrl,10 to 12,100,New Generation,1985,62.75,455000,Sep 2021
+639,Bt Batok Ctrl,01 to 03,104,Model A,1989,67,483000,Sep 2021
+253,Bt Batok East Ave 5,01 to 03,96,New Generation,1985,62.67,408000,Sep 2021
+210,Bt Batok St 21,07 to 09,117,Model A,1985,62.75,438000,Sep 2021
+215,Bt Batok St 21,04 to 06,96,New Generation,1984,62.33,417000,Sep 2021
+291A,Bt Batok St 24,01 to 03,104,Model A,1997,75.33,455000,Sep 2021
+289G,Bt Batok St 25,07 to 09,101,Model A,1998,75.83,452000,Sep 2021
+289G,Bt Batok St 25,07 to 09,103,Model A,1998,75.92,480000,Sep 2021
+308,Bt Batok St 31,10 to 12,93,New Generation,1985,62.83,420000,Sep 2021
+313,Bt Batok St 32,04 to 06,98,New Generation,1986,63.58,415000,Sep 2021
+338,Bt Batok St 34,01 to 03,84,Simplified,1986,63.67,380000,Sep 2021
+392,Bt Batok West Ave 5,01 to 03,92,Model A,2004,82.08,438000,Sep 2021
+393,Bt Batok West Ave 5,04 to 06,92,Model A,2004,82.17,480000,Sep 2021
+394,Bt Batok West Ave 5,10 to 12,92,Model A,2004,82.08,460000,Sep 2021
+101,Bt Batok West Ave 6,01 to 03,111,Model A,1985,62.83,485000,Sep 2021
+102,Bt Batok West Ave 6,07 to 09,104,Model A,1985,62.92,488000,Sep 2021
+114,Bt Batok West Ave 6,04 to 06,104,Model A,1984,62,455000,Sep 2021
+130,Bt Batok West Ave 6,10 to 12,103,Model A,1984,62.25,465000,Sep 2021
+194A,Bt Batok West Ave 6,04 to 06,95,Premium Apartment,2017,94.92,628000,Sep 2021
+194B,Bt Batok West Ave 6,07 to 09,92,Premium Apartment,2017,94.83,595000,Sep 2021
+194B,Bt Batok West Ave 6,07 to 09,92,Premium Apartment,2017,94.92,615000,Sep 2021
+194B,Bt Batok West Ave 6,07 to 09,95,Premium Apartment,2017,94.83,640000,Sep 2021
+194B,Bt Batok West Ave 6,28 to 30,92,Premium Apartment,2017,94.92,675000,Sep 2021
+106,Bt Batok Ctrl,04 to 06,104,Model A,1985,62.67,431000,Aug 2021
+625,Bt Batok Ctrl,04 to 06,101,Model A,1997,74.92,521000,Aug 2021
+625,Bt Batok Ctrl,07 to 09,101,Model A,1997,74.83,550000,Aug 2021
+257,Bt Batok East Ave 4,10 to 12,98,New Generation,1985,63,455000,Aug 2021
+258,Bt Batok East Ave 4,01 to 03,103,Model A,1985,62.58,400000,Aug 2021
+202,Bt Batok St 21,01 to 03,104,Model A,1985,62.92,468000,Aug 2021
+290G,Bt Batok St 24,10 to 12,100,Model A,1998,75.5,490000,Aug 2021
+290G,Bt Batok St 24,16 to 18,103,Model A,1998,75.5,492000,Aug 2021
+291E,Bt Batok St 24,13 to 15,100,Model A,1998,75.58,490000,Aug 2021
+288C,Bt Batok St 25,01 to 03,92,Model A2,1998,76.08,393000,Aug 2021
+288C,Bt Batok St 25,13 to 15,92,Model A2,1998,76.08,465000,Aug 2021
+289E,Bt Batok St 25,01 to 03,102,Model A,1998,75.5,415000,Aug 2021
+289F,Bt Batok St 25,01 to 03,92,Model A2,1998,76,390000,Aug 2021
+319,Bt Batok St 33,04 to 06,84,Simplified,1986,64.17,350000,Aug 2021
+321,Bt Batok St 33,04 to 06,98,New Generation,1986,63.67,385000,Aug 2021
+321,Bt Batok St 33,04 to 06,93,New Generation,1986,63.67,400000,Aug 2021
+322,Bt Batok St 33,04 to 06,93,New Generation,1985,63.25,405000,Aug 2021
+501,Bt Batok St 52,07 to 09,84,Simplified,1986,64.5,380000,Aug 2021
+537,Bt Batok St 52,10 to 12,103,Model A,1987,64.83,420000,Aug 2021
+541,Bt Batok St 52,04 to 06,84,Simplified,1986,64.08,358000,Aug 2021
+416,Bt Batok West Ave 4,07 to 09,103,Model A,1987,65.33,405000,Aug 2021
+417,Bt Batok West Ave 4,04 to 06,103,Model A,1986,63.83,408000,Aug 2021
+392,Bt Batok West Ave 5,13 to 15,92,Model A,2004,82.25,444000,Aug 2021
+393,Bt Batok West Ave 5,01 to 03,92,Model A,2004,82.17,450000,Aug 2021
+395,Bt Batok West Ave 5,13 to 15,92,Model A,2004,82.08,465000,Aug 2021
+119,Bt Batok West Ave 6,07 to 09,110,Model A,1984,61.83,500000,Aug 2021
+187,Bt Batok West Ave 6,07 to 09,107,Model A,1989,66.58,495000,Aug 2021
+194A,Bt Batok West Ave 6,07 to 09,92,Premium Apartment,2017,95,620000,Aug 2021
+194A,Bt Batok West Ave 6,19 to 21,95,Premium Apartment,2017,95,675000,Aug 2021
+126,Bt Batok Ctrl,01 to 03,98,New Generation,1985,62.5,422000,Jul 2021
+266,Bt Batok East Ave 4,04 to 06,84,Simplified,1985,63.25,352888,Jul 2021
+204,Bt Batok St 21,10 to 12,104,Model A,1985,62.83,463000,Jul 2021
+209,Bt Batok St 21,04 to 06,108,Model A,1985,62.75,438000,Jul 2021
+224,Bt Batok St 21,01 to 03,97,New Generation,1984,62.5,448000,Jul 2021
+291C,Bt Batok St 24,13 to 15,102,Model A,1998,75.67,485000,Jul 2021
+288E,Bt Batok St 25,04 to 06,101,Model A,1998,76.08,425000,Jul 2021
+304,Bt Batok St 31,10 to 12,93,New Generation,1985,63,383000,Jul 2021
+370,Bt Batok St 31,07 to 09,104,Model A,1985,63.42,410000,Jul 2021
+311,Bt Batok St 32,01 to 03,89,Simplified,1988,65.5,380000,Jul 2021
+325,Bt Batok St 33,01 to 03,84,Simplified,1986,64.42,360000,Jul 2021
+536,Bt Batok St 52,10 to 12,103,Model A,1986,64.17,430000,Jul 2021
+540,Bt Batok St 52,01 to 03,103,Model A,1987,65.25,385000,Jul 2021
+411,Bt Batok West Ave 4,01 to 03,103,Model A,1986,63.75,352000,Jul 2021
+416,Bt Batok West Ave 4,04 to 06,103,Model A,1987,65.33,385000,Jul 2021
+383,Bt Batok West Ave 5,10 to 12,86,Model A,2005,82.58,480000,Jul 2021
+383,Bt Batok West Ave 5,28 to 30,86,Model A,2005,82.58,485000,Jul 2021
+385,Bt Batok West Ave 5,04 to 06,86,Model A,2005,82.58,460000,Jul 2021
+391,Bt Batok West Ave 5,16 to 18,86,Model A,2004,82.25,455000,Jul 2021
+395,Bt Batok West Ave 5,22 to 24,90,Model A,2004,82.25,518000,Jul 2021
+108,Bt Batok West Ave 6,04 to 06,107,Model A,1985,62.92,470000,Jul 2021
+116,Bt Batok West Ave 6,01 to 03,103,Model A,1984,62.42,418000,Jul 2021
+146,Bt Batok West Ave 6,07 to 09,93,New Generation,1984,62.17,410000,Jul 2021
+187,Bt Batok West Ave 6,04 to 06,113,Model A,1989,66.67,470000,Jul 2021
+194A,Bt Batok West Ave 6,13 to 15,95,Premium Apartment,2017,95.08,627800,Jul 2021
+194A,Bt Batok West Ave 6,16 to 18,92,Premium Apartment,2017,95.08,630000,Jul 2021
+194B,Bt Batok West Ave 6,19 to 21,92,Premium Apartment,2017,95.08,600000,Jul 2021
+194B,Bt Batok West Ave 6,25 to 27,92,Premium Apartment,2017,95.08,638000,Jul 2021
+194B,Bt Batok West Ave 6,31 to 33,92,Premium Apartment,2017,95.08,650000,Jul 2021
+179,Bt Batok West Ave 8,04 to 06,93,New Generation,1985,62.58,378000,Jul 2021
+103,Bt Batok Ctrl,07 to 09,117,Model A,1985,62.67,520000,Jun 2021
+227,Bt Batok Ctrl,10 to 12,93,New Generation,1985,62.83,500000,Jun 2021
+623,Bt Batok Ctrl,04 to 06,101,Model A,1997,75.17,545000,Jun 2021
+215,Bt Batok St 21,07 to 09,93,New Generation,1984,62.5,396000,Jun 2021
+290E,Bt Batok St 24,10 to 12,103,Model A,1997,75.58,490000,Jun 2021
+291A,Bt Batok St 24,13 to 15,103,Model A,1997,75.58,445000,Jun 2021
+291A,Bt Batok St 24,07 to 09,102,Model A,1997,75.58,475000,Jun 2021
+288C,Bt Batok St 25,04 to 06,92,Model A2,1998,76.17,415000,Jun 2021
+289F,Bt Batok St 25,07 to 09,90,Model A2,1998,76.17,402000,Jun 2021
+306,Bt Batok St 31,01 to 03,90,Simplified,1985,62.83,395000,Jun 2021
+336,Bt Batok St 32,07 to 09,84,Simplified,1986,64.5,368000,Jun 2021
+323,Bt Batok St 33,04 to 06,84,Simplified,1987,65.5,365000,Jun 2021
+331,Bt Batok St 33,10 to 12,84,Simplified,1986,64.5,360000,Jun 2021
+343,Bt Batok St 34,07 to 09,103,Model A,1987,64.83,410000,Jun 2021
+514,Bt Batok St 52,07 to 09,84,Simplified,1986,64.5,365000,Jun 2021
+536,Bt Batok St 52,04 to 06,103,Model A,1986,64.25,420000,Jun 2021
+409,Bt Batok West Ave 4,07 to 09,94,New Generation,1988,66,375000,Jun 2021
+414,Bt Batok West Ave 4,04 to 06,103,Model A,1987,65.33,383888,Jun 2021
+385,Bt Batok West Ave 5,25 to 27,90,Model A,2005,82.67,462888,Jun 2021
+393,Bt Batok West Ave 5,04 to 06,92,Model A,2004,82.42,430000,Jun 2021
+102,Bt Batok West Ave 6,01 to 03,104,Model A,1985,63.17,460000,Jun 2021
+112,Bt Batok West Ave 6,04 to 06,106,Model A,1984,62.42,385000,Jun 2021
+119,Bt Batok West Ave 6,04 to 06,116,Model A,1984,62.08,475000,Jun 2021
+194B,Bt Batok West Ave 6,13 to 15,92,Premium Apartment,2017,95.17,605000,Jun 2021
+105,Bt Batok Ctrl,04 to 06,104,Model A,1985,62.92,435000,May 2021
+228,Bt Batok Ctrl,01 to 03,93,New Generation,1985,63.08,394000,May 2021
+241,Bt Batok East Ave 5,01 to 03,97,New Generation,1985,63.42,400000,May 2021
+208,Bt Batok St 21,04 to 06,104,Model A,1983,61.33,420000,May 2021
+289E,Bt Batok St 25,07 to 09,101,Model A,1998,75.75,430000,May 2021
+289F,Bt Batok St 25,01 to 03,92,Model A2,1998,76.25,380000,May 2021
+289F,Bt Batok St 25,07 to 09,92,Model A2,1998,76.17,408000,May 2021
+304,Bt Batok St 31,04 to 06,93,New Generation,1985,63.08,403000,May 2021
+369,Bt Batok St 31,04 to 06,84,Simplified,1985,63.67,380000,May 2021
+316,Bt Batok St 32,10 to 12,93,New Generation,1986,63.75,405000,May 2021
+341,Bt Batok St 34,07 to 09,103,Model A,1986,64,403888,May 2021
+513,Bt Batok St 52,01 to 03,89,Simplified,1987,65.08,373000,May 2021
+393,Bt Batok West Ave 5,01 to 03,92,Model A,2004,82.5,450000,May 2021
+102,Bt Batok West Ave 6,04 to 06,105,Model A,1985,63.17,431000,May 2021
+134,Bt Batok West Ave 6,10 to 12,93,New Generation,1984,62.5,408000,May 2021
+186,Bt Batok West Ave 6,04 to 06,105,Model A,1989,66.83,460000,May 2021
+106,Bt Batok Ctrl,01 to 03,104,Model A,1985,63.08,440000,Apr 2021
+220,Bt Batok East Ave 3,01 to 03,98,New Generation,1985,63,385000,Apr 2021
+290D,Bt Batok East Ave 3,07 to 09,103,Model A,1998,75.83,436000,Apr 2021
+248,Bt Batok East Ave 5,10 to 12,103,Model A,1985,63.33,400000,Apr 2021
+248,Bt Batok East Ave 5,01 to 03,103,Model A,1985,63.25,400000,Apr 2021
+161,Bt Batok St 11,04 to 06,104,Model A,1984,62.25,415000,Apr 2021
+204,Bt Batok St 21,01 to 03,104,Model A,1985,63.08,435000,Apr 2021
+207,Bt Batok St 21,10 to 12,104,Model A,1983,61.33,400000,Apr 2021
+210,Bt Batok St 21,01 to 03,104,Model A,1985,63.08,370000,Apr 2021
+210,Bt Batok St 21,13 to 15,104,Model A,1985,63.08,470000,Apr 2021
+290E,Bt Batok St 24,07 to 09,102,Model A,1997,75.67,475000,Apr 2021
+369,Bt Batok St 31,04 to 06,104,Model A,1985,63.75,495000,Apr 2021
+336,Bt Batok St 32,04 to 06,84,Simplified,1986,64.58,340000,Apr 2021
+321,Bt Batok St 33,04 to 06,93,New Generation,1986,64,380000,Apr 2021
+327,Bt Batok St 33,01 to 03,89,Simplified,1987,65.58,365000,Apr 2021
+350,Bt Batok St 34,07 to 09,84,Simplified,1987,64.83,360000,Apr 2021
+511,Bt Batok St 52,04 to 06,84,Simplified,1986,64.5,345000,Apr 2021
+513,Bt Batok St 52,01 to 03,84,Simplified,1987,65.17,340000,Apr 2021
+541,Bt Batok St 52,01 to 03,84,Simplified,1986,64.5,339000,Apr 2021
+421,Bt Batok West Ave 2,07 to 09,94,New Generation,1988,66,380000,Apr 2021
+384,Bt Batok West Ave 5,25 to 27,92,Model A,2005,82.75,483000,Apr 2021
+189,Bt Batok West Ave 6,04 to 06,100,Model A,1997,75,460000,Apr 2021
+183,Bt Batok West Ave 8,07 to 09,91,New Generation,1984,62.5,392000,Apr 2021
+236,Bt Batok East Ave 5,07 to 09,98,New Generation,1985,63.33,400000,Mar 2021
+240,Bt Batok East Ave 5,07 to 09,99,New Generation,1985,63.67,418000,Mar 2021
+212,Bt Batok St 21,10 to 12,93,New Generation,1985,63.42,420000,Mar 2021
+291C,Bt Batok St 24,10 to 12,102,Model A,1998,76.17,430000,Mar 2021
+291D,Bt Batok St 24,13 to 15,102,Model A,1998,75.92,473000,Mar 2021
+359,Bt Batok St 31,04 to 06,84,Simplified,1988,66.33,350000,Mar 2021
+359,Bt Batok St 31,01 to 03,84,Simplified,1988,66.25,358000,Mar 2021
+360,Bt Batok St 31,01 to 03,94,New Generation,1987,65.5,380000,Mar 2021
+336,Bt Batok St 32,07 to 09,103,Model A,1986,64.67,380000,Mar 2021
+341,Bt Batok St 34,07 to 09,103,Model A,1986,64.17,427000,Mar 2021
+514,Bt Batok St 52,04 to 06,103,Model A,1986,64.75,393000,Mar 2021
+525,Bt Batok St 52,01 to 03,88,Simplified,1987,65.5,395000,Mar 2021
+536,Bt Batok St 52,07 to 09,103,Model A,1986,64.42,397000,Mar 2021
+419,Bt Batok West Ave 2,01 to 03,83,Simplified,1986,64.58,330000,Mar 2021
+385,Bt Batok West Ave 5,16 to 18,90,Model A,2005,82.92,458888,Mar 2021
+391,Bt Batok West Ave 5,07 to 09,92,Model A,2004,82.58,445000,Mar 2021
+391,Bt Batok West Ave 5,22 to 24,92,Model A,2004,82.5,475000,Mar 2021
+103,Bt Batok Ctrl,07 to 09,103,Model A,1985,63,450000,Feb 2021
+207,Bt Batok St 21,01 to 03,104,Model A,1983,61.5,400800,Feb 2021
+207,Bt Batok St 21,13 to 15,104,Model A,1983,61.58,428000,Feb 2021
+208,Bt Batok St 21,04 to 06,104,Model A,1983,61.58,413000,Feb 2021
+208,Bt Batok St 21,10 to 12,104,Model A,1983,61.5,428000,Feb 2021
+291A,Bt Batok St 24,04 to 06,102,Model A,1997,75.83,420000,Feb 2021
+289E,Bt Batok St 25,01 to 03,101,Model A,1998,76,400000,Feb 2021
+360,Bt Batok St 31,10 to 12,94,New Generation,1987,65.58,418000,Feb 2021
+369,Bt Batok St 31,07 to 09,84,Simplified,1985,63.92,308888,Feb 2021
+419,Bt Batok West Ave 2,10 to 12,83,Simplified,1986,64.58,333000,Feb 2021
+410,Bt Batok West Ave 4,04 to 06,94,New Generation,1988,66.33,325000,Feb 2021
+385,Bt Batok West Ave 5,07 to 09,86,Model A,2005,83,428000,Feb 2021
+393,Bt Batok West Ave 5,19 to 21,92,Model A,2004,82.67,452000,Feb 2021
+113,Bt Batok West Ave 6,01 to 03,106,Model A,1984,62.5,368000,Feb 2021
+185,Bt Batok West Ave 6,04 to 06,105,Model A,1989,67.08,418000,Feb 2021
+290D,Bt Batok East Ave 3,07 to 09,103,Model A,1998,76.17,425000,Jan 2021
+265,Bt Batok East Ave 4,07 to 09,93,New Generation,1985,63.75,375000,Jan 2021
+268,Bt Batok East Ave 4,04 to 06,104,Model A,1985,63.67,375000,Jan 2021
+241,Bt Batok East Ave 5,01 to 03,97,New Generation,1985,63.67,400000,Jan 2021
+252,Bt Batok East Ave 5,04 to 06,93,New Generation,1985,63.25,350000,Jan 2021
+201,Bt Batok St 21,04 to 06,104,Model A,1985,63.5,448000,Jan 2021
+204,Bt Batok St 21,07 to 09,116,Model A,1985,63.25,460000,Jan 2021
+289F,Bt Batok St 25,07 to 09,92,Model A2,1998,76.58,380000,Jan 2021
+370,Bt Batok St 31,01 to 03,104,Model A,1985,63.92,370000,Jan 2021
+318,Bt Batok St 32,04 to 06,93,New Generation,1986,64.33,358000,Jan 2021
+331,Bt Batok St 33,07 to 09,84,Simplified,1986,64.92,352000,Jan 2021
+338,Bt Batok St 34,01 to 03,84,Simplified,1986,64.25,330000,Jan 2021
+503,Bt Batok St 52,07 to 09,84,Simplified,1987,65.5,350000,Jan 2021
+385,Bt Batok West Ave 5,25 to 27,86,Model A,2005,83.08,460000,Jan 2021
+391,Bt Batok West Ave 5,04 to 06,92,Model A,2004,82.75,400000,Jan 2021
+393,Bt Batok West Ave 5,07 to 09,92,Model A,2004,82.83,445000,Jan 2021
+395,Bt Batok West Ave 5,10 to 12,90,Model A,2004,82.67,452000,Jan 2021
+112,Bt Batok West Ave 6,04 to 06,104,Model A,1984,62.83,400000,Jan 2021
+187,Bt Batok West Ave 6,01 to 03,107,Model A,1989,67.08,410000,Jan 2021
+272,Bt Batok East Ave 4,10 to 12,84,Simplified,1986,64.83,340000,Dec 2020
+253,Bt Batok East Ave 5,01 to 03,96,New Generation,1985,63.42,370000,Dec 2020
+290E,Bt Batok St 24,13 to 15,103,Model A,1997,76.08,452000,Dec 2020
+361,Bt Batok St 31,10 to 12,94,New Generation,1987,65.25,370000,Dec 2020
+311,Bt Batok St 32,01 to 03,89,Simplified,1988,66.08,310000,Dec 2020
+313,Bt Batok St 32,01 to 03,93,New Generation,1986,64.33,350000,Dec 2020
+316,Bt Batok St 32,10 to 12,93,New Generation,1986,64.17,380000,Dec 2020
+336,Bt Batok St 32,10 to 12,84,Simplified,1986,65,320000,Dec 2020
+336,Bt Batok St 32,10 to 12,84,Simplified,1986,64.92,356000,Dec 2020
+322,Bt Batok St 33,10 to 12,93,New Generation,1985,63.92,375000,Dec 2020
+331,Bt Batok St 33,07 to 09,84,Simplified,1986,65,345000,Dec 2020
+337,Bt Batok St 34,04 to 06,84,Simplified,1986,64.92,330000,Dec 2020
+420,Bt Batok West Ave 2,01 to 03,94,New Generation,1988,66.58,335000,Dec 2020
+416,Bt Batok West Ave 4,07 to 09,103,Model A,1987,66,385000,Dec 2020
+383,Bt Batok West Ave 5,01 to 03,90,Model A,2005,83.25,400000,Dec 2020
+383,Bt Batok West Ave 5,07 to 09,90,Model A,2005,83.25,400000,Dec 2020
+384,Bt Batok West Ave 5,01 to 03,92,Model A,2005,83.17,448000,Dec 2020
+385,Bt Batok West Ave 5,22 to 24,90,Model A,2005,83.08,418000,Dec 2020
+391,Bt Batok West Ave 5,01 to 03,90,Model A,2004,82.83,365000,Dec 2020
+395,Bt Batok West Ave 5,25 to 27,90,Model A,2004,82.75,455000,Dec 2020
+193,Bt Batok West Ave 6,10 to 12,100,Model A,1997,75.58,468000,Dec 2020
+193,Bt Batok West Ave 6,13 to 15,100,Model A,1997,75.58,500000,Dec 2020
+165,Bt Batok West Ave 8,04 to 06,104,Model A,1984,62.83,400000,Dec 2020
+179,Bt Batok West Ave 8,01 to 03,99,New Generation,1985,63.17,390000,Dec 2020
+124,Bt Batok Ctrl,01 to 03,98,New Generation,1985,63.25,398000,Nov 2020
+225,Bt Batok Ctrl,01 to 03,96,New Generation,1985,63.83,388000,Nov 2020
+228,Bt Batok Ctrl,07 to 09,96,New Generation,1985,63.58,385000,Nov 2020
+268,Bt Batok East Ave 4,07 to 09,84,Simplified,1985,63.75,350000,Nov 2020
+269,Bt Batok East Ave 4,04 to 06,89,Simplified,1986,65,363000,Nov 2020
+238,Bt Batok East Ave 5,07 to 09,93,New Generation,1986,65.08,388000,Nov 2020
+240,Bt Batok East Ave 5,07 to 09,93,New Generation,1985,63.92,400000,Nov 2020
+210,Bt Batok St 21,10 to 12,104,Model A,1985,63.5,408000,Nov 2020
+212,Bt Batok St 21,04 to 06,93,New Generation,1985,63.83,410000,Nov 2020
+297,Bt Batok St 22,04 to 06,100,Model A,1997,75.75,405000,Nov 2020
+289E,Bt Batok St 25,13 to 15,102,Model A,1998,76.25,425000,Nov 2020
+318,Bt Batok St 32,07 to 09,93,New Generation,1986,64.5,358000,Nov 2020
+336,Bt Batok St 32,07 to 09,84,Simplified,1986,65,350000,Nov 2020
+321,Bt Batok St 33,07 to 09,93,New Generation,1986,64.33,405888,Nov 2020
+337,Bt Batok St 34,01 to 03,104,Model A,1986,64.92,350000,Nov 2020
+511,Bt Batok St 52,01 to 03,84,Simplified,1986,65,330000,Nov 2020
+536,Bt Batok St 52,04 to 06,103,Model A,1986,64.83,350000,Nov 2020
+407,Bt Batok West Ave 4,04 to 06,94,New Generation,1988,66.5,340000,Nov 2020
+391,Bt Batok West Ave 5,07 to 09,92,Model A,2004,82.92,428000,Nov 2020
+394,Bt Batok West Ave 5,19 to 21,92,Model A,2004,82.92,445000,Nov 2020
+112,Bt Batok West Ave 6,04 to 06,104,Model A,1984,62.92,388000,Nov 2020
+118,Bt Batok West Ave 6,01 to 03,103,Model A,1984,62.75,350000,Nov 2020
+118,Bt Batok West Ave 6,01 to 03,103,Model A,1984,62.75,385000,Nov 2020
+133,Bt Batok West Ave 6,04 to 06,93,New Generation,1984,62.5,333000,Nov 2020
+185,Bt Batok West Ave 6,01 to 03,105,Model A,1989,67.42,400000,Nov 2020
+185,Bt Batok West Ave 6,07 to 09,111,Model A,1989,67.33,412000,Nov 2020
+185,Bt Batok West Ave 6,10 to 12,104,Model A,1989,67.42,445000,Nov 2020
+171,Bt Batok West Ave 8,16 to 18,103,Model A,1985,63.5,400000,Nov 2020

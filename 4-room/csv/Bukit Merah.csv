@@ -1,0 +1,881 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date
+10A,Boon Tiong Rd,16 to 18,92,Model A,2016,93.25,945000,Nov 2021
+124B,Bt Merah View,07 to 09,107,Model A,1996,73.92,715000,Nov 2021
+57,Havelock Rd,28 to 30,94,Model A,2013,90.67,880000,Nov 2021
+106,Henderson Cres,13 to 15,81,Improved,1975,52.25,475000,Nov 2021
+27B,Jln Membina,10 to 12,90,Model A,2008,86,770888,Nov 2021
+39,Jln Rumah Tinggi,04 to 06,99,Model A,1997,74.67,635000,Nov 2021
+40,Jln Rumah Tinggi,10 to 12,100,Model A,1997,74.67,670000,Nov 2021
+120,Kim Tian Pl,04 to 06,90,Model A,2001,78.33,768000,Nov 2021
+75A,Redhill Rd,19 to 21,100,Model A,2005,83.17,825000,Nov 2021
+75C,Redhill Rd,19 to 21,100,Model A,2007,84.25,830000,Nov 2021
+77A,Redhill Rd,07 to 09,100,Model A,2005,83.08,828000,Nov 2021
+51,Telok Blangah Dr,07 to 09,92,New Generation,1978,55.75,488000,Nov 2021
+70B,Telok Blangah Hts,10 to 12,93,Model A,2017,94.58,790000,Nov 2021
+70B,Telok Blangah Hts,07 to 09,93,Model A,2017,94.67,800000,Nov 2021
+87,Telok Blangah Hts,28 to 30,90,Model A,2003,80.5,688000,Nov 2021
+6A,Boon Tiong Rd,01 to 03,100,Model A,2005,83.08,770000,Oct 2021
+6A,Boon Tiong Rd,10 to 12,100,Model A,2005,83,838000,Oct 2021
+9A,Boon Tiong Rd,22 to 24,92,Model A,2016,93.25,940000,Oct 2021
+9A,Boon Tiong Rd,28 to 30,92,Model A,2016,93.25,1010000,Oct 2021
+10A,Boon Tiong Rd,07 to 09,92,Model A,2016,93.25,933000,Oct 2021
+108,Bt Purmei Rd,04 to 06,104,Model A,1984,61.75,560000,Oct 2021
+115,Bt Purmei Rd,04 to 06,103,Model A,1985,62.58,540000,Oct 2021
+115,Bt Purmei Rd,01 to 03,103,Model A,1985,62.42,545000,Oct 2021
+16,Cantonment Cl,04 to 06,75,Model A,2003,80.25,670000,Oct 2021
+16,Cantonment Cl,10 to 12,90,Model A,2003,80.42,735000,Oct 2021
+5,Delta Ave,04 to 06,91,New Generation,1985,63.17,655000,Oct 2021
+112A,Depot Rd,07 to 09,100,Model A,2006,83.33,615000,Oct 2021
+55,Havelock Rd,07 to 09,89,Model A,2013,90.58,800000,Oct 2021
+57,Havelock Rd,04 to 06,94,Model A,2013,90.58,770000,Oct 2021
+104,Henderson Cres,07 to 09,74,Standard,1970,47.83,415000,Oct 2021
+95A,Henderson Rd,31 to 33,93,Model A,2019,96.67,940000,Oct 2021
+95A,Henderson Rd,37 to 39,93,Model A,2019,96.67,943000,Oct 2021
+96B,Henderson Rd,22 to 24,93,Model A,2019,96.67,860000,Oct 2021
+49,Hoy Fatt Rd,04 to 06,84,Simplified,1986,63.75,488000,Oct 2021
+109,Jln Bt Merah,04 to 06,105,Model A,1984,61.83,540000,Oct 2021
+142,Jln Bt Merah,04 to 06,92,New Generation,1979,56.42,435000,Oct 2021
+21,Jln Membina,16 to 18,90,Model A,2003,80.92,846688,Oct 2021
+23,Jln Membina,01 to 03,90,Model A,2003,80.92,740000,Oct 2021
+25A,Jln Membina,13 to 15,90,Model A,2008,86,727500,Oct 2021
+25B,Jln Membina,10 to 12,90,Model A,2009,86.25,755000,Oct 2021
+27A,Jln Membina,01 to 03,90,Model A,2008,86.25,608800,Oct 2021
+38,Jln Rumah Tinggi,07 to 09,99,Model A,1997,74.75,665000,Oct 2021
+127D,Kim Tian Rd,31 to 33,88,Model A,2013,90.42,788888,Oct 2021
+127D,Kim Tian Rd,34 to 36,93,Model A,2013,90.42,823000,Oct 2021
+47,Lengkok Bahru,07 to 09,103,Model A,1984,61.83,555000,Oct 2021
+69,Redhill Cl,07 to 09,100,Model A,2001,78.42,728000,Oct 2021
+70,Redhill Cl,28 to 30,100,Model A,2001,78.83,810000,Oct 2021
+76A,Redhill Rd,25 to 27,100,Model A,2005,83.25,835000,Oct 2021
+65,Telok Blangah Dr,04 to 06,92,New Generation,1978,55.83,530000,Oct 2021
+58,Telok Blangah Hts,04 to 06,92,New Generation,1976,54,465000,Oct 2021
+58,Telok Blangah Hts,07 to 09,91,New Generation,1976,54,508000,Oct 2021
+68,Telok Blangah Hts,04 to 06,92,New Generation,1978,55.33,488888,Oct 2021
+68,Telok Blangah Hts,13 to 15,91,New Generation,1978,55.33,526000,Oct 2021
+69,Telok Blangah Hts,04 to 06,91,New Generation,1978,55.33,505000,Oct 2021
+70C,Telok Blangah Hts,19 to 21,93,Model A,2017,94.67,885000,Oct 2021
+85,Telok Blangah Hts,07 to 09,90,Model A,2003,80.5,620000,Oct 2021
+27,Telok Blangah Way,07 to 09,82,Improved,1976,53.58,440000,Oct 2021
+6A,Boon Tiong Rd,07 to 09,100,Model A,2005,83.17,850000,Sep 2021
+8B,Boon Tiong Rd,16 to 18,100,Model A,2005,83.17,850000,Sep 2021
+9A,Boon Tiong Rd,25 to 27,92,Model A,2016,93.42,990000,Sep 2021
+10A,Boon Tiong Rd,22 to 24,93,Model A,2016,93.42,1000000,Sep 2021
+10A,Boon Tiong Rd,19 to 21,92,Model A,2016,93.33,1000000,Sep 2021
+112,Bt Purmei Rd,01 to 03,105,Model A,1985,62.5,496000,Sep 2021
+11,Cantonment Cl,10 to 12,75,Model A,2002,80.33,668000,Sep 2021
+13,Cantonment Cl,07 to 09,90,Model A,2003,80.42,790000,Sep 2021
+104A,Depot Rd,10 to 12,100,Model A,2000,77.92,630000,Sep 2021
+106A,Depot Rd,16 to 18,100,Model A,2000,77.92,659000,Sep 2021
+58,Havelock Rd,16 to 18,94,Model A,2013,90.75,857000,Sep 2021
+95C,Henderson Rd,28 to 30,93,Model A,2019,96.67,890000,Sep 2021
+142,Jln Bt Merah,10 to 12,92,New Generation,1979,56.33,510000,Sep 2021
+21,Jln Membina,19 to 21,90,Model A,2003,81.08,790000,Sep 2021
+25B,Jln Membina,19 to 21,90,Model A,2009,86.33,800000,Sep 2021
+26C,Jln Membina,13 to 15,85,Model A,2009,86.42,760000,Sep 2021
+27A,Jln Membina,13 to 15,90,Model A,2008,86.33,730000,Sep 2021
+118D,Jln Membina,28 to 30,90,Model A,2003,80.33,756000,Sep 2021
+118D,Jln Membina,25 to 27,91,Model A,2003,80.42,800000,Sep 2021
+119B,Kim Tian Rd,13 to 15,92,Model A,2002,80.33,755000,Sep 2021
+123,Kim Tian Rd,07 to 09,105,Model A,1995,73,740000,Sep 2021
+126A,Kim Tian Rd,40 to 42,93,Model A,2013,90.58,910000,Sep 2021
+127C,Kim Tian Rd,19 to 21,93,Model A,2013,90.5,809888,Sep 2021
+129,Kim Tian Rd,01 to 03,88,Improved,1976,53.42,475000,Sep 2021
+75B,Redhill Rd,04 to 06,100,Model A,2005,83.33,760000,Sep 2021
+23,Telok Blangah Cres,10 to 12,82,Improved,1975,52.75,468000,Sep 2021
+56,Telok Blangah Hts,04 to 06,92,New Generation,1976,54.17,490000,Sep 2021
+70A,Telok Blangah Hts,13 to 15,93,Model A,2017,94.75,800000,Sep 2021
+70A,Telok Blangah Hts,13 to 15,93,Model A,2017,94.75,823000,Sep 2021
+70B,Telok Blangah Hts,19 to 21,93,Model A,2017,94.75,850000,Sep 2021
+70C,Telok Blangah Hts,07 to 09,93,Model A,2017,94.75,780000,Sep 2021
+70C,Telok Blangah Hts,13 to 15,93,Model A,2017,94.75,785000,Sep 2021
+70C,Telok Blangah Hts,19 to 21,93,Model A,2017,94.75,820000,Sep 2021
+80A,Telok Blangah St 31,22 to 24,95,Premium Apartment,2013,91,870000,Sep 2021
+80A,Telok Blangah St 31,31 to 33,95,Premium Apartment,2013,91,975000,Sep 2021
+34,Telok Blangah Way,01 to 03,82,Improved,1976,53.58,412000,Sep 2021
+9B,Boon Tiong Rd,31 to 33,92,Model A,2016,93.5,960000,Aug 2021
+10B,Boon Tiong Rd,19 to 21,87,Model A,2016,93.42,910000,Aug 2021
+10B,Boon Tiong Rd,25 to 27,87,Model A,2016,93.5,940000,Aug 2021
+110,Bt Purmei Rd,04 to 06,104,Model A,1984,62.17,540000,Aug 2021
+111,Bt Purmei Rd,04 to 06,104,Model A,1984,62.25,518000,Aug 2021
+113,Bt Purmei Rd,01 to 03,110,Model A,1984,62.25,530000,Aug 2021
+115,Bt Purmei Rd,07 to 09,103,Model A,1985,62.67,560000,Aug 2021
+8,Cantonment Cl,16 to 18,90,Model A,2002,80.42,795000,Aug 2021
+9,Cantonment Cl,19 to 21,90,Model A,2002,80.42,810000,Aug 2021
+11,Cantonment Cl,19 to 21,90,Model A,2002,80.42,812000,Aug 2021
+12,Cantonment Cl,07 to 09,75,Model A,2003,80.42,709800,Aug 2021
+18,Cantonment Cl,16 to 18,75,Model A,2002,80.42,720000,Aug 2021
+4,Delta Ave,13 to 15,92,New Generation,1985,63.17,668000,Aug 2021
+103A,Depot Rd,01 to 03,90,Model A,2002,79.75,545000,Aug 2021
+106A,Depot Rd,07 to 09,100,Model A,2000,77.92,620000,Aug 2021
+54,Havelock Rd,19 to 21,94,Model A,2013,90.83,838000,Aug 2021
+101,Henderson Cres,07 to 09,74,Standard,1970,48.08,420000,Aug 2021
+21,Jln Membina,01 to 03,90,Model A,2003,81.17,605000,Aug 2021
+23,Jln Membina,10 to 12,90,Model A,2003,81.17,760000,Aug 2021
+27A,Jln Membina,25 to 27,90,Model A,2008,86.42,830000,Aug 2021
+120,Kim Tian Pl,25 to 27,101,Model A,2001,78.58,808000,Aug 2021
+120A,Kim Tian Pl,16 to 18,100,Model A,2001,78.67,765000,Aug 2021
+119D,Kim Tian Rd,07 to 09,92,Model A,2002,80.17,690000,Aug 2021
+119D,Kim Tian Rd,16 to 18,92,Model A,2002,80.17,730000,Aug 2021
+125,Kim Tian Rd,07 to 09,111,Model A,1995,73.08,885000,Aug 2021
+126A,Kim Tian Rd,10 to 12,93,Model A,2013,90.5,838000,Aug 2021
+126C,Kim Tian Rd,10 to 12,93,Model A,2013,90.58,820000,Aug 2021
+127C,Kim Tian Rd,31 to 33,93,Model A,2013,90.5,825000,Aug 2021
+70,Redhill Cl,16 to 18,100,Model A,2001,79,745000,Aug 2021
+77A,Redhill Rd,04 to 06,100,Model A,2005,83.33,685000,Aug 2021
+77A,Redhill Rd,25 to 27,100,Model A,2005,83.33,878000,Aug 2021
+17A,Telok Blangah Cres,25 to 27,100,Model A,2002,79.5,688000,Aug 2021
+23,Telok Blangah Cres,04 to 06,82,Improved,1975,52.83,385000,Aug 2021
+50,Telok Blangah Dr,13 to 15,98,New Generation,1978,56,555000,Aug 2021
+56,Telok Blangah Hts,10 to 12,91,New Generation,1976,54.08,510000,Aug 2021
+57,Telok Blangah Hts,01 to 03,91,New Generation,1976,54.17,448000,Aug 2021
+61,Telok Blangah Hts,04 to 06,81,New Generation,1976,54.17,432888,Aug 2021
+68,Telok Blangah Hts,01 to 03,91,New Generation,1978,55.5,490000,Aug 2021
+69,Telok Blangah Hts,13 to 15,92,New Generation,1978,55.5,530000,Aug 2021
+70A,Telok Blangah Hts,01 to 03,93,Model A,2017,94.83,708000,Aug 2021
+70B,Telok Blangah Hts,19 to 21,93,Model A,2017,94.83,848000,Aug 2021
+70B,Telok Blangah Hts,22 to 24,93,Model A,2017,94.75,865000,Aug 2021
+70C,Telok Blangah Hts,10 to 12,93,Model A,2017,94.75,770000,Aug 2021
+70C,Telok Blangah Hts,10 to 12,93,Model A,2017,94.83,775000,Aug 2021
+70C,Telok Blangah Hts,10 to 12,93,Model A,2017,94.75,785000,Aug 2021
+88,Telok Blangah Hts,19 to 21,85,Model A,2003,80.67,625000,Aug 2021
+80C,Telok Blangah St 31,19 to 21,93,Premium Apartment,2013,91.08,820000,Aug 2021
+27,Telok Blangah Way,07 to 09,82,Improved,1976,53.75,443000,Aug 2021
+4B,Boon Tiong Rd,07 to 09,100,Model A,2005,83.33,830000,Jul 2021
+8A,Boon Tiong Rd,10 to 12,100,Model A,2005,83.33,875000,Jul 2021
+8B,Boon Tiong Rd,01 to 03,100,Model A,2005,83.33,720000,Jul 2021
+9A,Boon Tiong Rd,10 to 12,92,Model A,2016,93.5,920000,Jul 2021
+10A,Boon Tiong Rd,16 to 18,92,Model A,2016,93.58,973000,Jul 2021
+113,Bt Purmei Rd,10 to 12,103,Model A,1984,62.33,470000,Jul 2021
+9,Cantonment Cl,19 to 21,90,Model A,2002,80.5,815000,Jul 2021
+4,Delta Ave,10 to 12,91,New Generation,1985,63.25,668000,Jul 2021
+109B,Depot Rd,13 to 15,100,Model A,2006,83.67,650000,Jul 2021
+95B,Henderson Rd,13 to 15,83,Model A,2019,96.92,803000,Jul 2021
+95C,Henderson Rd,34 to 36,93,Model A,2019,96.92,900000,Jul 2021
+96A,Henderson Rd,19 to 21,93,Model A,2019,96.92,910000,Jul 2021
+21,Jln Membina,13 to 15,90,Model A,2003,81.25,740000,Jul 2021
+38,Jln Rumah Tinggi,10 to 12,99,Model A,1997,75,650000,Jul 2021
+119B,Kim Tian Rd,01 to 03,87,Model A,2002,80.5,530000,Jul 2021
+127D,Kim Tian Rd,28 to 30,93,Model A,2013,90.67,809000,Jul 2021
+131B,Kim Tian Rd,01 to 03,91,Model A,2002,79.58,600000,Jul 2021
+53,Lengkok Bahru,04 to 06,84,Simplified,1986,64.25,500000,Jul 2021
+69,Redhill Cl,07 to 09,100,Model A,2001,78.67,676000,Jul 2021
+88,Redhill Cl,07 to 09,111,Model A,1995,72.58,741000,Jul 2021
+76A,Redhill Rd,13 to 15,100,Model A,2005,83.5,790000,Jul 2021
+14,Telok Blangah Cres,10 to 12,101,Model A,1999,77.25,618000,Jul 2021
+56,Telok Blangah Hts,04 to 06,92,New Generation,1976,54.25,463000,Jul 2021
+59,Telok Blangah Hts,04 to 06,91,New Generation,1976,54.17,440000,Jul 2021
+70A,Telok Blangah Hts,13 to 15,93,Model A,2017,94.92,820000,Jul 2021
+70A,Telok Blangah Hts,22 to 24,93,Model A,2017,94.92,850000,Jul 2021
+70B,Telok Blangah Hts,04 to 06,93,Model A,2017,94.83,770000,Jul 2021
+70B,Telok Blangah Hts,07 to 09,93,Model A,2017,94.92,785888,Jul 2021
+70B,Telok Blangah Hts,04 to 06,93,Model A,2017,94.92,818000,Jul 2021
+70B,Telok Blangah Hts,22 to 24,93,Model A,2017,94.92,870000,Jul 2021
+86,Telok Blangah Hts,22 to 24,90,Model A,2003,80.83,620000,Jul 2021
+87,Telok Blangah Hts,16 to 18,90,Model A,2003,80.83,585000,Jul 2021
+10A,Boon Tiong Rd,31 to 33,93,Model A,2016,93.67,1008000,Jun 2021
+106,Bt Purmei Rd,01 to 03,104,Model A,1984,62.17,495000,Jun 2021
+114,Bt Purmei Rd,01 to 03,103,Model A,1985,62.92,500000,Jun 2021
+114,Bt Purmei Rd,10 to 12,106,Model A,1985,62.83,580888,Jun 2021
+101,Henderson Cres,04 to 06,74,Standard,1970,48.17,365000,Jun 2021
+96B,Henderson Rd,10 to 12,83,Model A,2019,97,795000,Jun 2021
+20,Jln Membina,13 to 15,90,Model A,2003,81.33,764000,Jun 2021
+25B,Jln Membina,07 to 09,90,Model A,2009,86.67,755000,Jun 2021
+26D,Jln Membina,25 to 27,90,Model A,2009,86.67,770000,Jun 2021
+27A,Jln Membina,22 to 24,90,Model A,2008,86.58,770000,Jun 2021
+27A,Jln Membina,25 to 27,90,Model A,2008,86.58,780000,Jun 2021
+126C,Kim Tian Rd,13 to 15,87,Model A,2013,90.75,785000,Jun 2021
+127A,Kim Tian Rd,25 to 27,93,Model A,2013,90.75,788000,Jun 2021
+127A,Kim Tian Rd,25 to 27,93,Model A,2013,90.75,835000,Jun 2021
+127D,Kim Tian Rd,01 to 03,93,Model A,2013,90.75,670000,Jun 2021
+129,Kim Tian Rd,16 to 18,88,Improved,1976,53.67,485000,Jun 2021
+52,Lengkok Bahru,04 to 06,84,Simplified,1986,64.58,550000,Jun 2021
+68,Redhill Cl,04 to 06,85,Model A,2001,78.75,680680,Jun 2021
+70,Redhill Cl,25 to 27,100,Model A,2001,79.17,780000,Jun 2021
+75C,Redhill Rd,25 to 27,100,Model A,2007,84.67,828000,Jun 2021
+76A,Redhill Rd,19 to 21,100,Model A,2005,83.58,810000,Jun 2021
+57,Telok Blangah Hts,10 to 12,91,New Generation,1976,54.33,500000,Jun 2021
+58,Telok Blangah Hts,04 to 06,91,New Generation,1976,54.33,458000,Jun 2021
+70A,Telok Blangah Hts,07 to 09,93,Model A,2017,95,770000,Jun 2021
+70A,Telok Blangah Hts,10 to 12,93,Model A,2017,95,868000,Jun 2021
+70B,Telok Blangah Hts,04 to 06,93,Model A,2017,95,780888,Jun 2021
+70B,Telok Blangah Hts,22 to 24,93,Model A,2017,95,845000,Jun 2021
+70C,Telok Blangah Hts,16 to 18,93,Model A,2017,95,790000,Jun 2021
+70C,Telok Blangah Hts,19 to 21,93,Model A,2017,95,810000,Jun 2021
+80A,Telok Blangah St 31,16 to 18,95,Premium Apartment,2013,91.25,800000,Jun 2021
+27,Telok Blangah Way,10 to 12,82,Improved,1976,53.92,428000,Jun 2021
+9A,Boon Tiong Rd,04 to 06,92,Model A,2016,93.75,915000,May 2021
+9B,Boon Tiong Rd,28 to 30,92,Model A,2016,93.67,970000,May 2021
+10B,Boon Tiong Rd,07 to 09,87,Model A,2016,93.75,885000,May 2021
+104,Bt Purmei Rd,07 to 09,105,Model A,1984,62,580000,May 2021
+109,Bt Purmei Rd,04 to 06,104,Model A,1984,62.33,535000,May 2021
+17,Cantonment Cl,25 to 27,90,Model A,2003,80.75,800000,May 2021
+103B,Depot Rd,04 to 06,100,Model A,2002,80,615000,May 2021
+52,Havelock Rd,28 to 30,89,Model A,2013,91.08,810088,May 2021
+102,Henderson Cres,10 to 12,80,Standard,1970,48.25,435000,May 2021
+103,Henderson Cres,01 to 03,74,Standard,1970,48.25,370000,May 2021
+95C,Henderson Rd,34 to 36,93,Model A,2019,97,910000,May 2021
+134,Jln Bt Merah,10 to 12,108,Model A,1997,74.75,595000,May 2021
+25B,Jln Membina,19 to 21,90,Model A,2009,86.75,760000,May 2021
+26B,Jln Membina,04 to 06,85,Model A,2009,86.67,713000,May 2021
+26D,Jln Membina,25 to 27,90,Model A,2009,86.75,755000,May 2021
+27A,Jln Membina,22 to 24,90,Model A,2008,86.58,765000,May 2021
+39,Jln Rumah Tinggi,04 to 06,99,Model A,1997,75.08,670000,May 2021
+120,Kim Tian Pl,04 to 06,91,Model A,2001,78.83,730000,May 2021
+119D,Kim Tian Rd,01 to 03,87,Model A,2002,80.5,530000,May 2021
+126A,Kim Tian Rd,22 to 24,93,Model A,2013,90.75,825000,May 2021
+127A,Kim Tian Rd,22 to 24,93,Model A,2013,90.83,818000,May 2021
+127D,Kim Tian Rd,19 to 21,93,Model A,2013,90.83,763000,May 2021
+127D,Kim Tian Rd,34 to 36,93,Model A,2013,90.83,800888,May 2021
+127D,Kim Tian Rd,37 to 39,93,Model A,2013,90.83,810000,May 2021
+131B,Kim Tian Rd,04 to 06,91,Model A,2002,79.67,650000,May 2021
+131C,Kim Tian Rd,19 to 21,90,Model A,2002,79.75,750888,May 2021
+51,Lengkok Bahru,10 to 12,84,Simplified,1986,64.5,480000,May 2021
+69,Redhill Cl,10 to 12,100,Model A,2001,78.83,680000,May 2021
+88,Redhill Cl,04 to 06,111,Model A,1995,72.75,758000,May 2021
+75B,Redhill Rd,25 to 27,100,Model A,2005,83.67,826888,May 2021
+50,Telok Blangah Dr,10 to 12,98,New Generation,1978,56.17,508000,May 2021
+51,Telok Blangah Dr,10 to 12,92,New Generation,1978,56.25,468888,May 2021
+70A,Telok Blangah Hts,16 to 18,93,Model A,2017,95,850000,May 2021
+70A,Telok Blangah Hts,22 to 24,93,Model A,2017,95,890000,May 2021
+70B,Telok Blangah Hts,07 to 09,93,Model A,2017,95.08,778000,May 2021
+40,Telok Blangah Rise,13 to 15,82,Improved,1976,54,400000,May 2021
+27,Telok Blangah Way,07 to 09,82,Improved,1976,54,400000,May 2021
+9A,Boon Tiong Rd,19 to 21,92,Model A,2016,93.83,930000,Apr 2021
+9B,Boon Tiong Rd,04 to 06,92,Model A,2016,93.75,855000,Apr 2021
+10A,Boon Tiong Rd,07 to 09,92,Model A,2016,93.83,890000,Apr 2021
+10A,Boon Tiong Rd,19 to 21,93,Model A,2016,93.75,940888,Apr 2021
+10B,Boon Tiong Rd,16 to 18,87,Model A,2016,93.83,850000,Apr 2021
+10B,Boon Tiong Rd,13 to 15,87,Model A,2016,93.75,905888,Apr 2021
+111,Bt Purmei Rd,07 to 09,104,Model A,1984,62.58,570000,Apr 2021
+11,Cantonment Cl,19 to 21,90,Model A,2002,80.67,800000,Apr 2021
+18,Cantonment Cl,16 to 18,75,Model A,2002,80.67,685000,Apr 2021
+3,Delta Ave,01 to 03,91,New Generation,1985,63.42,618000,Apr 2021
+5,Delta Ave,10 to 12,91,New Generation,1985,63.67,610000,Apr 2021
+104A,Depot Rd,22 to 24,100,Model A,2000,78.25,625000,Apr 2021
+104,Henderson Cres,01 to 03,74,Standard,1970,48.25,365000,Apr 2021
+109,Jln Bt Merah,07 to 09,105,Model A,1984,62.25,540000,Apr 2021
+134,Jln Bt Merah,10 to 12,108,Model A,1997,74.75,628000,Apr 2021
+22,Jln Membina,25 to 27,90,Model A,2003,81.33,765000,Apr 2021
+26C,Jln Membina,07 to 09,85,Model A,2009,86.75,740000,Apr 2021
+26D,Jln Membina,25 to 27,90,Model A,2009,86.75,768000,Apr 2021
+27A,Jln Membina,10 to 12,90,Model A,2008,86.67,727388,Apr 2021
+27A,Jln Membina,13 to 15,90,Model A,2008,86.75,750000,Apr 2021
+119C,Kim Tian Rd,01 to 03,87,Model A,2003,81.25,520000,Apr 2021
+127C,Kim Tian Rd,10 to 12,93,Model A,2013,90.83,775000,Apr 2021
+127D,Kim Tian Rd,25 to 27,93,Model A,2013,90.83,818000,Apr 2021
+128,Kim Tian Rd,13 to 15,88,Improved,1975,52.83,505000,Apr 2021
+129,Kim Tian Rd,04 to 06,88,Improved,1976,53.75,505000,Apr 2021
+63B,Lengkok Bahru,10 to 12,103,Model A,2001,79.58,680000,Apr 2021
+76A,Redhill Rd,16 to 18,100,Model A,2005,83.75,810000,Apr 2021
+77A,Redhill Rd,19 to 21,90,Model A,2005,83.67,760000,Apr 2021
+148,Silat Ave,13 to 15,93,New Generation,1982,60.58,540000,Apr 2021
+55,Telok Blangah Dr,04 to 06,98,New Generation,1978,55.83,476000,Apr 2021
+64,Telok Blangah Dr,10 to 12,92,New Generation,1978,56.33,520000,Apr 2021
+70A,Telok Blangah Hts,13 to 15,93,Model A,2017,95.08,793000,Apr 2021
+70A,Telok Blangah Hts,13 to 15,93,Model A,2017,95.08,810000,Apr 2021
+70A,Telok Blangah Hts,22 to 24,93,Model A,2017,95.17,850000,Apr 2021
+70C,Telok Blangah Hts,13 to 15,93,Model A,2017,95.17,770000,Apr 2021
+88,Telok Blangah Hts,13 to 15,90,Model A,2003,81,555000,Apr 2021
+9A,Boon Tiong Rd,01 to 03,92,Model A,2016,93.92,839999,Mar 2021
+9A,Boon Tiong Rd,01 to 03,92,Model A,2016,93.92,888888,Mar 2021
+125,Bt Merah View,10 to 12,109,Model A,1996,74.58,715000,Mar 2021
+104,Bt Purmei Rd,07 to 09,105,Model A,1984,62.08,524228,Mar 2021
+8,Cantonment Cl,13 to 15,90,Model A,2002,80.83,760000,Mar 2021
+11,Cantonment Cl,10 to 12,90,Model A,2002,80.83,770000,Mar 2021
+16,Cantonment Cl,04 to 06,90,Model A,2003,80.83,736000,Mar 2021
+104B,Depot Rd,10 to 12,100,Model A,2000,78.42,611000,Mar 2021
+57,Havelock Rd,04 to 06,89,Model A,2013,91.25,738000,Mar 2021
+57,Havelock Rd,25 to 27,89,Model A,2013,91.17,848000,Mar 2021
+96A,Henderson Rd,07 to 09,93,Model A,2019,97.17,820000,Mar 2021
+96A,Henderson Rd,25 to 27,93,Model A,2019,97.17,868000,Mar 2021
+14,Jln Bt Merah,19 to 21,100,Model A,1996,74.67,680000,Mar 2021
+109,Jln Bt Merah,01 to 03,104,Model A,1984,62.33,513000,Mar 2021
+25B,Jln Membina,01 to 03,90,Model A,2009,86.83,670000,Mar 2021
+26B,Jln Membina,04 to 06,85,Model A,2009,86.83,703000,Mar 2021
+27A,Jln Membina,07 to 09,90,Model A,2008,86.83,720000,Mar 2021
+38,Jln Rumah Tinggi,04 to 06,100,Model A,1997,75.25,620000,Mar 2021
+40,Jln Rumah Tinggi,04 to 06,100,Model A,1997,75.33,520000,Mar 2021
+119B,Kim Tian Rd,07 to 09,87,Model A,2002,80.75,690888,Mar 2021
+119C,Kim Tian Rd,10 to 12,87,Model A,2003,81.33,736000,Mar 2021
+119D,Kim Tian Rd,16 to 18,92,Model A,2002,80.67,728000,Mar 2021
+119D,Kim Tian Rd,19 to 21,92,Model A,2002,80.67,730000,Mar 2021
+127D,Kim Tian Rd,25 to 27,93,Model A,2013,91,789000,Mar 2021
+127D,Kim Tian Rd,13 to 15,93,Model A,2013,90.92,800000,Mar 2021
+127D,Kim Tian Rd,28 to 30,88,Model A,2013,90.92,818000,Mar 2021
+131C,Kim Tian Rd,13 to 15,86,Model A,2002,80,688000,Mar 2021
+75B,Redhill Rd,04 to 06,100,Model A,2005,83.83,715000,Mar 2021
+76A,Redhill Rd,19 to 21,100,Model A,2005,83.75,780000,Mar 2021
+77A,Redhill Rd,28 to 30,90,Model A,2005,83.67,730000,Mar 2021
+14,Telok Blangah Cres,04 to 06,101,Model A,1999,77.75,557500,Mar 2021
+14A,Telok Blangah Cres,01 to 03,101,Model A,1999,77.58,528000,Mar 2021
+24,Telok Blangah Cres,07 to 09,82,Improved,1975,53.17,395000,Mar 2021
+50,Telok Blangah Dr,07 to 09,98,New Generation,1978,56.33,488888,Mar 2021
+57,Telok Blangah Hts,04 to 06,92,New Generation,1976,54.58,448000,Mar 2021
+57,Telok Blangah Hts,01 to 03,91,New Generation,1976,54.5,468888,Mar 2021
+58,Telok Blangah Hts,04 to 06,91,New Generation,1976,54.5,440000,Mar 2021
+70A,Telok Blangah Hts,22 to 24,93,Model A,2017,95.17,825000,Mar 2021
+70A,Telok Blangah Hts,22 to 24,93,Model A,2017,95.17,850000,Mar 2021
+87,Telok Blangah Hts,10 to 12,90,Model A,2003,81.17,605000,Mar 2021
+88,Telok Blangah Hts,19 to 21,85,Model A,2003,81.08,620000,Mar 2021
+27,Telok Blangah Way,10 to 12,82,Improved,1976,54.08,398000,Mar 2021
+9B,Boon Tiong Rd,07 to 09,92,Model A,2016,93.92,938000,Feb 2021
+8,Cantonment Cl,19 to 21,90,Model A,2002,80.83,800000,Feb 2021
+17,Cantonment Cl,13 to 15,90,Model A,2003,80.92,770000,Feb 2021
+103A,Depot Rd,10 to 12,100,Model A,2002,80.25,600000,Feb 2021
+58,Havelock Rd,13 to 15,89,Model A,2013,91.25,800000,Feb 2021
+58,Havelock Rd,28 to 30,94,Model A,2013,91.33,857000,Feb 2021
+49,Hoy Fatt Rd,07 to 09,84,Simplified,1986,64.42,470000,Feb 2021
+12,Jln Bt Merah,10 to 12,105,Model A,1996,74.83,670000,Feb 2021
+26B,Jln Membina,19 to 21,85,Model A,2009,87,742500,Feb 2021
+26C,Jln Membina,22 to 24,90,Model A,2009,87,680000,Feb 2021
+127D,Kim Tian Rd,13 to 15,88,Model A,2013,91.17,755000,Feb 2021
+128,Kim Tian Rd,04 to 06,88,Improved,1975,53,448000,Feb 2021
+131B,Kim Tian Rd,25 to 27,91,Model A,2002,79.92,665000,Feb 2021
+75B,Redhill Rd,01 to 03,100,Model A,2005,83.92,590000,Feb 2021
+77A,Redhill Rd,22 to 24,100,Model A,2005,83.83,828888,Feb 2021
+17,Telok Blangah Cres,07 to 09,99,Model A,2002,80,578000,Feb 2021
+59,Telok Blangah Hts,10 to 12,91,New Generation,1976,54.67,453000,Feb 2021
+61,Telok Blangah Hts,04 to 06,81,New Generation,1976,54.67,420000,Feb 2021
+70B,Telok Blangah Hts,07 to 09,93,Model A,2017,95.33,762000,Feb 2021
+70B,Telok Blangah Hts,13 to 15,93,Model A,2017,95.33,800000,Feb 2021
+40,Telok Blangah Rise,13 to 15,82,Improved,1976,54.17,388000,Feb 2021
+80A,Telok Blangah St 31,28 to 30,95,Premium Apartment,2013,91.58,845000,Feb 2021
+80C,Telok Blangah St 31,13 to 15,93,Premium Apartment,2013,91.58,860000,Feb 2021
+27,Telok Blangah Way,01 to 03,82,Improved,1976,54.25,365000,Feb 2021
+6B,Boon Tiong Rd,19 to 21,100,Model A,2005,83.83,830000,Jan 2021
+10B,Boon Tiong Rd,22 to 24,87,Model A,2016,94.08,935000,Jan 2021
+106,Bt Purmei Rd,04 to 06,103,Model A,1984,62.58,520000,Jan 2021
+111,Bt Purmei Rd,07 to 09,104,Model A,1984,62.83,545000,Jan 2021
+5,Delta Ave,07 to 09,91,New Generation,1985,63.83,640000,Jan 2021
+103,Henderson Cres,04 to 06,74,Standard,1970,48.5,350000,Jan 2021
+95C,Henderson Rd,43 to 45,93,Model A,2019,97.33,910000,Jan 2021
+50,Hoy Fatt Rd,04 to 06,103,Model A,1987,65.08,550000,Jan 2021
+13,Jln Bt Merah,01 to 03,103,Model A,1996,74.92,590000,Jan 2021
+13,Jln Bt Merah,13 to 15,100,Model A,1996,74.92,648000,Jan 2021
+109,Jln Bt Merah,10 to 12,104,Model A,1984,62.58,500000,Jan 2021
+25B,Jln Membina,22 to 24,90,Model A,2009,87.08,750000,Jan 2021
+25B,Jln Membina,16 to 18,90,Model A,2009,87,760000,Jan 2021
+27A,Jln Membina,07 to 09,90,Model A,2008,86.92,720000,Jan 2021
+27A,Jln Membina,22 to 24,90,Model A,2008,87,745000,Jan 2021
+120,Kim Tian Pl,25 to 27,101,Model A,2001,79.17,730000,Jan 2021
+120A,Kim Tian Pl,19 to 21,100,Model A,2001,79.17,770000,Jan 2021
+119B,Kim Tian Rd,13 to 15,92,Model A,2002,80.92,680000,Jan 2021
+126C,Kim Tian Rd,10 to 12,87,Model A,2013,91.17,775000,Jan 2021
+127C,Kim Tian Rd,25 to 27,93,Model A,2013,91.08,790000,Jan 2021
+127D,Kim Tian Rd,31 to 33,88,Model A,2013,91.08,805000,Jan 2021
+131C,Kim Tian Rd,25 to 27,90,Model A,2002,80,800000,Jan 2021
+63B,Lengkok Bahru,10 to 12,100,Model A,2001,79.92,640000,Jan 2021
+68,Redhill Cl,04 to 06,100,Model A,2001,79.08,650000,Jan 2021
+83,Redhill Lane,04 to 06,107,Model A,1996,74.92,718000,Jan 2021
+17A,Telok Blangah Cres,07 to 09,99,Model A,2002,80.08,588000,Jan 2021
+63,Telok Blangah Hts,01 to 03,98,New Generation,1976,54.83,435000,Jan 2021
+68,Telok Blangah Hts,04 to 06,92,New Generation,1978,56,420000,Jan 2021
+70A,Telok Blangah Hts,19 to 21,93,Model A,2017,95.42,820000,Jan 2021
+9B,Boon Tiong Rd,28 to 30,92,Model A,2016,94.17,950000,Dec 2020
+10A,Boon Tiong Rd,19 to 21,93,Model A,2016,94.17,940000,Dec 2020
+10A,Boon Tiong Rd,28 to 30,92,Model A,2016,94.17,998000,Dec 2020
+10A,Boon Tiong Rd,34 to 36,92,Model A,2016,94.08,1013888,Dec 2020
+10B,Boon Tiong Rd,13 to 15,87,Model A,2016,94.17,935000,Dec 2020
+111,Bt Purmei Rd,04 to 06,104,Model A,1984,62.92,489988,Dec 2020
+113,Bt Purmei Rd,04 to 06,103,Model A,1984,62.92,495000,Dec 2020
+115,Bt Purmei Rd,07 to 09,103,Model A,1985,63.33,545000,Dec 2020
+3,Delta Ave,10 to 12,92,New Generation,1985,63.83,635888,Dec 2020
+55,Havelock Rd,25 to 27,94,Model A,2013,91.5,830000,Dec 2020
+102,Henderson Cres,07 to 09,80,Standard,1970,48.67,420000,Dec 2020
+103,Henderson Cres,13 to 15,74,Standard,1970,48.67,395000,Dec 2020
+134,Jln Bt Merah,13 to 15,105,Model A,1997,75.17,628000,Dec 2020
+25B,Jln Membina,07 to 09,90,Model A,2009,87.08,710000,Dec 2020
+25B,Jln Membina,13 to 15,90,Model A,2009,87.17,730000,Dec 2020
+25B,Jln Membina,25 to 27,90,Model A,2009,87.08,765000,Dec 2020
+26B,Jln Membina,10 to 12,85,Model A,2009,87.17,720000,Dec 2020
+26B,Jln Membina,16 to 18,85,Model A,2009,87.17,723888,Dec 2020
+26B,Jln Membina,25 to 27,85,Model A,2009,87.08,757000,Dec 2020
+26C,Jln Membina,22 to 24,85,Model A,2009,87.08,735000,Dec 2020
+40,Jln Rumah Tinggi,04 to 06,100,Model A,1997,75.58,600000,Dec 2020
+120,Kim Tian Pl,28 to 30,101,Model A,2001,79.25,780000,Dec 2020
+119D,Kim Tian Rd,01 to 03,92,Model A,2002,80.92,660000,Dec 2020
+126A,Kim Tian Rd,16 to 18,93,Model A,2013,91.17,820000,Dec 2020
+53,Lengkok Bahru,10 to 12,84,Simplified,1986,64.92,486000,Dec 2020
+75B,Redhill Rd,07 to 09,100,Model A,2005,84.08,780000,Dec 2020
+75B,Redhill Rd,25 to 27,100,Model A,2005,84,823888,Dec 2020
+76A,Redhill Rd,28 to 30,100,Model A,2005,84.08,816000,Dec 2020
+17,Telok Blangah Cres,07 to 09,99,Model A,2002,80.08,580000,Dec 2020
+17,Telok Blangah Cres,28 to 30,99,Model A,2002,80.17,618000,Dec 2020
+17A,Telok Blangah Cres,25 to 27,99,Model A,2002,80.08,675000,Dec 2020
+51,Telok Blangah Dr,10 to 12,92,New Generation,1978,56.58,468000,Dec 2020
+62,Telok Blangah Hts,04 to 06,98,New Generation,1976,54.83,496000,Dec 2020
+85,Telok Blangah Hts,13 to 15,90,Model A,2003,81.33,640000,Dec 2020
+27,Telok Blangah Way,10 to 12,82,Improved,1976,54.33,405000,Dec 2020
+34,Telok Blangah Way,10 to 12,82,Improved,1976,54.33,450000,Dec 2020
+8B,Boon Tiong Rd,01 to 03,90,Model A,2005,83.92,665000,Nov 2020
+10A,Boon Tiong Rd,37 to 39,92,Model A,2016,94.17,1020000,Nov 2020
+10B,Boon Tiong Rd,07 to 09,87,Model A,2016,94.25,928000,Nov 2020
+115,Bt Purmei Rd,10 to 12,103,Model A,1985,63.42,510000,Nov 2020
+9,Cantonment Cl,19 to 21,90,Model A,2002,81.17,800000,Nov 2020
+106A,Depot Rd,10 to 12,100,Model A,2000,78.75,625000,Nov 2020
+109B,Depot Rd,04 to 06,100,Model A,2006,84.25,570000,Nov 2020
+55,Havelock Rd,07 to 09,94,Model A,2013,91.5,820000,Nov 2020
+106,Henderson Cres,01 to 03,81,Improved,1975,53.17,400000,Nov 2020
+106,Henderson Cres,07 to 09,81,Improved,1975,53.17,402000,Nov 2020
+12,Jln Bt Merah,01 to 03,108,Model A,1996,75,600000,Nov 2020
+109,Jln Bt Merah,01 to 03,105,Model A,1984,62.75,508888,Nov 2020
+144,Jln Bt Merah,04 to 06,91,New Generation,1981,59.83,484000,Nov 2020
+21,Jln Membina,13 to 15,90,Model A,2003,81.92,735000,Nov 2020
+25B,Jln Membina,16 to 18,90,Model A,2009,87.17,750000,Nov 2020
+26B,Jln Membina,01 to 03,85,Model A,2009,87.17,680000,Nov 2020
+27A,Jln Membina,19 to 21,90,Model A,2008,87.17,740000,Nov 2020
+118A,Jln Membina,10 to 12,90,Model A,2003,81.25,685000,Nov 2020
+118A,Jln Membina,07 to 09,90,Model A,2003,81.25,688000,Nov 2020
+118B,Jln Membina,13 to 15,85,Model A,2003,81.25,686000,Nov 2020
+118D,Jln Membina,07 to 09,92,Model A,2003,81.25,710000,Nov 2020
+39,Jln Rumah Tinggi,13 to 15,100,Model A,1997,75.58,605000,Nov 2020
+119B,Kim Tian Rd,10 to 12,87,Model A,2002,81.17,675000,Nov 2020
+127D,Kim Tian Rd,34 to 36,93,Model A,2013,91.25,820000,Nov 2020
+131C,Kim Tian Rd,25 to 27,90,Model A,2002,80.33,730000,Nov 2020
+63A,Lengkok Bahru,04 to 06,101,Model A,2001,80,680000,Nov 2020
+63A,Lengkok Bahru,10 to 12,101,Model A,2001,80.08,730000,Nov 2020
+63B,Lengkok Bahru,13 to 15,100,Model A,2001,80.08,710000,Nov 2020
+68,Redhill Cl,07 to 09,85,Model A,2001,79.33,650000,Nov 2020
+75C,Redhill Rd,16 to 18,100,Model A,2007,85.25,800000,Nov 2020
+14,Telok Blangah Cres,04 to 06,101,Model A,1999,78,570000,Nov 2020
+14A,Telok Blangah Cres,07 to 09,99,Model A,1999,77.92,578000,Nov 2020
+10A,Boon Tiong Rd,16 to 18,92,Model A,2016,93.25,945000,Nov 2021
+124B,Bt Merah View,07 to 09,107,Model A,1996,73.92,715000,Nov 2021
+57,Havelock Rd,28 to 30,94,Model A,2013,90.67,880000,Nov 2021
+106,Henderson Cres,13 to 15,81,Improved,1975,52.25,475000,Nov 2021
+27B,Jln Membina,10 to 12,90,Model A,2008,86,770888,Nov 2021
+39,Jln Rumah Tinggi,04 to 06,99,Model A,1997,74.67,635000,Nov 2021
+40,Jln Rumah Tinggi,10 to 12,100,Model A,1997,74.67,670000,Nov 2021
+120,Kim Tian Pl,04 to 06,90,Model A,2001,78.33,768000,Nov 2021
+75A,Redhill Rd,19 to 21,100,Model A,2005,83.17,825000,Nov 2021
+75C,Redhill Rd,19 to 21,100,Model A,2007,84.25,830000,Nov 2021
+77A,Redhill Rd,07 to 09,100,Model A,2005,83.08,828000,Nov 2021
+51,Telok Blangah Dr,07 to 09,92,New Generation,1978,55.75,488000,Nov 2021
+70B,Telok Blangah Hts,10 to 12,93,Model A,2017,94.58,790000,Nov 2021
+70B,Telok Blangah Hts,07 to 09,93,Model A,2017,94.67,800000,Nov 2021
+87,Telok Blangah Hts,28 to 30,90,Model A,2003,80.5,688000,Nov 2021
+6A,Boon Tiong Rd,01 to 03,100,Model A,2005,83.08,770000,Oct 2021
+6A,Boon Tiong Rd,10 to 12,100,Model A,2005,83,838000,Oct 2021
+9A,Boon Tiong Rd,22 to 24,92,Model A,2016,93.25,940000,Oct 2021
+9A,Boon Tiong Rd,28 to 30,92,Model A,2016,93.25,1010000,Oct 2021
+10A,Boon Tiong Rd,07 to 09,92,Model A,2016,93.25,933000,Oct 2021
+108,Bt Purmei Rd,04 to 06,104,Model A,1984,61.75,560000,Oct 2021
+115,Bt Purmei Rd,04 to 06,103,Model A,1985,62.58,540000,Oct 2021
+115,Bt Purmei Rd,01 to 03,103,Model A,1985,62.42,545000,Oct 2021
+16,Cantonment Cl,04 to 06,75,Model A,2003,80.25,670000,Oct 2021
+16,Cantonment Cl,10 to 12,90,Model A,2003,80.42,735000,Oct 2021
+5,Delta Ave,04 to 06,91,New Generation,1985,63.17,655000,Oct 2021
+112A,Depot Rd,07 to 09,100,Model A,2006,83.33,615000,Oct 2021
+55,Havelock Rd,07 to 09,89,Model A,2013,90.58,800000,Oct 2021
+57,Havelock Rd,04 to 06,94,Model A,2013,90.58,770000,Oct 2021
+104,Henderson Cres,07 to 09,74,Standard,1970,47.83,415000,Oct 2021
+95A,Henderson Rd,31 to 33,93,Model A,2019,96.67,940000,Oct 2021
+95A,Henderson Rd,37 to 39,93,Model A,2019,96.67,943000,Oct 2021
+96B,Henderson Rd,22 to 24,93,Model A,2019,96.67,860000,Oct 2021
+49,Hoy Fatt Rd,04 to 06,84,Simplified,1986,63.75,488000,Oct 2021
+109,Jln Bt Merah,04 to 06,105,Model A,1984,61.83,540000,Oct 2021
+142,Jln Bt Merah,04 to 06,92,New Generation,1979,56.42,435000,Oct 2021
+21,Jln Membina,16 to 18,90,Model A,2003,80.92,846688,Oct 2021
+23,Jln Membina,01 to 03,90,Model A,2003,80.92,740000,Oct 2021
+25A,Jln Membina,13 to 15,90,Model A,2008,86,727500,Oct 2021
+25B,Jln Membina,10 to 12,90,Model A,2009,86.25,755000,Oct 2021
+27A,Jln Membina,01 to 03,90,Model A,2008,86.25,608800,Oct 2021
+38,Jln Rumah Tinggi,07 to 09,99,Model A,1997,74.75,665000,Oct 2021
+127D,Kim Tian Rd,31 to 33,88,Model A,2013,90.42,788888,Oct 2021
+127D,Kim Tian Rd,34 to 36,93,Model A,2013,90.42,823000,Oct 2021
+47,Lengkok Bahru,07 to 09,103,Model A,1984,61.83,555000,Oct 2021
+69,Redhill Cl,07 to 09,100,Model A,2001,78.42,728000,Oct 2021
+70,Redhill Cl,28 to 30,100,Model A,2001,78.83,810000,Oct 2021
+76A,Redhill Rd,25 to 27,100,Model A,2005,83.25,835000,Oct 2021
+65,Telok Blangah Dr,04 to 06,92,New Generation,1978,55.83,530000,Oct 2021
+58,Telok Blangah Hts,04 to 06,92,New Generation,1976,54,465000,Oct 2021
+58,Telok Blangah Hts,07 to 09,91,New Generation,1976,54,508000,Oct 2021
+68,Telok Blangah Hts,04 to 06,92,New Generation,1978,55.33,488888,Oct 2021
+68,Telok Blangah Hts,13 to 15,91,New Generation,1978,55.33,526000,Oct 2021
+69,Telok Blangah Hts,04 to 06,91,New Generation,1978,55.33,505000,Oct 2021
+70C,Telok Blangah Hts,19 to 21,93,Model A,2017,94.67,885000,Oct 2021
+85,Telok Blangah Hts,07 to 09,90,Model A,2003,80.5,620000,Oct 2021
+27,Telok Blangah Way,07 to 09,82,Improved,1976,53.58,440000,Oct 2021
+6A,Boon Tiong Rd,07 to 09,100,Model A,2005,83.17,850000,Sep 2021
+8B,Boon Tiong Rd,16 to 18,100,Model A,2005,83.17,850000,Sep 2021
+9A,Boon Tiong Rd,25 to 27,92,Model A,2016,93.42,990000,Sep 2021
+10A,Boon Tiong Rd,22 to 24,93,Model A,2016,93.42,1000000,Sep 2021
+10A,Boon Tiong Rd,19 to 21,92,Model A,2016,93.33,1000000,Sep 2021
+112,Bt Purmei Rd,01 to 03,105,Model A,1985,62.5,496000,Sep 2021
+11,Cantonment Cl,10 to 12,75,Model A,2002,80.33,668000,Sep 2021
+13,Cantonment Cl,07 to 09,90,Model A,2003,80.42,790000,Sep 2021
+104A,Depot Rd,10 to 12,100,Model A,2000,77.92,630000,Sep 2021
+106A,Depot Rd,16 to 18,100,Model A,2000,77.92,659000,Sep 2021
+58,Havelock Rd,16 to 18,94,Model A,2013,90.75,857000,Sep 2021
+95C,Henderson Rd,28 to 30,93,Model A,2019,96.67,890000,Sep 2021
+142,Jln Bt Merah,10 to 12,92,New Generation,1979,56.33,510000,Sep 2021
+21,Jln Membina,19 to 21,90,Model A,2003,81.08,790000,Sep 2021
+25B,Jln Membina,19 to 21,90,Model A,2009,86.33,800000,Sep 2021
+26C,Jln Membina,13 to 15,85,Model A,2009,86.42,760000,Sep 2021
+27A,Jln Membina,13 to 15,90,Model A,2008,86.33,730000,Sep 2021
+118D,Jln Membina,28 to 30,90,Model A,2003,80.33,756000,Sep 2021
+118D,Jln Membina,25 to 27,91,Model A,2003,80.42,800000,Sep 2021
+119B,Kim Tian Rd,13 to 15,92,Model A,2002,80.33,755000,Sep 2021
+123,Kim Tian Rd,07 to 09,105,Model A,1995,73,740000,Sep 2021
+126A,Kim Tian Rd,40 to 42,93,Model A,2013,90.58,910000,Sep 2021
+127C,Kim Tian Rd,19 to 21,93,Model A,2013,90.5,809888,Sep 2021
+129,Kim Tian Rd,01 to 03,88,Improved,1976,53.42,475000,Sep 2021
+75B,Redhill Rd,04 to 06,100,Model A,2005,83.33,760000,Sep 2021
+23,Telok Blangah Cres,10 to 12,82,Improved,1975,52.75,468000,Sep 2021
+56,Telok Blangah Hts,04 to 06,92,New Generation,1976,54.17,490000,Sep 2021
+70A,Telok Blangah Hts,13 to 15,93,Model A,2017,94.75,800000,Sep 2021
+70A,Telok Blangah Hts,13 to 15,93,Model A,2017,94.75,823000,Sep 2021
+70B,Telok Blangah Hts,19 to 21,93,Model A,2017,94.75,850000,Sep 2021
+70C,Telok Blangah Hts,07 to 09,93,Model A,2017,94.75,780000,Sep 2021
+70C,Telok Blangah Hts,13 to 15,93,Model A,2017,94.75,785000,Sep 2021
+70C,Telok Blangah Hts,19 to 21,93,Model A,2017,94.75,820000,Sep 2021
+80A,Telok Blangah St 31,22 to 24,95,Premium Apartment,2013,91,870000,Sep 2021
+80A,Telok Blangah St 31,31 to 33,95,Premium Apartment,2013,91,975000,Sep 2021
+34,Telok Blangah Way,01 to 03,82,Improved,1976,53.58,412000,Sep 2021
+9B,Boon Tiong Rd,31 to 33,92,Model A,2016,93.5,960000,Aug 2021
+10B,Boon Tiong Rd,19 to 21,87,Model A,2016,93.42,910000,Aug 2021
+10B,Boon Tiong Rd,25 to 27,87,Model A,2016,93.5,940000,Aug 2021
+110,Bt Purmei Rd,04 to 06,104,Model A,1984,62.17,540000,Aug 2021
+111,Bt Purmei Rd,04 to 06,104,Model A,1984,62.25,518000,Aug 2021
+113,Bt Purmei Rd,01 to 03,110,Model A,1984,62.25,530000,Aug 2021
+115,Bt Purmei Rd,07 to 09,103,Model A,1985,62.67,560000,Aug 2021
+8,Cantonment Cl,16 to 18,90,Model A,2002,80.42,795000,Aug 2021
+9,Cantonment Cl,19 to 21,90,Model A,2002,80.42,810000,Aug 2021
+11,Cantonment Cl,19 to 21,90,Model A,2002,80.42,812000,Aug 2021
+12,Cantonment Cl,07 to 09,75,Model A,2003,80.42,709800,Aug 2021
+18,Cantonment Cl,16 to 18,75,Model A,2002,80.42,720000,Aug 2021
+4,Delta Ave,13 to 15,92,New Generation,1985,63.17,668000,Aug 2021
+103A,Depot Rd,01 to 03,90,Model A,2002,79.75,545000,Aug 2021
+106A,Depot Rd,07 to 09,100,Model A,2000,77.92,620000,Aug 2021
+54,Havelock Rd,19 to 21,94,Model A,2013,90.83,838000,Aug 2021
+101,Henderson Cres,07 to 09,74,Standard,1970,48.08,420000,Aug 2021
+21,Jln Membina,01 to 03,90,Model A,2003,81.17,605000,Aug 2021
+23,Jln Membina,10 to 12,90,Model A,2003,81.17,760000,Aug 2021
+27A,Jln Membina,25 to 27,90,Model A,2008,86.42,830000,Aug 2021
+120,Kim Tian Pl,25 to 27,101,Model A,2001,78.58,808000,Aug 2021
+120A,Kim Tian Pl,16 to 18,100,Model A,2001,78.67,765000,Aug 2021
+119D,Kim Tian Rd,07 to 09,92,Model A,2002,80.17,690000,Aug 2021
+119D,Kim Tian Rd,16 to 18,92,Model A,2002,80.17,730000,Aug 2021
+125,Kim Tian Rd,07 to 09,111,Model A,1995,73.08,885000,Aug 2021
+126A,Kim Tian Rd,10 to 12,93,Model A,2013,90.5,838000,Aug 2021
+126C,Kim Tian Rd,10 to 12,93,Model A,2013,90.58,820000,Aug 2021
+127C,Kim Tian Rd,31 to 33,93,Model A,2013,90.5,825000,Aug 2021
+70,Redhill Cl,16 to 18,100,Model A,2001,79,745000,Aug 2021
+77A,Redhill Rd,04 to 06,100,Model A,2005,83.33,685000,Aug 2021
+77A,Redhill Rd,25 to 27,100,Model A,2005,83.33,878000,Aug 2021
+17A,Telok Blangah Cres,25 to 27,100,Model A,2002,79.5,688000,Aug 2021
+23,Telok Blangah Cres,04 to 06,82,Improved,1975,52.83,385000,Aug 2021
+50,Telok Blangah Dr,13 to 15,98,New Generation,1978,56,555000,Aug 2021
+56,Telok Blangah Hts,10 to 12,91,New Generation,1976,54.08,510000,Aug 2021
+57,Telok Blangah Hts,01 to 03,91,New Generation,1976,54.17,448000,Aug 2021
+61,Telok Blangah Hts,04 to 06,81,New Generation,1976,54.17,432888,Aug 2021
+68,Telok Blangah Hts,01 to 03,91,New Generation,1978,55.5,490000,Aug 2021
+69,Telok Blangah Hts,13 to 15,92,New Generation,1978,55.5,530000,Aug 2021
+70A,Telok Blangah Hts,01 to 03,93,Model A,2017,94.83,708000,Aug 2021
+70B,Telok Blangah Hts,19 to 21,93,Model A,2017,94.83,848000,Aug 2021
+70B,Telok Blangah Hts,22 to 24,93,Model A,2017,94.75,865000,Aug 2021
+70C,Telok Blangah Hts,10 to 12,93,Model A,2017,94.75,770000,Aug 2021
+70C,Telok Blangah Hts,10 to 12,93,Model A,2017,94.83,775000,Aug 2021
+70C,Telok Blangah Hts,10 to 12,93,Model A,2017,94.75,785000,Aug 2021
+88,Telok Blangah Hts,19 to 21,85,Model A,2003,80.67,625000,Aug 2021
+80C,Telok Blangah St 31,19 to 21,93,Premium Apartment,2013,91.08,820000,Aug 2021
+27,Telok Blangah Way,07 to 09,82,Improved,1976,53.75,443000,Aug 2021
+4B,Boon Tiong Rd,07 to 09,100,Model A,2005,83.33,830000,Jul 2021
+8A,Boon Tiong Rd,10 to 12,100,Model A,2005,83.33,875000,Jul 2021
+8B,Boon Tiong Rd,01 to 03,100,Model A,2005,83.33,720000,Jul 2021
+9A,Boon Tiong Rd,10 to 12,92,Model A,2016,93.5,920000,Jul 2021
+10A,Boon Tiong Rd,16 to 18,92,Model A,2016,93.58,973000,Jul 2021
+113,Bt Purmei Rd,10 to 12,103,Model A,1984,62.33,470000,Jul 2021
+9,Cantonment Cl,19 to 21,90,Model A,2002,80.5,815000,Jul 2021
+4,Delta Ave,10 to 12,91,New Generation,1985,63.25,668000,Jul 2021
+109B,Depot Rd,13 to 15,100,Model A,2006,83.67,650000,Jul 2021
+95B,Henderson Rd,13 to 15,83,Model A,2019,96.92,803000,Jul 2021
+95C,Henderson Rd,34 to 36,93,Model A,2019,96.92,900000,Jul 2021
+96A,Henderson Rd,19 to 21,93,Model A,2019,96.92,910000,Jul 2021
+21,Jln Membina,13 to 15,90,Model A,2003,81.25,740000,Jul 2021
+38,Jln Rumah Tinggi,10 to 12,99,Model A,1997,75,650000,Jul 2021
+119B,Kim Tian Rd,01 to 03,87,Model A,2002,80.5,530000,Jul 2021
+127D,Kim Tian Rd,28 to 30,93,Model A,2013,90.67,809000,Jul 2021
+131B,Kim Tian Rd,01 to 03,91,Model A,2002,79.58,600000,Jul 2021
+53,Lengkok Bahru,04 to 06,84,Simplified,1986,64.25,500000,Jul 2021
+69,Redhill Cl,07 to 09,100,Model A,2001,78.67,676000,Jul 2021
+88,Redhill Cl,07 to 09,111,Model A,1995,72.58,741000,Jul 2021
+76A,Redhill Rd,13 to 15,100,Model A,2005,83.5,790000,Jul 2021
+14,Telok Blangah Cres,10 to 12,101,Model A,1999,77.25,618000,Jul 2021
+56,Telok Blangah Hts,04 to 06,92,New Generation,1976,54.25,463000,Jul 2021
+59,Telok Blangah Hts,04 to 06,91,New Generation,1976,54.17,440000,Jul 2021
+70A,Telok Blangah Hts,13 to 15,93,Model A,2017,94.92,820000,Jul 2021
+70A,Telok Blangah Hts,22 to 24,93,Model A,2017,94.92,850000,Jul 2021
+70B,Telok Blangah Hts,04 to 06,93,Model A,2017,94.83,770000,Jul 2021
+70B,Telok Blangah Hts,07 to 09,93,Model A,2017,94.92,785888,Jul 2021
+70B,Telok Blangah Hts,04 to 06,93,Model A,2017,94.92,818000,Jul 2021
+70B,Telok Blangah Hts,22 to 24,93,Model A,2017,94.92,870000,Jul 2021
+86,Telok Blangah Hts,22 to 24,90,Model A,2003,80.83,620000,Jul 2021
+87,Telok Blangah Hts,16 to 18,90,Model A,2003,80.83,585000,Jul 2021
+10A,Boon Tiong Rd,31 to 33,93,Model A,2016,93.67,1008000,Jun 2021
+106,Bt Purmei Rd,01 to 03,104,Model A,1984,62.17,495000,Jun 2021
+114,Bt Purmei Rd,01 to 03,103,Model A,1985,62.92,500000,Jun 2021
+114,Bt Purmei Rd,10 to 12,106,Model A,1985,62.83,580888,Jun 2021
+101,Henderson Cres,04 to 06,74,Standard,1970,48.17,365000,Jun 2021
+96B,Henderson Rd,10 to 12,83,Model A,2019,97,795000,Jun 2021
+20,Jln Membina,13 to 15,90,Model A,2003,81.33,764000,Jun 2021
+25B,Jln Membina,07 to 09,90,Model A,2009,86.67,755000,Jun 2021
+26D,Jln Membina,25 to 27,90,Model A,2009,86.67,770000,Jun 2021
+27A,Jln Membina,22 to 24,90,Model A,2008,86.58,770000,Jun 2021
+27A,Jln Membina,25 to 27,90,Model A,2008,86.58,780000,Jun 2021
+126C,Kim Tian Rd,13 to 15,87,Model A,2013,90.75,785000,Jun 2021
+127A,Kim Tian Rd,25 to 27,93,Model A,2013,90.75,788000,Jun 2021
+127A,Kim Tian Rd,25 to 27,93,Model A,2013,90.75,835000,Jun 2021
+127D,Kim Tian Rd,01 to 03,93,Model A,2013,90.75,670000,Jun 2021
+129,Kim Tian Rd,16 to 18,88,Improved,1976,53.67,485000,Jun 2021
+52,Lengkok Bahru,04 to 06,84,Simplified,1986,64.58,550000,Jun 2021
+68,Redhill Cl,04 to 06,85,Model A,2001,78.75,680680,Jun 2021
+70,Redhill Cl,25 to 27,100,Model A,2001,79.17,780000,Jun 2021
+75C,Redhill Rd,25 to 27,100,Model A,2007,84.67,828000,Jun 2021
+76A,Redhill Rd,19 to 21,100,Model A,2005,83.58,810000,Jun 2021
+57,Telok Blangah Hts,10 to 12,91,New Generation,1976,54.33,500000,Jun 2021
+58,Telok Blangah Hts,04 to 06,91,New Generation,1976,54.33,458000,Jun 2021
+70A,Telok Blangah Hts,07 to 09,93,Model A,2017,95,770000,Jun 2021
+70A,Telok Blangah Hts,10 to 12,93,Model A,2017,95,868000,Jun 2021
+70B,Telok Blangah Hts,04 to 06,93,Model A,2017,95,780888,Jun 2021
+70B,Telok Blangah Hts,22 to 24,93,Model A,2017,95,845000,Jun 2021
+70C,Telok Blangah Hts,16 to 18,93,Model A,2017,95,790000,Jun 2021
+70C,Telok Blangah Hts,19 to 21,93,Model A,2017,95,810000,Jun 2021
+80A,Telok Blangah St 31,16 to 18,95,Premium Apartment,2013,91.25,800000,Jun 2021
+27,Telok Blangah Way,10 to 12,82,Improved,1976,53.92,428000,Jun 2021
+9A,Boon Tiong Rd,04 to 06,92,Model A,2016,93.75,915000,May 2021
+9B,Boon Tiong Rd,28 to 30,92,Model A,2016,93.67,970000,May 2021
+10B,Boon Tiong Rd,07 to 09,87,Model A,2016,93.75,885000,May 2021
+104,Bt Purmei Rd,07 to 09,105,Model A,1984,62,580000,May 2021
+109,Bt Purmei Rd,04 to 06,104,Model A,1984,62.33,535000,May 2021
+17,Cantonment Cl,25 to 27,90,Model A,2003,80.75,800000,May 2021
+103B,Depot Rd,04 to 06,100,Model A,2002,80,615000,May 2021
+52,Havelock Rd,28 to 30,89,Model A,2013,91.08,810088,May 2021
+102,Henderson Cres,10 to 12,80,Standard,1970,48.25,435000,May 2021
+103,Henderson Cres,01 to 03,74,Standard,1970,48.25,370000,May 2021
+95C,Henderson Rd,34 to 36,93,Model A,2019,97,910000,May 2021
+134,Jln Bt Merah,10 to 12,108,Model A,1997,74.75,595000,May 2021
+25B,Jln Membina,19 to 21,90,Model A,2009,86.75,760000,May 2021
+26B,Jln Membina,04 to 06,85,Model A,2009,86.67,713000,May 2021
+26D,Jln Membina,25 to 27,90,Model A,2009,86.75,755000,May 2021
+27A,Jln Membina,22 to 24,90,Model A,2008,86.58,765000,May 2021
+39,Jln Rumah Tinggi,04 to 06,99,Model A,1997,75.08,670000,May 2021
+120,Kim Tian Pl,04 to 06,91,Model A,2001,78.83,730000,May 2021
+119D,Kim Tian Rd,01 to 03,87,Model A,2002,80.5,530000,May 2021
+126A,Kim Tian Rd,22 to 24,93,Model A,2013,90.75,825000,May 2021
+127A,Kim Tian Rd,22 to 24,93,Model A,2013,90.83,818000,May 2021
+127D,Kim Tian Rd,19 to 21,93,Model A,2013,90.83,763000,May 2021
+127D,Kim Tian Rd,34 to 36,93,Model A,2013,90.83,800888,May 2021
+127D,Kim Tian Rd,37 to 39,93,Model A,2013,90.83,810000,May 2021
+131B,Kim Tian Rd,04 to 06,91,Model A,2002,79.67,650000,May 2021
+131C,Kim Tian Rd,19 to 21,90,Model A,2002,79.75,750888,May 2021
+51,Lengkok Bahru,10 to 12,84,Simplified,1986,64.5,480000,May 2021
+69,Redhill Cl,10 to 12,100,Model A,2001,78.83,680000,May 2021
+88,Redhill Cl,04 to 06,111,Model A,1995,72.75,758000,May 2021
+75B,Redhill Rd,25 to 27,100,Model A,2005,83.67,826888,May 2021
+50,Telok Blangah Dr,10 to 12,98,New Generation,1978,56.17,508000,May 2021
+51,Telok Blangah Dr,10 to 12,92,New Generation,1978,56.25,468888,May 2021
+70A,Telok Blangah Hts,16 to 18,93,Model A,2017,95,850000,May 2021
+70A,Telok Blangah Hts,22 to 24,93,Model A,2017,95,890000,May 2021
+70B,Telok Blangah Hts,07 to 09,93,Model A,2017,95.08,778000,May 2021
+40,Telok Blangah Rise,13 to 15,82,Improved,1976,54,400000,May 2021
+27,Telok Blangah Way,07 to 09,82,Improved,1976,54,400000,May 2021
+9A,Boon Tiong Rd,19 to 21,92,Model A,2016,93.83,930000,Apr 2021
+9B,Boon Tiong Rd,04 to 06,92,Model A,2016,93.75,855000,Apr 2021
+10A,Boon Tiong Rd,07 to 09,92,Model A,2016,93.83,890000,Apr 2021
+10A,Boon Tiong Rd,19 to 21,93,Model A,2016,93.75,940888,Apr 2021
+10B,Boon Tiong Rd,16 to 18,87,Model A,2016,93.83,850000,Apr 2021
+10B,Boon Tiong Rd,13 to 15,87,Model A,2016,93.75,905888,Apr 2021
+111,Bt Purmei Rd,07 to 09,104,Model A,1984,62.58,570000,Apr 2021
+11,Cantonment Cl,19 to 21,90,Model A,2002,80.67,800000,Apr 2021
+18,Cantonment Cl,16 to 18,75,Model A,2002,80.67,685000,Apr 2021
+3,Delta Ave,01 to 03,91,New Generation,1985,63.42,618000,Apr 2021
+5,Delta Ave,10 to 12,91,New Generation,1985,63.67,610000,Apr 2021
+104A,Depot Rd,22 to 24,100,Model A,2000,78.25,625000,Apr 2021
+104,Henderson Cres,01 to 03,74,Standard,1970,48.25,365000,Apr 2021
+109,Jln Bt Merah,07 to 09,105,Model A,1984,62.25,540000,Apr 2021
+134,Jln Bt Merah,10 to 12,108,Model A,1997,74.75,628000,Apr 2021
+22,Jln Membina,25 to 27,90,Model A,2003,81.33,765000,Apr 2021
+26C,Jln Membina,07 to 09,85,Model A,2009,86.75,740000,Apr 2021
+26D,Jln Membina,25 to 27,90,Model A,2009,86.75,768000,Apr 2021
+27A,Jln Membina,10 to 12,90,Model A,2008,86.67,727388,Apr 2021
+27A,Jln Membina,13 to 15,90,Model A,2008,86.75,750000,Apr 2021
+119C,Kim Tian Rd,01 to 03,87,Model A,2003,81.25,520000,Apr 2021
+127C,Kim Tian Rd,10 to 12,93,Model A,2013,90.83,775000,Apr 2021
+127D,Kim Tian Rd,25 to 27,93,Model A,2013,90.83,818000,Apr 2021
+128,Kim Tian Rd,13 to 15,88,Improved,1975,52.83,505000,Apr 2021
+129,Kim Tian Rd,04 to 06,88,Improved,1976,53.75,505000,Apr 2021
+63B,Lengkok Bahru,10 to 12,103,Model A,2001,79.58,680000,Apr 2021
+76A,Redhill Rd,16 to 18,100,Model A,2005,83.75,810000,Apr 2021
+77A,Redhill Rd,19 to 21,90,Model A,2005,83.67,760000,Apr 2021
+148,Silat Ave,13 to 15,93,New Generation,1982,60.58,540000,Apr 2021
+55,Telok Blangah Dr,04 to 06,98,New Generation,1978,55.83,476000,Apr 2021
+64,Telok Blangah Dr,10 to 12,92,New Generation,1978,56.33,520000,Apr 2021
+70A,Telok Blangah Hts,13 to 15,93,Model A,2017,95.08,793000,Apr 2021
+70A,Telok Blangah Hts,13 to 15,93,Model A,2017,95.08,810000,Apr 2021
+70A,Telok Blangah Hts,22 to 24,93,Model A,2017,95.17,850000,Apr 2021
+70C,Telok Blangah Hts,13 to 15,93,Model A,2017,95.17,770000,Apr 2021
+88,Telok Blangah Hts,13 to 15,90,Model A,2003,81,555000,Apr 2021
+9A,Boon Tiong Rd,01 to 03,92,Model A,2016,93.92,839999,Mar 2021
+9A,Boon Tiong Rd,01 to 03,92,Model A,2016,93.92,888888,Mar 2021
+125,Bt Merah View,10 to 12,109,Model A,1996,74.58,715000,Mar 2021
+104,Bt Purmei Rd,07 to 09,105,Model A,1984,62.08,524228,Mar 2021
+8,Cantonment Cl,13 to 15,90,Model A,2002,80.83,760000,Mar 2021
+11,Cantonment Cl,10 to 12,90,Model A,2002,80.83,770000,Mar 2021
+16,Cantonment Cl,04 to 06,90,Model A,2003,80.83,736000,Mar 2021
+104B,Depot Rd,10 to 12,100,Model A,2000,78.42,611000,Mar 2021
+57,Havelock Rd,04 to 06,89,Model A,2013,91.25,738000,Mar 2021
+57,Havelock Rd,25 to 27,89,Model A,2013,91.17,848000,Mar 2021
+96A,Henderson Rd,07 to 09,93,Model A,2019,97.17,820000,Mar 2021
+96A,Henderson Rd,25 to 27,93,Model A,2019,97.17,868000,Mar 2021
+14,Jln Bt Merah,19 to 21,100,Model A,1996,74.67,680000,Mar 2021
+109,Jln Bt Merah,01 to 03,104,Model A,1984,62.33,513000,Mar 2021
+25B,Jln Membina,01 to 03,90,Model A,2009,86.83,670000,Mar 2021
+26B,Jln Membina,04 to 06,85,Model A,2009,86.83,703000,Mar 2021
+27A,Jln Membina,07 to 09,90,Model A,2008,86.83,720000,Mar 2021
+38,Jln Rumah Tinggi,04 to 06,100,Model A,1997,75.25,620000,Mar 2021
+40,Jln Rumah Tinggi,04 to 06,100,Model A,1997,75.33,520000,Mar 2021
+119B,Kim Tian Rd,07 to 09,87,Model A,2002,80.75,690888,Mar 2021
+119C,Kim Tian Rd,10 to 12,87,Model A,2003,81.33,736000,Mar 2021
+119D,Kim Tian Rd,16 to 18,92,Model A,2002,80.67,728000,Mar 2021
+119D,Kim Tian Rd,19 to 21,92,Model A,2002,80.67,730000,Mar 2021
+127D,Kim Tian Rd,25 to 27,93,Model A,2013,91,789000,Mar 2021
+127D,Kim Tian Rd,13 to 15,93,Model A,2013,90.92,800000,Mar 2021
+127D,Kim Tian Rd,28 to 30,88,Model A,2013,90.92,818000,Mar 2021
+131C,Kim Tian Rd,13 to 15,86,Model A,2002,80,688000,Mar 2021
+75B,Redhill Rd,04 to 06,100,Model A,2005,83.83,715000,Mar 2021
+76A,Redhill Rd,19 to 21,100,Model A,2005,83.75,780000,Mar 2021
+77A,Redhill Rd,28 to 30,90,Model A,2005,83.67,730000,Mar 2021
+14,Telok Blangah Cres,04 to 06,101,Model A,1999,77.75,557500,Mar 2021
+14A,Telok Blangah Cres,01 to 03,101,Model A,1999,77.58,528000,Mar 2021
+24,Telok Blangah Cres,07 to 09,82,Improved,1975,53.17,395000,Mar 2021
+50,Telok Blangah Dr,07 to 09,98,New Generation,1978,56.33,488888,Mar 2021
+57,Telok Blangah Hts,04 to 06,92,New Generation,1976,54.58,448000,Mar 2021
+57,Telok Blangah Hts,01 to 03,91,New Generation,1976,54.5,468888,Mar 2021
+58,Telok Blangah Hts,04 to 06,91,New Generation,1976,54.5,440000,Mar 2021
+70A,Telok Blangah Hts,22 to 24,93,Model A,2017,95.17,825000,Mar 2021
+70A,Telok Blangah Hts,22 to 24,93,Model A,2017,95.17,850000,Mar 2021
+87,Telok Blangah Hts,10 to 12,90,Model A,2003,81.17,605000,Mar 2021
+88,Telok Blangah Hts,19 to 21,85,Model A,2003,81.08,620000,Mar 2021
+27,Telok Blangah Way,10 to 12,82,Improved,1976,54.08,398000,Mar 2021
+9B,Boon Tiong Rd,07 to 09,92,Model A,2016,93.92,938000,Feb 2021
+8,Cantonment Cl,19 to 21,90,Model A,2002,80.83,800000,Feb 2021
+17,Cantonment Cl,13 to 15,90,Model A,2003,80.92,770000,Feb 2021
+103A,Depot Rd,10 to 12,100,Model A,2002,80.25,600000,Feb 2021
+58,Havelock Rd,13 to 15,89,Model A,2013,91.25,800000,Feb 2021
+58,Havelock Rd,28 to 30,94,Model A,2013,91.33,857000,Feb 2021
+49,Hoy Fatt Rd,07 to 09,84,Simplified,1986,64.42,470000,Feb 2021
+12,Jln Bt Merah,10 to 12,105,Model A,1996,74.83,670000,Feb 2021
+26B,Jln Membina,19 to 21,85,Model A,2009,87,742500,Feb 2021
+26C,Jln Membina,22 to 24,90,Model A,2009,87,680000,Feb 2021
+127D,Kim Tian Rd,13 to 15,88,Model A,2013,91.17,755000,Feb 2021
+128,Kim Tian Rd,04 to 06,88,Improved,1975,53,448000,Feb 2021
+131B,Kim Tian Rd,25 to 27,91,Model A,2002,79.92,665000,Feb 2021
+75B,Redhill Rd,01 to 03,100,Model A,2005,83.92,590000,Feb 2021
+77A,Redhill Rd,22 to 24,100,Model A,2005,83.83,828888,Feb 2021
+17,Telok Blangah Cres,07 to 09,99,Model A,2002,80,578000,Feb 2021
+59,Telok Blangah Hts,10 to 12,91,New Generation,1976,54.67,453000,Feb 2021
+61,Telok Blangah Hts,04 to 06,81,New Generation,1976,54.67,420000,Feb 2021
+70B,Telok Blangah Hts,07 to 09,93,Model A,2017,95.33,762000,Feb 2021
+70B,Telok Blangah Hts,13 to 15,93,Model A,2017,95.33,800000,Feb 2021
+40,Telok Blangah Rise,13 to 15,82,Improved,1976,54.17,388000,Feb 2021
+80A,Telok Blangah St 31,28 to 30,95,Premium Apartment,2013,91.58,845000,Feb 2021
+80C,Telok Blangah St 31,13 to 15,93,Premium Apartment,2013,91.58,860000,Feb 2021
+27,Telok Blangah Way,01 to 03,82,Improved,1976,54.25,365000,Feb 2021
+6B,Boon Tiong Rd,19 to 21,100,Model A,2005,83.83,830000,Jan 2021
+10B,Boon Tiong Rd,22 to 24,87,Model A,2016,94.08,935000,Jan 2021
+106,Bt Purmei Rd,04 to 06,103,Model A,1984,62.58,520000,Jan 2021
+111,Bt Purmei Rd,07 to 09,104,Model A,1984,62.83,545000,Jan 2021
+5,Delta Ave,07 to 09,91,New Generation,1985,63.83,640000,Jan 2021
+103,Henderson Cres,04 to 06,74,Standard,1970,48.5,350000,Jan 2021
+95C,Henderson Rd,43 to 45,93,Model A,2019,97.33,910000,Jan 2021
+50,Hoy Fatt Rd,04 to 06,103,Model A,1987,65.08,550000,Jan 2021
+13,Jln Bt Merah,01 to 03,103,Model A,1996,74.92,590000,Jan 2021
+13,Jln Bt Merah,13 to 15,100,Model A,1996,74.92,648000,Jan 2021
+109,Jln Bt Merah,10 to 12,104,Model A,1984,62.58,500000,Jan 2021
+25B,Jln Membina,22 to 24,90,Model A,2009,87.08,750000,Jan 2021
+25B,Jln Membina,16 to 18,90,Model A,2009,87,760000,Jan 2021
+27A,Jln Membina,07 to 09,90,Model A,2008,86.92,720000,Jan 2021
+27A,Jln Membina,22 to 24,90,Model A,2008,87,745000,Jan 2021
+120,Kim Tian Pl,25 to 27,101,Model A,2001,79.17,730000,Jan 2021
+120A,Kim Tian Pl,19 to 21,100,Model A,2001,79.17,770000,Jan 2021
+119B,Kim Tian Rd,13 to 15,92,Model A,2002,80.92,680000,Jan 2021
+126C,Kim Tian Rd,10 to 12,87,Model A,2013,91.17,775000,Jan 2021
+127C,Kim Tian Rd,25 to 27,93,Model A,2013,91.08,790000,Jan 2021
+127D,Kim Tian Rd,31 to 33,88,Model A,2013,91.08,805000,Jan 2021
+131C,Kim Tian Rd,25 to 27,90,Model A,2002,80,800000,Jan 2021
+63B,Lengkok Bahru,10 to 12,100,Model A,2001,79.92,640000,Jan 2021
+68,Redhill Cl,04 to 06,100,Model A,2001,79.08,650000,Jan 2021
+83,Redhill Lane,04 to 06,107,Model A,1996,74.92,718000,Jan 2021
+17A,Telok Blangah Cres,07 to 09,99,Model A,2002,80.08,588000,Jan 2021
+63,Telok Blangah Hts,01 to 03,98,New Generation,1976,54.83,435000,Jan 2021
+68,Telok Blangah Hts,04 to 06,92,New Generation,1978,56,420000,Jan 2021
+70A,Telok Blangah Hts,19 to 21,93,Model A,2017,95.42,820000,Jan 2021
+9B,Boon Tiong Rd,28 to 30,92,Model A,2016,94.17,950000,Dec 2020
+10A,Boon Tiong Rd,19 to 21,93,Model A,2016,94.17,940000,Dec 2020
+10A,Boon Tiong Rd,28 to 30,92,Model A,2016,94.17,998000,Dec 2020
+10A,Boon Tiong Rd,34 to 36,92,Model A,2016,94.08,1013888,Dec 2020
+10B,Boon Tiong Rd,13 to 15,87,Model A,2016,94.17,935000,Dec 2020
+111,Bt Purmei Rd,04 to 06,104,Model A,1984,62.92,489988,Dec 2020
+113,Bt Purmei Rd,04 to 06,103,Model A,1984,62.92,495000,Dec 2020
+115,Bt Purmei Rd,07 to 09,103,Model A,1985,63.33,545000,Dec 2020
+3,Delta Ave,10 to 12,92,New Generation,1985,63.83,635888,Dec 2020
+55,Havelock Rd,25 to 27,94,Model A,2013,91.5,830000,Dec 2020
+102,Henderson Cres,07 to 09,80,Standard,1970,48.67,420000,Dec 2020
+103,Henderson Cres,13 to 15,74,Standard,1970,48.67,395000,Dec 2020
+134,Jln Bt Merah,13 to 15,105,Model A,1997,75.17,628000,Dec 2020
+25B,Jln Membina,07 to 09,90,Model A,2009,87.08,710000,Dec 2020
+25B,Jln Membina,13 to 15,90,Model A,2009,87.17,730000,Dec 2020
+25B,Jln Membina,25 to 27,90,Model A,2009,87.08,765000,Dec 2020
+26B,Jln Membina,10 to 12,85,Model A,2009,87.17,720000,Dec 2020
+26B,Jln Membina,16 to 18,85,Model A,2009,87.17,723888,Dec 2020
+26B,Jln Membina,25 to 27,85,Model A,2009,87.08,757000,Dec 2020
+26C,Jln Membina,22 to 24,85,Model A,2009,87.08,735000,Dec 2020
+40,Jln Rumah Tinggi,04 to 06,100,Model A,1997,75.58,600000,Dec 2020
+120,Kim Tian Pl,28 to 30,101,Model A,2001,79.25,780000,Dec 2020
+119D,Kim Tian Rd,01 to 03,92,Model A,2002,80.92,660000,Dec 2020
+126A,Kim Tian Rd,16 to 18,93,Model A,2013,91.17,820000,Dec 2020
+53,Lengkok Bahru,10 to 12,84,Simplified,1986,64.92,486000,Dec 2020
+75B,Redhill Rd,07 to 09,100,Model A,2005,84.08,780000,Dec 2020
+75B,Redhill Rd,25 to 27,100,Model A,2005,84,823888,Dec 2020
+76A,Redhill Rd,28 to 30,100,Model A,2005,84.08,816000,Dec 2020
+17,Telok Blangah Cres,07 to 09,99,Model A,2002,80.08,580000,Dec 2020
+17,Telok Blangah Cres,28 to 30,99,Model A,2002,80.17,618000,Dec 2020
+17A,Telok Blangah Cres,25 to 27,99,Model A,2002,80.08,675000,Dec 2020
+51,Telok Blangah Dr,10 to 12,92,New Generation,1978,56.58,468000,Dec 2020
+62,Telok Blangah Hts,04 to 06,98,New Generation,1976,54.83,496000,Dec 2020
+85,Telok Blangah Hts,13 to 15,90,Model A,2003,81.33,640000,Dec 2020
+27,Telok Blangah Way,10 to 12,82,Improved,1976,54.33,405000,Dec 2020
+34,Telok Blangah Way,10 to 12,82,Improved,1976,54.33,450000,Dec 2020
+8B,Boon Tiong Rd,01 to 03,90,Model A,2005,83.92,665000,Nov 2020
+10A,Boon Tiong Rd,37 to 39,92,Model A,2016,94.17,1020000,Nov 2020
+10B,Boon Tiong Rd,07 to 09,87,Model A,2016,94.25,928000,Nov 2020
+115,Bt Purmei Rd,10 to 12,103,Model A,1985,63.42,510000,Nov 2020
+9,Cantonment Cl,19 to 21,90,Model A,2002,81.17,800000,Nov 2020
+106A,Depot Rd,10 to 12,100,Model A,2000,78.75,625000,Nov 2020
+109B,Depot Rd,04 to 06,100,Model A,2006,84.25,570000,Nov 2020
+55,Havelock Rd,07 to 09,94,Model A,2013,91.5,820000,Nov 2020
+106,Henderson Cres,01 to 03,81,Improved,1975,53.17,400000,Nov 2020
+106,Henderson Cres,07 to 09,81,Improved,1975,53.17,402000,Nov 2020
+12,Jln Bt Merah,01 to 03,108,Model A,1996,75,600000,Nov 2020
+109,Jln Bt Merah,01 to 03,105,Model A,1984,62.75,508888,Nov 2020
+144,Jln Bt Merah,04 to 06,91,New Generation,1981,59.83,484000,Nov 2020
+21,Jln Membina,13 to 15,90,Model A,2003,81.92,735000,Nov 2020
+25B,Jln Membina,16 to 18,90,Model A,2009,87.17,750000,Nov 2020
+26B,Jln Membina,01 to 03,85,Model A,2009,87.17,680000,Nov 2020
+27A,Jln Membina,19 to 21,90,Model A,2008,87.17,740000,Nov 2020
+118A,Jln Membina,10 to 12,90,Model A,2003,81.25,685000,Nov 2020
+118A,Jln Membina,07 to 09,90,Model A,2003,81.25,688000,Nov 2020
+118B,Jln Membina,13 to 15,85,Model A,2003,81.25,686000,Nov 2020
+118D,Jln Membina,07 to 09,92,Model A,2003,81.25,710000,Nov 2020
+39,Jln Rumah Tinggi,13 to 15,100,Model A,1997,75.58,605000,Nov 2020
+119B,Kim Tian Rd,10 to 12,87,Model A,2002,81.17,675000,Nov 2020
+127D,Kim Tian Rd,34 to 36,93,Model A,2013,91.25,820000,Nov 2020
+131C,Kim Tian Rd,25 to 27,90,Model A,2002,80.33,730000,Nov 2020
+63A,Lengkok Bahru,04 to 06,101,Model A,2001,80,680000,Nov 2020
+63A,Lengkok Bahru,10 to 12,101,Model A,2001,80.08,730000,Nov 2020
+63B,Lengkok Bahru,13 to 15,100,Model A,2001,80.08,710000,Nov 2020
+68,Redhill Cl,07 to 09,85,Model A,2001,79.33,650000,Nov 2020
+75C,Redhill Rd,16 to 18,100,Model A,2007,85.25,800000,Nov 2020
+14,Telok Blangah Cres,04 to 06,101,Model A,1999,78,570000,Nov 2020
+14A,Telok Blangah Cres,07 to 09,99,Model A,1999,77.92,578000,Nov 2020

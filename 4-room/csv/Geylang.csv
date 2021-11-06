@@ -1,0 +1,631 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date
+17A,Circuit Rd,07 to 09,93,Model A,2016,94.08,770000,Nov 2021
+18D,Circuit Rd,16 to 18,93,Model A,2016,94.08,750000,Nov 2021
+36,Circuit Rd,10 to 12,83.1,Standard,1971,48.25,390000,Nov 2021
+126,Geylang East Ave 1,01 to 03,110,Model A,1983,61.17,540000,Nov 2021
+11,Pine Cl,04 to 06,95,Model A,2000,77.67,720000,Nov 2021
+313,Ubi Ave 1,04 to 06,84,Simplified,1985,62.83,408000,Nov 2021
+352,Ubi Ave 1,04 to 06,104,Model A,1989,66.33,455000,Nov 2021
+29,Balam Rd,07 to 09,106,Model A,1997,74.83,630000,Oct 2021
+28,Cassia Cres,07 to 09,102,Model A,1998,75.75,758888,Oct 2021
+30,Cassia Cres,16 to 18,103,Model A,1998,75.75,750000,Oct 2021
+32,Cassia Cres,10 to 12,95,New Generation,1981,58.83,535000,Oct 2021
+32,Cassia Cres,07 to 09,107,New Generation,1981,58.83,648000,Oct 2021
+42,Cassia Cres,07 to 09,93,New Generation,1981,58.75,545000,Oct 2021
+56,Cassia Cres,04 to 06,102,Model A,1998,75.42,710000,Oct 2021
+56,Cassia Cres,10 to 12,103,Model A,1998,75.42,760000,Oct 2021
+17A,Circuit Rd,01 to 03,93,Model A,2016,94.08,716000,Oct 2021
+17A,Circuit Rd,13 to 15,93,Model A,2016,94.08,788000,Oct 2021
+17B,Circuit Rd,19 to 21,93,Model A,2016,94.17,790000,Oct 2021
+18B,Circuit Rd,04 to 06,93,Model A,2016,94.17,735000,Oct 2021
+18C,Circuit Rd,19 to 21,93,Model A,2016,94.08,790000,Oct 2021
+62,Dakota Cres,04 to 06,112,Model A,1984,62.17,660000,Oct 2021
+10,Eunos Cres,10 to 12,91,New Generation,1978,55.75,495000,Oct 2021
+127,Geylang East Ave 1,04 to 06,107,Model A,1983,60.92,580000,Oct 2021
+2D,Geylang Serai,13 to 15,95,Model A,2011,89.17,755000,Oct 2021
+2D,Geylang Serai,13 to 15,93,Model A,2011,89.25,756000,Oct 2021
+7,Pine Cl,01 to 03,96,Model A,2000,77.75,610000,Oct 2021
+54,Pipit Rd,10 to 12,91,New Generation,1985,62.5,502000,Oct 2021
+44,Sims Dr,01 to 03,88,Improved,1975,52.83,410000,Oct 2021
+311,Ubi Ave 1,07 to 09,84,Simplified,1985,63.17,430000,Oct 2021
+31,Balam Rd,07 to 09,91,New Generation,1985,62.58,485000,Sep 2021
+56,Cassia Cres,10 to 12,102,Model A,1998,75.5,706000,Sep 2021
+17A,Circuit Rd,13 to 15,93,Model A,2016,94.17,745000,Sep 2021
+17A,Circuit Rd,19 to 21,93,Model A,2016,94.25,790000,Sep 2021
+17B,Circuit Rd,07 to 09,93,Model A,2016,94.17,690000,Sep 2021
+17B,Circuit Rd,16 to 18,93,Model A,2016,94.25,775000,Sep 2021
+17B,Circuit Rd,10 to 12,93,Model A,2016,94.25,800000,Sep 2021
+61,Circuit Rd,04 to 06,122,Adjoined Flat,1969,46.42,550000,Sep 2021
+33,Eunos Cres,13 to 15,90,Model A,2007,84.33,722000,Sep 2021
+411,Eunos Rd 5,01 to 03,107,Model A,1984,62.25,560000,Sep 2021
+122,Geylang East Ctrl,01 to 03,92,New Generation,1982,59.75,488000,Sep 2021
+2A,Geylang Serai,13 to 15,93,Model A,2011,89.33,720000,Sep 2021
+2C,Geylang Serai,13 to 15,95,Model A,2011,89.33,760000,Sep 2021
+2D,Geylang Serai,10 to 12,95,Model A,2011,89.33,740000,Sep 2021
+3A,Geylang Serai,07 to 09,93,Model A,2011,89.33,702000,Sep 2021
+2,Haig Rd,04 to 06,92,New Generation,1976,53.92,490000,Sep 2021
+39,Jln Tiga,01 to 03,93,Model A,2005,82.58,622000,Sep 2021
+49,Jln Tiga,10 to 12,85,Model A,2005,82.67,775000,Sep 2021
+3,Pine Cl,07 to 09,95,Model A,2000,77.83,772000,Sep 2021
+9,Pine Cl,04 to 06,102,Model A,1997,75.25,640000,Sep 2021
+44,Sims Dr,10 to 12,88,Improved,1975,53,430000,Sep 2021
+301,Ubi Ave 1,04 to 06,83,Simplified,2000,77.83,445000,Sep 2021
+311,Ubi Ave 1,04 to 06,84,Simplified,1985,63.25,405000,Sep 2021
+327,Ubi Ave 1,04 to 06,104,Model A,1985,63.08,460000,Sep 2021
+348,Ubi Ave 1,04 to 06,104,Model A,1986,63.75,468000,Sep 2021
+31,Balam Rd,16 to 18,106,New Generation,1985,62.75,570000,Aug 2021
+30,Cassia Cres,10 to 12,102,Model A,1998,75.92,720000,Aug 2021
+30,Cassia Cres,07 to 09,102,Model A,1998,75.92,740000,Aug 2021
+30,Cassia Cres,13 to 15,102,Model A,1998,75.92,800000,Aug 2021
+34,Cassia Cres,07 to 09,97,New Generation,1981,59,528000,Aug 2021
+56,Cassia Cres,07 to 09,103,Model A,1998,75.58,698000,Aug 2021
+56,Cassia Cres,07 to 09,102,Model A,1998,75.58,728000,Aug 2021
+18A,Circuit Rd,07 to 09,93,Model A,2016,94.33,750000,Aug 2021
+18B,Circuit Rd,13 to 15,93,Model A,2016,94.33,768000,Aug 2021
+62,Dakota Cres,07 to 09,104,Model A,1984,62.33,718000,Aug 2021
+10,Eunos Cres,01 to 03,91,New Generation,1978,56,430000,Aug 2021
+120,Geylang East Ctrl,04 to 06,91,New Generation,1982,59.83,458000,Aug 2021
+120,Geylang East Ctrl,10 to 12,91,New Generation,1982,59.83,538000,Aug 2021
+2C,Geylang Serai,07 to 09,95,Model A,2011,89.42,680000,Aug 2021
+2D,Geylang Serai,16 to 18,93,Model A,2011,89.42,735000,Aug 2021
+2,Haig Rd,10 to 12,92,New Generation,1976,54,515000,Aug 2021
+11,Haig Rd,07 to 09,92,New Generation,1976,53.92,538000,Aug 2021
+4,Joo Chiat Rd,07 to 09,109,Model A,1985,63.42,620000,Aug 2021
+1,Pine Cl,07 to 09,95,Model A,2000,77.92,745000,Aug 2021
+3,Pine Cl,01 to 03,95,Model A,2000,78,665000,Aug 2021
+848,Sims Ave,01 to 03,93,Simplified,1985,63,540000,Aug 2021
+42,Sims Dr,04 to 06,104,Model A,1990,67.75,489000,Aug 2021
+305,Ubi Ave 1,04 to 06,104,Model A,2000,77.75,550000,Aug 2021
+322,Ubi Ave 1,07 to 09,84,Simplified,1985,63.25,415000,Aug 2021
+346,Ubi Ave 1,07 to 09,84,Simplified,1986,63.5,438000,Aug 2021
+351,Ubi Ave 1,10 to 12,104,Model A,1988,66.42,458000,Aug 2021
+108,Aljunied Cres,10 to 12,93,New Generation,1981,58.83,511000,Jul 2021
+31,Balam Rd,04 to 06,92,New Generation,1985,62.83,460000,Jul 2021
+30,Cassia Cres,07 to 09,102,Model A,1998,75.92,725000,Jul 2021
+17A,Circuit Rd,04 to 06,93,Model A,2016,94.42,732888,Jul 2021
+17A,Circuit Rd,07 to 09,93,Model A,2016,94.42,750000,Jul 2021
+17A,Circuit Rd,10 to 12,93,Model A,2016,94.42,780000,Jul 2021
+17B,Circuit Rd,07 to 09,93,Model A,2016,94.42,758000,Jul 2021
+18A,Circuit Rd,04 to 06,93,Model A,2016,94.33,690000,Jul 2021
+18B,Circuit Rd,16 to 18,93,Model A,2016,94.42,690000,Jul 2021
+18D,Circuit Rd,01 to 03,93,Model A,2016,94.33,705000,Jul 2021
+34,Eunos Cres,13 to 15,85,Model A,2006,84.42,670000,Jul 2021
+411,Eunos Rd 5,04 to 06,102,Model A,1984,62.25,563888,Jul 2021
+411,Eunos Rd 5,07 to 09,107,Model A,1984,62.25,620000,Jul 2021
+411,Eunos Rd 5,16 to 18,107,Model A,1984,62.33,650000,Jul 2021
+127,Geylang East Ave 1,01 to 03,113,Model A,1983,61.17,588000,Jul 2021
+128,Geylang East Ave 1,10 to 12,104,Model A,1983,61.17,660000,Jul 2021
+2A,Geylang Serai,01 to 03,93,Model A,2011,89.5,638000,Jul 2021
+11,Haig Rd,01 to 03,92,New Generation,1976,54.08,450000,Jul 2021
+47,Jln Tiga,13 to 15,93,Model A,2005,82.83,705000,Jul 2021
+49,Jln Tiga,16 to 18,93,Model A,2005,82.75,815000,Jul 2021
+121,Paya Lebar Way,01 to 03,91,New Generation,1980,58.17,363000,Jul 2021
+121,Paya Lebar Way,01 to 03,91,New Generation,1980,58.17,370000,Jul 2021
+3,Pine Cl,01 to 03,95,Model A,2000,78,670000,Jul 2021
+7,Pine Cl,01 to 03,96,Model A,2000,77.92,592500,Jul 2021
+9,Pine Cl,01 to 03,102,Model A,1997,75.42,618000,Jul 2021
+40,Sims Dr,10 to 12,109,Model A,1990,67.92,510000,Jul 2021
+40,Sims Dr,07 to 09,104,Model A,1990,67.92,525000,Jul 2021
+313,Ubi Ave 1,10 to 12,104,Model A,1985,63.17,465000,Jul 2021
+330,Ubi Ave 1,04 to 06,84,Simplified,1985,63.5,380000,Jul 2021
+341,Ubi Ave 1,10 to 12,105,Model A,1985,63.17,505000,Jul 2021
+346,Ubi Ave 1,13 to 15,104,Model A,1986,63.67,475000,Jul 2021
+104,Aljunied Cres,04 to 06,92,New Generation,1978,55.58,420000,Jun 2021
+104,Aljunied Cres,07 to 09,92,New Generation,1978,55.67,439000,Jun 2021
+30,Cassia Cres,07 to 09,101,Model A,1998,76.08,740000,Jun 2021
+42,Cassia Cres,04 to 06,93,New Generation,1981,59.17,502500,Jun 2021
+17A,Circuit Rd,01 to 03,93,Model A,2016,94.5,645000,Jun 2021
+17A,Circuit Rd,01 to 03,93,Model A,2016,94.5,660000,Jun 2021
+17B,Circuit Rd,13 to 15,93,Model A,2016,94.5,765000,Jun 2021
+18A,Circuit Rd,10 to 12,93,Model A,2016,94.5,765000,Jun 2021
+32,Eunos Cres,16 to 18,90,Model A,2007,84.67,748000,Jun 2021
+415,Eunos Rd 5,01 to 03,107,Model A,1984,62.33,530000,Jun 2021
+124,Geylang East Ave 1,13 to 15,103,Model A,1983,61.5,606000,Jun 2021
+120,Geylang East Ctrl,10 to 12,91,New Generation,1982,60,550000,Jun 2021
+2C,Geylang Serai,13 to 15,93,Model A,2011,89.58,700000,Jun 2021
+8,Haig Rd,07 to 09,92,New Generation,1976,54.17,500000,Jun 2021
+43,Jln Tiga,19 to 21,93,Model A,2005,82.75,810000,Jun 2021
+47,Jln Tiga,04 to 06,93,Model A,2005,82.83,690000,Jun 2021
+122,Paya Lebar Way,07 to 09,91,New Generation,1980,58.25,380000,Jun 2021
+9,Pine Cl,07 to 09,102,Model A,1997,75.5,700000,Jun 2021
+11,Pine Cl,07 to 09,85,Model A,2000,78.08,680000,Jun 2021
+42,Sims Dr,10 to 12,107,Model A,1990,67.92,485000,Jun 2021
+311,Ubi Ave 1,04 to 06,84,Simplified,1985,63.5,393800,Jun 2021
+315,Ubi Ave 1,10 to 12,84,Simplified,1985,63.25,385000,Jun 2021
+323,Ubi Ave 1,01 to 03,84,Simplified,1985,63.08,388888,Jun 2021
+324,Ubi Ave 1,07 to 09,105,Model A,1985,63.08,460000,Jun 2021
+330,Ubi Ave 1,01 to 03,84,Simplified,1985,63.58,380000,Jun 2021
+336,Ubi Ave 1,07 to 09,83,Simplified,1986,63.75,330000,Jun 2021
+338,Ubi Ave 1,01 to 03,104,Model A,1986,63.83,412000,Jun 2021
+346,Ubi Ave 1,04 to 06,84,Simplified,1986,63.75,373000,Jun 2021
+28,Balam Rd,01 to 03,106,Model A,1997,75.25,515000,May 2021
+56,Cassia Cres,04 to 06,102,Model A,1998,75.83,640000,May 2021
+17A,Circuit Rd,01 to 03,93,Model A,2016,94.58,705000,May 2021
+17B,Circuit Rd,01 to 03,93,Model A,2016,94.58,700000,May 2021
+18C,Circuit Rd,07 to 09,93,Model A,2016,94.58,750000,May 2021
+18D,Circuit Rd,01 to 03,93,Model A,2016,94.5,705000,May 2021
+42,Circuit Rd,01 to 03,106,Model A,1996,74.17,555000,May 2021
+31,Eunos Cres,16 to 18,90,Model A,2007,84.75,710000,May 2021
+35,Eunos Cres,01 to 03,85,Model A,2006,84.58,630000,May 2021
+122,Geylang East Ctrl,04 to 06,91,New Generation,1982,60,450000,May 2021
+121,Paya Lebar Way,01 to 03,91,New Generation,1980,58.33,378000,May 2021
+12,Pine Cl,04 to 06,93,New Generation,1981,59.25,538000,May 2021
+319,Ubi Ave 1,07 to 09,84,Simplified,1985,63.08,405000,May 2021
+323,Ubi Ave 1,01 to 03,89,Simplified,1985,63.17,386000,May 2021
+348,Ubi Ave 1,10 to 12,84,Simplified,1986,64.08,420000,May 2021
+349,Ubi Ave 1,04 to 06,84,Simplified,1986,63.75,368000,May 2021
+30,Cassia Cres,01 to 03,102,Model A,1998,76.25,560000,Apr 2021
+17A,Circuit Rd,10 to 12,93,Model A,2016,94.58,700000,Apr 2021
+17A,Circuit Rd,04 to 06,93,Model A,2016,94.58,725000,Apr 2021
+17A,Circuit Rd,04 to 06,93,Model A,2016,94.67,732800,Apr 2021
+17A,Circuit Rd,04 to 06,93,Model A,2016,94.58,750000,Apr 2021
+18B,Circuit Rd,10 to 12,93,Model A,2016,94.67,776000,Apr 2021
+18C,Circuit Rd,04 to 06,93,Model A,2016,94.58,720000,Apr 2021
+18D,Circuit Rd,04 to 06,93,Model A,2016,94.67,721000,Apr 2021
+10,Eunos Cres,01 to 03,91,New Generation,1978,56.25,410000,Apr 2021
+11,Eunos Cres,04 to 06,91,New Generation,1977,55.08,420000,Apr 2021
+32,Eunos Cres,10 to 12,90,Model A,2007,84.83,700000,Apr 2021
+36,Eunos Cres,10 to 12,85,Model A,2006,84.75,710000,Apr 2021
+415,Eunos Rd 5,01 to 03,107,Model A,1984,62.58,555000,Apr 2021
+125,Geylang East Ave 1,04 to 06,112,Model A,1984,62,675000,Apr 2021
+126,Geylang East Ave 1,07 to 09,108,Model A,1983,61.67,587000,Apr 2021
+128,Geylang East Ave 1,04 to 06,104,Model A,1983,61.33,570000,Apr 2021
+2A,Geylang Serai,10 to 12,93,Model A,2011,89.75,683888,Apr 2021
+2A,Geylang Serai,13 to 15,95,Model A,2011,89.75,728000,Apr 2021
+2C,Geylang Serai,19 to 21,95,Model A,2011,89.67,735000,Apr 2021
+2D,Geylang Serai,13 to 15,95,Model A,2011,89.67,747000,Apr 2021
+45,Jln Tiga,01 to 03,93,Model A,2005,83.08,610000,Apr 2021
+47,Jln Tiga,10 to 12,85,Model A,2005,83,630000,Apr 2021
+1,Pine Cl,01 to 03,95,Model A,2000,78.25,630000,Apr 2021
+7,Pine Cl,07 to 09,95,Model A,2000,78.17,750000,Apr 2021
+11,Pine Cl,16 to 18,95,Model A,2000,78.25,788000,Apr 2021
+54,Pipit Rd,13 to 15,94,New Generation,1985,62.92,480000,Apr 2021
+44,Sims Dr,04 to 06,88,Improved,1975,53.33,370000,Apr 2021
+44,Sims Dr,10 to 12,88,Improved,1975,53.42,395000,Apr 2021
+315,Ubi Ave 1,01 to 03,104,Model A,1985,63.33,430000,Apr 2021
+316,Ubi Ave 1,10 to 12,84,Simplified,1985,63.42,405000,Apr 2021
+318,Ubi Ave 1,01 to 03,84,Simplified,1985,63.33,355000,Apr 2021
+318,Ubi Ave 1,01 to 03,84,Simplified,1985,63.25,378000,Apr 2021
+320,Ubi Ave 1,04 to 06,84,Simplified,1985,63.25,380000,Apr 2021
+322,Ubi Ave 1,10 to 12,84,Simplified,1985,63.58,410000,Apr 2021
+330,Ubi Ave 1,07 to 09,84,Simplified,1985,63.67,400000,Apr 2021
+348,Ubi Ave 1,07 to 09,104,Model A,1986,64.08,433888,Apr 2021
+108,Aljunied Cres,10 to 12,93,New Generation,1981,59.08,500000,Mar 2021
+28,Balam Rd,13 to 15,106,Model A,1997,75.42,600000,Mar 2021
+31,Balam Rd,10 to 12,106,New Generation,1985,63.17,510000,Mar 2021
+30,Cassia Cres,10 to 12,103,Model A,1998,76.25,692000,Mar 2021
+42,Cassia Cres,04 to 06,93,New Generation,1981,59.33,500000,Mar 2021
+17B,Circuit Rd,04 to 06,93,Model A,2016,94.67,705000,Mar 2021
+17B,Circuit Rd,04 to 06,93,Model A,2016,94.67,735000,Mar 2021
+18A,Circuit Rd,10 to 12,93,Model A,2016,94.67,755000,Mar 2021
+62,Dakota Cres,04 to 06,104,Model A,1984,62.75,620000,Mar 2021
+9,Eunos Cres,07 to 09,91,New Generation,1978,56.42,430000,Mar 2021
+9,Eunos Cres,10 to 12,92,New Generation,1978,56.42,445000,Mar 2021
+35,Eunos Cres,04 to 06,85,Model A,2006,84.67,675000,Mar 2021
+126,Geylang East Ave 1,07 to 09,108,Model A,1983,61.75,520000,Mar 2021
+2B,Geylang Serai,01 to 03,93,Model A,2011,89.75,600000,Mar 2021
+2B,Geylang Serai,07 to 09,93,Model A,2011,89.83,635000,Mar 2021
+2B,Geylang Serai,16 to 18,95,Model A,2011,89.83,731000,Mar 2021
+8,Haig Rd,07 to 09,92,New Generation,1976,54.5,460000,Mar 2021
+8,Haig Rd,07 to 09,92,New Generation,1976,54.33,475000,Mar 2021
+121,Paya Lebar Way,04 to 06,91,New Generation,1980,58.42,363888,Mar 2021
+121,Paya Lebar Way,07 to 09,92,New Generation,1980,58.5,378000,Mar 2021
+1,Pine Cl,10 to 12,95,Model A,2000,78.33,788000,Mar 2021
+323,Ubi Ave 1,10 to 12,90,Simplified,1985,63.33,395000,Mar 2021
+324,Ubi Ave 1,04 to 06,105,Model A,1985,63.33,460000,Mar 2021
+330,Ubi Ave 1,10 to 12,84,Simplified,1985,63.92,360000,Mar 2021
+339,Ubi Ave 1,07 to 09,84,Simplified,1986,63.92,370000,Mar 2021
+339,Ubi Ave 1,10 to 12,84,Simplified,1986,63.83,396000,Mar 2021
+346,Ubi Ave 1,04 to 06,104,Model A,1986,63.92,455000,Mar 2021
+347,Ubi Ave 1,04 to 06,84,Simplified,1986,64.17,363000,Mar 2021
+347,Ubi Ave 1,01 to 03,104,Model A,1986,64.17,410000,Mar 2021
+30,Cassia Cres,16 to 18,102,Model A,1998,76.33,760000,Feb 2021
+42,Cassia Cres,07 to 09,93,New Generation,1981,59.42,520000,Feb 2021
+54,Cassia Cres,10 to 12,92,New Generation,1983,61.5,560000,Feb 2021
+17A,Circuit Rd,10 to 12,93,Model A,2016,94.75,740000,Feb 2021
+17B,Circuit Rd,13 to 15,93,Model A,2016,94.75,730000,Feb 2021
+18A,Circuit Rd,13 to 15,93,Model A,2016,94.75,755000,Feb 2021
+18B,Circuit Rd,04 to 06,93,Model A,2016,94.75,700000,Feb 2021
+18B,Circuit Rd,04 to 06,93,Model A,2016,94.75,710000,Feb 2021
+18C,Circuit Rd,01 to 03,93,Model A,2016,94.75,715000,Feb 2021
+18C,Circuit Rd,13 to 15,93,Model A,2016,94.75,750000,Feb 2021
+18D,Circuit Rd,07 to 09,93,Model A,2016,94.75,732000,Feb 2021
+18D,Circuit Rd,13 to 15,93,Model A,2016,94.83,760000,Feb 2021
+22,Eunos Cres,13 to 15,98,New Generation,1977,55.25,440000,Feb 2021
+35,Eunos Cres,13 to 15,85,Model A,2006,84.75,670000,Feb 2021
+415,Eunos Rd 5,01 to 03,107,Model A,1984,62.67,550000,Feb 2021
+124,Geylang East Ave 1,04 to 06,108,Model A,1983,61.83,540000,Feb 2021
+2C,Geylang Serai,07 to 09,95,Model A,2011,89.83,660000,Feb 2021
+121,Paya Lebar Way,10 to 12,91,New Generation,1980,58.5,360000,Feb 2021
+55,Pipit Rd,16 to 18,101,Model A,1997,75.83,610000,Feb 2021
+315,Ubi Ave 1,07 to 09,104,Model A,1985,63.67,460000,Feb 2021
+346,Ubi Ave 1,10 to 12,84,Simplified,1986,64.08,350000,Feb 2021
+31,Balam Rd,07 to 09,97,New Generation,1985,63.25,460000,Jan 2021
+32,Cassia Cres,07 to 09,92,New Generation,1981,59.5,515000,Jan 2021
+17B,Circuit Rd,13 to 15,93,Model A,2016,94.83,740000,Jan 2021
+18B,Circuit Rd,07 to 09,93,Model A,2016,94.92,720000,Jan 2021
+18B,Circuit Rd,10 to 12,93,Model A,2016,94.83,768000,Jan 2021
+18C,Circuit Rd,16 to 18,93,Model A,2016,94.92,768000,Jan 2021
+10,Eunos Cres,04 to 06,91,New Generation,1978,56.5,445000,Jan 2021
+11,Eunos Cres,10 to 12,91,New Generation,1977,55.33,418000,Jan 2021
+11,Eunos Cres,10 to 12,91,New Generation,1977,55.42,430000,Jan 2021
+128,Geylang East Ave 1,04 to 06,109,Model A,1983,61.67,555000,Jan 2021
+120,Geylang East Ctrl,01 to 03,91,New Generation,1982,60.33,460000,Jan 2021
+120,Geylang East Ctrl,07 to 09,92,New Generation,1982,60.42,530000,Jan 2021
+5,Haig Rd,07 to 09,92,New Generation,1976,54.58,470000,Jan 2021
+5,Haig Rd,04 to 06,92,New Generation,1976,54.58,478000,Jan 2021
+45,Jln Tiga,07 to 09,93,Model A,2005,83.33,710000,Jan 2021
+122,Paya Lebar Way,01 to 03,91,New Generation,1980,58.67,375000,Jan 2021
+1,Pine Cl,07 to 09,95,Model A,2000,78.5,720000,Jan 2021
+3,Pine Cl,01 to 03,95,Model A,2000,78.5,650000,Jan 2021
+11,Pine Cl,10 to 12,95,Model A,2000,78.42,735000,Jan 2021
+327,Ubi Ave 1,04 to 06,84,Simplified,1985,63.83,390000,Jan 2021
+329,Ubi Ave 1,04 to 06,84,Simplified,1985,63.92,366000,Jan 2021
+42,Cassia Cres,04 to 06,93,New Generation,1981,59.67,490000,Dec 2020
+17A,Circuit Rd,10 to 12,93,Model A,2016,94.92,738000,Dec 2020
+17B,Circuit Rd,07 to 09,93,Model A,2016,95,710000,Dec 2020
+17B,Circuit Rd,16 to 18,93,Model A,2016,95,728000,Dec 2020
+18B,Circuit Rd,13 to 15,93,Model A,2016,95,708000,Dec 2020
+18B,Circuit Rd,07 to 09,93,Model A,2016,95,747000,Dec 2020
+18B,Circuit Rd,16 to 18,93,Model A,2016,95,750000,Dec 2020
+18B,Circuit Rd,16 to 18,93,Model A,2016,95,755000,Dec 2020
+18C,Circuit Rd,04 to 06,93,Model A,2016,95,675000,Dec 2020
+18D,Circuit Rd,01 to 03,93,Model A,2016,94.92,635000,Dec 2020
+43,Circuit Rd,01 to 03,94,Adjoined Flat,1971,49.17,408000,Dec 2020
+128,Geylang East Ave 1,01 to 03,114,Model A,1983,61.67,550000,Dec 2020
+122,Geylang East Ctrl,10 to 12,91,New Generation,1982,60.42,530000,Dec 2020
+2C,Geylang Serai,16 to 18,93,Model A,2011,90.08,716000,Dec 2020
+3A,Geylang Serai,13 to 15,95,Model A,2011,90,723000,Dec 2020
+3,Pine Cl,13 to 15,86,Model A,2000,78.58,740000,Dec 2020
+10,Pine Cl,01 to 03,102,New Generation,1981,59.67,480000,Dec 2020
+304,Ubi Ave 1,04 to 06,83,Simplified,2000,78.5,388000,Dec 2020
+313,Ubi Ave 1,04 to 06,90,Simplified,1985,63.75,355000,Dec 2020
+314,Ubi Ave 1,01 to 03,84,Simplified,1985,63.83,367000,Dec 2020
+338,Ubi Ave 1,10 to 12,105,Model A,1986,64.25,450000,Dec 2020
+341,Ubi Ave 1,07 to 09,84,Simplified,1985,63.83,430000,Dec 2020
+352,Ubi Ave 1,07 to 09,104,Model A,1989,67.25,430000,Dec 2020
+31,Balam Rd,10 to 12,92,New Generation,1985,63.5,458000,Nov 2020
+28,Cassia Cres,10 to 12,102,Model A,1998,76.67,718000,Nov 2020
+32,Cassia Cres,01 to 03,92,New Generation,1981,59.75,480000,Nov 2020
+42,Cassia Cres,10 to 12,93,New Generation,1981,59.75,522888,Nov 2020
+17A,Circuit Rd,16 to 18,93,Model A,2016,95.08,750000,Nov 2020
+17B,Circuit Rd,10 to 12,93,Model A,2016,95.08,710000,Nov 2020
+17B,Circuit Rd,07 to 09,93,Model A,2016,95,716000,Nov 2020
+17B,Circuit Rd,04 to 06,93,Model A,2016,95.08,720000,Nov 2020
+17B,Circuit Rd,19 to 21,93,Model A,2016,95,750000,Nov 2020
+18B,Circuit Rd,10 to 12,93,Model A,2016,95.08,755000,Nov 2020
+18C,Circuit Rd,04 to 06,93,Model A,2016,95.08,700000,Nov 2020
+18C,Circuit Rd,10 to 12,93,Model A,2016,95.08,740000,Nov 2020
+18C,Circuit Rd,16 to 18,93,Model A,2016,95.08,800000,Nov 2020
+18D,Circuit Rd,16 to 18,93,Model A,2016,95,780000,Nov 2020
+60,Dakota Cres,13 to 15,111,Model A,1983,61.92,755000,Nov 2020
+9,Eunos Cres,01 to 03,91,New Generation,1978,56.75,392000,Nov 2020
+11,Eunos Cres,01 to 03,91,New Generation,1977,55.58,404800,Nov 2020
+31,Eunos Cres,04 to 06,90,Model A,2007,85.17,698888,Nov 2020
+34,Eunos Cres,07 to 09,90,Model A,2006,85.08,680000,Nov 2020
+412,Eunos Rd 5,01 to 03,104,Model A,1992,70.92,535000,Nov 2020
+122,Geylang East Ctrl,07 to 09,91,New Generation,1982,60.5,540000,Nov 2020
+93,Jln Dua,07 to 09,124,Adjoined Flat,1969,47.25,560000,Nov 2020
+40,Sims Dr,07 to 09,113,Model A,1990,68.67,530000,Nov 2020
+42,Sims Dr,04 to 06,109,Model A,1990,68.5,458000,Nov 2020
+319,Ubi Ave 1,04 to 06,104,Model A,1985,63.67,430000,Nov 2020
+327,Ubi Ave 1,07 to 09,84,Simplified,1985,64,382000,Nov 2020
+344,Ubi Ave 1,04 to 06,90,Simplified,1985,63.75,375000,Nov 2020
+345,Ubi Ave 1,01 to 03,84,Simplified,1985,64,370000,Nov 2020
+346,Ubi Ave 1,04 to 06,84,Simplified,1986,64.33,345000,Nov 2020
+349,Ubi Ave 1,04 to 06,90,Simplified,1986,64.25,415000,Nov 2020
+17A,Circuit Rd,07 to 09,93,Model A,2016,94.08,770000,Nov 2021
+18D,Circuit Rd,16 to 18,93,Model A,2016,94.08,750000,Nov 2021
+36,Circuit Rd,10 to 12,83.1,Standard,1971,48.25,390000,Nov 2021
+126,Geylang East Ave 1,01 to 03,110,Model A,1983,61.17,540000,Nov 2021
+11,Pine Cl,04 to 06,95,Model A,2000,77.67,720000,Nov 2021
+313,Ubi Ave 1,04 to 06,84,Simplified,1985,62.83,408000,Nov 2021
+352,Ubi Ave 1,04 to 06,104,Model A,1989,66.33,455000,Nov 2021
+29,Balam Rd,07 to 09,106,Model A,1997,74.83,630000,Oct 2021
+28,Cassia Cres,07 to 09,102,Model A,1998,75.75,758888,Oct 2021
+30,Cassia Cres,16 to 18,103,Model A,1998,75.75,750000,Oct 2021
+32,Cassia Cres,10 to 12,95,New Generation,1981,58.83,535000,Oct 2021
+32,Cassia Cres,07 to 09,107,New Generation,1981,58.83,648000,Oct 2021
+42,Cassia Cres,07 to 09,93,New Generation,1981,58.75,545000,Oct 2021
+56,Cassia Cres,04 to 06,102,Model A,1998,75.42,710000,Oct 2021
+56,Cassia Cres,10 to 12,103,Model A,1998,75.42,760000,Oct 2021
+17A,Circuit Rd,01 to 03,93,Model A,2016,94.08,716000,Oct 2021
+17A,Circuit Rd,13 to 15,93,Model A,2016,94.08,788000,Oct 2021
+17B,Circuit Rd,19 to 21,93,Model A,2016,94.17,790000,Oct 2021
+18B,Circuit Rd,04 to 06,93,Model A,2016,94.17,735000,Oct 2021
+18C,Circuit Rd,19 to 21,93,Model A,2016,94.08,790000,Oct 2021
+62,Dakota Cres,04 to 06,112,Model A,1984,62.17,660000,Oct 2021
+10,Eunos Cres,10 to 12,91,New Generation,1978,55.75,495000,Oct 2021
+127,Geylang East Ave 1,04 to 06,107,Model A,1983,60.92,580000,Oct 2021
+2D,Geylang Serai,13 to 15,95,Model A,2011,89.17,755000,Oct 2021
+2D,Geylang Serai,13 to 15,93,Model A,2011,89.25,756000,Oct 2021
+7,Pine Cl,01 to 03,96,Model A,2000,77.75,610000,Oct 2021
+54,Pipit Rd,10 to 12,91,New Generation,1985,62.5,502000,Oct 2021
+44,Sims Dr,01 to 03,88,Improved,1975,52.83,410000,Oct 2021
+311,Ubi Ave 1,07 to 09,84,Simplified,1985,63.17,430000,Oct 2021
+31,Balam Rd,07 to 09,91,New Generation,1985,62.58,485000,Sep 2021
+56,Cassia Cres,10 to 12,102,Model A,1998,75.5,706000,Sep 2021
+17A,Circuit Rd,13 to 15,93,Model A,2016,94.17,745000,Sep 2021
+17A,Circuit Rd,19 to 21,93,Model A,2016,94.25,790000,Sep 2021
+17B,Circuit Rd,07 to 09,93,Model A,2016,94.17,690000,Sep 2021
+17B,Circuit Rd,16 to 18,93,Model A,2016,94.25,775000,Sep 2021
+17B,Circuit Rd,10 to 12,93,Model A,2016,94.25,800000,Sep 2021
+61,Circuit Rd,04 to 06,122,Adjoined Flat,1969,46.42,550000,Sep 2021
+33,Eunos Cres,13 to 15,90,Model A,2007,84.33,722000,Sep 2021
+411,Eunos Rd 5,01 to 03,107,Model A,1984,62.25,560000,Sep 2021
+122,Geylang East Ctrl,01 to 03,92,New Generation,1982,59.75,488000,Sep 2021
+2A,Geylang Serai,13 to 15,93,Model A,2011,89.33,720000,Sep 2021
+2C,Geylang Serai,13 to 15,95,Model A,2011,89.33,760000,Sep 2021
+2D,Geylang Serai,10 to 12,95,Model A,2011,89.33,740000,Sep 2021
+3A,Geylang Serai,07 to 09,93,Model A,2011,89.33,702000,Sep 2021
+2,Haig Rd,04 to 06,92,New Generation,1976,53.92,490000,Sep 2021
+39,Jln Tiga,01 to 03,93,Model A,2005,82.58,622000,Sep 2021
+49,Jln Tiga,10 to 12,85,Model A,2005,82.67,775000,Sep 2021
+3,Pine Cl,07 to 09,95,Model A,2000,77.83,772000,Sep 2021
+9,Pine Cl,04 to 06,102,Model A,1997,75.25,640000,Sep 2021
+44,Sims Dr,10 to 12,88,Improved,1975,53,430000,Sep 2021
+301,Ubi Ave 1,04 to 06,83,Simplified,2000,77.83,445000,Sep 2021
+311,Ubi Ave 1,04 to 06,84,Simplified,1985,63.25,405000,Sep 2021
+327,Ubi Ave 1,04 to 06,104,Model A,1985,63.08,460000,Sep 2021
+348,Ubi Ave 1,04 to 06,104,Model A,1986,63.75,468000,Sep 2021
+31,Balam Rd,16 to 18,106,New Generation,1985,62.75,570000,Aug 2021
+30,Cassia Cres,10 to 12,102,Model A,1998,75.92,720000,Aug 2021
+30,Cassia Cres,07 to 09,102,Model A,1998,75.92,740000,Aug 2021
+30,Cassia Cres,13 to 15,102,Model A,1998,75.92,800000,Aug 2021
+34,Cassia Cres,07 to 09,97,New Generation,1981,59,528000,Aug 2021
+56,Cassia Cres,07 to 09,103,Model A,1998,75.58,698000,Aug 2021
+56,Cassia Cres,07 to 09,102,Model A,1998,75.58,728000,Aug 2021
+18A,Circuit Rd,07 to 09,93,Model A,2016,94.33,750000,Aug 2021
+18B,Circuit Rd,13 to 15,93,Model A,2016,94.33,768000,Aug 2021
+62,Dakota Cres,07 to 09,104,Model A,1984,62.33,718000,Aug 2021
+10,Eunos Cres,01 to 03,91,New Generation,1978,56,430000,Aug 2021
+120,Geylang East Ctrl,04 to 06,91,New Generation,1982,59.83,458000,Aug 2021
+120,Geylang East Ctrl,10 to 12,91,New Generation,1982,59.83,538000,Aug 2021
+2C,Geylang Serai,07 to 09,95,Model A,2011,89.42,680000,Aug 2021
+2D,Geylang Serai,16 to 18,93,Model A,2011,89.42,735000,Aug 2021
+2,Haig Rd,10 to 12,92,New Generation,1976,54,515000,Aug 2021
+11,Haig Rd,07 to 09,92,New Generation,1976,53.92,538000,Aug 2021
+4,Joo Chiat Rd,07 to 09,109,Model A,1985,63.42,620000,Aug 2021
+1,Pine Cl,07 to 09,95,Model A,2000,77.92,745000,Aug 2021
+3,Pine Cl,01 to 03,95,Model A,2000,78,665000,Aug 2021
+848,Sims Ave,01 to 03,93,Simplified,1985,63,540000,Aug 2021
+42,Sims Dr,04 to 06,104,Model A,1990,67.75,489000,Aug 2021
+305,Ubi Ave 1,04 to 06,104,Model A,2000,77.75,550000,Aug 2021
+322,Ubi Ave 1,07 to 09,84,Simplified,1985,63.25,415000,Aug 2021
+346,Ubi Ave 1,07 to 09,84,Simplified,1986,63.5,438000,Aug 2021
+351,Ubi Ave 1,10 to 12,104,Model A,1988,66.42,458000,Aug 2021
+108,Aljunied Cres,10 to 12,93,New Generation,1981,58.83,511000,Jul 2021
+31,Balam Rd,04 to 06,92,New Generation,1985,62.83,460000,Jul 2021
+30,Cassia Cres,07 to 09,102,Model A,1998,75.92,725000,Jul 2021
+17A,Circuit Rd,04 to 06,93,Model A,2016,94.42,732888,Jul 2021
+17A,Circuit Rd,07 to 09,93,Model A,2016,94.42,750000,Jul 2021
+17A,Circuit Rd,10 to 12,93,Model A,2016,94.42,780000,Jul 2021
+17B,Circuit Rd,07 to 09,93,Model A,2016,94.42,758000,Jul 2021
+18A,Circuit Rd,04 to 06,93,Model A,2016,94.33,690000,Jul 2021
+18B,Circuit Rd,16 to 18,93,Model A,2016,94.42,690000,Jul 2021
+18D,Circuit Rd,01 to 03,93,Model A,2016,94.33,705000,Jul 2021
+34,Eunos Cres,13 to 15,85,Model A,2006,84.42,670000,Jul 2021
+411,Eunos Rd 5,04 to 06,102,Model A,1984,62.25,563888,Jul 2021
+411,Eunos Rd 5,07 to 09,107,Model A,1984,62.25,620000,Jul 2021
+411,Eunos Rd 5,16 to 18,107,Model A,1984,62.33,650000,Jul 2021
+127,Geylang East Ave 1,01 to 03,113,Model A,1983,61.17,588000,Jul 2021
+128,Geylang East Ave 1,10 to 12,104,Model A,1983,61.17,660000,Jul 2021
+2A,Geylang Serai,01 to 03,93,Model A,2011,89.5,638000,Jul 2021
+11,Haig Rd,01 to 03,92,New Generation,1976,54.08,450000,Jul 2021
+47,Jln Tiga,13 to 15,93,Model A,2005,82.83,705000,Jul 2021
+49,Jln Tiga,16 to 18,93,Model A,2005,82.75,815000,Jul 2021
+121,Paya Lebar Way,01 to 03,91,New Generation,1980,58.17,363000,Jul 2021
+121,Paya Lebar Way,01 to 03,91,New Generation,1980,58.17,370000,Jul 2021
+3,Pine Cl,01 to 03,95,Model A,2000,78,670000,Jul 2021
+7,Pine Cl,01 to 03,96,Model A,2000,77.92,592500,Jul 2021
+9,Pine Cl,01 to 03,102,Model A,1997,75.42,618000,Jul 2021
+40,Sims Dr,10 to 12,109,Model A,1990,67.92,510000,Jul 2021
+40,Sims Dr,07 to 09,104,Model A,1990,67.92,525000,Jul 2021
+313,Ubi Ave 1,10 to 12,104,Model A,1985,63.17,465000,Jul 2021
+330,Ubi Ave 1,04 to 06,84,Simplified,1985,63.5,380000,Jul 2021
+341,Ubi Ave 1,10 to 12,105,Model A,1985,63.17,505000,Jul 2021
+346,Ubi Ave 1,13 to 15,104,Model A,1986,63.67,475000,Jul 2021
+104,Aljunied Cres,04 to 06,92,New Generation,1978,55.58,420000,Jun 2021
+104,Aljunied Cres,07 to 09,92,New Generation,1978,55.67,439000,Jun 2021
+30,Cassia Cres,07 to 09,101,Model A,1998,76.08,740000,Jun 2021
+42,Cassia Cres,04 to 06,93,New Generation,1981,59.17,502500,Jun 2021
+17A,Circuit Rd,01 to 03,93,Model A,2016,94.5,645000,Jun 2021
+17A,Circuit Rd,01 to 03,93,Model A,2016,94.5,660000,Jun 2021
+17B,Circuit Rd,13 to 15,93,Model A,2016,94.5,765000,Jun 2021
+18A,Circuit Rd,10 to 12,93,Model A,2016,94.5,765000,Jun 2021
+32,Eunos Cres,16 to 18,90,Model A,2007,84.67,748000,Jun 2021
+415,Eunos Rd 5,01 to 03,107,Model A,1984,62.33,530000,Jun 2021
+124,Geylang East Ave 1,13 to 15,103,Model A,1983,61.5,606000,Jun 2021
+120,Geylang East Ctrl,10 to 12,91,New Generation,1982,60,550000,Jun 2021
+2C,Geylang Serai,13 to 15,93,Model A,2011,89.58,700000,Jun 2021
+8,Haig Rd,07 to 09,92,New Generation,1976,54.17,500000,Jun 2021
+43,Jln Tiga,19 to 21,93,Model A,2005,82.75,810000,Jun 2021
+47,Jln Tiga,04 to 06,93,Model A,2005,82.83,690000,Jun 2021
+122,Paya Lebar Way,07 to 09,91,New Generation,1980,58.25,380000,Jun 2021
+9,Pine Cl,07 to 09,102,Model A,1997,75.5,700000,Jun 2021
+11,Pine Cl,07 to 09,85,Model A,2000,78.08,680000,Jun 2021
+42,Sims Dr,10 to 12,107,Model A,1990,67.92,485000,Jun 2021
+311,Ubi Ave 1,04 to 06,84,Simplified,1985,63.5,393800,Jun 2021
+315,Ubi Ave 1,10 to 12,84,Simplified,1985,63.25,385000,Jun 2021
+323,Ubi Ave 1,01 to 03,84,Simplified,1985,63.08,388888,Jun 2021
+324,Ubi Ave 1,07 to 09,105,Model A,1985,63.08,460000,Jun 2021
+330,Ubi Ave 1,01 to 03,84,Simplified,1985,63.58,380000,Jun 2021
+336,Ubi Ave 1,07 to 09,83,Simplified,1986,63.75,330000,Jun 2021
+338,Ubi Ave 1,01 to 03,104,Model A,1986,63.83,412000,Jun 2021
+346,Ubi Ave 1,04 to 06,84,Simplified,1986,63.75,373000,Jun 2021
+28,Balam Rd,01 to 03,106,Model A,1997,75.25,515000,May 2021
+56,Cassia Cres,04 to 06,102,Model A,1998,75.83,640000,May 2021
+17A,Circuit Rd,01 to 03,93,Model A,2016,94.58,705000,May 2021
+17B,Circuit Rd,01 to 03,93,Model A,2016,94.58,700000,May 2021
+18C,Circuit Rd,07 to 09,93,Model A,2016,94.58,750000,May 2021
+18D,Circuit Rd,01 to 03,93,Model A,2016,94.5,705000,May 2021
+42,Circuit Rd,01 to 03,106,Model A,1996,74.17,555000,May 2021
+31,Eunos Cres,16 to 18,90,Model A,2007,84.75,710000,May 2021
+35,Eunos Cres,01 to 03,85,Model A,2006,84.58,630000,May 2021
+122,Geylang East Ctrl,04 to 06,91,New Generation,1982,60,450000,May 2021
+121,Paya Lebar Way,01 to 03,91,New Generation,1980,58.33,378000,May 2021
+12,Pine Cl,04 to 06,93,New Generation,1981,59.25,538000,May 2021
+319,Ubi Ave 1,07 to 09,84,Simplified,1985,63.08,405000,May 2021
+323,Ubi Ave 1,01 to 03,89,Simplified,1985,63.17,386000,May 2021
+348,Ubi Ave 1,10 to 12,84,Simplified,1986,64.08,420000,May 2021
+349,Ubi Ave 1,04 to 06,84,Simplified,1986,63.75,368000,May 2021
+30,Cassia Cres,01 to 03,102,Model A,1998,76.25,560000,Apr 2021
+17A,Circuit Rd,10 to 12,93,Model A,2016,94.58,700000,Apr 2021
+17A,Circuit Rd,04 to 06,93,Model A,2016,94.58,725000,Apr 2021
+17A,Circuit Rd,04 to 06,93,Model A,2016,94.67,732800,Apr 2021
+17A,Circuit Rd,04 to 06,93,Model A,2016,94.58,750000,Apr 2021
+18B,Circuit Rd,10 to 12,93,Model A,2016,94.67,776000,Apr 2021
+18C,Circuit Rd,04 to 06,93,Model A,2016,94.58,720000,Apr 2021
+18D,Circuit Rd,04 to 06,93,Model A,2016,94.67,721000,Apr 2021
+10,Eunos Cres,01 to 03,91,New Generation,1978,56.25,410000,Apr 2021
+11,Eunos Cres,04 to 06,91,New Generation,1977,55.08,420000,Apr 2021
+32,Eunos Cres,10 to 12,90,Model A,2007,84.83,700000,Apr 2021
+36,Eunos Cres,10 to 12,85,Model A,2006,84.75,710000,Apr 2021
+415,Eunos Rd 5,01 to 03,107,Model A,1984,62.58,555000,Apr 2021
+125,Geylang East Ave 1,04 to 06,112,Model A,1984,62,675000,Apr 2021
+126,Geylang East Ave 1,07 to 09,108,Model A,1983,61.67,587000,Apr 2021
+128,Geylang East Ave 1,04 to 06,104,Model A,1983,61.33,570000,Apr 2021
+2A,Geylang Serai,10 to 12,93,Model A,2011,89.75,683888,Apr 2021
+2A,Geylang Serai,13 to 15,95,Model A,2011,89.75,728000,Apr 2021
+2C,Geylang Serai,19 to 21,95,Model A,2011,89.67,735000,Apr 2021
+2D,Geylang Serai,13 to 15,95,Model A,2011,89.67,747000,Apr 2021
+45,Jln Tiga,01 to 03,93,Model A,2005,83.08,610000,Apr 2021
+47,Jln Tiga,10 to 12,85,Model A,2005,83,630000,Apr 2021
+1,Pine Cl,01 to 03,95,Model A,2000,78.25,630000,Apr 2021
+7,Pine Cl,07 to 09,95,Model A,2000,78.17,750000,Apr 2021
+11,Pine Cl,16 to 18,95,Model A,2000,78.25,788000,Apr 2021
+54,Pipit Rd,13 to 15,94,New Generation,1985,62.92,480000,Apr 2021
+44,Sims Dr,04 to 06,88,Improved,1975,53.33,370000,Apr 2021
+44,Sims Dr,10 to 12,88,Improved,1975,53.42,395000,Apr 2021
+315,Ubi Ave 1,01 to 03,104,Model A,1985,63.33,430000,Apr 2021
+316,Ubi Ave 1,10 to 12,84,Simplified,1985,63.42,405000,Apr 2021
+318,Ubi Ave 1,01 to 03,84,Simplified,1985,63.33,355000,Apr 2021
+318,Ubi Ave 1,01 to 03,84,Simplified,1985,63.25,378000,Apr 2021
+320,Ubi Ave 1,04 to 06,84,Simplified,1985,63.25,380000,Apr 2021
+322,Ubi Ave 1,10 to 12,84,Simplified,1985,63.58,410000,Apr 2021
+330,Ubi Ave 1,07 to 09,84,Simplified,1985,63.67,400000,Apr 2021
+348,Ubi Ave 1,07 to 09,104,Model A,1986,64.08,433888,Apr 2021
+108,Aljunied Cres,10 to 12,93,New Generation,1981,59.08,500000,Mar 2021
+28,Balam Rd,13 to 15,106,Model A,1997,75.42,600000,Mar 2021
+31,Balam Rd,10 to 12,106,New Generation,1985,63.17,510000,Mar 2021
+30,Cassia Cres,10 to 12,103,Model A,1998,76.25,692000,Mar 2021
+42,Cassia Cres,04 to 06,93,New Generation,1981,59.33,500000,Mar 2021
+17B,Circuit Rd,04 to 06,93,Model A,2016,94.67,705000,Mar 2021
+17B,Circuit Rd,04 to 06,93,Model A,2016,94.67,735000,Mar 2021
+18A,Circuit Rd,10 to 12,93,Model A,2016,94.67,755000,Mar 2021
+62,Dakota Cres,04 to 06,104,Model A,1984,62.75,620000,Mar 2021
+9,Eunos Cres,07 to 09,91,New Generation,1978,56.42,430000,Mar 2021
+9,Eunos Cres,10 to 12,92,New Generation,1978,56.42,445000,Mar 2021
+35,Eunos Cres,04 to 06,85,Model A,2006,84.67,675000,Mar 2021
+126,Geylang East Ave 1,07 to 09,108,Model A,1983,61.75,520000,Mar 2021
+2B,Geylang Serai,01 to 03,93,Model A,2011,89.75,600000,Mar 2021
+2B,Geylang Serai,07 to 09,93,Model A,2011,89.83,635000,Mar 2021
+2B,Geylang Serai,16 to 18,95,Model A,2011,89.83,731000,Mar 2021
+8,Haig Rd,07 to 09,92,New Generation,1976,54.5,460000,Mar 2021
+8,Haig Rd,07 to 09,92,New Generation,1976,54.33,475000,Mar 2021
+121,Paya Lebar Way,04 to 06,91,New Generation,1980,58.42,363888,Mar 2021
+121,Paya Lebar Way,07 to 09,92,New Generation,1980,58.5,378000,Mar 2021
+1,Pine Cl,10 to 12,95,Model A,2000,78.33,788000,Mar 2021
+323,Ubi Ave 1,10 to 12,90,Simplified,1985,63.33,395000,Mar 2021
+324,Ubi Ave 1,04 to 06,105,Model A,1985,63.33,460000,Mar 2021
+330,Ubi Ave 1,10 to 12,84,Simplified,1985,63.92,360000,Mar 2021
+339,Ubi Ave 1,07 to 09,84,Simplified,1986,63.92,370000,Mar 2021
+339,Ubi Ave 1,10 to 12,84,Simplified,1986,63.83,396000,Mar 2021
+346,Ubi Ave 1,04 to 06,104,Model A,1986,63.92,455000,Mar 2021
+347,Ubi Ave 1,04 to 06,84,Simplified,1986,64.17,363000,Mar 2021
+347,Ubi Ave 1,01 to 03,104,Model A,1986,64.17,410000,Mar 2021
+30,Cassia Cres,16 to 18,102,Model A,1998,76.33,760000,Feb 2021
+42,Cassia Cres,07 to 09,93,New Generation,1981,59.42,520000,Feb 2021
+54,Cassia Cres,10 to 12,92,New Generation,1983,61.5,560000,Feb 2021
+17A,Circuit Rd,10 to 12,93,Model A,2016,94.75,740000,Feb 2021
+17B,Circuit Rd,13 to 15,93,Model A,2016,94.75,730000,Feb 2021
+18A,Circuit Rd,13 to 15,93,Model A,2016,94.75,755000,Feb 2021
+18B,Circuit Rd,04 to 06,93,Model A,2016,94.75,700000,Feb 2021
+18B,Circuit Rd,04 to 06,93,Model A,2016,94.75,710000,Feb 2021
+18C,Circuit Rd,01 to 03,93,Model A,2016,94.75,715000,Feb 2021
+18C,Circuit Rd,13 to 15,93,Model A,2016,94.75,750000,Feb 2021
+18D,Circuit Rd,07 to 09,93,Model A,2016,94.75,732000,Feb 2021
+18D,Circuit Rd,13 to 15,93,Model A,2016,94.83,760000,Feb 2021
+22,Eunos Cres,13 to 15,98,New Generation,1977,55.25,440000,Feb 2021
+35,Eunos Cres,13 to 15,85,Model A,2006,84.75,670000,Feb 2021
+415,Eunos Rd 5,01 to 03,107,Model A,1984,62.67,550000,Feb 2021
+124,Geylang East Ave 1,04 to 06,108,Model A,1983,61.83,540000,Feb 2021
+2C,Geylang Serai,07 to 09,95,Model A,2011,89.83,660000,Feb 2021
+121,Paya Lebar Way,10 to 12,91,New Generation,1980,58.5,360000,Feb 2021
+55,Pipit Rd,16 to 18,101,Model A,1997,75.83,610000,Feb 2021
+315,Ubi Ave 1,07 to 09,104,Model A,1985,63.67,460000,Feb 2021
+346,Ubi Ave 1,10 to 12,84,Simplified,1986,64.08,350000,Feb 2021
+31,Balam Rd,07 to 09,97,New Generation,1985,63.25,460000,Jan 2021
+32,Cassia Cres,07 to 09,92,New Generation,1981,59.5,515000,Jan 2021
+17B,Circuit Rd,13 to 15,93,Model A,2016,94.83,740000,Jan 2021
+18B,Circuit Rd,07 to 09,93,Model A,2016,94.92,720000,Jan 2021
+18B,Circuit Rd,10 to 12,93,Model A,2016,94.83,768000,Jan 2021
+18C,Circuit Rd,16 to 18,93,Model A,2016,94.92,768000,Jan 2021
+10,Eunos Cres,04 to 06,91,New Generation,1978,56.5,445000,Jan 2021
+11,Eunos Cres,10 to 12,91,New Generation,1977,55.33,418000,Jan 2021
+11,Eunos Cres,10 to 12,91,New Generation,1977,55.42,430000,Jan 2021
+128,Geylang East Ave 1,04 to 06,109,Model A,1983,61.67,555000,Jan 2021
+120,Geylang East Ctrl,01 to 03,91,New Generation,1982,60.33,460000,Jan 2021
+120,Geylang East Ctrl,07 to 09,92,New Generation,1982,60.42,530000,Jan 2021
+5,Haig Rd,07 to 09,92,New Generation,1976,54.58,470000,Jan 2021
+5,Haig Rd,04 to 06,92,New Generation,1976,54.58,478000,Jan 2021
+45,Jln Tiga,07 to 09,93,Model A,2005,83.33,710000,Jan 2021
+122,Paya Lebar Way,01 to 03,91,New Generation,1980,58.67,375000,Jan 2021
+1,Pine Cl,07 to 09,95,Model A,2000,78.5,720000,Jan 2021
+3,Pine Cl,01 to 03,95,Model A,2000,78.5,650000,Jan 2021
+11,Pine Cl,10 to 12,95,Model A,2000,78.42,735000,Jan 2021
+327,Ubi Ave 1,04 to 06,84,Simplified,1985,63.83,390000,Jan 2021
+329,Ubi Ave 1,04 to 06,84,Simplified,1985,63.92,366000,Jan 2021
+42,Cassia Cres,04 to 06,93,New Generation,1981,59.67,490000,Dec 2020
+17A,Circuit Rd,10 to 12,93,Model A,2016,94.92,738000,Dec 2020
+17B,Circuit Rd,07 to 09,93,Model A,2016,95,710000,Dec 2020
+17B,Circuit Rd,16 to 18,93,Model A,2016,95,728000,Dec 2020
+18B,Circuit Rd,13 to 15,93,Model A,2016,95,708000,Dec 2020
+18B,Circuit Rd,07 to 09,93,Model A,2016,95,747000,Dec 2020
+18B,Circuit Rd,16 to 18,93,Model A,2016,95,750000,Dec 2020
+18B,Circuit Rd,16 to 18,93,Model A,2016,95,755000,Dec 2020
+18C,Circuit Rd,04 to 06,93,Model A,2016,95,675000,Dec 2020
+18D,Circuit Rd,01 to 03,93,Model A,2016,94.92,635000,Dec 2020
+43,Circuit Rd,01 to 03,94,Adjoined Flat,1971,49.17,408000,Dec 2020
+128,Geylang East Ave 1,01 to 03,114,Model A,1983,61.67,550000,Dec 2020
+122,Geylang East Ctrl,10 to 12,91,New Generation,1982,60.42,530000,Dec 2020
+2C,Geylang Serai,16 to 18,93,Model A,2011,90.08,716000,Dec 2020
+3A,Geylang Serai,13 to 15,95,Model A,2011,90,723000,Dec 2020
+3,Pine Cl,13 to 15,86,Model A,2000,78.58,740000,Dec 2020
+10,Pine Cl,01 to 03,102,New Generation,1981,59.67,480000,Dec 2020
+304,Ubi Ave 1,04 to 06,83,Simplified,2000,78.5,388000,Dec 2020
+313,Ubi Ave 1,04 to 06,90,Simplified,1985,63.75,355000,Dec 2020
+314,Ubi Ave 1,01 to 03,84,Simplified,1985,63.83,367000,Dec 2020
+338,Ubi Ave 1,10 to 12,105,Model A,1986,64.25,450000,Dec 2020
+341,Ubi Ave 1,07 to 09,84,Simplified,1985,63.83,430000,Dec 2020
+352,Ubi Ave 1,07 to 09,104,Model A,1989,67.25,430000,Dec 2020
+31,Balam Rd,10 to 12,92,New Generation,1985,63.5,458000,Nov 2020
+28,Cassia Cres,10 to 12,102,Model A,1998,76.67,718000,Nov 2020
+32,Cassia Cres,01 to 03,92,New Generation,1981,59.75,480000,Nov 2020
+42,Cassia Cres,10 to 12,93,New Generation,1981,59.75,522888,Nov 2020
+17A,Circuit Rd,16 to 18,93,Model A,2016,95.08,750000,Nov 2020
+17B,Circuit Rd,10 to 12,93,Model A,2016,95.08,710000,Nov 2020
+17B,Circuit Rd,07 to 09,93,Model A,2016,95,716000,Nov 2020
+17B,Circuit Rd,04 to 06,93,Model A,2016,95.08,720000,Nov 2020
+17B,Circuit Rd,19 to 21,93,Model A,2016,95,750000,Nov 2020
+18B,Circuit Rd,10 to 12,93,Model A,2016,95.08,755000,Nov 2020
+18C,Circuit Rd,04 to 06,93,Model A,2016,95.08,700000,Nov 2020
+18C,Circuit Rd,10 to 12,93,Model A,2016,95.08,740000,Nov 2020
+18C,Circuit Rd,16 to 18,93,Model A,2016,95.08,800000,Nov 2020
+18D,Circuit Rd,16 to 18,93,Model A,2016,95,780000,Nov 2020
+60,Dakota Cres,13 to 15,111,Model A,1983,61.92,755000,Nov 2020
+9,Eunos Cres,01 to 03,91,New Generation,1978,56.75,392000,Nov 2020
+11,Eunos Cres,01 to 03,91,New Generation,1977,55.58,404800,Nov 2020
+31,Eunos Cres,04 to 06,90,Model A,2007,85.17,698888,Nov 2020
+34,Eunos Cres,07 to 09,90,Model A,2006,85.08,680000,Nov 2020
+412,Eunos Rd 5,01 to 03,104,Model A,1992,70.92,535000,Nov 2020
+122,Geylang East Ctrl,07 to 09,91,New Generation,1982,60.5,540000,Nov 2020
+93,Jln Dua,07 to 09,124,Adjoined Flat,1969,47.25,560000,Nov 2020
+40,Sims Dr,07 to 09,113,Model A,1990,68.67,530000,Nov 2020
+42,Sims Dr,04 to 06,109,Model A,1990,68.5,458000,Nov 2020
+319,Ubi Ave 1,04 to 06,104,Model A,1985,63.67,430000,Nov 2020
+327,Ubi Ave 1,07 to 09,84,Simplified,1985,64,382000,Nov 2020
+344,Ubi Ave 1,04 to 06,90,Simplified,1985,63.75,375000,Nov 2020
+345,Ubi Ave 1,01 to 03,84,Simplified,1985,64,370000,Nov 2020
+346,Ubi Ave 1,04 to 06,84,Simplified,1986,64.33,345000,Nov 2020
+349,Ubi Ave 1,04 to 06,90,Simplified,1986,64.25,415000,Nov 2020

@@ -1,0 +1,1131 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date
+697A,Jurong West Ctrl 3,10 to 12,93,Model A,2017,95,670000,Nov 2021
+534,Jurong West St 52,01 to 03,91,New Generation,1982,59.58,390000,Nov 2021
+648D,Jurong West St 61,10 to 12,91,Model A,2001,78.5,460000,Nov 2021
+662C,Jurong West St 64,07 to 09,91,Model A,2001,78.92,470000,Nov 2021
+664B,Jurong West St 64,13 to 15,91,Model A,2000,77.83,491088,Nov 2021
+657A,Jurong West St 65,01 to 03,91,Model A,2002,79.58,435000,Nov 2021
+942,Jurong West St 91,04 to 06,105,Model A,1989,66.83,390000,Nov 2021
+988A,Jurong West St 93,01 to 03,94,Premium Apartment,2008,85.83,445000,Nov 2021
+347,Kang Ching Rd,07 to 09,102,Model A,1997,74.58,460000,Nov 2021
+196A,Boon Lay Dr,16 to 18,93,Model A,2015,92.58,570000,Oct 2021
+197B,Boon Lay Dr,16 to 18,93,Model A,2015,92.58,530000,Oct 2021
+197C,Boon Lay Dr,07 to 09,93,Model A,2015,92.58,523000,Oct 2021
+268B,Boon Lay Dr,04 to 06,90,Model A,2002,79.42,405000,Oct 2021
+365,Corporation Dr,07 to 09,102,Model A,1997,74.92,408000,Oct 2021
+437,Jurong West Ave 1,04 to 06,111,Model A,1985,62.58,396000,Oct 2021
+273D,Jurong West Ave 3,04 to 06,88,Model A2,2001,79.17,386000,Oct 2021
+723,Jurong West Ave 5,01 to 03,111,Model A,1990,68.17,400888,Oct 2021
+679C,Jurong West Ctrl 1,10 to 12,95,Premium Apartment,2000,78,480000,Oct 2021
+686C,Jurong West Ctrl 1,04 to 06,93,Premium Apartment,2000,78.08,448000,Oct 2021
+689,Jurong West Ctrl 1,04 to 06,99,Premium Apartment,1998,75.67,520000,Oct 2021
+691,Jurong West Ctrl 1,01 to 03,100,Premium Apartment,1998,75.75,457000,Oct 2021
+697A,Jurong West Ctrl 3,01 to 03,93,Model A,2017,95.08,625000,Oct 2021
+697A,Jurong West Ctrl 3,10 to 12,93,Model A,2017,95.08,640000,Oct 2021
+697B,Jurong West Ctrl 3,07 to 09,93,Model A,2017,95,620000,Oct 2021
+698B,Jurong West Ctrl 3,01 to 03,93,Model A,2017,95.08,610000,Oct 2021
+412,Jurong West St 42,10 to 12,103,Model A,1985,62.67,386000,Oct 2021
+447,Jurong West St 42,07 to 09,103,Model A,1984,61.67,425000,Oct 2021
+521,Jurong West St 52,10 to 12,94,New Generation,1982,60.25,448000,Oct 2021
+623,Jurong West St 61,07 to 09,90,Model A,2001,78.33,462000,Oct 2021
+642,Jurong West St 61,13 to 15,100,Model A,1998,76,480000,Oct 2021
+643,Jurong West St 61,04 to 06,93,Model A2,1998,75.75,460000,Oct 2021
+649A,Jurong West St 61,10 to 12,91,Model A,2000,78,505000,Oct 2021
+668C,Jurong West St 64,04 to 06,85,Model A2,2000,77.75,438000,Oct 2021
+668D,Jurong West St 64,04 to 06,85,Model A2,2000,77.83,458000,Oct 2021
+674B,Jurong West St 65,07 to 09,91,Model A,2002,80.25,432000,Oct 2021
+718,Jurong West St 71,04 to 06,104,Model A,1991,68.42,398000,Oct 2021
+731,Jurong West St 72,10 to 12,103,Model A,1990,68.17,440000,Oct 2021
+739,Jurong West St 73,01 to 03,106,Model A,1995,72.67,385000,Oct 2021
+736,Jurong West St 75,01 to 03,106,Model A,1995,72.83,400000,Oct 2021
+914,Jurong West St 91,01 to 03,103,Model A,1988,65.83,390000,Oct 2021
+946,Jurong West St 91,10 to 12,113,Model A,1989,66.83,445000,Oct 2021
+977,Jurong West St 93,01 to 03,104,Model A,1989,66.67,390000,Oct 2021
+979,Jurong West St 93,04 to 06,109,Model A,1989,67,440000,Oct 2021
+337D,Tah Ching Rd,10 to 12,94,Model A,2010,87.58,452000,Oct 2021
+138D,Yuan Ching Rd,01 to 03,89,Dbss,2014,92,605000,Oct 2021
+152,Yung Ho Rd,01 to 03,104,Model A,1990,67.92,385000,Oct 2021
+175C,Yung Kuang Rd,04 to 06,93,Premium Apartment,2015,92.67,460000,Oct 2021
+177,Yung Sheng Rd,07 to 09,96,Model A,2001,78.67,445000,Oct 2021
+183A,Boon Lay Ave,13 to 15,92,Model A,2015,92.42,500000,Sep 2021
+183D,Boon Lay Ave,07 to 09,92,Model A,2015,92.42,498000,Sep 2021
+181A,Boon Lay Dr,04 to 06,93,Model A,2014,91.83,450000,Sep 2021
+196A,Boon Lay Dr,16 to 18,93,Model A,2015,92.67,580000,Sep 2021
+196B,Boon Lay Dr,13 to 15,93,Model A,2015,92.67,530000,Sep 2021
+196B,Boon Lay Dr,16 to 18,93,Model A,2015,92.67,550000,Sep 2021
+266,Boon Lay Dr,01 to 03,115,Model A,1995,72.83,455000,Sep 2021
+441,Jurong West Ave 1,01 to 03,103,Model A,1984,62.08,380000,Sep 2021
+488,Jurong West Ave 1,01 to 03,91,New Generation,1985,62.42,393000,Sep 2021
+686A,Jurong West Ctrl 1,07 to 09,94,Premium Apartment,2000,78.08,490000,Sep 2021
+686A,Jurong West Ctrl 1,13 to 15,93,Premium Apartment,2000,78.17,515000,Sep 2021
+689,Jurong West Ctrl 1,01 to 03,100,Premium Apartment,1998,75.75,488000,Sep 2021
+272A,Jurong West St 24,10 to 12,95,Premium Apartment,2003,81.17,412000,Sep 2021
+480,Jurong West St 41,10 to 12,100,New Generation,1985,63.17,408000,Sep 2021
+411,Jurong West St 42,10 to 12,104,Model A,1984,61.92,395000,Sep 2021
+419,Jurong West St 42,04 to 06,88,Simplified,1985,62.67,380000,Sep 2021
+449,Jurong West St 42,01 to 03,102,Model A,1985,62.5,330000,Sep 2021
+551,Jurong West St 42,04 to 06,104,Model A,1985,62.42,410000,Sep 2021
+531,Jurong West St 52,04 to 06,95,New Generation,1983,61,402000,Sep 2021
+536,Jurong West St 52,07 to 09,93,New Generation,1983,61.08,388000,Sep 2021
+655B,Jurong West St 61,01 to 03,85,Model A2,2002,80.17,450000,Sep 2021
+613,Jurong West St 62,04 to 06,94,Premium Apartment,2001,78.42,477000,Sep 2021
+664D,Jurong West St 64,04 to 06,91,Model A,2000,78,466000,Sep 2021
+677A,Jurong West St 64,13 to 15,93,Premium Apartment,2008,85.75,450000,Sep 2021
+684A,Jurong West St 64,13 to 15,93,Premium Apartment,2000,78.08,486000,Sep 2021
+617,Jurong West St 65,04 to 06,90,Model A2,2000,78.25,460000,Sep 2021
+657B,Jurong West St 65,16 to 18,91,Model A,2001,78.75,458000,Sep 2021
+663A,Jurong West St 65,04 to 06,91,Model A,2000,77.92,455000,Sep 2021
+663C,Jurong West St 65,13 to 15,91,Model A,2000,78,472000,Sep 2021
+673A,Jurong West St 65,13 to 15,86,Model A2,2002,80.08,430000,Sep 2021
+673A,Jurong West St 65,13 to 15,86,Model A2,2002,80.17,450000,Sep 2021
+674A,Jurong West St 65,04 to 06,91,Model A,2002,79.75,402000,Sep 2021
+716,Jurong West St 71,01 to 03,104,Model A,1991,68.5,405000,Sep 2021
+718,Jurong West St 71,10 to 12,104,Model A,1991,68.5,406000,Sep 2021
+734,Jurong West St 73,04 to 06,106,Model A,1995,72.83,428000,Sep 2021
+743,Jurong West St 73,04 to 06,104,Model A,1992,69.92,390000,Sep 2021
+812,Jurong West St 81,07 to 09,104,Model A,1990,67.67,400000,Sep 2021
+816,Jurong West St 81,01 to 03,107,Model A,1993,71.08,385000,Sep 2021
+902,Jurong West St 91,10 to 12,104,Model A,1988,66,405000,Sep 2021
+905,Jurong West St 91,01 to 03,108,Model A,1988,66,402000,Sep 2021
+965,Jurong West St 93,07 to 09,103,Model A,1989,66.75,390000,Sep 2021
+988A,Jurong West St 93,10 to 12,94,Premium Apartment,2008,85.92,460888,Sep 2021
+354,Kang Ching Rd,01 to 03,101,Model A,1997,74.42,440000,Sep 2021
+337A,Tah Ching Rd,10 to 12,92,Model A,2010,87.67,470000,Sep 2021
+138D,Yuan Ching Rd,16 to 18,89,Dbss,2014,92.08,618000,Sep 2021
+138D,Yuan Ching Rd,13 to 15,89,Dbss,2014,92.08,630000,Sep 2021
+175A,Yung Kuang Rd,07 to 09,93,Premium Apartment,2015,92.75,493000,Sep 2021
+181,Yung Sheng Rd,01 to 03,90,Model A,2001,78.67,400000,Sep 2021
+183A,Boon Lay Ave,01 to 03,92,Model A,2015,92.42,435000,Aug 2021
+183B,Boon Lay Ave,04 to 06,92,Model A,2015,92.42,445000,Aug 2021
+183C,Boon Lay Ave,13 to 15,92,Model A,2015,92.5,495000,Aug 2021
+196B,Boon Lay Dr,07 to 09,93,Model A,2015,92.75,519000,Aug 2021
+259,Boon Lay Dr,10 to 12,112,Model A,1995,72.92,450000,Aug 2021
+262,Boon Lay Dr,07 to 09,109,Model A,1995,72.92,433000,Aug 2021
+266,Boon Lay Dr,04 to 06,113,Model A,1995,72.92,450000,Aug 2021
+430,Jurong West Ave 1,10 to 12,103,Model A,1985,62.5,410000,Aug 2021
+273A,Jurong West Ave 3,13 to 15,90,Model A,2001,79.42,387000,Aug 2021
+727,Jurong West Ave 5,10 to 12,104,Model A,1989,67.25,420000,Aug 2021
+728,Jurong West Ave 5,04 to 06,104,Model A,1989,67.25,388000,Aug 2021
+687,Jurong West Ctrl 1,07 to 09,99,Premium Apartment,1998,75.75,490000,Aug 2021
+693,Jurong West Ctrl 1,07 to 09,102,Premium Apartment,1998,75.58,485000,Aug 2021
+696,Jurong West Ctrl 1,04 to 06,102,Premium Apartment,1998,75.67,510000,Aug 2021
+697C,Jurong West Ctrl 3,07 to 09,83,Model A,2017,95.17,580000,Aug 2021
+697C,Jurong West Ctrl 3,16 to 18,83,Model A,2017,95.17,608000,Aug 2021
+698B,Jurong West Ctrl 3,10 to 12,83,Model A,2017,95.25,588000,Aug 2021
+698C,Jurong West Ctrl 3,07 to 09,93,Model A,2017,95.25,600000,Aug 2021
+698C,Jurong West Ctrl 3,16 to 18,93,Model A,2017,95.25,655000,Aug 2021
+275C,Jurong West St 25,01 to 03,90,Model A,2002,79.58,365000,Aug 2021
+276A,Jurong West St 25,07 to 09,88,Model A2,2002,79.58,418000,Aug 2021
+276D,Jurong West St 25,04 to 06,90,Model A,2002,79.67,400000,Aug 2021
+276D,Jurong West St 25,07 to 09,90,Model A,2002,79.67,400888,Aug 2021
+463,Jurong West St 41,07 to 09,94,New Generation,1985,62.92,390000,Aug 2021
+480,Jurong West St 41,01 to 03,93,New Generation,1985,63.17,415000,Aug 2021
+433,Jurong West St 42,04 to 06,104,Model A,1985,62.58,385000,Aug 2021
+434,Jurong West St 42,01 to 03,111,Model A,1984,62.25,368000,Aug 2021
+554,Jurong West St 42,10 to 12,104,Model A,1984,62.33,410000,Aug 2021
+515,Jurong West St 52,10 to 12,107,Model A,1984,61.92,522000,Aug 2021
+644,Jurong West St 61,07 to 09,100,Model A,1998,76.08,460000,Aug 2021
+655A,Jurong West St 61,10 to 12,87,Model A2,2002,80.25,440000,Aug 2021
+601,Jurong West St 62,10 to 12,94,Premium Apartment,2001,78.5,505000,Aug 2021
+668C,Jurong West St 64,07 to 09,86,Model A2,2000,78,460000,Aug 2021
+685B,Jurong West St 64,07 to 09,93,Premium Apartment,2000,78,479000,Aug 2021
+635,Jurong West St 65,07 to 09,91,Model A,2001,79.33,430000,Aug 2021
+663D,Jurong West St 65,10 to 12,91,Model A,2000,78,450000,Aug 2021
+674B,Jurong West St 65,13 to 15,92,Model A,2002,80.33,450000,Aug 2021
+707,Jurong West St 71,10 to 12,109,Model A,1995,73,470000,Aug 2021
+730,Jurong West St 72,10 to 12,104,Model A,1990,68.25,410000,Aug 2021
+732,Jurong West St 73,16 to 18,107,Model A,1995,72.92,415000,Aug 2021
+757,Jurong West St 74,01 to 03,108,Model A,1996,74.17,385000,Aug 2021
+812,Jurong West St 81,01 to 03,104,Model A,1990,67.75,370000,Aug 2021
+835,Jurong West St 81,01 to 03,104,Model A,1989,67.33,365000,Aug 2021
+835,Jurong West St 81,07 to 09,104,Model A,1989,67.33,450000,Aug 2021
+909,Jurong West St 91,04 to 06,104,Model A,1989,66.42,372000,Aug 2021
+917,Jurong West St 91,07 to 09,103,Model A,1988,65.92,342000,Aug 2021
+941,Jurong West St 91,07 to 09,105,Model A,1989,66.75,383000,Aug 2021
+978,Jurong West St 93,04 to 06,103,Model A,1989,66.92,400000,Aug 2021
+339A,Kang Ching Rd,13 to 15,89,Model A,2012,89.58,490000,Aug 2021
+348,Kang Ching Rd,04 to 06,102,Model A,1997,74.83,437000,Aug 2021
+355,Kang Ching Rd,04 to 06,101,Model A,1997,74.5,422000,Aug 2021
+324,Tah Ching Rd,10 to 12,106,Model A,1997,74.83,435000,Aug 2021
+338A,Tah Ching Rd,10 to 12,94,Model A,2010,87.75,480000,Aug 2021
+338A,Tah Ching Rd,07 to 09,94,Model A,2010,87.75,490000,Aug 2021
+152,Yung Ho Rd,01 to 03,111,Model A,1990,68.08,370000,Aug 2021
+175C,Yung Kuang Rd,13 to 15,93,Premium Apartment,2015,92.83,500000,Aug 2021
+158,Yung Loh Rd,01 to 03,106,Model A,1996,73.5,400000,Aug 2021
+158,Yung Loh Rd,07 to 09,106,Model A,1996,73.5,412000,Aug 2021
+180,Yung Sheng Rd,04 to 06,90,Model A,2001,78.83,395000,Aug 2021
+183B,Boon Lay Ave,04 to 06,92,Model A,2015,92.58,500000,Jul 2021
+183B,Boon Lay Ave,16 to 18,92,Model A,2015,92.5,500000,Jul 2021
+197A,Boon Lay Dr,13 to 15,93,Model A,2015,92.83,550000,Jul 2021
+263,Boon Lay Dr,07 to 09,109,Model A,1995,73,420000,Jul 2021
+264,Boon Lay Dr,04 to 06,115,Model A,1995,73,424000,Jul 2021
+538,Jurong West Ave 1,07 to 09,103,Model A,1984,62.25,400000,Jul 2021
+723,Jurong West Ave 5,01 to 03,104,Model A,1990,68.5,370000,Jul 2021
+686C,Jurong West Ctrl 1,13 to 15,94,Premium Apartment,2000,78.33,495000,Jul 2021
+690,Jurong West Ctrl 1,01 to 03,98,Premium Apartment,1998,75.92,448000,Jul 2021
+690,Jurong West Ctrl 1,10 to 12,99,Premium Apartment,1998,75.92,505000,Jul 2021
+698B,Jurong West Ctrl 3,10 to 12,83,Model A,2017,95.42,568888,Jul 2021
+475,Jurong West St 41,01 to 03,103,Model A,1984,62.08,399888,Jul 2021
+406,Jurong West St 42,07 to 09,106,Model A,1984,62.17,380000,Jul 2021
+449,Jurong West St 42,01 to 03,109,Model A,1985,62.67,370000,Jul 2021
+450,Jurong West St 42,01 to 03,103,Model A,1985,62.92,390000,Jul 2021
+545,Jurong West St 42,01 to 03,104,Model A,1985,62.75,385000,Jul 2021
+546,Jurong West St 42,10 to 12,103,Model A,1985,62.75,418000,Jul 2021
+550,Jurong West St 42,01 to 03,103,Model A,1985,62.83,360000,Jul 2021
+649A,Jurong West St 61,13 to 15,90,Model A,2000,78.33,440000,Jul 2021
+650B,Jurong West St 61,07 to 09,90,Model A,2000,78.42,435000,Jul 2021
+651A,Jurong West St 61,07 to 09,91,Model A,2002,79.92,426800,Jul 2021
+651B,Jurong West St 61,01 to 03,91,Model A,2002,80,435000,Jul 2021
+655A,Jurong West St 61,04 to 06,86,Model A2,2002,80.33,405000,Jul 2021
+664A,Jurong West St 64,10 to 12,90,Model A,2000,78.08,425888,Jul 2021
+668D,Jurong West St 64,16 to 18,86,Model A2,2000,78.08,458888,Jul 2021
+657B,Jurong West St 65,07 to 09,91,Model A,2001,79.08,440088,Jul 2021
+659B,Jurong West St 65,07 to 09,91,Model A,2001,79,455000,Jul 2021
+667A,Jurong West St 65,10 to 12,90,Model A,2000,78.08,450000,Jul 2021
+673A,Jurong West St 65,13 to 15,86,Model A2,2002,80.33,430000,Jul 2021
+731,Jurong West St 72,04 to 06,104,Model A,1990,68.42,400000,Jul 2021
+751,Jurong West St 73,10 to 12,104,Model A,1992,70.25,393000,Jul 2021
+826,Jurong West St 81,10 to 12,104,Model A,1990,67.83,405000,Jul 2021
+835,Jurong West St 81,01 to 03,104,Model A,1989,67.42,388000,Jul 2021
+853,Jurong West St 81,01 to 03,108,Model A,1996,73.83,390000,Jul 2021
+854,Jurong West St 81,04 to 06,107,Model A,1996,74.17,394000,Jul 2021
+902,Jurong West St 91,04 to 06,104,Model A,1988,66.08,382000,Jul 2021
+914,Jurong West St 91,07 to 09,103,Model A,1988,66.08,380000,Jul 2021
+966,Jurong West St 93,01 to 03,106,Model A,1989,66.92,355000,Jul 2021
+976,Jurong West St 93,07 to 09,104,Model A,1989,66.83,410000,Jul 2021
+989A,Jurong West St 93,07 to 09,93,Premium Apartment,2008,86.17,435000,Jul 2021
+323,Tah Ching Rd,04 to 06,103,Model A,1997,75,435000,Jul 2021
+337D,Tah Ching Rd,04 to 06,94,Model A,2010,87.83,465000,Jul 2021
+138A,Yuan Ching Rd,19 to 21,91,Dbss,2014,92.25,632000,Jul 2021
+138D,Yuan Ching Rd,01 to 03,89,Dbss,2014,92.25,543000,Jul 2021
+175B,Yung Kuang Rd,07 to 09,93,Premium Apartment,2015,92.92,492000,Jul 2021
+182,Yung Sheng Rd,16 to 18,96,Model A,2001,78.83,438000,Jul 2021
+183,Yung Sheng Rd,10 to 12,96,Model A,2001,78.83,420000,Jul 2021
+183A,Boon Lay Ave,04 to 06,92,Model A,2015,92.67,460000,Jun 2021
+183A,Boon Lay Ave,10 to 12,92,Model A,2015,92.67,470000,Jun 2021
+183D,Boon Lay Ave,16 to 18,92,Model A,2015,92.58,480000,Jun 2021
+183D,Boon Lay Ave,10 to 12,92,Model A,2015,92.67,488000,Jun 2021
+196A,Boon Lay Dr,07 to 09,93,Model A,2015,92.92,535000,Jun 2021
+111,Ho Ching Rd,07 to 09,114,Improved,1970,47.92,340000,Jun 2021
+441,Jurong West Ave 1,01 to 03,106,Model A,1984,62.33,365000,Jun 2021
+273A,Jurong West Ave 3,07 to 09,90,Model A,2001,79.58,350000,Jun 2021
+273D,Jurong West Ave 3,10 to 12,88,Model A2,2001,79.5,385000,Jun 2021
+683A,Jurong West Ctrl 1,01 to 03,94,Premium Apartment,2000,78.42,435000,Jun 2021
+683B,Jurong West Ctrl 1,01 to 03,93,Premium Apartment,2000,78.42,470000,Jun 2021
+695,Jurong West Ctrl 1,04 to 06,106,Premium Apartment,1998,75.83,500000,Jun 2021
+697B,Jurong West Ctrl 3,07 to 09,83,Model A,2017,95.42,578000,Jun 2021
+697B,Jurong West Ctrl 3,01 to 03,93,Model A,2017,95.42,600000,Jun 2021
+697B,Jurong West Ctrl 3,04 to 06,93,Model A,2017,95.42,615000,Jun 2021
+458,Jurong West St 41,10 to 12,91,New Generation,1984,62.42,407088,Jun 2021
+454,Jurong West St 42,04 to 06,104,Model A,1985,62.92,415000,Jun 2021
+543,Jurong West St 42,10 to 12,103,Model A,1984,62.58,431500,Jun 2021
+517E,Jurong West St 52,04 to 06,95,Model A,2000,78,556000,Jun 2021
+517E,Jurong West St 52,04 to 06,95,Model A,2000,78,565000,Jun 2021
+536,Jurong West St 52,01 to 03,95,New Generation,1983,61.33,370000,Jun 2021
+637,Jurong West St 61,13 to 15,90,Model A,2004,81.92,430000,Jun 2021
+650C,Jurong West St 61,13 to 15,91,Model A,2000,78.42,453000,Jun 2021
+651B,Jurong West St 61,13 to 15,91,Model A,2002,80.08,455000,Jun 2021
+655B,Jurong West St 61,10 to 12,85,Model A2,2002,80.42,430000,Jun 2021
+601,Jurong West St 62,01 to 03,94,Premium Apartment,2001,78.67,425000,Jun 2021
+668C,Jurong West St 64,10 to 12,86,Model A2,2000,78.25,430000,Jun 2021
+685B,Jurong West St 64,04 to 06,93,Premium Apartment,2000,78.25,425888,Jun 2021
+667A,Jurong West St 65,10 to 12,90,Model A,2000,78.08,450000,Jun 2021
+706,Jurong West St 71,10 to 12,111,Model A,1995,73.17,418000,Jun 2021
+715,Jurong West St 71,01 to 03,104,Model A,1991,68.75,360000,Jun 2021
+732,Jurong West St 73,13 to 15,107,Model A,1995,73.08,425000,Jun 2021
+743,Jurong West St 73,10 to 12,104,Model A,1992,70.25,393000,Jun 2021
+744,Jurong West St 73,07 to 09,107,Model A,1993,71.58,399000,Jun 2021
+757,Jurong West St 74,04 to 06,109,Model A,1996,74.33,395000,Jun 2021
+811,Jurong West St 81,07 to 09,107,Model A,1993,71.58,398000,Jun 2021
+847,Jurong West St 81,04 to 06,108,Model A,1996,73.83,390000,Jun 2021
+850,Jurong West St 81,13 to 15,109,Model A,1996,73.83,395000,Jun 2021
+944,Jurong West St 91,04 to 06,103,Model A,1989,66.92,395000,Jun 2021
+945,Jurong West St 91,04 to 06,103,Model A,1989,67.17,371000,Jun 2021
+977,Jurong West St 93,04 to 06,104,Model A,1989,66.92,405000,Jun 2021
+338B,Kang Ching Rd,10 to 12,89,Model A,2012,89.83,450888,Jun 2021
+345,Kang Ching Rd,04 to 06,102,Model A,1997,75.17,425000,Jun 2021
+354,Kang Ching Rd,04 to 06,101,Model A,1997,74.58,450000,Jun 2021
+138A,Yuan Ching Rd,16 to 18,91,Dbss,2014,92.33,610000,Jun 2021
+138B,Yuan Ching Rd,01 to 03,89,Dbss,2014,92.42,588000,Jun 2021
+359,Yung An Rd,13 to 15,106,Model A,1995,73.5,390000,Jun 2021
+361,Yung An Rd,04 to 06,108,Model A,1995,73.5,418000,Jun 2021
+155,Yung Loh Rd,01 to 03,106,Model A,1996,73.67,400000,Jun 2021
+183C,Boon Lay Ave,04 to 06,92,Model A,2015,92.67,460000,May 2021
+181A,Boon Lay Dr,01 to 03,93,Model A,2014,92.08,435000,May 2021
+488,Jurong West Ave 1,10 to 12,91,New Generation,1985,62.75,390000,May 2021
+540,Jurong West Ave 1,01 to 03,109,Model A,1984,62.67,366000,May 2021
+276B,Jurong West Ave 3,13 to 15,90,Model A,2002,79.92,370000,May 2021
+691,Jurong West Ctrl 1,07 to 09,99,Premium Apartment,1998,76,470000,May 2021
+697A,Jurong West Ctrl 3,04 to 06,93,Model A,2017,95.5,598888,May 2021
+275C,Jurong West St 25,07 to 09,90,Model A,2002,79.75,375000,May 2021
+483,Jurong West St 41,01 to 03,91,New Generation,1985,63.08,366000,May 2021
+403,Jurong West St 42,07 to 09,106,Model A,1984,62.17,370000,May 2021
+543,Jurong West St 42,01 to 03,112,Model A,1984,62.67,385000,May 2021
+557,Jurong West St 42,07 to 09,104,Model A,1985,62.75,380000,May 2021
+514,Jurong West St 52,10 to 12,108,Model A,1984,62.08,500000,May 2021
+517C,Jurong West St 52,16 to 18,95,Model A,2000,78.17,576000,May 2021
+655B,Jurong West St 61,07 to 09,85,Model A2,2002,80.5,408000,May 2021
+606,Jurong West St 65,04 to 06,95,Premium Apartment,2001,79,445000,May 2021
+657B,Jurong West St 65,13 to 15,91,Model A,2001,79.17,424888,May 2021
+663A,Jurong West St 65,10 to 12,91,Model A,2000,78.25,460000,May 2021
+732,Jurong West St 73,07 to 09,105,Model A,1995,73.17,400000,May 2021
+735,Jurong West St 75,01 to 03,105,Model A,1995,73.25,390000,May 2021
+736,Jurong West St 75,04 to 06,105,Model A,1995,73.25,400000,May 2021
+738,Jurong West St 75,01 to 03,105,Model A,1995,73.33,368000,May 2021
+810,Jurong West St 81,01 to 03,107,Model A,1993,71.58,358888,May 2021
+832,Jurong West St 81,07 to 09,106,Model A,1993,71.42,370000,May 2021
+855,Jurong West St 81,04 to 06,104,Model A,1996,74.33,405000,May 2021
+913,Jurong West St 91,10 to 12,104,Model A,1988,66,368000,May 2021
+942,Jurong West St 91,01 to 03,111,Model A,1989,67.33,378000,May 2021
+980,Jurong West St 93,07 to 09,113,Model A,1989,67.25,430000,May 2021
+989A,Jurong West St 93,04 to 06,93,Premium Apartment,2008,86.33,423000,May 2021
+324,Tah Ching Rd,04 to 06,104,Model A,1997,75.08,410000,May 2021
+330,Tah Ching Rd,13 to 15,103,Model A,1997,75.33,468000,May 2021
+138A,Yuan Ching Rd,16 to 18,89,Dbss,2014,92.33,630000,May 2021
+138B,Yuan Ching Rd,04 to 06,91,Dbss,2014,92.42,611000,May 2021
+138B,Yuan Ching Rd,04 to 06,91,Dbss,2014,92.42,622000,May 2021
+138C,Yuan Ching Rd,19 to 21,91,Dbss,2014,92.42,635000,May 2021
+175C,Yung Kuang Rd,01 to 03,93,Premium Apartment,2015,93.08,440888,May 2021
+197B,Boon Lay Dr,07 to 09,93,Model A,2015,93,515000,Apr 2021
+197C,Boon Lay Dr,04 to 06,93,Model A,2015,93.08,500000,Apr 2021
+268C,Boon Lay Dr,01 to 03,90,Model A,2002,79.92,330000,Apr 2021
+423,Jurong West Ave 1,07 to 09,105,Model A,1984,62.42,390000,Apr 2021
+540,Jurong West Ave 1,10 to 12,104,Model A,1984,62.75,400000,Apr 2021
+725,Jurong West Ave 5,10 to 12,104,Model A,1989,67.58,355000,Apr 2021
+680C,Jurong West Ctrl 1,10 to 12,94,Premium Apartment,2000,78.33,425000,Apr 2021
+681C,Jurong West Ctrl 1,10 to 12,94,Premium Apartment,2000,78.25,410000,Apr 2021
+682C,Jurong West Ctrl 1,01 to 03,97,Premium Apartment,2000,78.5,420000,Apr 2021
+275A,Jurong West St 25,04 to 06,90,Model A,2002,79.83,350000,Apr 2021
+457,Jurong West St 41,10 to 12,102,Model A,1984,62.17,390000,Apr 2021
+412,Jurong West St 42,01 to 03,103,Model A,1985,63.17,376000,Apr 2021
+414,Jurong West St 42,10 to 12,103,Model A,1984,62.58,375000,Apr 2021
+420,Jurong West St 42,04 to 06,84,Simplified,1985,63.17,342000,Apr 2021
+432,Jurong West St 42,04 to 06,103,Model A,1984,62.67,370000,Apr 2021
+445,Jurong West St 42,01 to 03,106,Model A,1985,63.25,370000,Apr 2021
+450,Jurong West St 42,01 to 03,107,Model A,1985,63.08,354000,Apr 2021
+454,Jurong West St 42,07 to 09,103,Model A,1985,63.08,392000,Apr 2021
+517E,Jurong West St 52,07 to 09,95,Model A,2000,78.08,550000,Apr 2021
+639,Jurong West St 61,13 to 15,100,Model A,1998,76.33,438000,Apr 2021
+641,Jurong West St 61,04 to 06,100,Model A,1998,76.25,395000,Apr 2021
+655A,Jurong West St 61,04 to 06,87,Model A2,2002,80.58,410000,Apr 2021
+604,Jurong West St 62,07 to 09,95,Premium Apartment,2001,79,475000,Apr 2021
+660A,Jurong West St 64,01 to 03,91,Model A,2001,79.33,390000,Apr 2021
+664A,Jurong West St 64,07 to 09,90,Model A,2000,78.25,475000,Apr 2021
+676A,Jurong West St 64,04 to 06,91,Premium Apartment,2008,86.25,402500,Apr 2021
+678C,Jurong West St 64,04 to 06,90,Premium Apartment,2008,86.17,415000,Apr 2021
+621,Jurong West St 65,04 to 06,90,Model A2,2000,78.67,420000,Apr 2021
+635,Jurong West St 65,10 to 12,91,Model A,2001,79.58,415000,Apr 2021
+657A,Jurong West St 65,10 to 12,91,Model A,2002,80.08,425000,Apr 2021
+667D,Jurong West St 65,04 to 06,90,Model A,2000,78.25,405000,Apr 2021
+673B,Jurong West St 65,01 to 03,91,Model A,2002,80.75,377000,Apr 2021
+717,Jurong West St 71,04 to 06,107,Model A,1991,68.83,390000,Apr 2021
+731,Jurong West St 72,07 to 09,104,Model A,1990,68.67,439000,Apr 2021
+843,Jurong West St 81,10 to 12,106,Model A,1993,71.17,390088,Apr 2021
+902,Jurong West St 91,13 to 15,104,Model A,1988,66.42,348000,Apr 2021
+909,Jurong West St 91,10 to 12,104,Model A,1989,66.83,342000,Apr 2021
+945,Jurong West St 91,01 to 03,105,Model A,1989,67.33,360000,Apr 2021
+949,Jurong West St 91,04 to 06,113,Model A,1988,66.58,388000,Apr 2021
+976,Jurong West St 93,10 to 12,104,Model A,1989,67,410000,Apr 2021
+354,Kang Ching Rd,07 to 09,101,Model A,1997,74.75,425000,Apr 2021
+138A,Yuan Ching Rd,13 to 15,86,Dbss,2014,92.5,610000,Apr 2021
+138A,Yuan Ching Rd,16 to 18,89,Dbss,2014,92.42,613000,Apr 2021
+138C,Yuan Ching Rd,19 to 21,91,Dbss,2014,92.5,636000,Apr 2021
+361,Yung An Rd,04 to 06,108,Model A,1995,73.67,375000,Apr 2021
+175A,Yung Kuang Rd,10 to 12,93,Premium Apartment,2015,93.17,470000,Apr 2021
+175B,Yung Kuang Rd,04 to 06,93,Premium Apartment,2015,93.17,438000,Apr 2021
+175B,Yung Kuang Rd,16 to 18,96,Premium Apartment,2015,93.17,490000,Apr 2021
+175C,Yung Kuang Rd,07 to 09,93,Premium Apartment,2015,93.08,478000,Apr 2021
+175C,Yung Kuang Rd,07 to 09,93,Premium Apartment,2015,93.08,480000,Apr 2021
+180,Yung Sheng Rd,07 to 09,90,Model A,2001,79.17,380000,Apr 2021
+180,Yung Sheng Rd,10 to 12,90,Model A,2001,79.08,385000,Apr 2021
+183,Yung Sheng Rd,04 to 06,96,Model A,2001,79,425000,Apr 2021
+180C,Boon Lay Dr,10 to 12,93,Model A,2014,92.25,500000,Mar 2021
+181A,Boon Lay Dr,04 to 06,93,Model A,2014,92.17,430000,Mar 2021
+197B,Boon Lay Dr,13 to 15,93,Model A,2015,93.08,530000,Mar 2021
+197B,Boon Lay Dr,16 to 18,93,Model A,2015,93.17,533000,Mar 2021
+440,Jurong West Ave 1,01 to 03,103,Model A,1985,63.17,350000,Mar 2021
+542,Jurong West Ave 1,01 to 03,103,Model A,1984,62.42,345000,Mar 2021
+273C,Jurong West Ave 3,01 to 03,90,Model A,2001,79.83,350000,Mar 2021
+679C,Jurong West Ctrl 1,07 to 09,94,Premium Apartment,2000,78.58,415000,Mar 2021
+685C,Jurong West Ctrl 1,16 to 18,94,Premium Apartment,2000,78.42,495000,Mar 2021
+693,Jurong West Ctrl 1,04 to 06,106,Premium Apartment,1998,76,450000,Mar 2021
+697B,Jurong West Ctrl 3,10 to 12,83,Model A,2017,95.58,570000,Mar 2021
+272A,Jurong West St 24,16 to 18,95,Premium Apartment,2003,81.58,378000,Mar 2021
+478,Jurong West St 41,01 to 03,91,New Generation,1985,63,360000,Mar 2021
+481,Jurong West St 41,10 to 12,100,New Generation,1985,63.08,400000,Mar 2021
+417,Jurong West St 42,10 to 12,84,Simplified,1985,63.75,340000,Mar 2021
+419,Jurong West St 42,07 to 09,84,Simplified,1985,63.17,360000,Mar 2021
+511,Jurong West St 52,13 to 15,105,Model A,1984,62.08,433000,Mar 2021
+517A,Jurong West St 52,04 to 06,95,Model A,2000,78.17,537000,Mar 2021
+637,Jurong West St 61,13 to 15,90,Model A,2004,82.08,430000,Mar 2021
+645,Jurong West St 61,04 to 06,100,Model A,1998,76.58,412000,Mar 2021
+646,Jurong West St 61,04 to 06,100,Model A,1998,76.5,420000,Mar 2021
+647,Jurong West St 61,10 to 12,100,Model A,1998,76.42,460000,Mar 2021
+661B,Jurong West St 64,07 to 09,90,Model A,2001,79.5,440000,Mar 2021
+662A,Jurong West St 64,16 to 18,91,Model A,2001,79.25,448000,Mar 2021
+668C,Jurong West St 64,16 to 18,86,Model A2,2000,78.42,425000,Mar 2021
+677B,Jurong West St 64,10 to 12,90,Premium Apartment,2008,86.25,425500,Mar 2021
+677C,Jurong West St 64,16 to 18,90,Premium Apartment,2008,86.33,420000,Mar 2021
+683C,Jurong West St 64,13 to 15,93,Premium Apartment,2000,78.67,475000,Mar 2021
+607,Jurong West St 65,10 to 12,95,Premium Apartment,2001,79.17,468000,Mar 2021
+711,Jurong West St 71,07 to 09,104,Model A,1991,68.83,385000,Mar 2021
+716,Jurong West St 71,07 to 09,103,Model A,1991,69,375000,Mar 2021
+743,Jurong West St 73,01 to 03,104,Model A,1992,70.5,355000,Mar 2021
+738,Jurong West St 75,10 to 12,105,Model A,1995,73.58,375000,Mar 2021
+836,Jurong West St 81,10 to 12,109,Model A,1993,71.33,373000,Mar 2021
+843,Jurong West St 81,07 to 09,106,Model A,1993,71.25,385000,Mar 2021
+845,Jurong West St 81,04 to 06,108,Model A,1996,74,368000,Mar 2021
+909,Jurong West St 91,07 to 09,104,Model A,1989,66.83,350000,Mar 2021
+914,Jurong West St 91,07 to 09,103,Model A,1988,66.33,372000,Mar 2021
+945,Jurong West St 91,01 to 03,105,Model A,1989,67.33,360000,Mar 2021
+926,Jurong West St 92,07 to 09,103,Model A,1989,66.92,368000,Mar 2021
+929,Jurong West St 92,04 to 06,103,Model A,1989,66.83,363000,Mar 2021
+987B,Jurong West St 93,16 to 18,93,Premium Apartment,2008,86.5,472000,Mar 2021
+988C,Jurong West St 93,10 to 12,94,Premium Apartment,2008,86.42,400000,Mar 2021
+346,Kang Ching Rd,04 to 06,102,Model A,1997,75.17,420000,Mar 2021
+347,Kang Ching Rd,04 to 06,101,Model A,1997,75.25,395000,Mar 2021
+348,Kang Ching Rd,07 to 09,101,Model A,1997,75.17,435000,Mar 2021
+138C,Yuan Ching Rd,01 to 03,89,Dbss,2014,92.5,596000,Mar 2021
+183C,Boon Lay Ave,07 to 09,92,Model A,2015,93,455000,Feb 2021
+183D,Boon Lay Ave,01 to 03,92,Model A,2015,92.92,430000,Feb 2021
+183D,Boon Lay Ave,04 to 06,92,Model A,2015,92.92,437000,Feb 2021
+180C,Boon Lay Dr,13 to 15,93,Model A,2014,92.33,485000,Feb 2021
+196B,Boon Lay Dr,01 to 03,93,Model A,2015,93.25,466000,Feb 2021
+488,Jurong West Ave 1,10 to 12,91,New Generation,1985,63,370000,Feb 2021
+273D,Jurong West Ave 3,10 to 12,88,Model A2,2001,79.83,375000,Feb 2021
+276B,Jurong West Ave 3,04 to 06,90,Model A,2002,80.17,343000,Feb 2021
+698B,Jurong West Ctrl 3,04 to 06,93,Model A,2017,95.67,625000,Feb 2021
+271D,Jurong West St 24,07 to 09,94,Premium Apartment,2003,81.83,372000,Feb 2021
+275B,Jurong West St 25,01 to 03,90,Model A,2002,79.92,345000,Feb 2021
+464,Jurong West St 41,04 to 06,103,Model A,1984,62.25,400000,Feb 2021
+466,Jurong West St 41,04 to 06,91,New Generation,1985,62.92,370000,Feb 2021
+413,Jurong West St 42,07 to 09,104,Model A,1984,62.5,355000,Feb 2021
+543,Jurong West St 42,10 to 12,104,Model A,1984,62.92,380000,Feb 2021
+514,Jurong West St 52,10 to 12,103,Model A,1984,62.33,450000,Feb 2021
+516,Jurong West St 52,07 to 09,105,Model A,1984,62.58,426000,Feb 2021
+650C,Jurong West St 61,04 to 06,91,Model A,2000,78.75,418000,Feb 2021
+650C,Jurong West St 61,10 to 12,91,Model A,2000,78.75,433000,Feb 2021
+664D,Jurong West St 64,01 to 03,90,Model A,2000,78.5,425000,Feb 2021
+668A,Jurong West St 64,04 to 06,85,Model A2,2000,78.33,375000,Feb 2021
+668C,Jurong West St 64,10 to 12,90,Model A2,2000,78.5,440000,Feb 2021
+657A,Jurong West St 65,13 to 15,91,Model A,2002,80.25,425000,Feb 2021
+657B,Jurong West St 65,16 to 18,91,Model A,2001,79.33,420000,Feb 2021
+659D,Jurong West St 65,01 to 03,90,Model A,2001,79.5,405000,Feb 2021
+673A,Jurong West St 65,07 to 09,86,Model A2,2002,80.67,378000,Feb 2021
+711,Jurong West St 71,04 to 06,103,Model A,1991,69,355000,Feb 2021
+731,Jurong West St 72,10 to 12,103,Model A,1990,68.75,360000,Feb 2021
+826,Jurong West St 81,10 to 12,104,Model A,1990,68.17,370000,Feb 2021
+911,Jurong West St 91,10 to 12,104,Model A,1989,67,355000,Feb 2021
+914,Jurong West St 91,07 to 09,103,Model A,1988,66.5,360000,Feb 2021
+917,Jurong West St 91,04 to 06,103,Model A,1988,66.5,342000,Feb 2021
+950,Jurong West St 91,07 to 09,105,Model A,1989,67.25,375000,Feb 2021
+980,Jurong West St 93,01 to 03,111,Model A,1989,67.42,360000,Feb 2021
+986B,Jurong West St 93,01 to 03,92,Premium Apartment,2008,86.5,370000,Feb 2021
+345,Kang Ching Rd,01 to 03,102,Model A,1997,75.42,390000,Feb 2021
+326,Tah Ching Rd,07 to 09,104,Model A,1997,75.25,400000,Feb 2021
+138B,Yuan Ching Rd,13 to 15,89,Dbss,2014,92.67,590000,Feb 2021
+183,Yung Sheng Rd,10 to 12,95,Model A,2001,79.25,395000,Feb 2021
+183,Yung Sheng Rd,13 to 15,96,Model A,2001,79.17,440000,Feb 2021
+184,Yung Sheng Rd,16 to 18,95,Model A,2001,79.25,410000,Feb 2021
+183C,Boon Lay Ave,01 to 03,92,Model A,2015,93,429000,Jan 2021
+197A,Boon Lay Dr,04 to 06,93,Model A,2015,93.25,480000,Jan 2021
+197A,Boon Lay Dr,07 to 09,93,Model A,2015,93.33,505000,Jan 2021
+197C,Boon Lay Dr,16 to 18,93,Model A,2015,93.25,528000,Jan 2021
+262,Boon Lay Dr,07 to 09,115,Model A,1995,73.42,400000,Jan 2021
+263,Boon Lay Dr,10 to 12,109,Model A,1995,73.42,425000,Jan 2021
+349,Corporation Dr,04 to 06,102,Model A,1997,75.92,428000,Jan 2021
+425,Jurong West Ave 1,04 to 06,107,Model A,1984,62.75,385000,Jan 2021
+430,Jurong West Ave 1,04 to 06,106,Model A,1985,63.08,330000,Jan 2021
+440,Jurong West Ave 1,04 to 06,103,Model A,1985,63.42,360000,Jan 2021
+541,Jurong West Ave 1,07 to 09,103,Model A,1984,62.92,375000,Jan 2021
+720,Jurong West Ave 5,04 to 06,104,Model A,1989,68,362000,Jan 2021
+679C,Jurong West Ctrl 1,07 to 09,94,Premium Apartment,2000,78.75,418000,Jan 2021
+688,Jurong West Ctrl 1,07 to 09,99,Premium Apartment,1998,76.42,470500,Jan 2021
+697B,Jurong West Ctrl 3,13 to 15,83,Model A,2017,95.83,580000,Jan 2021
+456,Jurong West St 41,01 to 03,93,New Generation,1985,63.25,330000,Jan 2021
+531,Jurong West St 52,01 to 03,99,New Generation,1983,61.67,330000,Jan 2021
+535,Jurong West St 52,04 to 06,95,New Generation,1983,61.42,360000,Jan 2021
+651A,Jurong West St 61,01 to 03,92,Model A,2002,80.42,410000,Jan 2021
+604,Jurong West St 62,01 to 03,95,Premium Apartment,2001,79.33,410888,Jan 2021
+668B,Jurong West St 64,13 to 15,85,Model A2,2000,78.5,392000,Jan 2021
+668B,Jurong West St 64,10 to 12,90,Model A2,2000,78.5,410000,Jan 2021
+676A,Jurong West St 64,04 to 06,91,Premium Apartment,2008,86.5,390000,Jan 2021
+608,Jurong West St 65,01 to 03,95,Premium Apartment,2001,79.42,420000,Jan 2021
+617,Jurong West St 65,13 to 15,85,Model A2,2000,78.92,399000,Jan 2021
+657B,Jurong West St 65,13 to 15,91,Model A,2001,79.5,410000,Jan 2021
+657B,Jurong West St 65,07 to 09,91,Model A,2001,79.5,415000,Jan 2021
+663B,Jurong West St 65,01 to 03,91,Model A,2000,78.67,390000,Jan 2021
+703,Jurong West St 71,01 to 03,110,Model A,1995,73.58,360888,Jan 2021
+724,Jurong West St 72,01 to 03,111,Model A,1990,68.92,340000,Jan 2021
+724,Jurong West St 72,10 to 12,111,Model A,1990,69,375000,Jan 2021
+737,Jurong West St 75,04 to 06,106,Model A,1995,73.67,380000,Jan 2021
+815,Jurong West St 81,04 to 06,104,Model A,1990,68.08,340000,Jan 2021
+817,Jurong West St 81,04 to 06,107,Model A,1993,71.67,360000,Jan 2021
+834,Jurong West St 81,13 to 15,109,Model A,1993,71.5,375000,Jan 2021
+850,Jurong West St 81,04 to 06,108,Model A,1996,74.25,355000,Jan 2021
+852,Jurong West St 81,01 to 03,108,Model A,1996,74.33,340000,Jan 2021
+853,Jurong West St 81,04 to 06,107,Model A,1996,74.33,372000,Jan 2021
+856,Jurong West St 81,10 to 12,104,Model A,1996,74.75,365000,Jan 2021
+856,Jurong West St 81,13 to 15,107,Model A,1996,74.67,392888,Jan 2021
+903,Jurong West St 91,13 to 15,108,Model A,1988,66.67,325000,Jan 2021
+932,Jurong West St 92,04 to 06,104,Model A,1988,66.42,320000,Jan 2021
+977,Jurong West St 93,04 to 06,104,Model A,1989,67.25,375000,Jan 2021
+339A,Kang Ching Rd,01 to 03,89,Model A,2012,90.25,405000,Jan 2021
+347,Kang Ching Rd,01 to 03,102,Model A,1997,75.42,390000,Jan 2021
+337C,Tah Ching Rd,07 to 09,94,Model A,2010,88.33,480000,Jan 2021
+175B,Yung Kuang Rd,10 to 12,93,Premium Apartment,2015,93.42,463000,Jan 2021
+183,Yung Sheng Rd,16 to 18,96,Model A,2001,79.25,442000,Jan 2021
+183A,Boon Lay Ave,10 to 12,92,Model A,2015,93.17,500000,Dec 2020
+180C,Boon Lay Dr,13 to 15,93,Model A,2014,92.5,460000,Dec 2020
+196B,Boon Lay Dr,10 to 12,93,Model A,2015,93.33,510000,Dec 2020
+197B,Boon Lay Dr,16 to 18,93,Model A,2015,93.42,516000,Dec 2020
+112,Ho Ching Rd,07 to 09,108,Improved,1970,48.83,302000,Dec 2020
+440,Jurong West Ave 1,01 to 03,106,Model A,1985,63.5,330000,Dec 2020
+273A,Jurong West Ave 3,01 to 03,90,Model A,2001,80.08,328000,Dec 2020
+681C,Jurong West Ctrl 1,04 to 06,96,Premium Apartment,2000,78.5,435888,Dec 2020
+685C,Jurong West Ctrl 1,04 to 06,93,Premium Apartment,2000,78.75,425000,Dec 2020
+697A,Jurong West Ctrl 3,07 to 09,93,Model A,2017,95.92,575000,Dec 2020
+276C,Jurong West St 25,13 to 15,90,Model A,2002,80.33,335000,Dec 2020
+276D,Jurong West St 25,01 to 03,90,Model A,2002,80.33,342000,Dec 2020
+458,Jurong West St 41,07 to 09,91,New Generation,1984,62.92,378888,Dec 2020
+476,Jurong West St 41,10 to 12,103,Model A,1984,62.83,407000,Dec 2020
+417,Jurong West St 42,07 to 09,89,Simplified,1985,64.08,366168,Dec 2020
+433,Jurong West St 42,10 to 12,103,Model A,1985,63.33,350000,Dec 2020
+448,Jurong West St 42,04 to 06,108,Model A,1984,62.83,363000,Dec 2020
+449,Jurong West St 42,10 to 12,103,Model A,1985,63.25,378000,Dec 2020
+515,Jurong West St 52,04 to 06,105,Model A,1984,62.58,420000,Dec 2020
+622,Jurong West St 61,01 to 03,91,Model A,2001,79.25,360000,Dec 2020
+625,Jurong West St 61,01 to 03,91,Model A,2001,79.25,365000,Dec 2020
+655A,Jurong West St 61,04 to 06,86,Model A2,2002,80.92,378000,Dec 2020
+603,Jurong West St 62,07 to 09,94,Premium Apartment,2001,79.25,467000,Dec 2020
+617,Jurong West St 65,13 to 15,85,Model A2,2000,79,410000,Dec 2020
+632,Jurong West St 65,04 to 06,91,Model A,2001,80,363000,Dec 2020
+657A,Jurong West St 65,10 to 12,91,Model A,2002,80.42,410000,Dec 2020
+657A,Jurong West St 65,10 to 12,91,Model A,2002,80.33,420000,Dec 2020
+724,Jurong West St 72,04 to 06,103,Model A,1990,69,345000,Dec 2020
+751,Jurong West St 73,10 to 12,104,Model A,1992,70.83,358000,Dec 2020
+811,Jurong West St 81,04 to 06,107,Model A,1993,72.08,375000,Dec 2020
+939,Jurong West St 91,04 to 06,103,Model A,1989,67.25,340000,Dec 2020
+943,Jurong West St 91,07 to 09,105,Model A,1989,67.58,361000,Dec 2020
+979,Jurong West St 93,04 to 06,109,Model A,1989,67.83,360000,Dec 2020
+339A,Kang Ching Rd,07 to 09,89,Model A,2012,90.33,442888,Dec 2020
+138A,Yuan Ching Rd,01 to 03,89,Dbss,2014,92.83,600000,Dec 2020
+138A,Yuan Ching Rd,16 to 18,91,Dbss,2014,92.75,635000,Dec 2020
+138D,Yuan Ching Rd,13 to 15,89,Dbss,2014,92.83,628000,Dec 2020
+138D,Yuan Ching Rd,07 to 09,91,Dbss,2014,92.75,628000,Dec 2020
+152,Yung Ho Rd,04 to 06,104,Model A,1990,68.75,355000,Dec 2020
+155,Yung Loh Rd,01 to 03,106,Model A,1996,74.08,365000,Dec 2020
+177,Yung Sheng Rd,01 to 03,96,Model A,2001,79.5,370000,Dec 2020
+184,Yung Sheng Rd,07 to 09,95,Model A,2001,79.42,385000,Dec 2020
+183A,Boon Lay Ave,04 to 06,92,Model A,2015,93.17,460000,Nov 2020
+183C,Boon Lay Ave,10 to 12,92,Model A,2015,93.17,450000,Nov 2020
+260,Boon Lay Dr,04 to 06,109,Model A,1995,73.67,330000,Nov 2020
+431,Jurong West Ave 1,04 to 06,104,Model A,1985,63.25,346000,Nov 2020
+722,Jurong West Ave 5,10 to 12,104,Model A,1990,69.08,365000,Nov 2020
+725,Jurong West Ave 5,10 to 12,104,Model A,1989,68.08,352000,Nov 2020
+727,Jurong West Ave 5,04 to 06,104,Model A,1989,68,335000,Nov 2020
+681C,Jurong West Ctrl 1,04 to 06,94,Premium Apartment,2000,78.67,400000,Nov 2020
+690,Jurong West Ctrl 1,01 to 03,99,Premium Apartment,1998,76.58,435000,Nov 2020
+690,Jurong West Ctrl 1,01 to 03,98,Premium Apartment,1998,76.58,438000,Nov 2020
+692,Jurong West Ctrl 1,04 to 06,104,Premium Apartment,1998,76.42,468888,Nov 2020
+696,Jurong West Ctrl 1,01 to 03,106,Premium Apartment,1998,76.33,450000,Nov 2020
+466,Jurong West St 41,04 to 06,91,New Generation,1985,63.25,362000,Nov 2020
+447,Jurong West St 42,04 to 06,103,Model A,1984,62.67,360888,Nov 2020
+449,Jurong West St 42,07 to 09,103,Model A,1985,63.5,360000,Nov 2020
+543,Jurong West St 42,07 to 09,106,Model A,1984,63.17,330000,Nov 2020
+545,Jurong West St 42,04 to 06,103,Model A,1985,63.42,300000,Nov 2020
+551,Jurong West St 42,10 to 12,104,Model A,1985,63.33,355000,Nov 2020
+557,Jurong West St 42,01 to 03,104,Model A,1985,63.25,327500,Nov 2020
+513,Jurong West St 52,01 to 03,106,Model A,1984,62.5,392000,Nov 2020
+648A,Jurong West St 61,13 to 15,91,Model A,2001,79.5,410000,Nov 2020
+650B,Jurong West St 61,07 to 09,90,Model A,2000,79,416000,Nov 2020
+655A,Jurong West St 61,04 to 06,86,Model A2,2002,81,375000,Nov 2020
+655A,Jurong West St 61,13 to 15,86,Model A2,2002,81,398888,Nov 2020
+660B,Jurong West St 64,13 to 15,91,Model A,2001,79.75,455000,Nov 2020
+660D,Jurong West St 64,10 to 12,91,Model A,2001,79.83,440000,Nov 2020
+678C,Jurong West St 64,04 to 06,92,Premium Apartment,2008,86.67,408000,Nov 2020
+684B,Jurong West St 64,13 to 15,94,Premium Apartment,2000,78.75,440000,Nov 2020
+634,Jurong West St 65,10 to 12,91,Model A,2001,80.08,375000,Nov 2020
+663A,Jurong West St 65,04 to 06,90,Model A,2000,78.75,380000,Nov 2020
+667D,Jurong West St 65,01 to 03,90,Model A,2000,78.58,393000,Nov 2020
+713,Jurong West St 71,01 to 03,104,Model A,1990,69.08,345000,Nov 2020
+751,Jurong West St 73,04 to 06,104,Model A,1992,70.83,345000,Nov 2020
+751,Jurong West St 73,04 to 06,104,Model A,1992,70.83,360000,Nov 2020
+856,Jurong West St 81,01 to 03,109,Model A,1996,74.83,330000,Nov 2020
+864,Jurong West St 81,01 to 03,105,Model A,1996,75,331000,Nov 2020
+909,Jurong West St 91,07 to 09,108,Model A,1989,67.25,320000,Nov 2020
+948,Jurong West St 91,04 to 06,103,Model A,1989,67.5,375000,Nov 2020
+925,Jurong West St 92,04 to 06,107,Model A,1988,67,388800,Nov 2020
+929,Jurong West St 92,04 to 06,103,Model A,1989,67.25,330000,Nov 2020
+347,Kang Ching Rd,07 to 09,102,Model A,1997,75.58,410000,Nov 2020
+325,Tah Ching Rd,13 to 15,102,Model A,1997,75.83,420000,Nov 2020
+338A,Tah Ching Rd,04 to 06,92,Model A,2010,88.5,407000,Nov 2020
+138A,Yuan Ching Rd,19 to 21,91,Dbss,2014,92.92,613000,Nov 2020
+138C,Yuan Ching Rd,16 to 18,89,Dbss,2014,92.92,608028,Nov 2020
+153,Yung Ho Rd,01 to 03,104,Model A,1990,68.83,360000,Nov 2020
+175B,Yung Kuang Rd,04 to 06,93,Premium Apartment,2015,93.58,415000,Nov 2020
+697A,Jurong West Ctrl 3,10 to 12,93,Model A,2017,95,670000,Nov 2021
+534,Jurong West St 52,01 to 03,91,New Generation,1982,59.58,390000,Nov 2021
+648D,Jurong West St 61,10 to 12,91,Model A,2001,78.5,460000,Nov 2021
+662C,Jurong West St 64,07 to 09,91,Model A,2001,78.92,470000,Nov 2021
+664B,Jurong West St 64,13 to 15,91,Model A,2000,77.83,491088,Nov 2021
+657A,Jurong West St 65,01 to 03,91,Model A,2002,79.58,435000,Nov 2021
+942,Jurong West St 91,04 to 06,105,Model A,1989,66.83,390000,Nov 2021
+988A,Jurong West St 93,01 to 03,94,Premium Apartment,2008,85.83,445000,Nov 2021
+347,Kang Ching Rd,07 to 09,102,Model A,1997,74.58,460000,Nov 2021
+196A,Boon Lay Dr,16 to 18,93,Model A,2015,92.58,570000,Oct 2021
+197B,Boon Lay Dr,16 to 18,93,Model A,2015,92.58,530000,Oct 2021
+197C,Boon Lay Dr,07 to 09,93,Model A,2015,92.58,523000,Oct 2021
+268B,Boon Lay Dr,04 to 06,90,Model A,2002,79.42,405000,Oct 2021
+365,Corporation Dr,07 to 09,102,Model A,1997,74.92,408000,Oct 2021
+437,Jurong West Ave 1,04 to 06,111,Model A,1985,62.58,396000,Oct 2021
+273D,Jurong West Ave 3,04 to 06,88,Model A2,2001,79.17,386000,Oct 2021
+723,Jurong West Ave 5,01 to 03,111,Model A,1990,68.17,400888,Oct 2021
+679C,Jurong West Ctrl 1,10 to 12,95,Premium Apartment,2000,78,480000,Oct 2021
+686C,Jurong West Ctrl 1,04 to 06,93,Premium Apartment,2000,78.08,448000,Oct 2021
+689,Jurong West Ctrl 1,04 to 06,99,Premium Apartment,1998,75.67,520000,Oct 2021
+691,Jurong West Ctrl 1,01 to 03,100,Premium Apartment,1998,75.75,457000,Oct 2021
+697A,Jurong West Ctrl 3,01 to 03,93,Model A,2017,95.08,625000,Oct 2021
+697A,Jurong West Ctrl 3,10 to 12,93,Model A,2017,95.08,640000,Oct 2021
+697B,Jurong West Ctrl 3,07 to 09,93,Model A,2017,95,620000,Oct 2021
+698B,Jurong West Ctrl 3,01 to 03,93,Model A,2017,95.08,610000,Oct 2021
+412,Jurong West St 42,10 to 12,103,Model A,1985,62.67,386000,Oct 2021
+447,Jurong West St 42,07 to 09,103,Model A,1984,61.67,425000,Oct 2021
+521,Jurong West St 52,10 to 12,94,New Generation,1982,60.25,448000,Oct 2021
+623,Jurong West St 61,07 to 09,90,Model A,2001,78.33,462000,Oct 2021
+642,Jurong West St 61,13 to 15,100,Model A,1998,76,480000,Oct 2021
+643,Jurong West St 61,04 to 06,93,Model A2,1998,75.75,460000,Oct 2021
+649A,Jurong West St 61,10 to 12,91,Model A,2000,78,505000,Oct 2021
+668C,Jurong West St 64,04 to 06,85,Model A2,2000,77.75,438000,Oct 2021
+668D,Jurong West St 64,04 to 06,85,Model A2,2000,77.83,458000,Oct 2021
+674B,Jurong West St 65,07 to 09,91,Model A,2002,80.25,432000,Oct 2021
+718,Jurong West St 71,04 to 06,104,Model A,1991,68.42,398000,Oct 2021
+731,Jurong West St 72,10 to 12,103,Model A,1990,68.17,440000,Oct 2021
+739,Jurong West St 73,01 to 03,106,Model A,1995,72.67,385000,Oct 2021
+736,Jurong West St 75,01 to 03,106,Model A,1995,72.83,400000,Oct 2021
+914,Jurong West St 91,01 to 03,103,Model A,1988,65.83,390000,Oct 2021
+946,Jurong West St 91,10 to 12,113,Model A,1989,66.83,445000,Oct 2021
+977,Jurong West St 93,01 to 03,104,Model A,1989,66.67,390000,Oct 2021
+979,Jurong West St 93,04 to 06,109,Model A,1989,67,440000,Oct 2021
+337D,Tah Ching Rd,10 to 12,94,Model A,2010,87.58,452000,Oct 2021
+138D,Yuan Ching Rd,01 to 03,89,Dbss,2014,92,605000,Oct 2021
+152,Yung Ho Rd,01 to 03,104,Model A,1990,67.92,385000,Oct 2021
+175C,Yung Kuang Rd,04 to 06,93,Premium Apartment,2015,92.67,460000,Oct 2021
+177,Yung Sheng Rd,07 to 09,96,Model A,2001,78.67,445000,Oct 2021
+183A,Boon Lay Ave,13 to 15,92,Model A,2015,92.42,500000,Sep 2021
+183D,Boon Lay Ave,07 to 09,92,Model A,2015,92.42,498000,Sep 2021
+181A,Boon Lay Dr,04 to 06,93,Model A,2014,91.83,450000,Sep 2021
+196A,Boon Lay Dr,16 to 18,93,Model A,2015,92.67,580000,Sep 2021
+196B,Boon Lay Dr,13 to 15,93,Model A,2015,92.67,530000,Sep 2021
+196B,Boon Lay Dr,16 to 18,93,Model A,2015,92.67,550000,Sep 2021
+266,Boon Lay Dr,01 to 03,115,Model A,1995,72.83,455000,Sep 2021
+441,Jurong West Ave 1,01 to 03,103,Model A,1984,62.08,380000,Sep 2021
+488,Jurong West Ave 1,01 to 03,91,New Generation,1985,62.42,393000,Sep 2021
+686A,Jurong West Ctrl 1,07 to 09,94,Premium Apartment,2000,78.08,490000,Sep 2021
+686A,Jurong West Ctrl 1,13 to 15,93,Premium Apartment,2000,78.17,515000,Sep 2021
+689,Jurong West Ctrl 1,01 to 03,100,Premium Apartment,1998,75.75,488000,Sep 2021
+272A,Jurong West St 24,10 to 12,95,Premium Apartment,2003,81.17,412000,Sep 2021
+480,Jurong West St 41,10 to 12,100,New Generation,1985,63.17,408000,Sep 2021
+411,Jurong West St 42,10 to 12,104,Model A,1984,61.92,395000,Sep 2021
+419,Jurong West St 42,04 to 06,88,Simplified,1985,62.67,380000,Sep 2021
+449,Jurong West St 42,01 to 03,102,Model A,1985,62.5,330000,Sep 2021
+551,Jurong West St 42,04 to 06,104,Model A,1985,62.42,410000,Sep 2021
+531,Jurong West St 52,04 to 06,95,New Generation,1983,61,402000,Sep 2021
+536,Jurong West St 52,07 to 09,93,New Generation,1983,61.08,388000,Sep 2021
+655B,Jurong West St 61,01 to 03,85,Model A2,2002,80.17,450000,Sep 2021
+613,Jurong West St 62,04 to 06,94,Premium Apartment,2001,78.42,477000,Sep 2021
+664D,Jurong West St 64,04 to 06,91,Model A,2000,78,466000,Sep 2021
+677A,Jurong West St 64,13 to 15,93,Premium Apartment,2008,85.75,450000,Sep 2021
+684A,Jurong West St 64,13 to 15,93,Premium Apartment,2000,78.08,486000,Sep 2021
+617,Jurong West St 65,04 to 06,90,Model A2,2000,78.25,460000,Sep 2021
+657B,Jurong West St 65,16 to 18,91,Model A,2001,78.75,458000,Sep 2021
+663A,Jurong West St 65,04 to 06,91,Model A,2000,77.92,455000,Sep 2021
+663C,Jurong West St 65,13 to 15,91,Model A,2000,78,472000,Sep 2021
+673A,Jurong West St 65,13 to 15,86,Model A2,2002,80.08,430000,Sep 2021
+673A,Jurong West St 65,13 to 15,86,Model A2,2002,80.17,450000,Sep 2021
+674A,Jurong West St 65,04 to 06,91,Model A,2002,79.75,402000,Sep 2021
+716,Jurong West St 71,01 to 03,104,Model A,1991,68.5,405000,Sep 2021
+718,Jurong West St 71,10 to 12,104,Model A,1991,68.5,406000,Sep 2021
+734,Jurong West St 73,04 to 06,106,Model A,1995,72.83,428000,Sep 2021
+743,Jurong West St 73,04 to 06,104,Model A,1992,69.92,390000,Sep 2021
+812,Jurong West St 81,07 to 09,104,Model A,1990,67.67,400000,Sep 2021
+816,Jurong West St 81,01 to 03,107,Model A,1993,71.08,385000,Sep 2021
+902,Jurong West St 91,10 to 12,104,Model A,1988,66,405000,Sep 2021
+905,Jurong West St 91,01 to 03,108,Model A,1988,66,402000,Sep 2021
+965,Jurong West St 93,07 to 09,103,Model A,1989,66.75,390000,Sep 2021
+988A,Jurong West St 93,10 to 12,94,Premium Apartment,2008,85.92,460888,Sep 2021
+354,Kang Ching Rd,01 to 03,101,Model A,1997,74.42,440000,Sep 2021
+337A,Tah Ching Rd,10 to 12,92,Model A,2010,87.67,470000,Sep 2021
+138D,Yuan Ching Rd,16 to 18,89,Dbss,2014,92.08,618000,Sep 2021
+138D,Yuan Ching Rd,13 to 15,89,Dbss,2014,92.08,630000,Sep 2021
+175A,Yung Kuang Rd,07 to 09,93,Premium Apartment,2015,92.75,493000,Sep 2021
+181,Yung Sheng Rd,01 to 03,90,Model A,2001,78.67,400000,Sep 2021
+183A,Boon Lay Ave,01 to 03,92,Model A,2015,92.42,435000,Aug 2021
+183B,Boon Lay Ave,04 to 06,92,Model A,2015,92.42,445000,Aug 2021
+183C,Boon Lay Ave,13 to 15,92,Model A,2015,92.5,495000,Aug 2021
+196B,Boon Lay Dr,07 to 09,93,Model A,2015,92.75,519000,Aug 2021
+259,Boon Lay Dr,10 to 12,112,Model A,1995,72.92,450000,Aug 2021
+262,Boon Lay Dr,07 to 09,109,Model A,1995,72.92,433000,Aug 2021
+266,Boon Lay Dr,04 to 06,113,Model A,1995,72.92,450000,Aug 2021
+430,Jurong West Ave 1,10 to 12,103,Model A,1985,62.5,410000,Aug 2021
+273A,Jurong West Ave 3,13 to 15,90,Model A,2001,79.42,387000,Aug 2021
+727,Jurong West Ave 5,10 to 12,104,Model A,1989,67.25,420000,Aug 2021
+728,Jurong West Ave 5,04 to 06,104,Model A,1989,67.25,388000,Aug 2021
+687,Jurong West Ctrl 1,07 to 09,99,Premium Apartment,1998,75.75,490000,Aug 2021
+693,Jurong West Ctrl 1,07 to 09,102,Premium Apartment,1998,75.58,485000,Aug 2021
+696,Jurong West Ctrl 1,04 to 06,102,Premium Apartment,1998,75.67,510000,Aug 2021
+697C,Jurong West Ctrl 3,07 to 09,83,Model A,2017,95.17,580000,Aug 2021
+697C,Jurong West Ctrl 3,16 to 18,83,Model A,2017,95.17,608000,Aug 2021
+698B,Jurong West Ctrl 3,10 to 12,83,Model A,2017,95.25,588000,Aug 2021
+698C,Jurong West Ctrl 3,07 to 09,93,Model A,2017,95.25,600000,Aug 2021
+698C,Jurong West Ctrl 3,16 to 18,93,Model A,2017,95.25,655000,Aug 2021
+275C,Jurong West St 25,01 to 03,90,Model A,2002,79.58,365000,Aug 2021
+276A,Jurong West St 25,07 to 09,88,Model A2,2002,79.58,418000,Aug 2021
+276D,Jurong West St 25,04 to 06,90,Model A,2002,79.67,400000,Aug 2021
+276D,Jurong West St 25,07 to 09,90,Model A,2002,79.67,400888,Aug 2021
+463,Jurong West St 41,07 to 09,94,New Generation,1985,62.92,390000,Aug 2021
+480,Jurong West St 41,01 to 03,93,New Generation,1985,63.17,415000,Aug 2021
+433,Jurong West St 42,04 to 06,104,Model A,1985,62.58,385000,Aug 2021
+434,Jurong West St 42,01 to 03,111,Model A,1984,62.25,368000,Aug 2021
+554,Jurong West St 42,10 to 12,104,Model A,1984,62.33,410000,Aug 2021
+515,Jurong West St 52,10 to 12,107,Model A,1984,61.92,522000,Aug 2021
+644,Jurong West St 61,07 to 09,100,Model A,1998,76.08,460000,Aug 2021
+655A,Jurong West St 61,10 to 12,87,Model A2,2002,80.25,440000,Aug 2021
+601,Jurong West St 62,10 to 12,94,Premium Apartment,2001,78.5,505000,Aug 2021
+668C,Jurong West St 64,07 to 09,86,Model A2,2000,78,460000,Aug 2021
+685B,Jurong West St 64,07 to 09,93,Premium Apartment,2000,78,479000,Aug 2021
+635,Jurong West St 65,07 to 09,91,Model A,2001,79.33,430000,Aug 2021
+663D,Jurong West St 65,10 to 12,91,Model A,2000,78,450000,Aug 2021
+674B,Jurong West St 65,13 to 15,92,Model A,2002,80.33,450000,Aug 2021
+707,Jurong West St 71,10 to 12,109,Model A,1995,73,470000,Aug 2021
+730,Jurong West St 72,10 to 12,104,Model A,1990,68.25,410000,Aug 2021
+732,Jurong West St 73,16 to 18,107,Model A,1995,72.92,415000,Aug 2021
+757,Jurong West St 74,01 to 03,108,Model A,1996,74.17,385000,Aug 2021
+812,Jurong West St 81,01 to 03,104,Model A,1990,67.75,370000,Aug 2021
+835,Jurong West St 81,01 to 03,104,Model A,1989,67.33,365000,Aug 2021
+835,Jurong West St 81,07 to 09,104,Model A,1989,67.33,450000,Aug 2021
+909,Jurong West St 91,04 to 06,104,Model A,1989,66.42,372000,Aug 2021
+917,Jurong West St 91,07 to 09,103,Model A,1988,65.92,342000,Aug 2021
+941,Jurong West St 91,07 to 09,105,Model A,1989,66.75,383000,Aug 2021
+978,Jurong West St 93,04 to 06,103,Model A,1989,66.92,400000,Aug 2021
+339A,Kang Ching Rd,13 to 15,89,Model A,2012,89.58,490000,Aug 2021
+348,Kang Ching Rd,04 to 06,102,Model A,1997,74.83,437000,Aug 2021
+355,Kang Ching Rd,04 to 06,101,Model A,1997,74.5,422000,Aug 2021
+324,Tah Ching Rd,10 to 12,106,Model A,1997,74.83,435000,Aug 2021
+338A,Tah Ching Rd,10 to 12,94,Model A,2010,87.75,480000,Aug 2021
+338A,Tah Ching Rd,07 to 09,94,Model A,2010,87.75,490000,Aug 2021
+152,Yung Ho Rd,01 to 03,111,Model A,1990,68.08,370000,Aug 2021
+175C,Yung Kuang Rd,13 to 15,93,Premium Apartment,2015,92.83,500000,Aug 2021
+158,Yung Loh Rd,01 to 03,106,Model A,1996,73.5,400000,Aug 2021
+158,Yung Loh Rd,07 to 09,106,Model A,1996,73.5,412000,Aug 2021
+180,Yung Sheng Rd,04 to 06,90,Model A,2001,78.83,395000,Aug 2021
+183B,Boon Lay Ave,04 to 06,92,Model A,2015,92.58,500000,Jul 2021
+183B,Boon Lay Ave,16 to 18,92,Model A,2015,92.5,500000,Jul 2021
+197A,Boon Lay Dr,13 to 15,93,Model A,2015,92.83,550000,Jul 2021
+263,Boon Lay Dr,07 to 09,109,Model A,1995,73,420000,Jul 2021
+264,Boon Lay Dr,04 to 06,115,Model A,1995,73,424000,Jul 2021
+538,Jurong West Ave 1,07 to 09,103,Model A,1984,62.25,400000,Jul 2021
+723,Jurong West Ave 5,01 to 03,104,Model A,1990,68.5,370000,Jul 2021
+686C,Jurong West Ctrl 1,13 to 15,94,Premium Apartment,2000,78.33,495000,Jul 2021
+690,Jurong West Ctrl 1,01 to 03,98,Premium Apartment,1998,75.92,448000,Jul 2021
+690,Jurong West Ctrl 1,10 to 12,99,Premium Apartment,1998,75.92,505000,Jul 2021
+698B,Jurong West Ctrl 3,10 to 12,83,Model A,2017,95.42,568888,Jul 2021
+475,Jurong West St 41,01 to 03,103,Model A,1984,62.08,399888,Jul 2021
+406,Jurong West St 42,07 to 09,106,Model A,1984,62.17,380000,Jul 2021
+449,Jurong West St 42,01 to 03,109,Model A,1985,62.67,370000,Jul 2021
+450,Jurong West St 42,01 to 03,103,Model A,1985,62.92,390000,Jul 2021
+545,Jurong West St 42,01 to 03,104,Model A,1985,62.75,385000,Jul 2021
+546,Jurong West St 42,10 to 12,103,Model A,1985,62.75,418000,Jul 2021
+550,Jurong West St 42,01 to 03,103,Model A,1985,62.83,360000,Jul 2021
+649A,Jurong West St 61,13 to 15,90,Model A,2000,78.33,440000,Jul 2021
+650B,Jurong West St 61,07 to 09,90,Model A,2000,78.42,435000,Jul 2021
+651A,Jurong West St 61,07 to 09,91,Model A,2002,79.92,426800,Jul 2021
+651B,Jurong West St 61,01 to 03,91,Model A,2002,80,435000,Jul 2021
+655A,Jurong West St 61,04 to 06,86,Model A2,2002,80.33,405000,Jul 2021
+664A,Jurong West St 64,10 to 12,90,Model A,2000,78.08,425888,Jul 2021
+668D,Jurong West St 64,16 to 18,86,Model A2,2000,78.08,458888,Jul 2021
+657B,Jurong West St 65,07 to 09,91,Model A,2001,79.08,440088,Jul 2021
+659B,Jurong West St 65,07 to 09,91,Model A,2001,79,455000,Jul 2021
+667A,Jurong West St 65,10 to 12,90,Model A,2000,78.08,450000,Jul 2021
+673A,Jurong West St 65,13 to 15,86,Model A2,2002,80.33,430000,Jul 2021
+731,Jurong West St 72,04 to 06,104,Model A,1990,68.42,400000,Jul 2021
+751,Jurong West St 73,10 to 12,104,Model A,1992,70.25,393000,Jul 2021
+826,Jurong West St 81,10 to 12,104,Model A,1990,67.83,405000,Jul 2021
+835,Jurong West St 81,01 to 03,104,Model A,1989,67.42,388000,Jul 2021
+853,Jurong West St 81,01 to 03,108,Model A,1996,73.83,390000,Jul 2021
+854,Jurong West St 81,04 to 06,107,Model A,1996,74.17,394000,Jul 2021
+902,Jurong West St 91,04 to 06,104,Model A,1988,66.08,382000,Jul 2021
+914,Jurong West St 91,07 to 09,103,Model A,1988,66.08,380000,Jul 2021
+966,Jurong West St 93,01 to 03,106,Model A,1989,66.92,355000,Jul 2021
+976,Jurong West St 93,07 to 09,104,Model A,1989,66.83,410000,Jul 2021
+989A,Jurong West St 93,07 to 09,93,Premium Apartment,2008,86.17,435000,Jul 2021
+323,Tah Ching Rd,04 to 06,103,Model A,1997,75,435000,Jul 2021
+337D,Tah Ching Rd,04 to 06,94,Model A,2010,87.83,465000,Jul 2021
+138A,Yuan Ching Rd,19 to 21,91,Dbss,2014,92.25,632000,Jul 2021
+138D,Yuan Ching Rd,01 to 03,89,Dbss,2014,92.25,543000,Jul 2021
+175B,Yung Kuang Rd,07 to 09,93,Premium Apartment,2015,92.92,492000,Jul 2021
+182,Yung Sheng Rd,16 to 18,96,Model A,2001,78.83,438000,Jul 2021
+183,Yung Sheng Rd,10 to 12,96,Model A,2001,78.83,420000,Jul 2021
+183A,Boon Lay Ave,04 to 06,92,Model A,2015,92.67,460000,Jun 2021
+183A,Boon Lay Ave,10 to 12,92,Model A,2015,92.67,470000,Jun 2021
+183D,Boon Lay Ave,16 to 18,92,Model A,2015,92.58,480000,Jun 2021
+183D,Boon Lay Ave,10 to 12,92,Model A,2015,92.67,488000,Jun 2021
+196A,Boon Lay Dr,07 to 09,93,Model A,2015,92.92,535000,Jun 2021
+111,Ho Ching Rd,07 to 09,114,Improved,1970,47.92,340000,Jun 2021
+441,Jurong West Ave 1,01 to 03,106,Model A,1984,62.33,365000,Jun 2021
+273A,Jurong West Ave 3,07 to 09,90,Model A,2001,79.58,350000,Jun 2021
+273D,Jurong West Ave 3,10 to 12,88,Model A2,2001,79.5,385000,Jun 2021
+683A,Jurong West Ctrl 1,01 to 03,94,Premium Apartment,2000,78.42,435000,Jun 2021
+683B,Jurong West Ctrl 1,01 to 03,93,Premium Apartment,2000,78.42,470000,Jun 2021
+695,Jurong West Ctrl 1,04 to 06,106,Premium Apartment,1998,75.83,500000,Jun 2021
+697B,Jurong West Ctrl 3,07 to 09,83,Model A,2017,95.42,578000,Jun 2021
+697B,Jurong West Ctrl 3,01 to 03,93,Model A,2017,95.42,600000,Jun 2021
+697B,Jurong West Ctrl 3,04 to 06,93,Model A,2017,95.42,615000,Jun 2021
+458,Jurong West St 41,10 to 12,91,New Generation,1984,62.42,407088,Jun 2021
+454,Jurong West St 42,04 to 06,104,Model A,1985,62.92,415000,Jun 2021
+543,Jurong West St 42,10 to 12,103,Model A,1984,62.58,431500,Jun 2021
+517E,Jurong West St 52,04 to 06,95,Model A,2000,78,556000,Jun 2021
+517E,Jurong West St 52,04 to 06,95,Model A,2000,78,565000,Jun 2021
+536,Jurong West St 52,01 to 03,95,New Generation,1983,61.33,370000,Jun 2021
+637,Jurong West St 61,13 to 15,90,Model A,2004,81.92,430000,Jun 2021
+650C,Jurong West St 61,13 to 15,91,Model A,2000,78.42,453000,Jun 2021
+651B,Jurong West St 61,13 to 15,91,Model A,2002,80.08,455000,Jun 2021
+655B,Jurong West St 61,10 to 12,85,Model A2,2002,80.42,430000,Jun 2021
+601,Jurong West St 62,01 to 03,94,Premium Apartment,2001,78.67,425000,Jun 2021
+668C,Jurong West St 64,10 to 12,86,Model A2,2000,78.25,430000,Jun 2021
+685B,Jurong West St 64,04 to 06,93,Premium Apartment,2000,78.25,425888,Jun 2021
+667A,Jurong West St 65,10 to 12,90,Model A,2000,78.08,450000,Jun 2021
+706,Jurong West St 71,10 to 12,111,Model A,1995,73.17,418000,Jun 2021
+715,Jurong West St 71,01 to 03,104,Model A,1991,68.75,360000,Jun 2021
+732,Jurong West St 73,13 to 15,107,Model A,1995,73.08,425000,Jun 2021
+743,Jurong West St 73,10 to 12,104,Model A,1992,70.25,393000,Jun 2021
+744,Jurong West St 73,07 to 09,107,Model A,1993,71.58,399000,Jun 2021
+757,Jurong West St 74,04 to 06,109,Model A,1996,74.33,395000,Jun 2021
+811,Jurong West St 81,07 to 09,107,Model A,1993,71.58,398000,Jun 2021
+847,Jurong West St 81,04 to 06,108,Model A,1996,73.83,390000,Jun 2021
+850,Jurong West St 81,13 to 15,109,Model A,1996,73.83,395000,Jun 2021
+944,Jurong West St 91,04 to 06,103,Model A,1989,66.92,395000,Jun 2021
+945,Jurong West St 91,04 to 06,103,Model A,1989,67.17,371000,Jun 2021
+977,Jurong West St 93,04 to 06,104,Model A,1989,66.92,405000,Jun 2021
+338B,Kang Ching Rd,10 to 12,89,Model A,2012,89.83,450888,Jun 2021
+345,Kang Ching Rd,04 to 06,102,Model A,1997,75.17,425000,Jun 2021
+354,Kang Ching Rd,04 to 06,101,Model A,1997,74.58,450000,Jun 2021
+138A,Yuan Ching Rd,16 to 18,91,Dbss,2014,92.33,610000,Jun 2021
+138B,Yuan Ching Rd,01 to 03,89,Dbss,2014,92.42,588000,Jun 2021
+359,Yung An Rd,13 to 15,106,Model A,1995,73.5,390000,Jun 2021
+361,Yung An Rd,04 to 06,108,Model A,1995,73.5,418000,Jun 2021
+155,Yung Loh Rd,01 to 03,106,Model A,1996,73.67,400000,Jun 2021
+183C,Boon Lay Ave,04 to 06,92,Model A,2015,92.67,460000,May 2021
+181A,Boon Lay Dr,01 to 03,93,Model A,2014,92.08,435000,May 2021
+488,Jurong West Ave 1,10 to 12,91,New Generation,1985,62.75,390000,May 2021
+540,Jurong West Ave 1,01 to 03,109,Model A,1984,62.67,366000,May 2021
+276B,Jurong West Ave 3,13 to 15,90,Model A,2002,79.92,370000,May 2021
+691,Jurong West Ctrl 1,07 to 09,99,Premium Apartment,1998,76,470000,May 2021
+697A,Jurong West Ctrl 3,04 to 06,93,Model A,2017,95.5,598888,May 2021
+275C,Jurong West St 25,07 to 09,90,Model A,2002,79.75,375000,May 2021
+483,Jurong West St 41,01 to 03,91,New Generation,1985,63.08,366000,May 2021
+403,Jurong West St 42,07 to 09,106,Model A,1984,62.17,370000,May 2021
+543,Jurong West St 42,01 to 03,112,Model A,1984,62.67,385000,May 2021
+557,Jurong West St 42,07 to 09,104,Model A,1985,62.75,380000,May 2021
+514,Jurong West St 52,10 to 12,108,Model A,1984,62.08,500000,May 2021
+517C,Jurong West St 52,16 to 18,95,Model A,2000,78.17,576000,May 2021
+655B,Jurong West St 61,07 to 09,85,Model A2,2002,80.5,408000,May 2021
+606,Jurong West St 65,04 to 06,95,Premium Apartment,2001,79,445000,May 2021
+657B,Jurong West St 65,13 to 15,91,Model A,2001,79.17,424888,May 2021
+663A,Jurong West St 65,10 to 12,91,Model A,2000,78.25,460000,May 2021
+732,Jurong West St 73,07 to 09,105,Model A,1995,73.17,400000,May 2021
+735,Jurong West St 75,01 to 03,105,Model A,1995,73.25,390000,May 2021
+736,Jurong West St 75,04 to 06,105,Model A,1995,73.25,400000,May 2021
+738,Jurong West St 75,01 to 03,105,Model A,1995,73.33,368000,May 2021
+810,Jurong West St 81,01 to 03,107,Model A,1993,71.58,358888,May 2021
+832,Jurong West St 81,07 to 09,106,Model A,1993,71.42,370000,May 2021
+855,Jurong West St 81,04 to 06,104,Model A,1996,74.33,405000,May 2021
+913,Jurong West St 91,10 to 12,104,Model A,1988,66,368000,May 2021
+942,Jurong West St 91,01 to 03,111,Model A,1989,67.33,378000,May 2021
+980,Jurong West St 93,07 to 09,113,Model A,1989,67.25,430000,May 2021
+989A,Jurong West St 93,04 to 06,93,Premium Apartment,2008,86.33,423000,May 2021
+324,Tah Ching Rd,04 to 06,104,Model A,1997,75.08,410000,May 2021
+330,Tah Ching Rd,13 to 15,103,Model A,1997,75.33,468000,May 2021
+138A,Yuan Ching Rd,16 to 18,89,Dbss,2014,92.33,630000,May 2021
+138B,Yuan Ching Rd,04 to 06,91,Dbss,2014,92.42,611000,May 2021
+138B,Yuan Ching Rd,04 to 06,91,Dbss,2014,92.42,622000,May 2021
+138C,Yuan Ching Rd,19 to 21,91,Dbss,2014,92.42,635000,May 2021
+175C,Yung Kuang Rd,01 to 03,93,Premium Apartment,2015,93.08,440888,May 2021
+197B,Boon Lay Dr,07 to 09,93,Model A,2015,93,515000,Apr 2021
+197C,Boon Lay Dr,04 to 06,93,Model A,2015,93.08,500000,Apr 2021
+268C,Boon Lay Dr,01 to 03,90,Model A,2002,79.92,330000,Apr 2021
+423,Jurong West Ave 1,07 to 09,105,Model A,1984,62.42,390000,Apr 2021
+540,Jurong West Ave 1,10 to 12,104,Model A,1984,62.75,400000,Apr 2021
+725,Jurong West Ave 5,10 to 12,104,Model A,1989,67.58,355000,Apr 2021
+680C,Jurong West Ctrl 1,10 to 12,94,Premium Apartment,2000,78.33,425000,Apr 2021
+681C,Jurong West Ctrl 1,10 to 12,94,Premium Apartment,2000,78.25,410000,Apr 2021
+682C,Jurong West Ctrl 1,01 to 03,97,Premium Apartment,2000,78.5,420000,Apr 2021
+275A,Jurong West St 25,04 to 06,90,Model A,2002,79.83,350000,Apr 2021
+457,Jurong West St 41,10 to 12,102,Model A,1984,62.17,390000,Apr 2021
+412,Jurong West St 42,01 to 03,103,Model A,1985,63.17,376000,Apr 2021
+414,Jurong West St 42,10 to 12,103,Model A,1984,62.58,375000,Apr 2021
+420,Jurong West St 42,04 to 06,84,Simplified,1985,63.17,342000,Apr 2021
+432,Jurong West St 42,04 to 06,103,Model A,1984,62.67,370000,Apr 2021
+445,Jurong West St 42,01 to 03,106,Model A,1985,63.25,370000,Apr 2021
+450,Jurong West St 42,01 to 03,107,Model A,1985,63.08,354000,Apr 2021
+454,Jurong West St 42,07 to 09,103,Model A,1985,63.08,392000,Apr 2021
+517E,Jurong West St 52,07 to 09,95,Model A,2000,78.08,550000,Apr 2021
+639,Jurong West St 61,13 to 15,100,Model A,1998,76.33,438000,Apr 2021
+641,Jurong West St 61,04 to 06,100,Model A,1998,76.25,395000,Apr 2021
+655A,Jurong West St 61,04 to 06,87,Model A2,2002,80.58,410000,Apr 2021
+604,Jurong West St 62,07 to 09,95,Premium Apartment,2001,79,475000,Apr 2021
+660A,Jurong West St 64,01 to 03,91,Model A,2001,79.33,390000,Apr 2021
+664A,Jurong West St 64,07 to 09,90,Model A,2000,78.25,475000,Apr 2021
+676A,Jurong West St 64,04 to 06,91,Premium Apartment,2008,86.25,402500,Apr 2021
+678C,Jurong West St 64,04 to 06,90,Premium Apartment,2008,86.17,415000,Apr 2021
+621,Jurong West St 65,04 to 06,90,Model A2,2000,78.67,420000,Apr 2021
+635,Jurong West St 65,10 to 12,91,Model A,2001,79.58,415000,Apr 2021
+657A,Jurong West St 65,10 to 12,91,Model A,2002,80.08,425000,Apr 2021
+667D,Jurong West St 65,04 to 06,90,Model A,2000,78.25,405000,Apr 2021
+673B,Jurong West St 65,01 to 03,91,Model A,2002,80.75,377000,Apr 2021
+717,Jurong West St 71,04 to 06,107,Model A,1991,68.83,390000,Apr 2021
+731,Jurong West St 72,07 to 09,104,Model A,1990,68.67,439000,Apr 2021
+843,Jurong West St 81,10 to 12,106,Model A,1993,71.17,390088,Apr 2021
+902,Jurong West St 91,13 to 15,104,Model A,1988,66.42,348000,Apr 2021
+909,Jurong West St 91,10 to 12,104,Model A,1989,66.83,342000,Apr 2021
+945,Jurong West St 91,01 to 03,105,Model A,1989,67.33,360000,Apr 2021
+949,Jurong West St 91,04 to 06,113,Model A,1988,66.58,388000,Apr 2021
+976,Jurong West St 93,10 to 12,104,Model A,1989,67,410000,Apr 2021
+354,Kang Ching Rd,07 to 09,101,Model A,1997,74.75,425000,Apr 2021
+138A,Yuan Ching Rd,13 to 15,86,Dbss,2014,92.5,610000,Apr 2021
+138A,Yuan Ching Rd,16 to 18,89,Dbss,2014,92.42,613000,Apr 2021
+138C,Yuan Ching Rd,19 to 21,91,Dbss,2014,92.5,636000,Apr 2021
+361,Yung An Rd,04 to 06,108,Model A,1995,73.67,375000,Apr 2021
+175A,Yung Kuang Rd,10 to 12,93,Premium Apartment,2015,93.17,470000,Apr 2021
+175B,Yung Kuang Rd,04 to 06,93,Premium Apartment,2015,93.17,438000,Apr 2021
+175B,Yung Kuang Rd,16 to 18,96,Premium Apartment,2015,93.17,490000,Apr 2021
+175C,Yung Kuang Rd,07 to 09,93,Premium Apartment,2015,93.08,478000,Apr 2021
+175C,Yung Kuang Rd,07 to 09,93,Premium Apartment,2015,93.08,480000,Apr 2021
+180,Yung Sheng Rd,07 to 09,90,Model A,2001,79.17,380000,Apr 2021
+180,Yung Sheng Rd,10 to 12,90,Model A,2001,79.08,385000,Apr 2021
+183,Yung Sheng Rd,04 to 06,96,Model A,2001,79,425000,Apr 2021
+180C,Boon Lay Dr,10 to 12,93,Model A,2014,92.25,500000,Mar 2021
+181A,Boon Lay Dr,04 to 06,93,Model A,2014,92.17,430000,Mar 2021
+197B,Boon Lay Dr,13 to 15,93,Model A,2015,93.08,530000,Mar 2021
+197B,Boon Lay Dr,16 to 18,93,Model A,2015,93.17,533000,Mar 2021
+440,Jurong West Ave 1,01 to 03,103,Model A,1985,63.17,350000,Mar 2021
+542,Jurong West Ave 1,01 to 03,103,Model A,1984,62.42,345000,Mar 2021
+273C,Jurong West Ave 3,01 to 03,90,Model A,2001,79.83,350000,Mar 2021
+679C,Jurong West Ctrl 1,07 to 09,94,Premium Apartment,2000,78.58,415000,Mar 2021
+685C,Jurong West Ctrl 1,16 to 18,94,Premium Apartment,2000,78.42,495000,Mar 2021
+693,Jurong West Ctrl 1,04 to 06,106,Premium Apartment,1998,76,450000,Mar 2021
+697B,Jurong West Ctrl 3,10 to 12,83,Model A,2017,95.58,570000,Mar 2021
+272A,Jurong West St 24,16 to 18,95,Premium Apartment,2003,81.58,378000,Mar 2021
+478,Jurong West St 41,01 to 03,91,New Generation,1985,63,360000,Mar 2021
+481,Jurong West St 41,10 to 12,100,New Generation,1985,63.08,400000,Mar 2021
+417,Jurong West St 42,10 to 12,84,Simplified,1985,63.75,340000,Mar 2021
+419,Jurong West St 42,07 to 09,84,Simplified,1985,63.17,360000,Mar 2021
+511,Jurong West St 52,13 to 15,105,Model A,1984,62.08,433000,Mar 2021
+517A,Jurong West St 52,04 to 06,95,Model A,2000,78.17,537000,Mar 2021
+637,Jurong West St 61,13 to 15,90,Model A,2004,82.08,430000,Mar 2021
+645,Jurong West St 61,04 to 06,100,Model A,1998,76.58,412000,Mar 2021
+646,Jurong West St 61,04 to 06,100,Model A,1998,76.5,420000,Mar 2021
+647,Jurong West St 61,10 to 12,100,Model A,1998,76.42,460000,Mar 2021
+661B,Jurong West St 64,07 to 09,90,Model A,2001,79.5,440000,Mar 2021
+662A,Jurong West St 64,16 to 18,91,Model A,2001,79.25,448000,Mar 2021
+668C,Jurong West St 64,16 to 18,86,Model A2,2000,78.42,425000,Mar 2021
+677B,Jurong West St 64,10 to 12,90,Premium Apartment,2008,86.25,425500,Mar 2021
+677C,Jurong West St 64,16 to 18,90,Premium Apartment,2008,86.33,420000,Mar 2021
+683C,Jurong West St 64,13 to 15,93,Premium Apartment,2000,78.67,475000,Mar 2021
+607,Jurong West St 65,10 to 12,95,Premium Apartment,2001,79.17,468000,Mar 2021
+711,Jurong West St 71,07 to 09,104,Model A,1991,68.83,385000,Mar 2021
+716,Jurong West St 71,07 to 09,103,Model A,1991,69,375000,Mar 2021
+743,Jurong West St 73,01 to 03,104,Model A,1992,70.5,355000,Mar 2021
+738,Jurong West St 75,10 to 12,105,Model A,1995,73.58,375000,Mar 2021
+836,Jurong West St 81,10 to 12,109,Model A,1993,71.33,373000,Mar 2021
+843,Jurong West St 81,07 to 09,106,Model A,1993,71.25,385000,Mar 2021
+845,Jurong West St 81,04 to 06,108,Model A,1996,74,368000,Mar 2021
+909,Jurong West St 91,07 to 09,104,Model A,1989,66.83,350000,Mar 2021
+914,Jurong West St 91,07 to 09,103,Model A,1988,66.33,372000,Mar 2021
+945,Jurong West St 91,01 to 03,105,Model A,1989,67.33,360000,Mar 2021
+926,Jurong West St 92,07 to 09,103,Model A,1989,66.92,368000,Mar 2021
+929,Jurong West St 92,04 to 06,103,Model A,1989,66.83,363000,Mar 2021
+987B,Jurong West St 93,16 to 18,93,Premium Apartment,2008,86.5,472000,Mar 2021
+988C,Jurong West St 93,10 to 12,94,Premium Apartment,2008,86.42,400000,Mar 2021
+346,Kang Ching Rd,04 to 06,102,Model A,1997,75.17,420000,Mar 2021
+347,Kang Ching Rd,04 to 06,101,Model A,1997,75.25,395000,Mar 2021
+348,Kang Ching Rd,07 to 09,101,Model A,1997,75.17,435000,Mar 2021
+138C,Yuan Ching Rd,01 to 03,89,Dbss,2014,92.5,596000,Mar 2021
+183C,Boon Lay Ave,07 to 09,92,Model A,2015,93,455000,Feb 2021
+183D,Boon Lay Ave,01 to 03,92,Model A,2015,92.92,430000,Feb 2021
+183D,Boon Lay Ave,04 to 06,92,Model A,2015,92.92,437000,Feb 2021
+180C,Boon Lay Dr,13 to 15,93,Model A,2014,92.33,485000,Feb 2021
+196B,Boon Lay Dr,01 to 03,93,Model A,2015,93.25,466000,Feb 2021
+488,Jurong West Ave 1,10 to 12,91,New Generation,1985,63,370000,Feb 2021
+273D,Jurong West Ave 3,10 to 12,88,Model A2,2001,79.83,375000,Feb 2021
+276B,Jurong West Ave 3,04 to 06,90,Model A,2002,80.17,343000,Feb 2021
+698B,Jurong West Ctrl 3,04 to 06,93,Model A,2017,95.67,625000,Feb 2021
+271D,Jurong West St 24,07 to 09,94,Premium Apartment,2003,81.83,372000,Feb 2021
+275B,Jurong West St 25,01 to 03,90,Model A,2002,79.92,345000,Feb 2021
+464,Jurong West St 41,04 to 06,103,Model A,1984,62.25,400000,Feb 2021
+466,Jurong West St 41,04 to 06,91,New Generation,1985,62.92,370000,Feb 2021
+413,Jurong West St 42,07 to 09,104,Model A,1984,62.5,355000,Feb 2021
+543,Jurong West St 42,10 to 12,104,Model A,1984,62.92,380000,Feb 2021
+514,Jurong West St 52,10 to 12,103,Model A,1984,62.33,450000,Feb 2021
+516,Jurong West St 52,07 to 09,105,Model A,1984,62.58,426000,Feb 2021
+650C,Jurong West St 61,04 to 06,91,Model A,2000,78.75,418000,Feb 2021
+650C,Jurong West St 61,10 to 12,91,Model A,2000,78.75,433000,Feb 2021
+664D,Jurong West St 64,01 to 03,90,Model A,2000,78.5,425000,Feb 2021
+668A,Jurong West St 64,04 to 06,85,Model A2,2000,78.33,375000,Feb 2021
+668C,Jurong West St 64,10 to 12,90,Model A2,2000,78.5,440000,Feb 2021
+657A,Jurong West St 65,13 to 15,91,Model A,2002,80.25,425000,Feb 2021
+657B,Jurong West St 65,16 to 18,91,Model A,2001,79.33,420000,Feb 2021
+659D,Jurong West St 65,01 to 03,90,Model A,2001,79.5,405000,Feb 2021
+673A,Jurong West St 65,07 to 09,86,Model A2,2002,80.67,378000,Feb 2021
+711,Jurong West St 71,04 to 06,103,Model A,1991,69,355000,Feb 2021
+731,Jurong West St 72,10 to 12,103,Model A,1990,68.75,360000,Feb 2021
+826,Jurong West St 81,10 to 12,104,Model A,1990,68.17,370000,Feb 2021
+911,Jurong West St 91,10 to 12,104,Model A,1989,67,355000,Feb 2021
+914,Jurong West St 91,07 to 09,103,Model A,1988,66.5,360000,Feb 2021
+917,Jurong West St 91,04 to 06,103,Model A,1988,66.5,342000,Feb 2021
+950,Jurong West St 91,07 to 09,105,Model A,1989,67.25,375000,Feb 2021
+980,Jurong West St 93,01 to 03,111,Model A,1989,67.42,360000,Feb 2021
+986B,Jurong West St 93,01 to 03,92,Premium Apartment,2008,86.5,370000,Feb 2021
+345,Kang Ching Rd,01 to 03,102,Model A,1997,75.42,390000,Feb 2021
+326,Tah Ching Rd,07 to 09,104,Model A,1997,75.25,400000,Feb 2021
+138B,Yuan Ching Rd,13 to 15,89,Dbss,2014,92.67,590000,Feb 2021
+183,Yung Sheng Rd,10 to 12,95,Model A,2001,79.25,395000,Feb 2021
+183,Yung Sheng Rd,13 to 15,96,Model A,2001,79.17,440000,Feb 2021
+184,Yung Sheng Rd,16 to 18,95,Model A,2001,79.25,410000,Feb 2021
+183C,Boon Lay Ave,01 to 03,92,Model A,2015,93,429000,Jan 2021
+197A,Boon Lay Dr,04 to 06,93,Model A,2015,93.25,480000,Jan 2021
+197A,Boon Lay Dr,07 to 09,93,Model A,2015,93.33,505000,Jan 2021
+197C,Boon Lay Dr,16 to 18,93,Model A,2015,93.25,528000,Jan 2021
+262,Boon Lay Dr,07 to 09,115,Model A,1995,73.42,400000,Jan 2021
+263,Boon Lay Dr,10 to 12,109,Model A,1995,73.42,425000,Jan 2021
+349,Corporation Dr,04 to 06,102,Model A,1997,75.92,428000,Jan 2021
+425,Jurong West Ave 1,04 to 06,107,Model A,1984,62.75,385000,Jan 2021
+430,Jurong West Ave 1,04 to 06,106,Model A,1985,63.08,330000,Jan 2021
+440,Jurong West Ave 1,04 to 06,103,Model A,1985,63.42,360000,Jan 2021
+541,Jurong West Ave 1,07 to 09,103,Model A,1984,62.92,375000,Jan 2021
+720,Jurong West Ave 5,04 to 06,104,Model A,1989,68,362000,Jan 2021
+679C,Jurong West Ctrl 1,07 to 09,94,Premium Apartment,2000,78.75,418000,Jan 2021
+688,Jurong West Ctrl 1,07 to 09,99,Premium Apartment,1998,76.42,470500,Jan 2021
+697B,Jurong West Ctrl 3,13 to 15,83,Model A,2017,95.83,580000,Jan 2021
+456,Jurong West St 41,01 to 03,93,New Generation,1985,63.25,330000,Jan 2021
+531,Jurong West St 52,01 to 03,99,New Generation,1983,61.67,330000,Jan 2021
+535,Jurong West St 52,04 to 06,95,New Generation,1983,61.42,360000,Jan 2021
+651A,Jurong West St 61,01 to 03,92,Model A,2002,80.42,410000,Jan 2021
+604,Jurong West St 62,01 to 03,95,Premium Apartment,2001,79.33,410888,Jan 2021
+668B,Jurong West St 64,13 to 15,85,Model A2,2000,78.5,392000,Jan 2021
+668B,Jurong West St 64,10 to 12,90,Model A2,2000,78.5,410000,Jan 2021
+676A,Jurong West St 64,04 to 06,91,Premium Apartment,2008,86.5,390000,Jan 2021
+608,Jurong West St 65,01 to 03,95,Premium Apartment,2001,79.42,420000,Jan 2021
+617,Jurong West St 65,13 to 15,85,Model A2,2000,78.92,399000,Jan 2021
+657B,Jurong West St 65,13 to 15,91,Model A,2001,79.5,410000,Jan 2021
+657B,Jurong West St 65,07 to 09,91,Model A,2001,79.5,415000,Jan 2021
+663B,Jurong West St 65,01 to 03,91,Model A,2000,78.67,390000,Jan 2021
+703,Jurong West St 71,01 to 03,110,Model A,1995,73.58,360888,Jan 2021
+724,Jurong West St 72,01 to 03,111,Model A,1990,68.92,340000,Jan 2021
+724,Jurong West St 72,10 to 12,111,Model A,1990,69,375000,Jan 2021
+737,Jurong West St 75,04 to 06,106,Model A,1995,73.67,380000,Jan 2021
+815,Jurong West St 81,04 to 06,104,Model A,1990,68.08,340000,Jan 2021
+817,Jurong West St 81,04 to 06,107,Model A,1993,71.67,360000,Jan 2021
+834,Jurong West St 81,13 to 15,109,Model A,1993,71.5,375000,Jan 2021
+850,Jurong West St 81,04 to 06,108,Model A,1996,74.25,355000,Jan 2021
+852,Jurong West St 81,01 to 03,108,Model A,1996,74.33,340000,Jan 2021
+853,Jurong West St 81,04 to 06,107,Model A,1996,74.33,372000,Jan 2021
+856,Jurong West St 81,10 to 12,104,Model A,1996,74.75,365000,Jan 2021
+856,Jurong West St 81,13 to 15,107,Model A,1996,74.67,392888,Jan 2021
+903,Jurong West St 91,13 to 15,108,Model A,1988,66.67,325000,Jan 2021
+932,Jurong West St 92,04 to 06,104,Model A,1988,66.42,320000,Jan 2021
+977,Jurong West St 93,04 to 06,104,Model A,1989,67.25,375000,Jan 2021
+339A,Kang Ching Rd,01 to 03,89,Model A,2012,90.25,405000,Jan 2021
+347,Kang Ching Rd,01 to 03,102,Model A,1997,75.42,390000,Jan 2021
+337C,Tah Ching Rd,07 to 09,94,Model A,2010,88.33,480000,Jan 2021
+175B,Yung Kuang Rd,10 to 12,93,Premium Apartment,2015,93.42,463000,Jan 2021
+183,Yung Sheng Rd,16 to 18,96,Model A,2001,79.25,442000,Jan 2021
+183A,Boon Lay Ave,10 to 12,92,Model A,2015,93.17,500000,Dec 2020
+180C,Boon Lay Dr,13 to 15,93,Model A,2014,92.5,460000,Dec 2020
+196B,Boon Lay Dr,10 to 12,93,Model A,2015,93.33,510000,Dec 2020
+197B,Boon Lay Dr,16 to 18,93,Model A,2015,93.42,516000,Dec 2020
+112,Ho Ching Rd,07 to 09,108,Improved,1970,48.83,302000,Dec 2020
+440,Jurong West Ave 1,01 to 03,106,Model A,1985,63.5,330000,Dec 2020
+273A,Jurong West Ave 3,01 to 03,90,Model A,2001,80.08,328000,Dec 2020
+681C,Jurong West Ctrl 1,04 to 06,96,Premium Apartment,2000,78.5,435888,Dec 2020
+685C,Jurong West Ctrl 1,04 to 06,93,Premium Apartment,2000,78.75,425000,Dec 2020
+697A,Jurong West Ctrl 3,07 to 09,93,Model A,2017,95.92,575000,Dec 2020
+276C,Jurong West St 25,13 to 15,90,Model A,2002,80.33,335000,Dec 2020
+276D,Jurong West St 25,01 to 03,90,Model A,2002,80.33,342000,Dec 2020
+458,Jurong West St 41,07 to 09,91,New Generation,1984,62.92,378888,Dec 2020
+476,Jurong West St 41,10 to 12,103,Model A,1984,62.83,407000,Dec 2020
+417,Jurong West St 42,07 to 09,89,Simplified,1985,64.08,366168,Dec 2020
+433,Jurong West St 42,10 to 12,103,Model A,1985,63.33,350000,Dec 2020
+448,Jurong West St 42,04 to 06,108,Model A,1984,62.83,363000,Dec 2020
+449,Jurong West St 42,10 to 12,103,Model A,1985,63.25,378000,Dec 2020
+515,Jurong West St 52,04 to 06,105,Model A,1984,62.58,420000,Dec 2020
+622,Jurong West St 61,01 to 03,91,Model A,2001,79.25,360000,Dec 2020
+625,Jurong West St 61,01 to 03,91,Model A,2001,79.25,365000,Dec 2020
+655A,Jurong West St 61,04 to 06,86,Model A2,2002,80.92,378000,Dec 2020
+603,Jurong West St 62,07 to 09,94,Premium Apartment,2001,79.25,467000,Dec 2020
+617,Jurong West St 65,13 to 15,85,Model A2,2000,79,410000,Dec 2020
+632,Jurong West St 65,04 to 06,91,Model A,2001,80,363000,Dec 2020
+657A,Jurong West St 65,10 to 12,91,Model A,2002,80.42,410000,Dec 2020
+657A,Jurong West St 65,10 to 12,91,Model A,2002,80.33,420000,Dec 2020
+724,Jurong West St 72,04 to 06,103,Model A,1990,69,345000,Dec 2020
+751,Jurong West St 73,10 to 12,104,Model A,1992,70.83,358000,Dec 2020
+811,Jurong West St 81,04 to 06,107,Model A,1993,72.08,375000,Dec 2020
+939,Jurong West St 91,04 to 06,103,Model A,1989,67.25,340000,Dec 2020
+943,Jurong West St 91,07 to 09,105,Model A,1989,67.58,361000,Dec 2020
+979,Jurong West St 93,04 to 06,109,Model A,1989,67.83,360000,Dec 2020
+339A,Kang Ching Rd,07 to 09,89,Model A,2012,90.33,442888,Dec 2020
+138A,Yuan Ching Rd,01 to 03,89,Dbss,2014,92.83,600000,Dec 2020
+138A,Yuan Ching Rd,16 to 18,91,Dbss,2014,92.75,635000,Dec 2020
+138D,Yuan Ching Rd,13 to 15,89,Dbss,2014,92.83,628000,Dec 2020
+138D,Yuan Ching Rd,07 to 09,91,Dbss,2014,92.75,628000,Dec 2020
+152,Yung Ho Rd,04 to 06,104,Model A,1990,68.75,355000,Dec 2020
+155,Yung Loh Rd,01 to 03,106,Model A,1996,74.08,365000,Dec 2020
+177,Yung Sheng Rd,01 to 03,96,Model A,2001,79.5,370000,Dec 2020
+184,Yung Sheng Rd,07 to 09,95,Model A,2001,79.42,385000,Dec 2020
+183A,Boon Lay Ave,04 to 06,92,Model A,2015,93.17,460000,Nov 2020
+183C,Boon Lay Ave,10 to 12,92,Model A,2015,93.17,450000,Nov 2020
+260,Boon Lay Dr,04 to 06,109,Model A,1995,73.67,330000,Nov 2020
+431,Jurong West Ave 1,04 to 06,104,Model A,1985,63.25,346000,Nov 2020
+722,Jurong West Ave 5,10 to 12,104,Model A,1990,69.08,365000,Nov 2020
+725,Jurong West Ave 5,10 to 12,104,Model A,1989,68.08,352000,Nov 2020
+727,Jurong West Ave 5,04 to 06,104,Model A,1989,68,335000,Nov 2020
+681C,Jurong West Ctrl 1,04 to 06,94,Premium Apartment,2000,78.67,400000,Nov 2020
+690,Jurong West Ctrl 1,01 to 03,99,Premium Apartment,1998,76.58,435000,Nov 2020
+690,Jurong West Ctrl 1,01 to 03,98,Premium Apartment,1998,76.58,438000,Nov 2020
+692,Jurong West Ctrl 1,04 to 06,104,Premium Apartment,1998,76.42,468888,Nov 2020
+696,Jurong West Ctrl 1,01 to 03,106,Premium Apartment,1998,76.33,450000,Nov 2020
+466,Jurong West St 41,04 to 06,91,New Generation,1985,63.25,362000,Nov 2020
+447,Jurong West St 42,04 to 06,103,Model A,1984,62.67,360888,Nov 2020
+449,Jurong West St 42,07 to 09,103,Model A,1985,63.5,360000,Nov 2020
+543,Jurong West St 42,07 to 09,106,Model A,1984,63.17,330000,Nov 2020
+545,Jurong West St 42,04 to 06,103,Model A,1985,63.42,300000,Nov 2020
+551,Jurong West St 42,10 to 12,104,Model A,1985,63.33,355000,Nov 2020
+557,Jurong West St 42,01 to 03,104,Model A,1985,63.25,327500,Nov 2020
+513,Jurong West St 52,01 to 03,106,Model A,1984,62.5,392000,Nov 2020
+648A,Jurong West St 61,13 to 15,91,Model A,2001,79.5,410000,Nov 2020
+650B,Jurong West St 61,07 to 09,90,Model A,2000,79,416000,Nov 2020
+655A,Jurong West St 61,04 to 06,86,Model A2,2002,81,375000,Nov 2020
+655A,Jurong West St 61,13 to 15,86,Model A2,2002,81,398888,Nov 2020
+660B,Jurong West St 64,13 to 15,91,Model A,2001,79.75,455000,Nov 2020
+660D,Jurong West St 64,10 to 12,91,Model A,2001,79.83,440000,Nov 2020
+678C,Jurong West St 64,04 to 06,92,Premium Apartment,2008,86.67,408000,Nov 2020
+684B,Jurong West St 64,13 to 15,94,Premium Apartment,2000,78.75,440000,Nov 2020
+634,Jurong West St 65,10 to 12,91,Model A,2001,80.08,375000,Nov 2020
+663A,Jurong West St 65,04 to 06,90,Model A,2000,78.75,380000,Nov 2020
+667D,Jurong West St 65,01 to 03,90,Model A,2000,78.58,393000,Nov 2020
+713,Jurong West St 71,01 to 03,104,Model A,1990,69.08,345000,Nov 2020
+751,Jurong West St 73,04 to 06,104,Model A,1992,70.83,345000,Nov 2020
+751,Jurong West St 73,04 to 06,104,Model A,1992,70.83,360000,Nov 2020
+856,Jurong West St 81,01 to 03,109,Model A,1996,74.83,330000,Nov 2020
+864,Jurong West St 81,01 to 03,105,Model A,1996,75,331000,Nov 2020
+909,Jurong West St 91,07 to 09,108,Model A,1989,67.25,320000,Nov 2020
+948,Jurong West St 91,04 to 06,103,Model A,1989,67.5,375000,Nov 2020
+925,Jurong West St 92,04 to 06,107,Model A,1988,67,388800,Nov 2020
+929,Jurong West St 92,04 to 06,103,Model A,1989,67.25,330000,Nov 2020
+347,Kang Ching Rd,07 to 09,102,Model A,1997,75.58,410000,Nov 2020
+325,Tah Ching Rd,13 to 15,102,Model A,1997,75.83,420000,Nov 2020
+338A,Tah Ching Rd,04 to 06,92,Model A,2010,88.5,407000,Nov 2020
+138A,Yuan Ching Rd,19 to 21,91,Dbss,2014,92.92,613000,Nov 2020
+138C,Yuan Ching Rd,16 to 18,89,Dbss,2014,92.92,608028,Nov 2020
+153,Yung Ho Rd,01 to 03,104,Model A,1990,68.83,360000,Nov 2020
+175B,Yung Kuang Rd,04 to 06,93,Premium Apartment,2015,93.58,415000,Nov 2020

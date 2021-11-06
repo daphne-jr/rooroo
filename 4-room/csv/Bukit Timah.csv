@@ -1,0 +1,63 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date
+3,Queen's Rd,04 to 06,91,Improved,1974,51.5,483000,Oct 2021
+3,Queen's Rd,10 to 12,91,Improved,1974,51.58,550000,Oct 2021
+13,Toh Yi Dr,13 to 15,104,Model A,1988,66,777000,Oct 2021
+6,Farrer Rd,07 to 09,91,Improved,1974,51.67,560000,Sep 2021
+3,Queen's Rd,04 to 06,91,Improved,1974,51.67,470000,Sep 2021
+14,Toh Yi Dr,07 to 09,104,Model A,1988,66.08,660000,Sep 2021
+16,Toh Yi Dr,10 to 12,104,Model A,1988,66.17,730000,Sep 2021
+3,Queen's Rd,10 to 12,91,Improved,1974,51.75,608000,Aug 2021
+9,Toh Yi Dr,10 to 12,104,Model A,1989,66.67,750000,Aug 2021
+11,Toh Yi Dr,04 to 06,108,Model A,1989,66.92,703000,Aug 2021
+2,Queen's Rd,07 to 09,89,Improved,1974,51.83,588000,Jul 2021
+4,Toh Yi Dr,07 to 09,104,Model A,1988,66.17,702900,Jul 2021
+12,Toh Yi Dr,01 to 03,104,Model A,1989,66.92,650000,Jul 2021
+14,Toh Yi Dr,07 to 09,104,Model A,1988,66.33,638000,Jun 2021
+16,Toh Yi Dr,04 to 06,104,Model A,1988,66.5,655000,Jun 2021
+17,Toh Yi Dr,04 to 06,104,Model A,1988,66.17,660000,Jun 2021
+3,Queen's Rd,10 to 12,91,Improved,1974,52,480000,May 2021
+11,Toh Yi Dr,07 to 09,104,Model A,1989,67.17,672000,May 2021
+6,Farrer Rd,01 to 03,91,Improved,1974,52.08,528000,Apr 2021
+14,Toh Yi Dr,07 to 09,104,Model A,1988,66.5,678000,Apr 2021
+3,Queen's Rd,07 to 09,91,Improved,1974,52.08,580000,Mar 2021
+3,Queen's Rd,04 to 06,91,Improved,1974,52.25,488000,Feb 2021
+9,Toh Yi Dr,01 to 03,104,Model A,1989,67.25,628000,Feb 2021
+13,Toh Yi Dr,04 to 06,104,Model A,1988,66.58,637000,Feb 2021
+6,Farrer Rd,04 to 06,91,Improved,1974,52.33,448000,Jan 2021
+13,Toh Yi Dr,07 to 09,104,Model A,1988,66.75,650000,Jan 2021
+16,Toh Yi Dr,01 to 03,104,Model A,1988,66.92,643800,Jan 2021
+4,Toh Yi Dr,13 to 15,104,Model A,1988,66.75,710888,Dec 2020
+4,Toh Yi Dr,07 to 09,104,Model A,1988,66.75,750000,Nov 2020
+9,Toh Yi Dr,10 to 12,104,Model A,1989,67.5,660000,Nov 2020
+11,Toh Yi Dr,10 to 12,108,Model A,1989,67.58,680000,Nov 2020
+3,Queen's Rd,04 to 06,91,Improved,1974,51.5,483000,Oct 2021
+3,Queen's Rd,10 to 12,91,Improved,1974,51.58,550000,Oct 2021
+13,Toh Yi Dr,13 to 15,104,Model A,1988,66,777000,Oct 2021
+6,Farrer Rd,07 to 09,91,Improved,1974,51.67,560000,Sep 2021
+3,Queen's Rd,04 to 06,91,Improved,1974,51.67,470000,Sep 2021
+14,Toh Yi Dr,07 to 09,104,Model A,1988,66.08,660000,Sep 2021
+16,Toh Yi Dr,10 to 12,104,Model A,1988,66.17,730000,Sep 2021
+3,Queen's Rd,10 to 12,91,Improved,1974,51.75,608000,Aug 2021
+9,Toh Yi Dr,10 to 12,104,Model A,1989,66.67,750000,Aug 2021
+11,Toh Yi Dr,04 to 06,108,Model A,1989,66.92,703000,Aug 2021
+2,Queen's Rd,07 to 09,89,Improved,1974,51.83,588000,Jul 2021
+4,Toh Yi Dr,07 to 09,104,Model A,1988,66.17,702900,Jul 2021
+12,Toh Yi Dr,01 to 03,104,Model A,1989,66.92,650000,Jul 2021
+14,Toh Yi Dr,07 to 09,104,Model A,1988,66.33,638000,Jun 2021
+16,Toh Yi Dr,04 to 06,104,Model A,1988,66.5,655000,Jun 2021
+17,Toh Yi Dr,04 to 06,104,Model A,1988,66.17,660000,Jun 2021
+3,Queen's Rd,10 to 12,91,Improved,1974,52,480000,May 2021
+11,Toh Yi Dr,07 to 09,104,Model A,1989,67.17,672000,May 2021
+6,Farrer Rd,01 to 03,91,Improved,1974,52.08,528000,Apr 2021
+14,Toh Yi Dr,07 to 09,104,Model A,1988,66.5,678000,Apr 2021
+3,Queen's Rd,07 to 09,91,Improved,1974,52.08,580000,Mar 2021
+3,Queen's Rd,04 to 06,91,Improved,1974,52.25,488000,Feb 2021
+9,Toh Yi Dr,01 to 03,104,Model A,1989,67.25,628000,Feb 2021
+13,Toh Yi Dr,04 to 06,104,Model A,1988,66.58,637000,Feb 2021
+6,Farrer Rd,04 to 06,91,Improved,1974,52.33,448000,Jan 2021
+13,Toh Yi Dr,07 to 09,104,Model A,1988,66.75,650000,Jan 2021
+16,Toh Yi Dr,01 to 03,104,Model A,1988,66.92,643800,Jan 2021
+4,Toh Yi Dr,13 to 15,104,Model A,1988,66.75,710888,Dec 2020
+4,Toh Yi Dr,07 to 09,104,Model A,1988,66.75,750000,Nov 2020
+9,Toh Yi Dr,10 to 12,104,Model A,1989,67.5,660000,Nov 2020
+11,Toh Yi Dr,10 to 12,108,Model A,1989,67.58,680000,Nov 2020
