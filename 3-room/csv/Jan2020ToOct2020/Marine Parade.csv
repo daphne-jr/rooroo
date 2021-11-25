@@ -1,0 +1,5 @@
+block,street name,storey,floor area (sqm),flat model,lease commence year,remaining lease (yr),resale price ($),resale registration date,rank town,flat type
+33,MARINE CRES,07 TO 09,65,Improved,1975,5.42,315000,2019-02,0.0901673,3 ROOM
+60,MARINE DR,04 TO 06,87,Improved,1976,5.5,520000,2019-02,0.0901673,4 ROOM
+17,MARINE TER,13 TO 15,82,Improved,1975,5.42,523000,2019-02,0.0901673,4 ROOM
+71,MARINE DR,04 TO 06,126,Standard,1977,5.5,730000,2019-02,0.0901673,5 ROOM
