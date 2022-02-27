@@ -1,0 +1,101 @@
+location_of_centre,no_of_cooked_food_stalls,no_of_mkt_produce_stalls,name_of_centre,type_of_centre,no_of_stalls,owner,_id
+2 Adam Road S(289876),32,0,Adam Road Food Centre,HC,32,Government,1
+National Development Building Annex B Telok Ayer Street, S(069111),134,1,Amoy Street Food Centre,HC,135,Government,2
+1 Bedok Road S(469572),32,0,Bedok Food Centre,HC,32,Government,3
+38A Beo Crescent S(169982),32,62,Beo Crescent Market,MHC,94,Government,4
+166 Jalan Besar S(208877),66,0,Berseh Food Centre,HC,66,Government,5
+51 Upper Bukit Timah Road S(588215),84,95,Bukit Timah Market,MHC,179,Government,6
+20 Kensington Park Road S(557269),36,0,Chomp Chomp Food Centre,HC,36,Government,7
+31 Commonwealth Crescent S(149644),39,63,Commonwealth Crescent Market,MHC,102,Government,8
+271 Onan Road S(424768),30,0,Dunman Food Centre,HC,30,Government,9
+1220 East Coast Parkway S(468960),63,0,East Coast Lagoon Food Village,HC,63,Government,10
+Geylang Serai S(402001),63,302,Geylang Serai Market,MHC,365,Government,11
+505 Beach Road S(199583),112,111,Golden Mile Food Centre,MHC,223,Government,12
+1 Lorong Mambong S(277700),21,48,Holland Village Market & Food Centre,MHC,69,Government,13
+17 Old Airport Road S(397972),16,78,Kallang Estate Market,MHC,94,Government,14
+50 Market Street Golden Shoe Multi-Storey Car Park, 2nd/3rd Storey, S(048940),76,0,Market Street Food Centre,HC,76,Government,15
+1 Kadayanallur Street S(069184),103,0,Maxwell Food Centre,HC,103,Government,16
+500 Clemenceau Ave North S(229495),83,0,Newton Food Centre,HC,83,Government,17
+861 North Bridge Road S(198783),37,82,North Bridge Road Market & Food Centre,MHC,119,Government,18
+121 Pasir Panjang Road S(118543),45,0,Pasir Panjang Food Centre,HC,45,Government,19
+49A Serangoon Garden Way S(555945),46,36,Serangoon Garden Market,MHC,82,Government,20
+590 Upper Thomson Road S(574419),36,0,Sembawang Hill Food Centre,HC,36,Government,21
+3 Yung Sheng Road S(618499),123,57,Taman Jurong Market & Food Centre,MHC,180,Government,22
+48A Tanglin Halt Road S(148813),28,89,Tanglin Halt Market,MHC,117,Government,23
+30 Seng Poh Road S(168898),83,259,Tiong Bahru Market,MHC,342,Government,24
+70 Zion Road S(247792),32,0,Zion Riverside Food Centre,HC,32,Government,25
+Blk 6 Jalan Bukit Merah S(150006),96,48,ABC Brickworks Market & Food Centre,MHC,144,HDB,26
+Blk 270 Queen Street S(180270),86,148,Albert Centre Market & Food Centre,MHC,234,HDB,27
+Blk 120 Bukit Merah Lane S(150120),88,0,Alexandra Village Food Centre,HC,88,HDB,28
+Blk 1 Jalan Kukoh S(161001),21,0,Blk 1 Jalan Kukoh,HC,21,HDB,29
+Blk 105 Hougang Ave 1 S(530105),51,120,Blk 105 Hougang Ave 1,MHC,171,HDB,30
+Blk 11 Telok Blangah Crescent S(090011),56,77,Blk 11 Telok Blangah Crescent,MHC,133,HDB,31
+Blk 112 Jalan Bukit Merah S(160112),22,58,Blk 112 Jalan Bukit Merah,MHC,80,HDB,32
+Blk 115 Bukit Merah View S(151115),84,98,Blk 115 Bukit Merah View,MHC,182,HDB,33
+Blk 117 Aljunied Ave 2 S(380117),79,82,Blk 117 Aljunied Ave 2,MHC,161,HDB,34
+Blk 127 Lorong 1 Toa Payoh S(310127),40,108,Blk 127 Toa Payoh Lorong 1,MHC,148,HDB,35
+Blk 137 Tampines Street 11 S(521137),45,99,Blk 137 Tampines Street 11,MHC,144,HDB,36
+Blk 159 Mei Chin Road S(140159),47,66,Blk 159 Mei Chin Road,MHC,113,HDB,37
+Blk 16 Bedok South Road S(460016),64,130,Blk 16 Bedok South Road,MHC,194,HDB,38
+Blk 163 Bukit Merah Central S(150163),57,0,Blk 163 Bukit Merah Central,HC,57,HDB,39
+Blk 17 Upper Boon Keng Road S(380017),84,60,Blk 17 Upper Boon Keng Road,MHC,144,HDB,40
+Blk 20 Ghim Moh Road S(270020),72,158,Blk 20 Ghim Moh Road,MHC,230,HDB,41
+Blk 208B New Upper Changi Road S(462208),70,0,Blk 208B New Upper Changi Road,HC,70,HDB,42
+Blk 210 Lorong 8 Toa Payoh S(310210),80,77,Blk 210 Toa Payoh Lorong 8,MHC,157,HDB,43
+Blk 216 Bedok North Street 1 S(460216),82,114,Blk 216 Bedok North Street 1,MHC,196,HDB,44
+Blk 22 Lorong 7 Toa Payoh S(310022),61,59,Blk 22 Toa Payoh Lorong 7,MHC,120,HDB,45
+Blk 226D Ang Mo Kio Ave 1 S(564226),10,101,Blk 226D Ang Mo Kio Ave 1,MHC,111,HDB,46
+Blk 226H Ang Mo Kio Street 22 S(568226),29,0,Blk 226H Ang Mo Kio Street 22,HC,29,HDB,47
+Blk 254 Jurong East Street 24 S(600254),60,87,Blk 254 Jurong East Street 24,MHC,147,HDB,48
+Blk 29 Bendemeer Road S(330029),88,105,Blk 29 Bendemeer Road,MHC,193,HDB,49
+Blk 320 Shunfu Road S(570320),31,51,Blk 320 Shunfu Road,MHC,82,HDB,50
+Blk 341 Ang Mo Kio Ave 1 S(560341),32,86,Blk 341 Ang Mo Kio Ave 1,MHC,118,HDB,51
+Blk 347 Jurong East Ave 1 S(600347),56,169,Blk 347 Jurong East Ave 1,MHC,225,HDB,52
+Blk 353 Clementi Ave 2 S(120353),18,59,Blk 353 Clementi Ave 2,MHC,77,HDB,53
+Blk 36 Telok Blangah Rise S(090036),24,29,Blk 36 Telok Blangah Rise,MHC,53,HDB,54
+Blk 37A Teban Garden Road S(601037),28,52,Blk 37A Teban Gardens Road,MHC,80,HDB,55
+Blk 409 Ang Mo Kio Ave 10 S(560409),40,102,Blk 409 Ang Mo Kio Ave 10,MHC,142,HDB,56
+Blk 44 Holland Drive S(270044),45,61,Blk 44 Holland Drive,MHC,106,HDB,57
+Blk 448 Clementi Ave 3 S(120448),51,92,Blk 448 Clementi Ave 3,MHC,143,HDB,58
+Blk 453A Ang Mo Kio Ave 10 S(561453),38,184,Blk 453A Ang Mo Kio Ave 10,MHC,222,HDB,59
+Blk 49 Sims Place S(380049),66,78,Blk 49 Sims Place,MHC,144,HDB,60
+Blk 4A Eunos Crescent S(402004),42,68,Blk 4A Eunos Crescent,MHC,110,HDB,61
+Blk 4A Jalan Batu S(432004),36,30,Blk 4A Jalan Batu,MHC,66,HDB,62
+Blk 4A Woodlands Centre Road S(731004),78,0,Blk 4A Woodlands Centre Road,HC,78,HDB,63
+Blk 502 West Coast Drive S(120502),0,40,Blk 502 West  Coast Drive,MK,40,HDB,64
+Blk 503 West Coast Drive S(120503),80,0,Blk 503 West Coast Drive,HC,80,HDB,65
+Blk 505 Jurong West Street 52 S(640505),60,130,Blk 505 Jurong West Street 52,MHC,190,HDB,66
+Blk 50A Marine Terrace S(441050),24,87,Blk 50A Marine Terrace,MHC,111,HDB,67
+Blk 51 Old Airport Road S(390051),168,54,Blk 51 Old Airport Road,MHC,222,HDB,68
+Blk 511 Bedok North Street 3 S(460511),42,83,Blk 511 Bedok North Street 3,MHC,125,HDB,69
+Blk 527 Ang Mo Kio Ave 10 S(560527),50,100,Blk 527 Ang Mo Kio Ave 10,MHC,150,HDB,70
+Blk 538 Bedok North Street 3 S(460538),40,84,Blk 538 Bedok North Street 3,MHC,124,HDB,71
+Blk 58 New Upper Changi Road S(461058),48,147,Blk 58 New Upper Changi Road,MHC,195,HDB,72
+Blk 6 Tanjong Pagar Plaza S(081006),52,52,Blk 6 Tanjong Pagar Plaza,MHC,104,HDB,73
+Blk 628 Ang Mo Kio Ave 4 S(560628),52,166,Blk 628 Ang Mo Kio Ave 4,MHC,218,HDB,74
+Blk 630 Bedok Reservoir Road S(470630),36,75,Blk 630 Bedok Reservoir Road,MHC,111,HDB,75
+Blk 69 Geylang Bahru S(330069),84,127,Blk 69 Geylang Bahru,MHC,211,HDB,76
+Blk 7 Empress Road S(260007),40,68,Blk 7 Empress Road,MHC,108,HDB,77
+Blk 724 Ang Mo Kio Ave 6 S(560724),45,78,Blk 724 Ang Mo Kio Ave 6,MHC,123,HDB,78
+Blk 726 Clementi West Street 2 S(120726),60,135,Blk 726 Clementi West Street 2,MHC,195,HDB,79
+Blk 74 Lorong 4 Toa Payoh S(310074),10,80,Blk 74 Toa Payoh Lorong 4,MHC,90,HDB,80
+Blk 75 Lorong 5 Toa Payoh S(310075),36,0,Blk 75 Toa Payoh Lorong 5,HC,36,HDB,81
+Blk 79 Redhill Lane S(150079),0,122,Blk 79 Redhill Lane,MK,122,HDB,82
+Blk 79 Telok Blangah Drive S(100079),40,0,Blk 79 Telok Blangah Drive,HC,40,HDB,83
+Blk 80 Circuit Road S(370080),16,43,Blk 80 Circuit Road,MHC,59,HDB,84
+Blk 82 Telok Blangah Drive S(100082),0,64,Blk 82 Telok Blangah Drive,MK,64,HDB,85
+Blk 84 Marine Parade Central S(440084),55,143,Blk 84 Marine Parade Central,MHC,198,HDB,86
+Blk 85 Bedok North Street 4 S(460085),72,142,Blk 85 Bedok North Street 4,MHC,214,HDB,87
+Blk 85 Redhill Lane S(150085),96,0,Blk 85 Redhill Lane,HC,96,HDB,88
+Blk 89 Circuit Road S(370089),40,93,Blk 89 Circuit Road,MHC,133,HDB,89
+Blk 90 Whampoa Drive S(320090),80,12,Blk 90 Whampoa Drive,MHC,92,HDB,90
+Blk 93 Lorong 4 Toa Payoh S(310093),28,32,Blk 93 Toa Payoh Lorong 4,MHC,60,HDB,91
+Blk 13/14 Haig Road S(430013/430014),72,79,Blks 13/14 Haig Road,MHC,151,HDB,92
+Blk 160/162 Ang Mo Kio Ave 4 S(560160/560162),40,84,Blks 160/162 Ang Mo Kio Ave 4,MHC,124,HDB,93
+Blk 1A/ 2A/ 3A Commonwealth Drive S(141001/141002/141003),40,0,Blks 1A/ 2A/ 3A Commonwealth Drive,HC,40,HDB,94
+Blk 2/3 Changi Village Road S(500002/500003),87,42,Blks 2 & 3 Changi Village Road,MHC,129,HDB,95
+Blk 20/21 Marsiling Lane S(730020/730021),52,112,Blks 20/21 Marsiling Lane,MHC,164,HDB,96
+Blk 221A/B Boon Lay Place S(641221/642221),72,94,Blks 221 A/B Boon Lay Place,MHC,166,HDB,97
+Blk 22A/B Havelock Road S(161022/162022),30,0,Blks 22A/B Havelock Road,HC,30,HDB,98
+Blk 79/79A Circuit Road S(370079/371079),106,0,Blks 79/79A Circuit Road,HC,106,HDB,99
+Blk 91/92 Whampoa Drive S(320091/320092),52,112,Blks 91/92 Whampoa Drive,MHC,164,HDB,100
